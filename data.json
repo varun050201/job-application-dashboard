@@ -1,0 +1,2281 @@
+{
+ "generated_at_et": "2026-10-30 16:25 ET",
+ "summary": {
+  "total_submitted_ledger": 45,
+  "today_submitted": 8,
+  "human_gate": 163,
+  "watch_reset": 2,
+  "pipeline_owned": 18,
+  "quota": 12,
+  "portal_limit": 1,
+  "hold": 3,
+  "resolved": 19,
+  "closed": 15,
+  "registry_rows": 234
+ },
+ "daily": [
+  {
+   "date": "2026-07-09",
+   "count": 1
+  },
+  {
+   "date": "2026-07-18",
+   "count": 2
+  },
+  {
+   "date": "2026-09-20",
+   "count": 1
+  },
+  {
+   "date": "2026-09-22",
+   "count": 5
+  },
+  {
+   "date": "2026-09-23",
+   "count": 1
+  },
+  {
+   "date": "2026-10-04",
+   "count": 2
+  },
+  {
+   "date": "2026-10-09",
+   "count": 1
+  },
+  {
+   "date": "2026-10-10",
+   "count": 1
+  },
+  {
+   "date": "2026-10-14",
+   "count": 1
+  },
+  {
+   "date": "2026-10-18",
+   "count": 1
+  },
+  {
+   "date": "2026-10-21",
+   "count": 1
+  },
+  {
+   "date": "2026-10-22",
+   "count": 1
+  },
+  {
+   "date": "2026-10-23",
+   "count": 1
+  },
+  {
+   "date": "2026-10-24",
+   "count": 6
+  },
+  {
+   "date": "2026-10-27",
+   "count": 2
+  },
+  {
+   "date": "2026-10-28",
+   "count": 5
+  },
+  {
+   "date": "2026-10-29",
+   "count": 2
+  },
+  {
+   "date": "2026-10-30",
+   "count": 8
+  }
+ ],
+ "today": [
+  {
+   "company": "Mozilla",
+   "role": "Senior Security GRC Engineer",
+   "req": "R3197",
+   "date": "2026-10-30",
+   "email_confirmed": true
+  },
+  {
+   "company": "Tesla",
+   "role": "Software Security Engineer, Energy Products Software",
+   "req": "288127",
+   "date": "2026-10-30",
+   "email_confirmed": true
+  },
+  {
+   "company": "Boingo",
+   "role": "Systems SRE Data Center Engineer",
+   "req": "8175105",
+   "date": "2026-10-30",
+   "email_confirmed": true
+  },
+  {
+   "company": "Baseten",
+   "role": "Security Engineer",
+   "req": "b85e4b1d-6531-46b5-bc8a-238f3761a50e",
+   "date": "2026-10-30",
+   "email_confirmed": false
+  },
+  {
+   "company": "iSeatz",
+   "role": "Security Engineer",
+   "req": "5449313008",
+   "date": "2026-10-30",
+   "email_confirmed": true
+  },
+  {
+   "company": "Ingram Content Group",
+   "role": "Business Systems Analyst",
+   "req": "n",
+   "date": "2026-10-30",
+   "email_confirmed": true
+  },
+  {
+   "company": "Legacy Community Health",
+   "role": "Network Engineer II",
+   "req": "n",
+   "date": "2026-10-30",
+   "email_confirmed": true
+  },
+  {
+   "company": "Insight Enterprises",
+   "role": "Network Engineer - Cisco Route/Switch/Wireless",
+   "req": "106352",
+   "date": "2026-10-30",
+   "email_confirmed": true
+  }
+ ],
+ "queue": {
+  "human_gate": [
+   {
+    "role": "Bank of America — Technology Business Systems Analyst - ERP",
+    "req": "1223 (iCIMS careers-boafit)",
+    "parked": "2026-10-18",
+    "deadline": "2026-11-01",
+    "deadline_passed": false,
+    "blocker": "iCIMS \"Enter Your Information\" gate: hCaptcha drag-puzzle (\"Drag the correct animal into its matching outline\") after email+consent entry; single authorized solver…",
+    "link": "https://careers.boafit.com/jobs/1223"
+   },
+   {
+    "role": "North Carolina Department of Environmental Quality — Business Systems Analyst I",
+    "req": "JR-126867 (Workday)",
+    "parked": "2026-10-30",
+    "deadline": "2026-11-05",
+    "deadline_passed": false,
+    "blocker": "NEEDS-APPLICANT-ANSWERS: Workday \"Errors Found\" at step 4 of 7 — last 4 SSN digits, related-by-blood-or-marriage to any State employee, and Military Selective Service…",
+    "link": "https://nc.wd108.myworkdayjobs.com/en-US/NC_Careers/details/Business-Systems-Analyst-I_JR-126867"
+   },
+   {
+    "role": "Virginia DBHDS — Information Security Officer",
+    "req": "5114255 (PageUp)",
+    "parked": "2026-10-29",
+    "deadline": "2026-11-09",
+    "deadline_passed": false,
+    "blocker": "PageUp sign-in blocked on detached run: login service reports no saved login signs in to pageuppeople.com for [email], no credential entry route without chat; duplicate…",
+    "link": "https://careers.pageuppeople.com/mob/1125/cw/en-us/job/5114255/information-security-officer"
+   },
+   {
+    "role": "Southern Company — Cyber Threat Analyst",
+    "req": "22487",
+    "parked": "2026-10-29",
+    "deadline": "2026-11-12",
+    "deadline_passed": false,
+    "blocker": "IDENTITY CODE BLOCKED: Oracle HCM 'Confirm Your Identity' 6-digit code emailed 14:04 ET 2026-10-29 (Southern Company Talent Acquisition, 'Please confirm your identity',…",
+    "link": ""
+   },
+   {
+    "role": "University of North Carolina at Chapel Hill — Information Security Analyst for Research",
+    "req": "NF0010149 (PeopleAdmin)",
+    "parked": "2026-10-30",
+    "deadline": "2026-11-12",
+    "deadline_passed": false,
+    "blocker": "NEEDS-PASSWORD-CAPTURE: no saved Secure Vault login for peopleadmin.com; detached run cannot create the UNC PeopleAdmin account (login specialist: no entry channel in a…",
+    "link": "https://unc.peopleadmin.com/postings/327847"
+   },
+   {
+    "role": "Pax8 — Support Operations Engineer I",
+    "req": "R-102443 (Workday pax8inc.wd12)",
+    "parked": "2026-10-18",
+    "deadline": "2026-11-30",
+    "deadline_passed": false,
+    "blocker": "Saved Workday login REJECTED ('You may have entered the wrong email address or password or your account might be locked') — account exists; autonomous forgot-password…",
+    "link": ""
+   },
+   {
+    "role": "Thomson Reuters — Security Operations Analyst",
+    "req": "JREQ204391 (Workday)",
+    "parked": "2026-10-14",
+    "deadline": "2026-12-26",
+    "deadline_passed": false,
+    "blocker": "Saved vault login for myworkdayjobs.com REJECTED (\"wrong email or locked\"); autonomous forgot-password reset FAILED (\"Failed to initiate password reset, please contact…",
+    "link": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Security-Operations-Analyst_JREQ204391"
+   },
+   {
+    "role": "Robinhood — Senior Cloud Security Engineer",
+    "req": "8077370 (Greenhouse)",
+    "parked": "2026-10-30",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "NOT SUBMITTED — applier parked at Step 1 resume upload: tailored PDF was not granted to the browser task (coordinator file-grant omission, no other resume substituted);…",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8077370"
+   },
+   {
+    "role": "Siemens — Cybersecurity Engineer – Smart Infrastructure",
+    "req": "527362",
+    "parked": "2026-10-30",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "NEEDS-PASSWORD-CAPTURE: no saved Secure Vault login for siemens.com; detached run cannot enter the universal job-portal credential on the registration password step…",
+    "link": "https://jobs.siemens.com/en_US/externaljobs/Register?folderId=527362"
+   },
+   {
+    "role": "Elior North America — Network Analyst",
+    "req": "44139 (SuccessFactors EU)",
+    "parked": "2026-10-30",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "NEEDS-PASSWORD-CAPTURE: no saved Secure Vault login for career2.successfactors.eu; detached run cannot enter the universal job-portal credential at the \"Career…",
+    "link": "https://career2.successfactors.eu/careers?company=eliordata"
+   },
+   {
+    "role": "MSP Communications — Network Administrator",
+    "req": "n/a (Paycom embedded on mspcagency.com)",
+    "parked": "2026-10-30",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "NEEDS-PASSWORD-CAPTURE / approval-blocked: Paycom Sign In dialog stopped at the sign-in approval card — credential service 12:19 ET \"the user did not answer the sign-in…",
+    "link": "https://mspcagency.com/careers/"
+   },
+   {
+    "role": "Envanio — IT Network Administrator",
+    "req": "ShowJob=889373187 (Entertime/UKG Ready)",
+    "parked": "2026-10-30",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "NEEDS-APPLICANT-SSN4: 8 steps complete, final Sign & Submit blocked on \"Last 4 of SSN *\" (not in profile bundle v1.0, not guessed). Attempt 1: saved sign-in rejected +…",
+    "link": "https://secure2.entertimeonline.com/ta/6070.careers?ShowJob=889373187&lang=en-US"
+   },
+   {
+    "role": "Instem — Associate Platform Engineer",
+    "req": "req494",
+    "parked": "2026-10-29",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "NEEDS-PASSWORD-CAPTURE: no saved vault login for instem.csod.com ([email]); universal credential could not be entered in the detached browser window; no account created,…",
+    "link": "https://instem.csod.com/ats/careersite/login.aspx?c=instem&site=1&lang=en-GB"
+   },
+   {
+    "role": "onsemi — Security Operations Analyst",
+    "req": "2506850",
+    "parked": "2026-10-29",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Resume upload aborted by browser file-upload tool (upload approval card connector-760a3263 pending unapproved at close); email-only sign-in succeeded ([email], step 1 of…",
+    "link": ""
+   },
+   {
+    "role": "Mosaic Technologies — Network Analyst I",
+    "req": "no req ID displayed (SaaSHR ApplyToJob=654770650)",
+    "parked": "2026-10-29",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "NEEDS-PASSWORD-CAPTURE: no saved Secure Vault login for saashr.com (secure7.saashr.com); detached browser task could not enter the universal credential without a…",
+    "link": "https://secure7.saashr.com/ta/6219446.careers?ApplyToJob=654770650&"
+   },
+   {
+    "role": "DHR Health — Security Specialist I, Information Security",
+    "req": "22395",
+    "parked": "2026-10-29",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "PASSWORD-RESET MAIL PENDING: Infor sign-in had no usable saved login; 'Forgot password?' submitted for [email], portal said instructions will be emailed if the username…",
+    "link": ""
+   },
+   {
+    "role": "TikTok — Security Operations Analyst, Detection Engineering & Threat Hunting",
+    "req": "A174654 (lifeattiktok.com)",
+    "parked": "2026-10-29",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "NEEDS-PASSWORD-CAPTURE: no saved Secure Vault login for lifeattiktok.com for [email]; universal job-portal credential not available in-session to the detached browser…",
+    "link": "https://lifeattiktok.com/login?redirect_path=%2Fresume%2F7571203452282505525%2Fapply"
+   },
+   {
+    "role": "Juniata College — Network Administrator",
+    "req": "posting 20110685 (postings/1859)",
+    "parked": "2026-10-28",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "No saved vault login for juniata.peopleadmin.com; detached-run login service refused credential entry, so universal-credential account creation could not be executed",
+    "link": "https://juniata.peopleadmin.com/login"
+   },
+   {
+    "role": "EY — Cyber Managed Services - SDC - Identity and Access Management - Senior",
+    "req": "1737400",
+    "parked": "2026-10-28",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "EY SuccessFactors sign-in wall (career5.successfactors.eu, company EYHRISPRD1): \"Career Opportunities: Sign In\" before any application step; no saved login signs in to…",
+    "link": "https://career5.successfactors.eu/careers?company=EYHRISPRD1"
+   },
+   {
+    "role": "Intuit — Senior Incident Response Security Engineer - Escalations",
+    "req": "23936",
+    "parked": "2026-10-28",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "NEEDS-PASSWORD-CAPTURE: Avature registration requires a new portal password (10+ chars, upper + lowercase + number, no 4+ sequential, no personal info words); no saved…",
+    "link": "https://jobs.intuit.com/job/charlotte/senior-incident-response-security-engineer-escalations/27595/100643069376"
+   },
+   {
+    "role": "Deloitte — Cyber Security Event Monitoring Analyst",
+    "req": "373114 (SuccessFactors career55.sapsf.eu)",
+    "parked": "2026-10-27",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "No saved login for deloitte.com; detached browser login service cannot enter the universal job-portal credential for account creation on career55.sapsf.eu; nothing…",
+    "link": "https://apply.deloitte.com/en_US/careers/JobDetail/Cyber-Security-Event-Monitoring-Analyst/373114"
+   },
+   {
+    "role": "Springs Window Fashions — IT Business Analyst",
+    "req": "12235 / 2026-12235 (iCIMS careers-springswindowfashions.icim",
+    "parked": "2026-10-27",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "iCIMS sign-in blocked — saved vault login REJECTED (\"Wrong username or password\"); 3 portal-confirmed reset submissions produced NO reset mail in ~35 min (inbox +…",
+    "link": "https://careers-springswindowfashions.icims.com/jobs/12235/it-business-analyst/job"
+   },
+   {
+    "role": "Visa — Cybersecurity Engineer, Mobile & AI Application",
+    "req": "REF087764W (visa.wd5.myworkdayjobs.com)",
+    "parked": "2026-10-27",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Workday sign-in wall: saved vault login rejected; two Forgot-Password submissions, NO Visa reset mail arrived (Workday confirms identically for unknown identifiers);…",
+    "link": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Austin-TX/Cybersecurity-Engineer_REF087764W-1"
+   },
+   {
+    "role": "Intercontinental Exchange — Analyst, Cybersecurity DFIR",
+    "req": "14156 (iCIMS careers-ice.icims.com)",
+    "parked": "2026-10-27",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "iCIMS sign-in: saved vault login REJECTED (\"Wrong username or password\"); Forgot Password requested to [email] only; site on \"Check Your Email\" page; reset mail 19:38 ET…",
+    "link": "https://careers-ice.icims.com/jobs/14156/analyst%2c-cybersecurity-dfir/job"
+   },
+   {
+    "role": "Georgia Tech — Network Engineer",
+    "req": "304998 (USG PeopleSoft Careers, Atlanta GA, OIT - Network En",
+    "parked": "2026-10-26",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "USG sign-in could not be completed — no saved login for usg.edu; login agent refused (no chat to enter credentials in); browser task left OPEN at New User Registration",
+    "link": ""
+   },
+   {
+    "role": "TikTok USDS — Senior Security Incident Response Commander",
+    "req": "A102895B (position 7689244577639155973)",
+    "parked": "2026-10-26",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Create-account email verification code wall: saved vault login REJECTED \"Incorrect email or password\"; tenant reset returned \"The email account does not exist\" for…",
+    "link": "https://careers.tiktokusds.com/usds/create-account;"
+   },
+   {
+    "role": "Molex — Field Application Engineer- Datacom AI Applications",
+    "req": "189362 (Koch Avature)",
+    "parked": "2026-10-26",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "No saved Secure Vault login for avature.net for [email]; detached run cannot supply the universal job-portal credential (credential service: no one can enter one now);…",
+    "link": ""
+   },
+   {
+    "role": "DXC Technology — Analyst II Infrastructure Services",
+    "req": "51591048",
+    "parked": "2026-10-24",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "DXC Workday saved login rejected, Forgot-Password reset triggered, reset email arrived 14:12 ET (2-hour expiry ~16:12 ET) but link undeliverable on detached runs",
+    "link": ""
+   },
+   {
+    "role": "GPA (Georgia Ports Authority) — Information Security Engineer",
+    "req": "26-223",
+    "parked": "2026-10-24",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "ADP sign-in Verify page (myjobs.adp.com): email [email] entered ~15:52 ET phase-319, fresh ADP code requested then but NOT provided in detached run (code-sharing…",
+    "link": "https://myjobs.adp.com/gpaexternalcareers/cx/job-listing?keyword=Information%20Security%20Engineer"
+   },
+   {
+    "role": "Frequentis USA — Junior Systems Engineer",
+    "req": "3653",
+    "parked": "2026-10-24",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "No saved Frequentis login; Register page requires password creation + confirmation; detached-run login service cannot create a new-domain vault entry (no chat route) —…",
+    "link": "https://jobs.frequentis.com/careers/JobDetail/FUSA-Junior-Systems-Engineer/3653"
+   },
+   {
+    "role": "Dolby Laboratories — Information Security Engineer",
+    "req": "1424212000 (SuccessFactors)",
+    "parked": "2026-10-24",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Saved SuccessFactors login rejected (\"Invalid email address or password\"); Forgot-password submitted, but NO reset email arrived in work Gmail (inbox holds zero Dolby…",
+    "link": ""
+   },
+   {
+    "role": "Palantir — Incident Management Engineer",
+    "req": "b72abc17",
+    "parked": "2026-10-24",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "AI notetaker consent question needs your own Yes/No word.",
+    "link": ""
+   },
+   {
+    "role": "Microsoft — Security Operations Engineer - Cloud Security",
+    "req": "200042217 (apply.careers.microsoft.com, pid 1970393556923390",
+    "parked": "2026-10-23",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Eightfold portal has NO native email signup — \"Sign Up\" offers only Microsoft OAuth buttons; Secure Vault has no saved login for microsoft.com (login.advance refused on…",
+    "link": "https://apply.careers.microsoft.com/careers/apply?pid=1970393556923390"
+   },
+   {
+    "role": "Logicalis — Sr. Solution Architect - Cisco Networking",
+    "req": "JR05612 (Workday logicalis.wd3)",
+    "parked": "2026-10-23",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Workday saved login REJECTED (\"wrong email address or password or account locked\") → rule-8b autonomous reset: reset email fetched 14:27 ET but link arrived as protected…",
+    "link": "https://logicalis.wd3.myworkdayjobs.com/en-US/LogicalisCareers/job/Downers-Grove/Sr-Solution-Architect---Cisco-Networking-Security_JR05612"
+   },
+   {
+    "role": "Stifel — Deposit Operations Business Systems Analyst",
+    "req": "2026-9938 (iCIMS 9938)",
+    "parked": "2026-10-23",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "iCIMS Auth0 (careers-stifel.icims.com) saved vault login REJECTED (\"Wrong username or password\") → rule-8b autonomous reset: reset email fetched 15:13:53 ET (Stifel…",
+    "link": "https://careers-stifel.icims.com/jobs/9938/deposit-operations-business-systems-analyst/job"
+   },
+   {
+    "role": "ZT Systems — Network Support Technician",
+    "req": "R-105499 (Workday connect.wd1)",
+    "parked": "2026-10-23",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "No vault account existed (saved login rejected; rule-8b reset produced no email — \"if an account exists\" never sent). New candidate account created via portal \"Create…",
+    "link": "https://connect.wd1.myworkdayjobs.com/en-US/ztsystemscareers/job/Secaucus-NJ/Network-Support-Technician_R-105499"
+   },
+   {
+    "role": "Ollie's Bargain Outlet — Business Systems Analyst",
+    "req": "BUSIN061732 (UKG)",
+    "parked": "2026-10-23",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "UKG (recruiting.ultipro.com) vault password rejected (\"Invalid email or password\"); autonomous \"Forgot your password?\" requested TWICE (initial + one re-request) with…",
+    "link": "https://recruiting.ultipro.com/OLL1000OLLIE"
+   },
+   {
+    "role": "Blue Cross Blue Shield of Michigan — Business Systems Analyst Adv",
+    "req": "14989 (Oracle HCM)",
+    "parked": "2026-10-23",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Oracle HCM \"Confirm Your Identity\" 6-digit email-code wall at sign-in (ejko.fa.us2.oraclecloud.com): six split single-character boxes (\"Enter verification code digit 1…",
+    "link": "https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/jobs/preview/14989/"
+   },
+   {
+    "role": "LaBella Associates — Cyber Security Operations Analytics and Reporting",
+    "req": "E43370601E (Workable)",
+    "parked": "2026-10-23",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Cloudflare \"Verify you are human\" checkbox on the Workable apply form — form 100% completed + résumé uploaded + truth-checked (desired salary $98,000); solver invoked…",
+    "link": "https://apply.workable.com/labella-associates/j/E43370601E/apply/"
+   },
+   {
+    "role": "Microsoft — Cybersecurity Resilience Lead (DART)",
+    "req": "200061596 (Eightfold)",
+    "parked": "2026-10-23",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Eightfold OAuth-only sign-up wall CONFIRMED on first check (same wall as parked req 200042217): \"Apply now\" → \"Sign Up\" dialog with ONLY \"Sign up using Microsoft /…",
+    "link": "https://apply.careers.microsoft.com/careers?query=Cybersecurity+Resilience+Lead&start=0&pid=1970393557039414&sort_by=relevance"
+   },
+   {
+    "role": "DTCC — Cyber Monitoring and Incident Response Associate (SOC Analyst)",
+    "req": "214707 (Oracle HCM) — RE-DISPATCH OUTCOME 2026-10-23 ~16:20",
+    "parked": "2026-10-23",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Oracle HCM sign-in gate (ebxr.fa.us2.oraclecloud.com): NO saved vault login for oraclecloud.com; the re-dispatch followed the ZT-precedent account-creation instruction…",
+    "link": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/my-profile/sign-in"
+   },
+   {
+    "role": "Helmerich and Payne — Cybersecurity Analyst I",
+    "req": "REQ-2991",
+    "parked": "2026-10-23",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Password-policy mismatch: hpinc.wd5 requires min 14 chars + upper; universal job-portal credential fails the policy — account creation impossible; no account exists…",
+    "link": "https://hpinc.wd5.myworkdayjobs.com/hpinc/job/Tulsa-OK-USA/Cybersecurity-Analyst-I_REQ-2991"
+   },
+   {
+    "role": "Yum Brands — Security Engineer, Web Application Security",
+    "req": "5583 (Oracle HCM)",
+    "parked": "2026-10-22",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Oracle HCM \"Confirm Your Identity\" 6-digit email-code wall hit at ~02:38 ET — code mail \"Hi , please confirm your identity\" from [email] (Gmail 1a162559b7ba4550, 10-min…",
+    "link": "https://jobs.yum.com/jobs/general/plano-tx-united-states/security-engineer-web-application-security/5583"
+   },
+   {
+    "role": "Cox Automotive — Senior Cybersecurity Engineer",
+    "req": "R202683717 (Cox Workday cox.wd1.myworkdayjobs.com)",
+    "parked": "2026-10-22",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Cox Workday saved login REJECTED (\"wrong email address or password or your account might be locked\"); autonomous forgot-password requested + ONE resend (rule 8b) — reset…",
+    "link": "https://cox.wd1.myworkdayjobs.com"
+   },
+   {
+    "role": "WuXi AppTec — Network Security Engineer",
+    "req": "2026-14231 (iCIMS)",
+    "parked": "2026-10-22",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "iCIMS candidate-login hCaptcha (\"Click all incorrectly parked cars\", 2 pages) on the \"Enter Your Information\" page — human-only image grid; per the one-attempt contract…",
+    "link": "https://careers-wuxiapptec.icims.com/jobs/14231/network-security-engineer/job"
+   },
+   {
+    "role": "Cisco — Attack Surface Management Security Engineer II",
+    "req": "2029035 (Workday cisco.wd5)",
+    "parked": "2026-10-21",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Saved vault login REJECTED on cisco.wd5 (\"wrong email or locked\") → autonomous forgot-password started; reset email arrived 02:31 ET from [email] (Gmail…",
+    "link": ""
+   },
+   {
+    "role": "Cisco — Attack Surface Management Security Engineer I",
+    "req": "2029031 (Workday cisco.wd5)",
+    "parked": "2026-10-21",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Saved vault login REJECTED on cisco.wd5 (\"wrong email or locked\") → autonomous forgot-password submitted; its own reset email arrived 02:38 ET (Gmail 1a15d2f1c6e0ed1a —…",
+    "link": ""
+   },
+   {
+    "role": "Eccalon — Network Engineer",
+    "req": "7221827 (appone)",
+    "parked": "2026-10-20",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "No saved vault login for appone.com; Standard Login sign-in wall; browser login service could not fill password in detached run; site forgot-password sends a reset LINK…",
+    "link": ""
+   },
+   {
+    "role": "The Jackson Laboratory — Security & Network Analyst II",
+    "req": "JR006329 (Workday wd503)",
+    "parked": "2026-10-20",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Saved vault login REJECTED on thejacksonlaboratory.wd503.myworkdayjobs.com (\"wrong email or locked\"); autonomous forgot-password reset CODE emailed to work inbox NEVER…",
+    "link": ""
+   },
+   {
+    "role": "Valley Bank — Principal Security Engineer",
+    "req": "26-724 (ADP myjobs.adp.com/vnbcareers)",
+    "parked": "2026-10-19",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "ADP email-passcode wall at sign-in: saved vault login EXISTS for the ADP domain (email [email] accepted from it) but the portal issued a passcode challenge instead of a…",
+    "link": "https://myjobs.adp.com/vnbcareers/cx/job-listing?keyword=26-724"
+   },
+   {
+    "role": "NCR Voyix — Network Engineer III",
+    "req": "R0158681 (Workday ncr.wd1.myworkdayjobs.com)",
+    "parked": "2026-10-19",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Sign-in REJECTED for [email] ('wrong email or locked') — tenant holds a different password than the vault (rule-8b case). Autonomous reset triggered ~10:52 ET; reset…",
+    "link": ""
+   },
+   {
+    "role": "Prisma Health — Network Engineer Associate, FT, Days",
+    "req": "R1147707",
+    "parked": "2026-10-19",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Workday candidate account creation: no Secure Vault login for myworkdaysite.com (Prisma Health tenant wd5.myworkdaysite.com); universal job-portal credential not…",
+    "link": "https://wd5.myworkdaysite.com/en-US/recruiting/prismahealth/PrismaHealthCorporate/job/Greenville-SC/Network-Engineer-Associate--FT--Days_R1147707/apply/autofillWithResume"
+   },
+   {
+    "role": "Louisville Gas and Electric Company and Kentucky Utilities Company — OT Network Specialist II",
+    "req": "15375",
+    "parked": "2026-10-19",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "iCIMS hCaptcha at Candidate Profile Submit (Step 1 of 4): second CAPTCHA challenge (\"Select items that go in the same room as the reference object\") appeared after…",
+    "link": "https://careers-pplweb.icims.com/jobs/15375/login"
+   },
+   {
+    "role": "EY — Cyber Managed Services - SDC - Cyber Operations - Business Analyst - Exp Staff",
+    "req": "1448640133",
+    "parked": "2026-10-17",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "EY SuccessFactors sign-in wall (career5.successfactors.eu): vault login exists for [email] but the credential service returned \"The operation did not complete, and it…",
+    "link": "https://career5.successfactors.eu/careers?company=EYHRISPRD1"
+   },
+   {
+    "role": "Hensel Phelps — IT Senior Operations Engineer",
+    "req": "1326 (was 1434071800)",
+    "parked": "2026-10-17",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Candidate Portal sign-in wall; rule-8b autonomous reset fired, reset link emailed 14:22 ET (24h expiry) but redacted to the agent — only his tap opens it",
+    "link": ""
+   },
+   {
+    "role": "Electronic Arts — Anti-Cheat Operations Engineer I",
+    "req": "213134 (Phenom)",
+    "parked": "2026-10-17",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Secure Vault sign-in service failed at tool level ('The operation did not complete, and it changed nothing' on 6 attempts; sign-in consent card shown with no one to…",
+    "link": "https://jobs.ea.com/es_ES/careers/ApplicationMethods?jobId=213134"
+   },
+   {
+    "role": "West Virginia University — (Hybrid) Research Systems Analyst – WVU Cancer Institute Clinical Research Unit",
+    "req": "n/a (Taleo job 30471)",
+    "parked": "2026-10-17",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "WVU Taleo New User Registration: username [email] prefilled; stopped at Password fields on a user approval card unanswerable in detached run. Gates re-confirmed LIVE: no…",
+    "link": ""
+   },
+   {
+    "role": "Wysh — Infrastructure Engineer (DevOps)",
+    "req": "30 (Greenhouse)",
+    "parked": "2026-10-17",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Re-attempt of phase-225 ambiguity: draft-state check showed blank form, NO already-applied banner (no existing application record — fresh submit justified). Form 100%…",
+    "link": ""
+   },
+   {
+    "role": "SMS InfoComm — Engineering Technician",
+    "req": "554545 (Paycom)",
+    "parked": "2026-10-17",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "hCaptcha image-selection ('Click on the TWO shortest towers') gates 'Continue To Application' on the fully-filled Getting You Started modal (Varun Korlapati, [email],…",
+    "link": ""
+   },
+   {
+    "role": "City and County of San Francisco — Technology Engineer - (1042) – Systems Specialty - Citywide",
+    "req": "C00093 (SmartRecruiters)",
+    "parked": "2026-10-17",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Two blockers: (1) ONE required question genuinely unanswerable from profile: 'Do you currently have any family members employed by the City and County of San Francisco?'…",
+    "link": ""
+   },
+   {
+    "role": "Legends Global — IT Technician",
+    "req": "R100126098 (Workday)",
+    "parked": "2026-10-17",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Saved myworkdayjobs.com login REJECTED ('You may have entered the wrong email address or password or your account might be locked.'). Forgot-password reset REQUESTED →…",
+    "link": "https://asmglobal.wd1.myworkdayjobs.com/careers/job/Shreveport-LA/IT-Technician_R100126098"
+   },
+   {
+    "role": "Weber Blackstone — Associate IT Security Analyst",
+    "req": "JR30 (Workday weber.wd115)",
+    "parked": "2026-10-17",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Workday candidate-account activation LINK wall: \"Verify your candidate account\" email from [email] 21:53:47 ET (Gmail 1a14cb6d328b5914, body-read), 24h expiry ~21:53 ET…",
+    "link": ""
+   },
+   {
+    "role": "Team Select Home Care — IT Security Analyst",
+    "req": "c403_JR101523 (Dalia/tshc.jobs)",
+    "parked": "2026-10-16",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Dalia SMS \"Verify Your Identity\" 5-digit code wall after phone entry — code sent to [phone] (masked on page); device SMS read unavailable on detached run (S24 Ultra…",
+    "link": "https://tshc.jobs"
+   },
+   {
+    "role": "INTEGRIS Health — IT Portfolio Management Analyst",
+    "req": "117711 (Oracle CX)",
+    "parked": "2026-10-16",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Oracle HCM \"Confirm Your Identity\" 6-digit email-code wall — code mailed to [email]; six split single-digit boxes; protected credential_fill refuses split-box inputs…",
+    "link": "https://ertr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/117711/apply/email?keyword=Portfolio&mode=location"
+   },
+   {
+    "role": "Stride Bank — IS Security Analyst I",
+    "req": "349066",
+    "parked": "2026-10-16",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Arkose bot challenge on Paycom 'Getting You Started' dialog ('Drag the correct animal into its matching outline' — needs_human, 0 attempts per one-attempt contract; form…",
+    "link": ""
+   },
+   {
+    "role": "PIMCO — Cybersecurity Operations Analyst",
+    "req": "R107032",
+    "parked": "2026-10-16",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Workday pimco.wd1 vault login REJECTED; Forgot-Password reset requested twice — zero reset emails arrived in work Gmail (conditional 'if an account exists'); code never…",
+    "link": ""
+   },
+   {
+    "role": "Nova Credit — Information Security Lead",
+    "req": "4450422009 (Greenhouse)",
+    "parked": "2026-10-15",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Greenhouse email-verification code wall: 8-character security code emailed to [email] blocks Submit (button disabled until entered). Protected credential_fill REFUSED…",
+    "link": "https://job-boards.greenhouse.io/novacredit/jobs/4450422009"
+   },
+   {
+    "role": "Rutgers — Telecommunications Analyst I (Network Installation Technician)",
+    "req": "26ST1946 (ROCS)",
+    "parked": "2026-10-15",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Imperva hCaptcha \"I am human\" needs_human on ROCS account creation (https:) + no Secure Vault login for jobs.rutgers.edu (credential_fill capture_required); runtime…",
+    "link": "https://jobs.rutgers.edu/user/new"
+   },
+   {
+    "role": "Meta — Production Systems Engineer, Fleet AI Systems",
+    "req": "1779272886591909 (metacareers.com)",
+    "parked": "2026-10-15",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Browser tasks hang on metacareers.com from this VM today: B1 froze ~19 min mid-form-fill (create_application page, resume uploaded); B2 froze ~7.6 min on login after the…",
+    "link": "https://www.metacareers.com/profile/job_details/1779272886591909/"
+   },
+   {
+    "role": "Clayton State University — Network Engineer",
+    "req": "304702 (USG Oracle HCM)",
+    "parked": "2026-10-15",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "no Secure Vault login for usg.edu — universal job-portal credential missing from vault (capture_required, fetch 0); registration fully filled except Password Password…",
+    "link": "https://careers.hprod.onehcm.usg.edu/psc/careers/CAREERS/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=28000&JobOpeningId=304702&PostingSeq=1"
+   },
+   {
+    "role": "FireMon — Customer Support Engineer",
+    "req": "55eed579 (Lever)",
+    "parked": "2026-10-15",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "hCaptcha drag-and-drop re-issued after the single permitted attempt (elephant→outline dragged, Verify clicked; new camel challenge presented) — one-attempt contract…",
+    "link": "https://jobs.lever.co/firemon/55eed579-a00a-4d3c-a1ae-2e0ef9bd7063/apply"
+   },
+   {
+    "role": "Simplot — Security Analyst III",
+    "req": "1440244000 (SuccessFactors)",
+    "parked": "2026-10-15",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "SuccessFactors \"Career Site Password Reset\" email 18:55 ET ([email], Gmail 1a141c6fbd4adb40) verified authentic — reset link targets…",
+    "link": "https://careers.simplot.com/job/Boise-Security-Analyst-III-ID-83702-6924/1440244000/"
+   },
+   {
+    "role": "Northwest Mississippi Community College — Systems Administrator- AI Systems",
+    "req": "783 (Oracle HCM)",
+    "parked": "2026-10-15",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Oracle HCM \"Confirm Your Identity\" 6-digit email-code wall — code mailed to [email] ~22:51 ET; code references cannot be delivered on detached runs (no protected…",
+    "link": "https://emor.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/jobs/preview/783"
+   },
+   {
+    "role": "Parker Poe — Security Analyst",
+    "req": "531 (Dayforce)",
+    "parked": "2026-10-15",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Dayforce Identity sign-in blocked by reCAPTCHA image challenge (\"Select all squares with buses\") — puzzle image not capturable (captcha_capture_unavailable), needs_human…",
+    "link": "https://jobs.dayforcehcm.com/en-US/ppab1884/CANDIDATEPORTAL/jobs/3804"
+   },
+   {
+    "role": "Roper Technologies — Cybersecurity GRC Analyst II",
+    "req": "CYBER018941 (UKG/Ultipro)",
+    "parked": "2026-10-15",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "UKG sign-in wall: NO Secure Vault login for ultipro.com (credential_fill → capture_required); 1Password autofill password rejected by the UKG form framework (\"Password…",
+    "link": "https://recruiting.ultipro.com/ROP1001ROPER/JobBoard/f5764546-26ee-40f9-a826-cf5884e3bdab/OpportunityDetail?opportunityId=a69272d4-3ce5-4124-96b2-cb07e09a3407&postingId=56c3f11b-81be-403d-8212-f483049458dc"
+   },
+   {
+    "role": "BankUnited — Cyber Security Analyst II",
+    "req": "7311 (ADP)",
+    "parked": "2026-10-15",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "ADP email-passcode gate — security code mailed to [email]; code references cannot be delivered on detached runs; Google OAuth alternative stalled on sps.adp.com (no…",
+    "link": "https://myjobs.adp.com/bankunitedexternal/cx/job-details?__tx_annotation=false&c=1210801&d=External&sor=adprm&reqId=5001231927706"
+   },
+   {
+    "role": "Chainguard — Security Analyst (Governance and Trust)",
+    "req": "4716920006 (Greenhouse)",
+    "parked": "2026-10-15",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Greenhouse email-verification gate: 8-character code mailed to [email] must be entered into 8 split-box Security code fields; Submit stays disabled until entered.…",
+    "link": "https://job-boards.greenhouse.io/chainguard/jobs/4716920006"
+   },
+   {
+    "role": "Ardent Health — Incident Response Analyst",
+    "req": "2026-142096 (iCIMS)",
+    "parked": "2026-10-15",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "iCIMS candidate-login hCaptcha (\"Drag the correct animal into its matching outline\") blocks the Next button; the challenge's own \"Skip Challenge\" button is disabled.…",
+    "link": "https://careers-ardenthealth.icims.com/jobs/142096/incident-response-analyst/job?in_iframe=1"
+   },
+   {
+    "role": "Bank of America — Application Security Operations Specialist",
+    "req": "26037894 (Workday)",
+    "parked": "2026-10-15",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "BofA Workday candidate sign-in (ghr.wd1.myworkdayjobs.com): Secure Vault credential_fill returned fetch_count 0 — no saved login retrievable for this tenant; account…",
+    "link": "https://careers.bankofamerica.com/en-us/job-detail/26037894/application-security-operations-specialist-multiple-locations"
+   },
+   {
+    "role": "TD — Information Security Analyst II (US) - Social Engineering Threat Analyst",
+    "req": "R_1511648 (Workday)",
+    "parked": "2026-10-15",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Saved vault login for myworkdayjobs.com filled but the td.wd3 tenant REJECTED it (\"wrong email or locked\"). Autonomous Forgot-Password reset INITIATED (reset email…",
+    "link": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Charlotte-North-Carolina/Information-Security-Analyst-II--US----Social-Engineering-Threat-Analyst_R_1511648"
+   },
+   {
+    "role": "JPMorgan Chase — Lead Infrastructure Engineer",
+    "req": "210794287 (Oracle HCM)",
+    "parked": "2026-10-15",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "hCaptcha \"Drag the correct animal into its matching outline\" (iframe on the email-auth step) obscures Next and blocks the apply flow — puzzle uncapturable…",
+    "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794287/apply/email"
+   },
+   {
+    "role": "Arctiq — Senior Security Advisor",
+    "req": "344 (BambooHR)",
+    "parked": "2026-10-15",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "reCAPTCHA image challenge (\"Select all images with a fire hydrant\") blocks Submit; local captcha solver unrunnable in browser-task environment (no shell); one-attempt…",
+    "link": "https://arctiq.bamboohr.com/careers/344"
+   },
+   {
+    "role": "BSH Home Appliances — IT Business Consultant II - PERM",
+    "req": "10249 (Taleo)",
+    "parked": "2026-10-14",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "No Secure Vault credential retrievable for phh.tbe.taleo.net — credential_fill fetch_count=0 on the Taleo registration page (no saved login, universal job-portal…",
+    "link": "https://phh.tbe.taleo.net/phh04/ats/careers/v2/applyRequisition?org=BSHHOME&cws=43&rid=10249"
+   },
+   {
+    "role": "Carisk Partners — Data & Systems Support Analyst",
+    "req": "356acd38-73c7-43fd-8597-9d0d33fa33ff (Rippling)",
+    "parked": "2026-10-14",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Cloudflare Turnstile \"Verify you are human\" checkbox on the Rippling ATS page above the Apply button — Apply click dispatched, widget appeared instead of submitting.…",
+    "link": "https://ats.rippling.com/cariskpartners/jobs/356acd38-73c7-43fd-8597-9d0d33fa33ff"
+   },
+   {
+    "role": "DPR Construction — Microsoft Power Platform Administrator",
+    "req": "JR-17446 (Eightfold; careers.dpr.com)",
+    "parked": "2026-10-14",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Eightfold \"Confirm Your Identity\" 6-digit email-code wall on account creation — one-time code references cannot be delivered on detached runs and split six-box inputs…",
+    "link": ""
+   },
+   {
+    "role": "Crenlo Engineered Cabs — IT Business Systems Manager",
+    "req": "2549 (ADP; myjobs.adp.com/crenlocareers)",
+    "parked": "2026-10-14",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "ADP email-passcode wall: Apply click redirects to myjobs.adp.com (\"Welcome! Let's find your dream job!\") — Email Address field + Continue button, no password field;…",
+    "link": "https://myjobs.adp.com/crenlocareers"
+   },
+   {
+    "role": "Veeva Systems — Associate DevOps Engineer (Lever)",
+    "req": "7d78e2b9-7916-4d30-b1e4-3ecfb41206e2 (Lever)",
+    "parked": "2026-10-14",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "hCaptcha image challenge appeared at SUBMIT on the Lever apply form. Local solver invoked EXACTLY ONCE per the one-attempt contract: on \"Pick what you can take inside…",
+    "link": "https://jobs.lever.co/veeva/7d78e2b9-7916-4d30-b1e4-3ecfb41206e2/apply"
+   },
+   {
+    "role": "RingCentral — Senior Network Engineer, NetOps Infrastructure",
+    "req": "R078640 (Workday)",
+    "parked": "2026-10-14",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Workday sign-in wall: saved vault login for ringcentral.wd1.myworkdayjobs.com REJECTED (\"wrong email or locked\"); single autonomous reset via \"Forgot your password?\"…",
+    "link": "https://ringcentral.wd1.myworkdayjobs.com/en-US/RingCentral_Careers/job/Belmont-California/Senior-Network-Engineer--NetOps-Infrastructure_R078640"
+   },
+   {
+    "role": "Amazon — Analyst, Network Strategy and Performance",
+    "req": "10556825 (amazon.jobs)",
+    "parked": "2026-10-14",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Tailored PDF page-fill gate FAIL at boundary: 94.95% < 95.0% hard gate (0.4pt short; frame provably content-maxed — 13th bullet spills to 2 pages, 6.6pt headroom < 13pt…",
+    "link": ""
+   },
+   {
+    "role": "Brookings Institution — Systems Analyst, Enterprise Applications",
+    "req": "2026-3896 (iCIMS)",
+    "parked": "2026-10-14",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Combined resume+cover-letter PDF built (posting REQUIRES both as one document). Resume page passes ALL gates (1pg%); the combined 2-page doc cannot pass the 1-page…",
+    "link": ""
+   },
+   {
+    "role": "Consumers Credit Union — Application Security Analyst",
+    "req": "APPLI002397 (UKG)",
+    "parked": "2026-10-14",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "UKG universal sign-in wall at signin-us.ultipro.com; credential_fill for ultipro.com returned capture_required (no saved vault login, universal credential not offered) →…",
+    "link": "https://recruiting2.ultipro.com/CON1054CONCO/JobBoard/a658f01c-f89f-4b34-9b92-d0362df70fb4/OpportunityDetail?opportunityId=b15bc063-bd40-4f87-be42-4b2536105627"
+   },
+   {
+    "role": "DAS Health — Cybersecurity Engineer",
+    "req": "biUYzO6aH9 (applytojob/JazzHR)",
+    "parked": "2026-10-14",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Form 100% fillable except 7 REQUIRED screening questions unanswerable without inventing: (a) hands-on cybersecurity engineering years (Less than 3 / 3-5 / 6-9 / 10+);…",
+    "link": "https://dashealth.applytojob.com/apply/biUYzO6aH9/Cybersecurity-Engineer"
+   },
+   {
+    "role": "Velocity Network — Security and IT Associate",
+    "req": "4468337 (Paylocity)",
+    "parked": "2026-10-14",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Paylocity marks company-address fields REQUIRED in both auto-parsed work-history entries and they cannot be filled truthfully: HCL entry parsed City \"Hyderabad\" +…",
+    "link": "https://recruiting.paylocity.com/Recruiting/Jobs/Apply/4468337"
+   },
+   {
+    "role": "CEC Facilities — IT - Support Technician I",
+    "req": "34048 (Paycom)",
+    "parked": "2026-10-13",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Paycom account-creation password: no saved vault login for paycomonline.net; credential_fill 0 matches on signup (fetch count 0) — universal credential unreachable…",
+    "link": "https://www.paycomonline.net/v4/ats/web.php/portal/E7D3C4DDAF60C922DD5E38FAAFCE660F/jobs/332685"
+   },
+   {
+    "role": "BJC HealthCare — EHR Application I Analyst - Healthy Planet",
+    "req": "117586 (iCIMS)",
+    "parked": "2026-10-13",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "iCIMS \"Create a login\" requires Login + Password + Password (Re-enter), all required — new-account password gate; credential_fill 0 matches / capture_required on…",
+    "link": "https://careers-bjc.icims.com/jobs/117586/login"
+   },
+   {
+    "role": "Hotwire — IT Analyst I",
+    "req": "ITANA005703",
+    "parked": "2026-10-13",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "UKG board forces sign-in (signin-us.ultipro.com) before any application form; no Secure Vault login for ultipro.com; account creation needs Varun's password via secure…",
+    "link": "https://signin-us.ultipro.com/u/signup"
+   },
+   {
+    "role": "Microsoft — Senior Software Engineer- Networking",
+    "req": "200061459",
+    "parked": "2026-10-13",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Microsoft account creation hit email-verification code wall (signup.live.com \"Verify your email\"); code arrived in work Gmail 09:51 ET but credential_fill for the…",
+    "link": ""
+   },
+   {
+    "role": "Hive — Data Center Technician",
+    "req": "9d129b14-9a9c-45b8-b072-b927274fa069 (Lever; SF on-site FT)",
+    "parked": "2026-10-13",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "hCaptcha human-only gate on the Lever apply form: automation solves rejected by hCaptcha backend bot-risk scoring (7 consecutive correct solves refused; visual grounding…",
+    "link": "https://jobs.lever.co/hive/9d129b14-9a9c-45b8-b072-b927274fa069/apply"
+   },
+   {
+    "role": "Linesight — Assistant Cost Manager (Data Centers)",
+    "req": "6069 (iCIMS; Milwaukee WI hybrid on-site)",
+    "parked": "2026-10-13",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Session A (14:13): iCIMS \"Create a login\" password gate — Step 1 fully filled and truthful, résumé uploaded FIRST (, parsed); hCaptchas solved via accessibility path;…",
+    "link": "https://careers-linesight.icims.com/jobs/6069/assistant-cost-manager-%28data-centers%29/login"
+   },
+   {
+    "role": "DRW — Site Reliability Engineer - Algorithmic Trading",
+    "req": "7921972 (Greenhouse)",
+    "parked": "2026-10-12",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "invisible reCAPTCHA v3 bot-score: \"Submit application\" button dead to all automation clicks (3 automation + 1 visual + keyboard Enter + waits); no visible challenge, no…",
+    "link": "https://job-boards.greenhouse.io/drweng/jobs/7921972"
+   },
+   {
+    "role": "ByteDance — Senior Software Development Engineer, SDN-Traffic Intelligence & Control",
+    "req": "7367524832050727177 (jobs.bytedance.com)",
+    "parked": "2026-10-12",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "bytedance.com credential wall (same wall as the SDE Network Automation row above): NO Secure Vault credential exists for bytedance.com — credential_fill returned…",
+    "link": "https://jobs.bytedance.com/en/resume/7367524832050727177/apply"
+   },
+   {
+    "role": "ByteDance — Senior Site Reliability Engineer (Multiple Positions)",
+    "req": "7672546176046041349 (jobs.bytedance.com)",
+    "parked": "2026-10-12",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "bytedance.com credential wall (same): NO vault credential for bytedance.com; sign-in wall at jobs.bytedance.com; resume NOT uploaded; nothing submitted — zero duplicate…",
+    "link": "https://jobs.bytedance.com/en/resume/7672546176046041349/apply"
+   },
+   {
+    "role": "ByteDance — Cloud Site Reliability Engineer - DCS Cloud",
+    "req": "7268795428178135353 (jobs.bytedance.com)",
+    "parked": "2026-10-12",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "bytedance.com credential wall (SAME wall that parked sibling reqs [phone]094984986 + [phone]050727177 ~10:20 ET today): NO Secure Vault credential exists for…",
+    "link": "https://jobs.bytedance.com/en/resume/7268795428178135353/apply"
+   },
+   {
+    "role": "Crypto.com — Senior Network Security Engineer",
+    "req": "93447ea1-93eb-4a43-8653-05a3a142e3f0 (Lever)",
+    "parked": "2026-10-12",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Lever hCaptcha image-challenge loop — 3 automated attempts exhausted per 90s cap (drag-the-letter ×2, image-grid ×1); each closed its dialog but the widget returned and…",
+    "link": "https://jobs.lever.co/crypto/93447ea1-93eb-4a43-8653-05a3a142e3f0/apply"
+   },
+   {
+    "role": "Beaufort County South Carolina — IT Cyber Security Analyst I",
+    "req": "5353001 (NEOGOV; Job Number 202500758)",
+    "parked": "2026-10-12",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "NEOGOV sign-in wall: saved vault login REJECTED (\"The username or password is incorrect\"); autonomous Forgot-Password requested ~13:50 ET — reset email in work inbox…",
+    "link": ""
+   },
+   {
+    "role": "Related — Cybersecurity Analyst I",
+    "req": "21776 (iCIMS; fill-scope: careers-related.icims.com)",
+    "parked": "2026-10-12",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "iCIMS \"Enter Your Information\" sign-in gate (hCaptcha-protected). No Secure Vault login for careers-related.icims.com — credential_fill capture_required, fetch count 0;…",
+    "link": "https://www.related.jobs/careers-home/jobs/21776"
+   },
+   {
+    "role": "HDR — Senior IT Support Specialist",
+    "req": "196969 (Taleo; Anchorage AK, posted Oct 12, 2026)",
+    "parked": "2026-10-12",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Taleo sign-in wall RESOLVED to the username: account exists under [email] with User Name \"varunkorlapati\" (recovered via \"Forgot your user name?\" — recovery email from…",
+    "link": "https://hdr.taleo.net/careersection/ex/jobdetail.ftl?job=196969"
+   },
+   {
+    "role": "HCA Healthcare — Application Analyst II",
+    "req": "5067710",
+    "parked": "2026-10-11",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Cloudflare \"Verify you are human\" challenge would not clear — 1 authorized checkbox attempt (stored solve preference, all-tasks) briefly entered \"Verifying\" then reset…",
+    "link": "https://careers.hcahealthcare.com/jobs/18331687-application-analyst-ii;"
+   },
+   {
+    "role": "SLB — DCN Site Services Engineer",
+    "req": "18750 (Eightfold apply.slb.com)",
+    "parked": "2026-10-11",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "no Secure Vault credential retrievable for apply.slb.com — credential_fill capture_required (universal job-portal credential not offered on this domain); account…",
+    "link": ""
+   },
+   {
+    "role": "World Wide Technology — Consulting Solutions Architect-Global Service Provider",
+    "req": "26-3141 (ADP myjobs.adp.com/wwtexternalcareersite)",
+    "parked": "2026-10-11",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "ADP email-passcode wall — code sent to [email]; one-time code references undeliverable on detached runs (approval_unavailable per 2026-10-10 postmortem — GoTo Foods ADP…",
+    "link": "https://myjobs.adp.com/wwtexternalcareersite/legacy/job/5001230544006"
+   },
+   {
+    "role": "ByteDance — Software Development Engineer, Network Automation",
+    "req": "7369720875094984986 (jobs.bytedance.com)",
+    "parked": "2026-10-11",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "apply flow opened a sign-in wall at jobs.bytedance.com; NO Secure Vault credential exists for joinbytedance.com / bytedance.com — credential_fill returned…",
+    "link": "https://joinbytedance.com/search/7369720875094984986"
+   },
+   {
+    "role": "Grant Thornton — Risk Cyber Internal Audit Experienced Associate",
+    "req": "116130 (Oracle HCM)",
+    "parked": "2026-10-11",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Oracle HCM \"Confirm Your Identity\" 6-digit email-code wall — six split single-digit inputs + VERIFY + Send New Code. Protected credential_fill refuses split six-box…",
+    "link": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/116130/apply/email"
+   },
+   {
+    "role": "Backyard Products — IT Support Technician",
+    "req": "n/a",
+    "parked": "2026-10-10",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Paycor bot gate: Track-A retry 2026-10-10 ~01:20 ET got FURTHER than ever (posting live; iframe-focus+native click beat the dead Apply button; form 100% filled +…",
+    "link": ""
+   },
+   {
+    "role": "BKF — Systems Engineer - M&A Integration",
+    "req": "6CAB6DC812 (Workable)",
+    "parked": "2026-10-10",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Cloudflare \"Verify you are human\" checkbox — 3 auto-solve attempts exhausted per 90s cap. Form 100% filled + truth-checked + résumé attached (work-auth YES,…",
+    "link": "https://apply.workable.com/bkfengineers/j/6CAB6DC812/apply/"
+   },
+   {
+    "role": "Oracle — Senior Network Developer, Network Region Build",
+    "req": "342833 (Oracle HCM)",
+    "parked": "2026-10-10",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Oracle HCM \"Confirm Your Identity\" 6-digit email-code wall — code mailed to [email] 16:16 ET (\"Your Oracle identity verification\", [email]). The runtime's protected…",
+    "link": "https://careers.oracle.com/en/sites/jobsearch/jobs/preview/342833/apply/email"
+   },
+   {
+    "role": "Delta Dental — DevOps Engineer",
+    "req": "3423 (Oracle HCM)",
+    "parked": "2026-10-10",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Oracle HCM \"Confirm Your Identity\" 6-digit code wall hit AFTER SUBMIT on a fully completed + validated form — code mailed to [email] (\"Your Delta Dental identity…",
+    "link": "https://ejep.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3423/apply/section/1"
+   },
+   {
+    "role": "BayCare — Technical Support Analyst",
+    "req": "175764 (Infor CloudSuite)",
+    "parked": "2026-10-10",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "no Secure Vault credential retrievable for inforcloudsuite.com — credential_fill fetch_count=0 on two attempts (no universal or domain-scoped entry offered); account…",
+    "link": "https://css-baycarehs-prd.inforcloudsuite.com/hcm/Jobs/form/JobPosting%5BJobPostingSet%5D%281,175764,2%29.JobPostingDisplay"
+   },
+   {
+    "role": "LBMC Technology Solutions — Systems Admin Network Engineer 1 - After Hours",
+    "req": "738770304 (Entertime)",
+    "parked": "2026-10-10",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "no Secure Vault credential retrievable for entertimeonline.com — credential_fill fetch_count=0 (no saved login, no universal entry offered); account creation impossible…",
+    "link": "https://secure8.entertimeonline.com/ta/LBMCTS.careers?ApplyToJob=738770304"
+   },
+   {
+    "role": "Origami Risk — Client Support Analyst",
+    "req": "2026-4647 (iCIMS)",
+    "parked": "2026-10-10",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "iCIMS hCaptcha on the candidate login page would not clear — attempt 1 image-selection tiles never registered, attempt 2 drag-pattern challenge did not land; stopped per…",
+    "link": "https://careers-origamirisk.icims.com/jobs/4647/client-support-analyst-engineer/job"
+   },
+   {
+    "role": "Taco Bell (Yum!) — Infrastructure Engineer ll",
+    "req": "5620 (Oracle HCM)",
+    "parked": "2026-10-10",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Oracle HCM \"Confirm Your Identity\" 6-digit email code gate — one-time code references cannot be delivered on detached runs (credential_fill approval_unavailable) and…",
+    "link": "https://eczd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5620/apply/email?group=1583"
+   },
+   {
+    "role": "GoTo Foods — Network Solutions Architect",
+    "req": "2477 (ADP)",
+    "parked": "2026-10-10",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "ADP email verification (passcode) gate — relayed passcode failed credential_fill approval_unavailable (~72 min wait, detached run); code expired 15 min after 18:37 ET;…",
+    "link": ""
+   },
+   {
+    "role": "IGT — Systems Engineer IV",
+    "req": "1370372857 (SuccessFactors EU)",
+    "parked": "2026-10-10",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "no Secure Vault credential retrievable for successfactors.eu (credential_fill capture_required, fetch_count=0); account creation needs the universal job-portal…",
+    "link": ""
+   },
+   {
+    "role": "Heritage Senior Living — Help Desk Engineer",
+    "req": "263416 (Paycom)",
+    "parked": "2026-10-10",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Paycom hCaptcha endless loop on guest \"Continue To Application\" flow (6 puzzles solved — 2 drag-pattern, 2 animal-selection, 2 icon-selection; new challenge after every…",
+    "link": "https://paycomonline.net/v4/ats/web.php/portal/081B7ACAEA95DF6B477037CD34092F47/jobs/361073"
+   },
+   {
+    "role": "Texas Children's Hospital — Systems Analyst",
+    "req": "427781 (Oracle CX)",
+    "parked": "2026-10-10",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Oracle \"Verify it's you\" 6-digit email-code wall at SUBMIT — application FULLY prepared (resume TexasChildrens_Systems_Analyst_2026-10-10.pdf uploaded + parsed, address…",
+    "link": ""
+   },
+   {
+    "role": "Quartz Health Solutions — Network Administrator",
+    "req": "2417 (iCIMS)",
+    "parked": "2026-10-10",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "iCIMS candidate-login hCaptcha would not clear — protected challenge image uncapturable by automation (captcha_capture_unavailable); 90s cap respected; nothing…",
+    "link": "https://careers-quartzbenefits.icims.com/jobs/2417/network-administrator/job"
+   },
+   {
+    "role": "Health Management Associates — Information Security Architect",
+    "req": "2002 (iCIMS)",
+    "parked": "2026-10-10",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "iCIMS candidate-login hCaptcha would not clear — 2 automation solve attempts failed on tooling (visual grounding \"not_visible\", then captcha_capture_unavailable); 90s…",
+    "link": "https://careers-healthmanagement.icims.com/jobs/2002/information-security-architect/job"
+   },
+   {
+    "role": "TBH (The Brooklyn Hospital Center) — Network Engineer",
+    "req": "5001204868306 (ADP)",
+    "parked": "2026-10-10",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "ADP auth demands email passcode (\"Enter the passcode sent to your email\"); Google social sign-in has no saved Secure Vault credential (credential_fill capture_required…",
+    "link": "https://myjobs.adp.com/tbhcareers/cx/job-details?reqId=5001204868306"
+   },
+   {
+    "role": "thinkahead — Associate Security Engineer",
+    "req": "aba3178d (Lever)",
+    "parked": "2026-10-10",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Lever hCaptcha looped through all 3 allowed attempts (new challenge after each \"Verify\" click: \"Select animals looking away from you\" ×2, \"Select all animals that do not…",
+    "link": "https://jobs.lever.co/thinkahead/aba3178d-817b-424e-beb3-9639d5a1970a/apply"
+   },
+   {
+    "role": "TikTok USDS — SRE (Video System)",
+    "req": "7683307062865266949",
+    "parked": "2026-10-10",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "candidate-portal sign-in wall (\"Sign in with Email\" / \"Sign in with Mobile\"); no Secure Vault credential for tiktokusds.com (credential_fill capture_required); resume…",
+    "link": "https://careers.tiktokusds.com/usds/resume/7683307062865266949/apply"
+   },
+   {
+    "role": "UC Davis — PNC Support Analyst",
+    "req": "86511 (PeopleSoft)",
+    "parked": "2026-10-10",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "PeopleSoft \"Apply for Job\" opens a Sign In dialog; no Secure Vault credential for careerspub.universityofcalifornia.edu (capture_required for…",
+    "link": "https://careerspub.universityofcalifornia.edu/psc/ucdavis/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&JobOpeningId=86511&PostingSeq=1&SiteId=7&languageCd=ENG&FOCUS=Applicant"
+   },
+   {
+    "role": "JPMorganChase — Site Reliability Engineer III",
+    "req": "210753167 (Oracle HCM)",
+    "parked": "2026-10-10",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "hCaptcha bot challenge on the Oracle HCM email-authentication screen — 3 attempts / 90s budget exhausted (challenge 1: \"Select animals looking away from you\" 9 tiles;…",
+    "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210753167"
+   },
+   {
+    "role": "Courser (PTG) — IT Support Services II – Help Desk",
+    "req": "hUK6gYKbwO (JazzHR/applytojob)",
+    "parked": "2026-10-10",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "reCAPTCHA \"Human Check\" — checkbox click triggered an image challenge (\"Select all squares with motorcycles\"); visual-tool tile selection failed (ambiguous grounding,…",
+    "link": "https://ptg.applytojob.com/apply/hUK6gYKbwO/IT-Support-Services-II-Help-Desk"
+   },
+   {
+    "role": "Toyota Tsusho Systems — Technology & Cybersecurity Risk Management Analyst",
+    "req": "FF4D857A75 (Workable)",
+    "parked": "2026-10-10",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Cloudflare \"Verify you are human\" challenge appeared on \"Submit application\" with every field filled (Submit stuck on \"Submitting…\" disabled). One authorized checkbox…",
+    "link": "https://apply.workable.com/toyota-tsusho-systems/j/FF4D857A75/"
+   },
+   {
+    "role": "Shield AI — Associate Systems Administrator",
+    "req": "R5698 (Lever)",
+    "parked": "2026-10-10",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Lever hCaptcha image challenge (\"Select animals looking away from you\") — 3 automated attempts exhausted (attempts 2–3 explicitly rejected \"Please try again. ⚠\"); the…",
+    "link": "https://jobs.lever.co/shieldai/7acef65d-2466-4959-9e86-106ecb4e7fe4/apply"
+   },
+   {
+    "role": "Avenor — Cloud Platform Engineer",
+    "req": "n/a (avenor.dev)",
+    "parked": "2026-10-10",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Site-side \"Request failed (405)\" on Apply submit — 3 failures across 2 sessions (phase-120 ×2 + phase-121 fresh-session retry ×1); nothing submitted. Form was complete…",
+    "link": "https://avenor.dev/careers/cloud-platform-engineer"
+   },
+   {
+    "role": "Arkansas DFA — IT Security Analyst I",
+    "req": "pos 22115108",
+    "parked": "2026-10-09",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "SuccessFactors account password capture",
+    "link": ""
+   },
+   {
+    "role": "Moody's — Sr Cybersecurity Engineer (AI Security)",
+    "req": "100741029024",
+    "parked": "2026-10-09",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "site credential capture (SuccessFactors career8)",
+    "link": ""
+   },
+   {
+    "role": "Kontoor Brands — Senior Security Engineer",
+    "req": "R-20261008-0008",
+    "parked": "2026-10-09",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "site credential capture (kbi.wd5)",
+    "link": ""
+   },
+   {
+    "role": "Amerisure — Security Analyst II",
+    "req": "JR-002144",
+    "parked": "2026-10-09",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "site credential capture (osv_amerisure.wd5)",
+    "link": ""
+   },
+   {
+    "role": "Consumer Cellular — DevSecOps Jr",
+    "req": "req 58871",
+    "parked": "2026-10-09",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Taleo account creation (no vault entry)",
+    "link": ""
+   },
+   {
+    "role": "PCC — IT Support Specialist",
+    "req": "iCIMS 2406",
+    "parked": "2026-10-09",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "hCaptcha (3 auto-solves failed)",
+    "link": ""
+   },
+   {
+    "role": "Ideagen — InfoSec Consultant",
+    "req": "req 2026-3189",
+    "parked": "2026-10-09",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "hCaptcha (2 auto-solves failed)",
+    "link": ""
+   },
+   {
+    "role": "Schneider Electric — Sr Engineer I Cybersecurity",
+    "req": "req 134296",
+    "parked": "2026-10-09",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "needs salary + cybersecurity-years answers",
+    "link": ""
+   },
+   {
+    "role": "Gaylord Healthcare — IT Support Technician I",
+    "req": "n/a",
+    "parked": "2026-10-09",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "UKG sign-in wall",
+    "link": ""
+   },
+   {
+    "role": "LightEdge — Data Center Ops Tier 1",
+    "req": "n/a",
+    "parked": "2026-10-09",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "human CAPTCHA on completed form",
+    "link": ""
+   },
+   {
+    "role": "iPipeline — Security Analyst",
+    "req": "req 2026-1713",
+    "parked": "2026-10-09",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "hCaptcha",
+    "link": ""
+   },
+   {
+    "role": "People's Community Clinic — IT Support Specialist",
+    "req": "iCIMS 2406 (Austin TX; tenant-scoped number — NOT the same a",
+    "parked": "2026-10-09",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "NEEDS-HUMAN-CAPTCHA: email-verification step gated by hCaptcha — tile challenge solved twice then rejected, drag challenge rejected (\"Please try again.\"), Next stays…",
+    "link": ""
+   },
+   {
+    "role": "Good Shepherd Health Care — Cyber Security Analyst",
+    "req": "3697 (iCIMS careers-gshealth)",
+    "parked": "2026-10-09",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "iCIMS login hCaptcha (\"drag the letter\") — one auto-solve failed (captcha_capture_unavailable); AUDIT-ADDED 2026-10-22: ledger PARKED line existed since 2026-10-09 with…",
+    "link": "https://careers-gshealth.icims.com/jobs/3697/"
+   },
+   {
+    "role": "Cold Sun Enterprise — Cyber Security Business Analyst",
+    "req": "n/a (inline public form)",
+    "parked": "2026-10-09",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "NEEDS-HUMAN-LINK: form requires a hosted \"Résumé Link\" URL, no file-upload control; publishing résumé to a public link not authorized. AUDIT-ADDED 2026-10-22 (ledger…",
+    "link": ""
+   },
+   {
+    "role": "Scientel Solutions — NOC Technician",
+    "req": "470124290 (saashr.com)",
+    "parked": "2026-10-09",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "NEEDS-PASSWORD-CAPTURE: final Consent dialog requires account password; no saved login for saashr.com. AUDIT-ADDED 2026-10-22 (ledger reconcile miss)",
+    "link": ""
+   },
+   {
+    "role": "ViaPath — Telecom Site Technician",
+    "req": "4009 (iCIMS careers-viapath)",
+    "parked": "2026-10-09",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "NEEDS-HUMAN-CAPTCHA: hCaptcha gates iCIMS \"Enter Your Information\" step. AUDIT-ADDED 2026-10-22 (ledger reconcile miss)",
+    "link": "https://careers-viapath.icims.com/jobs/4009/telecom-site-technician/job"
+   },
+   {
+    "role": "MasTec Communications Group — Data Center Rack and Stack Technician",
+    "req": "66148 (iCIMS)",
+    "parked": "2026-10-09",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "NEEDS-PASSWORD-CAPTURE: iCIMS login password, no vault entry fillable. AUDIT-ADDED 2026-10-22 (ledger reconcile miss)",
+    "link": ""
+   },
+   {
+    "role": "GXO — Traveling Team Data Center Operations Support - 1st Shift",
+    "req": "1431260600 (SuccessFactors career41.sapsf.com)",
+    "parked": "2026-10-09",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "NEEDS-PASSWORD-CAPTURE: account creation requires choosing a password; no vault entry. AUDIT-ADDED 2026-10-22 (ledger reconcile miss)",
+    "link": ""
+   },
+   {
+    "role": "UChicago Medicine — Business Systems Analyst - Intermediate",
+    "req": "6122 (Oracle CX)",
+    "parked": "2026-10-08",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Oracle CX \"Confirm Your Identity\" 6-digit email-code wall at SUBMIT — protected credential_fill REFUSES split six-box code inputs (failure_reason…",
+    "link": "https://fa-etnf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/preview/6122/"
+   },
+   {
+    "role": "Emory University — Federated Security Engineer - OIT",
+    "req": "165147 (iCIMS)",
+    "parked": "2026-10-07",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "iCIMS login gate hCaptcha never resolves (challenge solved twice, Next button stays disabled with permanent verification spinner; reproduced on full retry)",
+    "link": "https://staff-emory.icims.com/jobs/165147/federated-security-engineer---oit/job"
+   },
+   {
+    "role": "Intercontinental Exchange — Engineer, Cybersecurity Engineering",
+    "req": "13851 (iCIMS careers-ice)",
+    "parked": "2026-10-07",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "iCIMS hCaptcha gate — both challenge pages solved, Next stuck on permanent spinner (reproduced). AUDIT-ADDED 2026-10-22 (ledger reconcile miss)",
+    "link": "https://careers-ice.icims.com/jobs/13851/engineer%2c-cybersecurity-engineering/job"
+   },
+   {
+    "role": "Intercontinental Exchange — Engineer, Cybersecurity",
+    "req": "13852 (iCIMS careers-ice)",
+    "parked": "2026-10-07",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "NEEDS-HUMAN-CAPTCHA: iCIMS email-gate hCaptcha. AUDIT-ADDED 2026-10-22 (ledger reconcile miss)",
+    "link": ""
+   },
+   {
+    "role": "ICE — Analyst, Cybersecurity Architecture",
+    "req": "13826 (iCIMS)",
+    "parked": "2026-10-05",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "hCaptcha mirror-reflection challenge at the iCIMS email-login gate — 3 automated solve attempts failed (challenge closes without validating, Next stays disabled;…",
+    "link": "https://careers-ice.icims.com/jobs/13826/job"
+   },
+   {
+    "role": "Questeq — Network Administrator (On Site)",
+    "req": "391339 (Paycom)",
+    "parked": "2026-09-22",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Paycom sign-in required to continue the pre-existing July-28 draft — no saved credential for paycomonline.net; secure credential-capture link issued to Varun 2026-09-22…",
+    "link": "https://paycomonline.net/v4/ats/web.php/portal/67B83823B5DB22BBB392A90580F0441F/jobs/391339"
+   },
+   {
+    "role": "Jacobs Engineering Group — Network Engineer",
+    "req": "n/a (Vienna VA, careers.jacobs.com)",
+    "parked": "2026-09-19",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "PerimeterX CAPTCHA human-verification challenge ('Begin' button); not verified; nothing submitted (ledger L1570, 2026-09-19)",
+    "link": ""
+   },
+   {
+    "role": "Rockland Trust — Network Engineer (Plymouth MA)",
+    "req": "2811 (Oracle HCM)",
+    "parked": "2026-09-16",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Oracle HCM \"Confirm Your Identity\" 6-digit email-code wall at SUBMIT — protected credential_fill refuses split six-box inputs (platform-wide refusal, confirmed…",
+    "link": ""
+   },
+   {
+    "role": "Federal Express — Sr Cyber Security Analyst",
+    "req": "P25-385499-1 (Paradox/Olivia)",
+    "parked": "2026-10-10",
+    "deadline": "2026-10-15",
+    "deadline_passed": true,
+    "blocker": "Paradox email-verification code wall — code mailed to [email] 16:27 ET (\"Your Federal Express Corporation Verification Code\", [email]). Protected credential_fill refused…",
+    "link": ""
+   },
+   {
+    "role": "District of Columbia OCTO — Supervisory IT Specialist (Network Services)",
+    "req": "JobOpeningId 33663 (careers.dc.gov)",
+    "parked": "2026-10-09",
+    "deadline": "2026-10-23",
+    "deadline_passed": true,
+    "blocker": "NEEDS-PASSWORD-CAPTURE: no saved login for careers.dc.gov; posting closes 2026-10-23. AUDIT-ADDED 2026-10-22 (ledger reconcile miss)",
+    "link": ""
+   }
+  ],
+  "pipeline_owned": [
+   {
+    "role": "Kastle Systems — Network Support Engineer",
+    "req": "5340 (iCIMS)",
+    "parked": "2026-10-30",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "iCIMS Step 1 disabled Submit Profile (spinner, no field error) after 2 password attempts + 30s wait + source change; 2nd hCaptcha dismissed unverified, may reappear;…",
+    "link": "https://careers-kastle.icims.com/jobs/5340/login"
+   },
+   {
+    "role": "Singing River Health System — Cybersecurity Administrator",
+    "req": "JR102611 (Workday mysrhs.wd108.myworkdayjobs.com)",
+    "parked": "2026-10-29",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "PASSWORD-RESET MAIL NOT ARRIVED: saved vault login REJECTED (\"You may have entered the wrong email address or password or your account might be locked\"); Forgot Password…",
+    "link": "https://mysrhs.wd108.myworkdayjobs.com/en-US/SRHS/job/Pascagoula%2C-MS/Cybersecurity-Administrator_JR102611/apply/autofillWithResume"
+   },
+   {
+    "role": "Munzing — Junior IT Support Specialist",
+    "req": "68335283 (Softgarden munzing.career.softgarden.de)",
+    "parked": "2026-10-27",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Softgarden Step-1 resume-upload aborted, no filename confirmed; nothing submitted",
+    "link": "https://munzing.career.softgarden.de/application/?jobId=68335283"
+   },
+   {
+    "role": "Senior Helpers — Technical Support Field Analyst",
+    "req": "2915467 (Hireology)",
+    "parked": "2026-10-27",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Hireology resume-upload aborted, no file confirmation; nothing submitted",
+    "link": "https://careers.hireology.com/seniorhelpers-corporate/2915467/description"
+   },
+   {
+    "role": "University of Kansas Health System — System Administrator I",
+    "req": "R-53534 (Workday kansashealthsystem.wd1.myworkdayjobs.com)",
+    "parked": "2026-10-27",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Workday saved login REJECTED (wrong email or locked); Forgot Password reached but NO reset mail arrived by 2026-10-27 11:49 ET; credential-health flag on the vault's…",
+    "link": ""
+   },
+   {
+    "role": "Bestow — Business Systems Analyst (1099 Contract)",
+    "req": "dca2806b-3be5-4890-bf93-0f6f601f61a1 (Ashby)",
+    "parked": "2026-10-27",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Ashby resume-upload aborted, field still showed 'No file chosen'; no Ashby fields filled, nothing submitted; gates re-confirmed live (6-month 1099, 2+ yrs, Remote US…",
+    "link": "https://jobs.ashbyhq.com/bestow/dca2806b-3be5-4890-bf93-0f6f601f61a1/application"
+   },
+   {
+    "role": "AWS Security Assurance Services — Security & Compliance Engineer I",
+    "req": "10588655 (amazon.jobs / IdPrism)",
+    "parked": "2026-10-27",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Amazon passport site error AFTER successful code verification: fresh IdPrism code entered + Verify clicked, then redirect to passport.amazon.jobs?id=PPV2_ERROR_CODE_21…",
+    "link": "https://www.amazon.jobs/en/jobs/10588655/security-compliance-engineer-i-aws-security-assurance-services-llc"
+   },
+   {
+    "role": "HPE — Intermediate Network Systems Administrator",
+    "req": "1216526 (HPE Careers)",
+    "parked": "2026-10-26",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Step 1 resume upload aborted: Upload Resume exposed no file-input reference; granted-file upload returned \"aborted\"; no résumé uploaded, no fields filled, nothing…",
+    "link": "https://careers.hpe.com/us/en/apply?jobSeqNo=HPE1US1216526EXTERNALENUS&step=1&stepname=personalInformation"
+   },
+   {
+    "role": "Husco — Network Engineer",
+    "req": "ADP jobId 576302",
+    "parked": "2026-10-26",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "ADP email verification: code box empty; ~10:10 ET resend produced no email as of 10:19 ET Gmail check (no ADP code newer than 10:07:01 ET); earlier codes expired and the…",
+    "link": ""
+   },
+   {
+    "role": "American Eagle Outfitters — Network Engineer",
+    "req": "33466 (Oracle HCM)",
+    "parked": "2026-10-26",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Confirm Your Identity verification blocked: 09:34 + 10:10 codes expired unused; fresh code from authorized ~10:24 resend could not be delivered to the dialog…",
+    "link": ""
+   },
+   {
+    "role": "Legends Global — IT Network Specialist",
+    "req": "R100126239 (Workday)",
+    "parked": "2026-10-24",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Saved asmglobal Workday login REJECTED at step 1 of 8 Create Account In — verbatim \"You may have entered the wrong email address or password or your account might be…",
+    "link": ""
+   },
+   {
+    "role": "O'Reilly — Sr Information Security Analyst",
+    "req": "R206896 (Workday)",
+    "parked": "2026-10-24",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Saved oreillyauto.wd1 Workday login REJECTED verbatim \"You may have entered the wrong email address or password or your account might be locked.\" Autonomous reset…",
+    "link": ""
+   },
+   {
+    "role": "Mohawk Industries — Security Administrator",
+    "req": "1433910400 (SuccessFactors)",
+    "parked": "2026-10-24",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "ACCOUNT CREATED phase-321 (keyboard Terms breakthrough 18:21–18:24 ET; multiple successful sign-ins since confirm the account exists — resolves the pre-321 no-account…",
+    "link": ""
+   },
+   {
+    "role": "DTCC — Cyber Monitoring and Incident Response Associate (SOC Analyst)",
+    "req": "214707 (Oracle HCM)",
+    "parked": "2026-10-23",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Oracle HCM sign-in gate (ebxr.fa.us2.oraclecloud.com): NO saved vault login for oraclecloud.com; the applier window's login service refused credential entry (\"no chat to…",
+    "link": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/my-profile/sign-in"
+   },
+   {
+    "role": "Reyes Holdings — Sr. Network Security Engineer",
+    "req": "36723 (jobportal.reyesholdings.com)",
+    "parked": "2026-10-22",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Portal sign-in wall: no saved vault login for jobportal.reyesholdings.com; task reports the universal job-portal credential \"missing\" (credential_fill offered nothing) —…",
+    "link": "https://jobportal.reyesholdings.com/rh/jobs/36723?lang=en-US"
+   },
+   {
+    "role": "Particle Measuring Systems — DevOps Engineer",
+    "req": "18795",
+    "parked": "2026-10-17",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Workday sign-in wall (spectris.wd3.myworkdayjobs.com, tenant PMS_Careers): saved vault login REJECTED — verbatim \"You may have entered the wrong email address or…",
+    "link": "https://spectris.wd3.myworkdayjobs.com/en-US/PMS_Careers/job/Niwot-CO/DevSecOps-Engineer_18795"
+   },
+   {
+    "role": "Medpace — Entry Business Systems Analyst - Commercial Finance",
+    "req": "13077",
+    "parked": "2026-10-16",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Phase-227 applier retry (~20:55–21:06 ET) FINAL: posting verified OPEN (req [zip], Cincinnati OH, working APPLY); Secure Vault lookup = NO saved login for icims.com;…",
+    "link": ""
+   },
+   {
+    "role": "Amazon ×6 — Mobile Security Engineer AppSec (10509690), Application Security Engineer AppSec ASSET (10504744),",
+    "req": "5 reqs (amazon.jobs)",
+    "parked": "2026-10-10",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Amazon IdPrism sign-in wall: NO Secure Vault login exists for amazon.jobs (credential_fill capture_required); the universal job-portal credential is not offered on this…",
+    "link": "https://www.amazon.jobs/en/jobs/10524818/security-engineer-security-for-employee-and-legal-systems-seals"
+   }
+  ],
+  "quota": [
+   {
+    "role": "Google — Senior Software Engineer, Infrastructure, Google Cloud Global Networking",
+    "req": "n/a (Google Careers)",
+    "parked": "2026-10-23",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Google Careers 30-day quota: intake recount phase-299 — 3–5 in-window submissions (Sep 23 / Oct 9 / Oct 12 account-known + up to 2 external \"Thanks for applying to…",
+    "link": ""
+   },
+   {
+    "role": "Google — Technical Program Manager I, Network Deployment Optimization, Cloud Networking",
+    "req": "n/a (Google Careers)",
+    "parked": "2026-10-23",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Google Careers 30-day quota: intake recount phase-299 — 3–5 in-window submissions; cap = 3. Gates NOT run per protocol (quota intake pre-empted). No tailor.",
+    "link": ""
+   },
+   {
+    "role": "Google — Technical Program Manager II, Network Deployment, Data Centers",
+    "req": "n/a (Google Careers)",
+    "parked": "2026-10-23",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Google Careers 30-day quota: intake recount phase-299 — 3–5 in-window submissions; cap = 3. Gates NOT run per protocol (quota intake pre-empted). No tailor.",
+    "link": ""
+   },
+   {
+    "role": "Google — Senior Network Engineer, Out-of-Band Management",
+    "req": "n/a (Google Careers)",
+    "parked": "2026-10-23",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Google Careers 30-day quota: 4 in-window \"Thanks for applying to Google\" confirmations (Oct 9, Oct 12, Oct 22 12:46 ET, Oct 22 14:59 ET) vs cap 3; dashboard read…",
+    "link": ""
+   },
+   {
+    "role": "Google — Network Implementation Engineer Manager",
+    "req": "n/a (Google Careers)",
+    "parked": "2026-10-19",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Google Careers 30-day quota: account at cap — 4 in-window submissions (Sep 22 / Sep 23 / Oct 9 / Oct 12, 2026); dashboard banner class same as the Mandiant quota park.",
+    "link": ""
+   },
+   {
+    "role": "Google — Optical Transport Network Engineer",
+    "req": "n/a (Google Careers)",
+    "parked": "2026-10-18",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Google Careers 30-day quota: dashboard banner \"You've reached the limit of 3 applications in a 30 day window\" — 4 submitted in-window (Sep 22 / Sep 23 / Oct 9 / Oct 12,…",
+    "link": ""
+   },
+   {
+    "role": "Google — Cyber Defense Detection Engineer, Mandiant, Google Cloud",
+    "req": "n/a (Google Careers)",
+    "parked": "2026-10-15",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Google Careers 30-day quota: dashboard banner \"You can't submit an application at this time. You've reached the limit of 3 applications in a 30 day window.\" In-window:…",
+    "link": ""
+   },
+   {
+    "role": "Google — Software Engineer III, Infrastructure, Google Distributed Cloud",
+    "req": "req n/a (Google Careers)",
+    "parked": "2026-10-14",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Google Careers 3-in-30-day quota: dashboard banner \"You've reached the limit of 3 applications in a 30 day window\" — 4 submitted in-window (Sep 22 / Sep 23 / Oct 9 / Oct…",
+    "link": ""
+   },
+   {
+    "role": "Google — Software Engineer III, Performance, Platforms Infrastructure Engineering",
+    "req": "req n/a (Google Careers)",
+    "parked": "2026-10-14",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Google Careers 3-in-30-day quota: dashboard banner \"You've reached the limit of 3 applications in a 30 day window\" — 4 submitted in-window (Sep 22 / Sep 23 / Oct 9 / Oct…",
+    "link": ""
+   },
+   {
+    "role": "Google — Security Engineer II, Enterprise Detection Engineering",
+    "req": "req n/a (Google Careers)",
+    "parked": "2026-10-14",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Google Careers 3-in-30-day quota: dashboard banner \"You've reached the limit of 3 applications in a 30 day window\" — 4 submitted in-window (Sep 22 / Sep 23 / Oct 9 / Oct…",
+    "link": ""
+   },
+   {
+    "role": "YouTube — Software Engineer III, Infrastructure, YouTube",
+    "req": "77977290071253702 (Google Careers)",
+    "parked": "2026-10-14",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Google Careers 3-in-30-day quota (4 in-window submissions Sep 22–Oct 12); pagewatch kept \"retry ~2026-10-22\". AUDIT-ADDED 2026-10-22 (ledger reconcile miss)",
+    "link": ""
+   },
+   {
+    "role": "Google — SFDC Business Systems Analyst, Devices and Services Systems",
+    "req": "88892349232358086",
+    "parked": "2026-10-13",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Google Careers account quota: dashboard banner \"You've reached the limit of 3 applications in a 30 day window\" — 4 submitted in-window (Sep 22 / Sep 23 / Oct 9 / Oct 12,…",
+    "link": ""
+   }
+  ],
+  "portal_limit": [
+   {
+    "role": "OpenAI — Network Infrastructure Engineer, Global Network Infra (WAN)",
+    "req": "Ashby 9f7371c4-e306-4a45-a400-aa2843fabd85 (not a req ID)",
+    "parked": "2026-10-29",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Ashby portal application limit (5 in 180 days)",
+    "link": ""
+   }
+  ],
+  "watch_reset": [
+   {
+    "role": "NuAxis — Help Desk Specialist",
+    "req": "4244 (Taleo NUAXINNO)",
+    "parked": "2026-10-11",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Taleo saved login REJECTED for [email] (account confirmed to EXIST by the req-4238 registration probe 2026-10-10); password-reset LINK requested ~2026-10-10 afternoon…",
+    "link": "https://phg.tbe.taleo.net/phg02/ats/careers/v2/viewRequisition?org=NUAXINNO&cws=39&rid=4244"
+   },
+   {
+    "role": "NuAxis — Data Center Technician II",
+    "req": "4238 (Taleo)",
+    "parked": "2026-10-10",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Taleo saved login REJECTED (\"Email address and password do not match\"); registration probe confirmed the account EXISTS for [email]; \"I forgot my password\" submitted…",
+    "link": ""
+   }
+  ],
+  "hold": [
+   {
+    "role": "AF Group — Infrastructure Engineer I",
+    "req": "14053 (Oracle HCM)",
+    "parked": "2026-10-26",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Confirm Your Identity verification blocked: 09:30 + 10:11 codes expired unused; fresh code from authorized ~10:24 resend could not be delivered to the dialog…",
+    "link": ""
+   },
+   {
+    "role": "Verizon — Junior Data Security Engineer",
+    "req": "R-1101423 (Workday; Alpharetta GA)",
+    "parked": "2026-10-13",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Workday saved vault login REJECTED (\"wrong email or account locked\"); autonomous Forgot-Password reset requested ONCE (~12:26 ET, rule 8b) for [email] — reset email…",
+    "link": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Alpharetta-Georgia/Junior-Data-Security-Engineer_R-1101423-1"
+   },
+   {
+    "role": "Apple — Retail Network Engineer",
+    "req": "n/a",
+    "parked": "2026-10-09",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "AppleAccount gate",
+    "link": ""
+   }
+  ],
+  "resolved": [
+   {
+    "role": "Synopsys — Network Engineering, Sr. Associate",
+    "req": "19522 (Avature)",
+    "parked": "2026-10-28",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "No saved vault login for synopsys.avature.net; detached-run login service refused credential entry, so universal-credential account creation could not be executed",
+    "link": "https://synopsys.avature.net/careers/Login?jobId=19522"
+   },
+   {
+    "role": "JMARK — Network Engineer III",
+    "req": "8e9a334f-e67a-4cef-a508-9ead25f22af5 (Rippling)",
+    "parked": "2026-10-26",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Cloudflare \"Verify you are human\" checkbox failed verification on the single allowed captcha attempt (Apply clicked ~4:32 PM EDT Oct 26; widget \"Verifying...\" then…",
+    "link": ""
+   },
+   {
+    "role": "Decisions — Analyst, Security & Compliance",
+    "req": "01e13eca-ce46-437d-bdaa-d1e84a218eeb",
+    "parked": "2026-10-24",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Rippling Cloudflare verification failed on single allowed solver attempt; page shows Verification expired, Apply disabled, resume and fields preserved",
+    "link": ""
+   },
+   {
+    "role": "FINRA — Staff Security Engineer",
+    "req": "R-010371 (Workday finra.wd1)",
+    "parked": "2026-10-23",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Phase-303 applier (~20:05–20:30 ET) did rule-8b reset (no email — no account on tenant) then rule-8c account creation with the universal credential; window closed…",
+    "link": ""
+   },
+   {
+    "role": "Applied Materials — IT Systems Analyst, Engineering Support",
+    "req": "R2625445 (Eightfold)",
+    "parked": "2026-10-18",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Two platform-native approval cards (connector-acb47e94-6621-4b84-b003-30b5df488a7c, connector-77026e50-b2f4-4fd6-b429-59ddfe38775e) blocked the browser task — invisible…",
+    "link": "https://careers.appliedmaterials.com/careers/job/790317756057?domain=appliedmaterials.com"
+   },
+   {
+    "role": "M Homes — IT Support Engineer I",
+    "req": "433633B55E (Workable)",
+    "parked": "2026-10-17",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Résumé upload widget inoperable from automation ('target_blocked' on every upload control; no file picker opens; tried pre, element-ref, keyboard, and visual-grounding…",
+    "link": "https://apply.workable.com/mi-homes/j/433633B55E/apply"
+   },
+   {
+    "role": "Meta — Lab Engineer, Hardware Infrastructure",
+    "req": "2068897733740737 (metacareers.com)",
+    "parked": "2026-10-15",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Same metacareers.com wall as sibling ProdSys attempt (2 browser-task hangs today); autonomous dispatch withheld to avoid burning a slot on the known-broken flow. No…",
+    "link": "https://www.metacareers.com/profile/job_details/2068897733740737/"
+   },
+   {
+    "role": "USC Beaufort — Asst Network Administrator",
+    "req": "STA00772PO26 (uscjobs.sc.edu)",
+    "parked": "2026-10-15",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Imperva hCaptcha on account-creation page (https:): one authorized solve attempt failed (3x3 grid timed out, challenge did not clear); no account created, nothing…",
+    "link": "https://uscjobs.sc.edu/user/new"
+   },
+   {
+    "role": "Deutsche Bank — Network Operation Engineer",
+    "req": "R0455582",
+    "parked": "2026-10-15",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Re-attempt applier hung on autofillWithResume upload step (~38 min, task closed per hang rule); nothing submitted. Workday \"Verify your candidate account\" LINK email…",
+    "link": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Jacksonville-5201-Gate-Parkway/Network-Operation-Engineer_R0455582-1"
+   },
+   {
+    "role": "Namespace Labs — DevOps Engineer, US",
+    "req": "e1aafe2a-d9e4-465e-8c20-6ec62b25720d (Ashby)",
+    "parked": "2026-10-13",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Ashby form makes \"GitHub profile\" a REQUIRED field; Varun's GitHub URL is in NONE of the pipeline sources — grepped profile_bundle.md, MASTER Ch. 13, MEMORY.md,…",
+    "link": "https://jobs.ashbyhq.com/namespace/e1aafe2a-d9e4-465e-8c20-6ec62b25720d/application"
+   },
+   {
+    "role": "DTCC — Network Operations Engineer",
+    "req": "213475 (Oracle HCM)",
+    "parked": "2026-10-10",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Oracle HCM \"Verify it's you\" 6-digit email-code wall after work-email entry — code emailed Sat Oct 10 8:53 PM EDT from \"DTCC Talent Acquisi.\" (DTCC Talent Acquisition),…",
+    "link": ""
+   },
+   {
+    "role": "Pylon — Product Support Engineer",
+    "req": "2b1c3ce3-0b80-4daa-b9b8-8f48b24e491f (Ashby)",
+    "parked": "2026-10-10",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Ashby form makes \"LinkedIn URL*\" REQUIRED with live validation — blank rejected with verbatim banner \"Your form needs corrections — Missing entry for required field:…",
+    "link": "https://www.linkedin.com/in/varun-k-b61950249/"
+   },
+   {
+    "role": "Weave — SRE Cloud Infrastructure",
+    "req": "Ashby ce79425d",
+    "parked": "2026-10-09",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "\"How did you hear about us?\" no truthful option",
+    "link": ""
+   },
+   {
+    "role": "USC — IAM PAM & SSO Senior Analyst",
+    "req": "REQ20181215",
+    "parked": "2026-10-09",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "vault password rejected → reset flow",
+    "link": ""
+   },
+   {
+    "role": "Trew — Cybersecurity Administrator",
+    "req": "n/a (Paycor)",
+    "parked": "2026-10-09",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "non-compete + start date unknown",
+    "link": ""
+   },
+   {
+    "role": "Mosaic — Senior Cybersecurity Analyst",
+    "req": "65155",
+    "parked": "2026-10-09",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "site credential capture (mosaic.wd5)",
+    "link": ""
+   },
+   {
+    "role": "Lennar — Security Analyst II",
+    "req": "R26_0000004407 (was \"1841\")",
+    "parked": "2026-10-09",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "password-reset (lennar.wd1)",
+    "link": ""
+   },
+   {
+    "role": "Lennar — LTG Security Engineer II",
+    "req": "R26_0000003877 (was \"1859\")",
+    "parked": "2026-10-09",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "password-reset (lennar.wd1)",
+    "link": ""
+   },
+   {
+    "role": "Nelnet — Enterprise Network Analyst",
+    "req": "R23055 (Workday nelnet.wd1.myworkdayjobs.com)",
+    "parked": "2026-10-05",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "NEEDS-PASSWORD-CAPTURE — no Nelnet candidate account existed for [email] (reset email never arrived; saved vault Workday login was a different tenant's password,…",
+    "link": ""
+   }
+  ],
+  "closed": [
+   {
+    "role": "Mastery Schools — Business Systems Analyst",
+    "req": "25983fc5-3cce-47dd-bc72-7b964f2b2960 (Lever)",
+    "parked": "2026-10-16",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "hCaptcha on Submit — one allowed solve attempt used (2 toaster tiles + Verify), Lever red banner \"There was an error verifying your application. Please try again\"; per…",
+    "link": "https://jobs.lever.co/masterycharter/25983fc5-3cce-47dd-bc72-7b964f2b2960/apply"
+   },
+   {
+    "role": "OpenAI — Client Platform Engineer",
+    "req": "329fe50f-7701-4f07-982d-a4e10cbec236 (Ashby)",
+    "parked": "2026-10-15",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Ashby form checkbox #1 is an ARBITRATION AGREEMENT acknowledgment (verbatim: \"I acknowledge that I have opened, read, and understood the Arbitration Agreement. I…",
+    "link": "https://jobs.ashbyhq.com/openai/329fe50f-7701-4f07-982d-a4e10cbec236/application"
+   },
+   {
+    "role": "Behavioral Innovations — Business Systems Analyst I",
+    "req": "17017 (iCIMS)",
+    "parked": "2026-10-15",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "iCIMS login hCaptcha drag challenge (\"Drag the correct animal into its matching outline\") not cleared after the single allowed solve attempt (elephant tile dragged onto…",
+    "link": "https://careers.behavioral-innovations.com/careers-home/jobs/17017?lang=en-us"
+   },
+   {
+    "role": "Associated Bank — Infrastructure Engineer-Network Automation Focused (Workday)",
+    "req": "JR106433 (Workday; US WI Remote)",
+    "parked": "2026-10-14",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Workday candidate account CREATED with the universal job-portal credential (no account existed — explains the rejected saved login + never-arriving reset email). Blocked…",
+    "link": "https://associatedbank.wd1.myworkdayjobs.com/en-US/external_careers/job/US-WI-Remote/Infrastructure-Engineer-Network-Automation-Focused_JR106433-1"
+   },
+   {
+    "role": "State Street — Site Reliability Engineer",
+    "req": "R-799337",
+    "parked": "2026-10-13",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Workday candidate portal (statestreet.wd1.myworkdayjobs.com — NOTE: actual portal is Workday, not Phenom as the verify portal-tag said): saved vault login REJECTED…",
+    "link": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/login"
+   },
+   {
+    "role": "TCOM, L.P. — IT Engineer",
+    "req": "a8813d72 (UKG)",
+    "parked": "2026-10-12",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "UKG universal sign-in (signin-us.ultipro.com) — no saved credential in the Secure Vault; one autonomous Forgot-Password reset requested ~12:25 ET for [email] (rule 8b);…",
+    "link": "https://recruiting.ultipro.com/tco1001tcom/JobBoard/74e57e92-4355-44d7-8471-3c6eecfda9ef/OpportunityDetail?opportunityId=a8813d72-4239-4c18-82cc-d92474735b58"
+   },
+   {
+    "role": "Hanley Energy — IT Support Engineer (HE LLC)",
+    "req": "361073 (Paycom)",
+    "parked": "2026-10-12",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Paycom hCaptcha loop on the \"Getting You Started\" modal — 3 challenges attempted per 90s cap; challenge keeps looping, blocking \"Continue To Application\". Guest modal…",
+    "link": "https://paycomonline.net/v4/ats/web.php/portal/081B7ACAEA95DF6B477037CD34092F47/jobs/361073"
+   },
+   {
+    "role": "Duncan Regional Hospital — Network Analyst I",
+    "req": "384319 (Paycom)",
+    "parked": "2026-10-12",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Paycom hCaptcha loop — 3 hCaptcha challenges solved in a row, but every \"Continue To Application\" click spawns a fresh hCaptcha (4th displayed, \"Drag the letter\");…",
+    "link": "https://paycomonline.net/v4/ats/web.php/portal/C48961799EBD231096CE8423D325C34C/jobs/384319"
+   },
+   {
+    "role": "Coca-Cola Bottling Company UNITED — PC Network Technician 2",
+    "req": "1439035200 (SuccessFactors; fill-scope: career4.successfacto",
+    "parked": "2026-10-12",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "SuccessFactors saved vault login REJECTED (\"Invalid email address or password\") on career4; autonomous Forgot-Password reset requested ~17:19 ET (rule 8b, reset ONCE —…",
+    "link": "https://conaservices.jobs2web.com/united/job/North-Metro-PC-Network-Technician-2-GA-30350/1439035200/"
+   },
+   {
+    "role": "Bergstrom Automotive — IT Support Specialist",
+    "req": "143280 (Paycom)",
+    "parked": "2026-10-12",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Paycom hCaptcha on the \"Getting You Started\" modal — 3 automated attempts exhausted per 90s cap (prompt \"Tap all objects that can be completely concealed by the item…",
+    "link": "https://www.paycomonline.net/v4/ats/web.php/portal/580F9DD75B8A1D513E3CD4384FF89F15/jobs/143280"
+   },
+   {
+    "role": "Apollo Information Systems — Cybersecurity Engineer",
+    "req": "Ashby 35d03ecb-143c-497f-aedf-985063cb30d7",
+    "parked": "2026-10-10",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Ashby form makes \"LinkedIn Profile\" a REQUIRED field with live URL validation (\"Please enter a valid URL\") — standing no-LinkedIn rule forbids entering his URL; \".\"…",
+    "link": "https://jobs.ashbyhq.com/apollo-information-systems/35d03ecb-143c-497f-aedf-985063cb30d7/application"
+   },
+   {
+    "role": "ElevenLabs — Infrastructure Engineer",
+    "req": "31a6f0f4 (Ashby)",
+    "parked": "2026-10-10",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Ashby submit blocked verbatim: \"We couldn't submit your application — I'm sorry we are limiting applications to give everyone a chance. As you have applied for a…",
+    "link": ""
+   },
+   {
+    "role": "Verizon — Security Engineer",
+    "req": "r-1099950 (Workday; mycareer.verizon.com)",
+    "parked": "2026-10-10",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Cloudflare \"Verify you are human\" challenge on mycareer.verizon.com defeated 4 solve attempts; task parked with the Cloudflare page open awaiting his manual checkbox…",
+    "link": ""
+   },
+   {
+    "role": "Moody's — Cybersecurity Engineer",
+    "req": "101271528944",
+    "parked": "2026-10-09",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "site credential capture (SuccessFactors)",
+    "link": ""
+   },
+   {
+    "role": "MDH Deputy Secretary for Public Health Services — Computer Network & Systems Specialist",
+    "req": "26-004488-0020 (JobAps; jobapscloud.com/MD)",
+    "parked": "2026-10-06",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "JobAps sign-in required; no saved vault login for jobapscloud.com; registration needs last-4 SSN + DOB (SSN4 not in pipeline records; will not invent)",
+    "link": ""
+   }
+  ],
+  "superseded": [
+   {
+    "role": "Legends Global — IT Technician",
+    "req": "R100126098 (Workday)",
+    "parked": "2026-10-17",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Saved myworkdayjobs.com login REJECTED ('You may have entered the wrong email address or password or your account might be locked.'). Forgot-password reset REQUESTED for…",
+    "link": "https://asmglobal.wd1.myworkdayjobs.com/careers/job/Shreveport-LA/IT-Technician_R100126098"
+   }
+  ],
+  "other": []
+ },
+ "notes": [
+  "Counts come from the pipeline ledger (submissions) and the park registry (parked roles).",
+  "Ledger submission counts are the verified floor: some run reports claimed more on certain days than ever got ledger lines.",
+  "The human-gate queue is ordered deadline-first, then newest parked first. A row's deadline is read from its registry text and may be approximate.",
+  "No personal details are published here: no email addresses, phone numbers, street addresses, or resume file paths."
+ ]
+}

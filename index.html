@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Job Application Dashboard</title>
+<style>
+  :root { --bg:#0f1115; --card:#171a21; --line:#262b36; --text:#e8eaf0; --muted:#9aa3b2; --green:#3fb950; --amber:#d29922; --red:#f85149; --blue:#58a6ff; }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--text); font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; line-height:1.5; }
+  main { max-width:1060px; margin:0 auto; padding:24px 16px 64px; }
+  h1 { font-size:26px; margin:0 0 4px; }
+  .sub { color:var(--muted); margin:0 0 24px; }
+  h2 { font-size:19px; margin:32px 0 12px; }
+  h3 { font-size:15px; margin:20px 0 8px; color:var(--muted); text-transform:uppercase; letter-spacing:.04em; }
+  .cards { display:grid; grid-template-columns:repeat(auto-fit,minmax(150px,1fr)); gap:12px; }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:12px; padding:14px 16px; }
+  .card b { display:block; font-size:30px; line-height:1.1; }
+  .card span { color:var(--muted); font-size:13px; }
+  .card.hot b { color:var(--amber); }
+  .card.ok b { color:var(--green); }
+  table { width:100%; border-collapse:collapse; font-size:14px; }
+  th { text-align:left; color:var(--muted); font-size:12px; text-transform:uppercase; letter-spacing:.04em; padding:8px; border-bottom:1px solid var(--line); }
+  td { padding:8px; border-bottom:1px solid var(--line); vertical-align:top; }
+  tr:hover td { background:#1c2029; }
+  a { color:var(--blue); text-decoration:none; }
+  a:hover { text-decoration:underline; }
+  .pill { display:inline-block; font-size:12px; padding:1px 8px; border-radius:99px; border:1px solid var(--line); }
+  .pill.yes { color:var(--green); border-color:#2a4a2e; }
+  .pill.no { color:var(--amber); border-color:#4a3a1a; }
+  .bars { display:flex; align-items:flex-end; gap:6px; height:150px; padding:12px 4px 0; border-bottom:1px solid var(--line); overflow-x:auto; }
+  .barcol { display:flex; flex-direction:column; align-items:center; gap:4px; min-width:44px; }
+  .bar { width:26px; background:var(--blue); border-radius:4px 4px 0 0; }
+  .bar.today { background:var(--green); }
+  .barlab { font-size:11px; color:var(--muted); white-space:nowrap; }
+  .barval { font-size:12px; font-weight:600; }
+  input[type=search] { width:100%; padding:10px 12px; border-radius:8px; border:1px solid var(--line); background:var(--card); color:var(--text); font-size:15px; margin-bottom:12px; }
+  details { background:var(--card); border:1px solid var(--line); border-radius:12px; padding:12px 16px; margin-bottom:12px; }
+  details summary { cursor:pointer; font-weight:600; }
+  .note { color:var(--muted); font-size:13px; }
+  footer { margin-top:40px; color:var(--muted); font-size:13px; border-top:1px solid var(--line); padding-top:16px; }
+  footer li { margin-bottom:4px; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Job Application Dashboard</h1>
+  <p class="sub" id="updated">Loading…</p>
+
+  <div class="cards" id="cards"></div>
+
+  <h2>Daily apply rate</h2>
+  <p class="note">Submissions per day, from ledger-verified records. Today is green.</p>
+  <div class="bars" id="bars"></div>
+  <table id="dailytable"><thead><tr><th>Date</th><th>Submitted</th></tr></thead><tbody></tbody></table>
+
+  <h2>Submitted today</h2>
+  <table id="todaytable"><thead><tr><th>Company</th><th>Role</th><th>Req</th><th>Email confirmation</th></tr></thead><tbody></tbody></table>
+
+  <h2>Stopped at a human gate — needs your hands</h2>
+  <p class="note">Ordered deadline-first, then newest parked first. Use search to find a company or role.</p>
+  <input type="search" id="q" placeholder="Search the queue… (company, role, req)">
+  <table id="queuetable"><thead><tr><th>#</th><th>Role</th><th>Req</th><th>Parked</th><th>Deadline</th><th>Why it stopped</th><th>Apply</th></tr></thead><tbody></tbody></table>
+  <p class="note" id="qcount"></p>
+
+  <h2>Everything else</h2>
+  <div id="other"></div>
+
+  <footer><ul id="notes"></ul></footer>
+</main>
+<script>
+fetch('data.json').then(r => r.json()).then(d => {
+  document.getElementById('updated').textContent = 'Last updated: ' + d.generated_at_et + ' · Refreshes daily.';
+  const s = d.summary;
+  const cards = [
+    ['Total submitted (ledger)', s.total_submitted_ledger, 'ok'],
+    ['Submitted today', s.today_submitted, 'ok'],
+    ['Needs your hands', s.human_gate, 'hot'],
+    ['Reset-watch', s.watch_reset, ''],
+    ['Pipeline retries', s.pipeline_owned, ''],
+    ['Quota-blocked', s.quota, ''],
+    ['On hold by you', s.hold, ''],
+    ['Parks resolved', s.resolved, 'ok'],
+    ['Parks closed', s.closed, ''],
+  ];
+  document.getElementById('cards').innerHTML = cards.map(c =>
+    '<div class="card ' + c[2] + '"><b>' + c[1] + '</b><span>' + c[0] + '</span></div>').join('');
+
+  const max = Math.max(1, ...d.daily.map(x => x.count));
+  const today = new Date().toISOString().slice(0, 10);
+  document.getElementById('bars').innerHTML = d.daily.map(x => {
+    const h = Math.round(x.count / max * 130) + 6;
+    const cls = x.date === today ? 'bar today' : 'bar';
+    return '<div class="barcol"><div class="barval">' + x.count + '</div><div class="' + cls + '" style="height:' + h + 'px"></div><div class="barlab">' + x.date.slice(5) + '</div></div>';
+  }).join('');
+  document.getElementById('dailytable').querySelector('tbody').innerHTML =
+    d.daily.slice().reverse().map(x => '<tr><td>' + x.date + '</td><td>' + x.count + '</td></tr>').join('');
+
+  const tb = document.getElementById('todaytable').querySelector('tbody');
+  tb.innerHTML = d.today.length ? d.today.map(x =>
+    '<tr><td>' + x.company + '</td><td>' + x.role + '</td><td>' + (x.req || '—') + '</td><td>' +
+    (x.email_confirmed ? '<span class="pill yes">Email received</span>' : '<span class="pill no">Portal only, no email yet</span>') + '</td></tr>').join('')
+    : '<tr><td colspan="4">Nothing submitted today yet.</td></tr>';
+
+  const q = d.queue.human_gate;
+  const qb = document.getElementById('queuetable').querySelector('tbody');
+  function render(rows) {
+    qb.innerHTML = rows.map((x, i) =>
+      '<tr><td>' + (i + 1) + '</td><td>' + x.role + '</td><td>' + (x.req || '—') + '</td><td>' + (x.parked || '—') + '</td><td>' + (x.deadline ? x.deadline + (x.deadline_passed ? ' (passed?)' : '') : '—') + '</td><td>' + x.blocker + '</td><td>' + (x.link ? '<a href="' + x.link + '" target="_blank" rel="noopener">Apply</a>' : '—') + '</td></tr>').join('');
+    document.getElementById('qcount').textContent = 'Showing ' + rows.length + ' of ' + q.length + ' parks.';
+  }
+  render(q);
+  document.getElementById('q').addEventListener('input', e => {
+    const t = e.target.value.toLowerCase();
+    render(q.filter(x => (x.role + ' ' + x.req + ' ' + x.blocker).toLowerCase().includes(t)));
+  });
+
+  function mini(title, rows) {
+    if (!rows.length) return '';
+    return '<details><summary>' + title + ' (' + rows.length + ')</summary><table><thead><tr><th>Role</th><th>Req</th><th>Parked</th><th>Note</th><th>Apply</th></tr></thead><tbody>' +
+      rows.map(x => '<tr><td>' + x.role + '</td><td>' + (x.req || '—') + '</td><td>' + (x.parked || '—') + '</td><td>' + x.blocker + '</td><td>' + (x.link ? '<a href="' + x.link + '" target="_blank" rel="noopener">Apply</a>' : '—') + '</td></tr>').join('') +
+      '</tbody></table></details>';
+  }
+  document.getElementById('other').innerHTML =
+    mini('Pipeline-owned retries (automatic)', d.queue.pipeline_owned) +
+    mini('Quota-blocked (retry ~Nov 8)', d.queue.quota) +
+    mini('Reset-watch (pipeline watches inbox)', d.queue.watch_reset) +
+    mini('Portal limit (do not re-stage)', d.queue.portal_limit) +
+    mini('On hold by your order', d.queue.hold) +
+    mini('Resolved to submitted', d.queue.resolved) +
+    mini('Closed (dead / rejected / filled)', d.queue.closed);
+
+  document.getElementById('notes').innerHTML = d.notes.map(n => '<li>' + n + '</li>').join('');
+}).catch(e => {
+  document.getElementById('updated').textContent = 'Could not load dashboard data.';
+});
+</script>
+</body>
+</html>
