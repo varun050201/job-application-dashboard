@@ -1,9 +1,9 @@
 {
- "generated_at_et": "2026-10-30 17:04 ET",
+ "generated_at_et": "2026-10-30 18:45 ET",
  "summary": {
   "total_submitted_ledger": 45,
   "today_submitted": 8,
-  "human_gate": 163,
+  "human_gate": 165,
   "watch_reset": 2,
   "pipeline_owned": 18,
   "quota": 12,
@@ -11,7 +11,7 @@
   "hold": 3,
   "resolved": 19,
   "closed": 15,
-  "registry_rows": 234
+  "registry_rows": 236
  },
  "daily": [
   {
@@ -209,6 +209,24 @@
     "deadline_passed": false,
     "blocker": "Saved vault login for myworkdayjobs.com REJECTED (\"wrong email or locked\"); autonomous forgot-password reset FAILED (\"Failed to initiate password reset, please contact…",
     "link": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Security-Operations-Analyst_JREQ204391"
+   },
+   {
+    "role": "MM Packaging US — IT Administrator",
+    "req": "2015 (SuccessFactors career55.sapsf.eu, tenant mayrmelnhoP2)",
+    "parked": "2026-10-30",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "No saved Secure Vault login signs in to sapsf.eu; detached-run login service cannot enter the universal job-portal credential, so neither sign-in, reset, nor account…",
+    "link": "https://career55.sapsf.eu/career?career_ns=job_listing&company=mayrmelnhoP2&career_job_req_id=2015"
+   },
+   {
+    "role": "Target — Senior Engineer – Security Visibility Infrastructure",
+    "req": "R0000479461 (Workday target.wd5.myworkdayjobs.com)",
+    "parked": "2026-10-30",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Saved vault login for target.wd5.myworkdayjobs.com REJECTED (\"wrong email address or password or account might be locked\"); autonomous reset initiated per rule 8b…",
+    "link": "https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Senior-Engineer---Security-Visibility-Infrastructure_R0000479461/apply"
    },
    {
     "role": "Robinhood — Senior Cloud Security Engineer",
