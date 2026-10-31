@@ -1,17 +1,17 @@
 {
- "generated_at_et": "2026-10-30 18:45 ET",
+ "generated_at_et": "2026-10-30 22:41 ET",
  "summary": {
-  "total_submitted_ledger": 45,
-  "today_submitted": 8,
-  "human_gate": 165,
+  "total_submitted_ledger": 46,
+  "today_submitted": 9,
+  "human_gate": 170,
   "watch_reset": 2,
-  "pipeline_owned": 18,
+  "pipeline_owned": 16,
   "quota": 12,
   "portal_limit": 1,
   "hold": 3,
   "resolved": 19,
-  "closed": 15,
-  "registry_rows": 236
+  "closed": 16,
+  "registry_rows": 240
  },
  "daily": [
   {
@@ -84,7 +84,7 @@
   },
   {
    "date": "2026-10-30",
-   "count": 8
+   "count": 9
   }
  ],
  "today": [
@@ -143,6 +143,13 @@
    "req": "106352",
    "date": "2026-10-30",
    "email_confirmed": true
+  },
+  {
+   "company": "Black Mountain Dynamics",
+   "role": "IT Support Technician",
+   "req": "",
+   "date": "2026-10-30",
+   "email_confirmed": false
   }
  ],
  "queue": {
@@ -229,6 +236,15 @@
     "link": "https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Senior-Engineer---Security-Visibility-Infrastructure_R0000479461/apply"
    },
    {
+    "role": "Adrian Steel — Infrastructure Engineer",
+    "req": "7224591 (AppliOne www.appone.com)",
+    "parked": "2026-10-30",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "No saved Secure Vault login signs in to appone.com; detached-run login service cannot enter credentials, so sign-in could not be completed. Posting verified live (Adrian…",
+    "link": "https://www.appone.com/MainInfoReq.asp?R_ID=7224591&B_ID=91&FID=1&Ad=0&Refer=&ssbgcolor=&SearchScreenID=18413"
+   },
+   {
     "role": "Robinhood — Senior Cloud Security Engineer",
     "req": "8077370 (Greenhouse)",
     "parked": "2026-10-30",
@@ -272,6 +288,33 @@
     "deadline_passed": false,
     "blocker": "NEEDS-APPLICANT-SSN4: 8 steps complete, final Sign & Submit blocked on \"Last 4 of SSN *\" (not in profile bundle v1.0, not guessed). Attempt 1: saved sign-in rejected +…",
     "link": "https://secure2.entertimeonline.com/ta/6070.careers?ShowJob=889373187&lang=en-US"
+   },
+   {
+    "role": "University of Michigan — Lead Security Operations Center (SOC) Analyst",
+    "req": "281400 (PeopleSoft hcmprod.dsc.umich.edu)",
+    "parked": "2026-10-30",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "NEEDS-PASSWORD-CAPTURE: no saved Secure Vault login signs in to umich.edu for [email] (login agent, detached run: no credential-entry route); applier parked OPEN at the…",
+    "link": ""
+   },
+   {
+    "role": "Bank of Bird-in-Hand — Information Security Analyst",
+    "req": "496 (Paycor)",
+    "parked": "2026-10-30",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Paycor form requires a third employment entry (Position #3 Job Title, Employer Name, Start Date all required); profile_bundle v1.0 provides only two employers (CVS…",
+    "link": ""
+   },
+   {
+    "role": "MATS Research — Cybersecurity Engineer (IT Security)",
+    "req": "a66ae5be-95ab-4677-a4cf-96c19749f37a (Rippling)",
+    "parked": "2026-10-30",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Rippling form requires six essay answers not in profile (security-vs-priority conflict; biggest people threat, distributed org; AI-assistant connection risks; motivation…",
+    "link": ""
    },
    {
     "role": "Instem — Associate Platform Engineer",
@@ -1255,6 +1298,15 @@
     "link": ""
    },
    {
+    "role": "Amazon ×6 — Mobile Security Engineer AppSec (10509690), Application Security Engineer AppSec ASSET (10504744),",
+    "req": "5 reqs (amazon.jobs)",
+    "parked": "2026-10-10",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Amazon IdPrism sign-in wall: NO Secure Vault login exists for amazon.jobs (credential_fill capture_required); the universal job-portal credential is not offered on this…",
+    "link": "https://www.amazon.jobs/en/jobs/10524818/security-engineer-security-for-employee-and-legal-systems-seals"
+   },
+   {
     "role": "IGT — Systems Engineer IV",
     "req": "1370372857 (SuccessFactors EU)",
     "parked": "2026-10-10",
@@ -1743,15 +1795,6 @@
     "link": ""
    },
    {
-    "role": "Mohawk Industries — Security Administrator",
-    "req": "1433910400 (SuccessFactors)",
-    "parked": "2026-10-24",
-    "deadline": "",
-    "deadline_passed": false,
-    "blocker": "ACCOUNT CREATED phase-321 (keyboard Terms breakthrough 18:21–18:24 ET; multiple successful sign-ins since confirm the account exists — resolves the pre-321 no-account…",
-    "link": ""
-   },
-   {
     "role": "DTCC — Cyber Monitoring and Incident Response Associate (SOC Analyst)",
     "req": "214707 (Oracle HCM)",
     "parked": "2026-10-23",
@@ -1786,15 +1829,6 @@
     "deadline_passed": false,
     "blocker": "Phase-227 applier retry (~20:55–21:06 ET) FINAL: posting verified OPEN (req [zip], Cincinnati OH, working APPLY); Secure Vault lookup = NO saved login for icims.com;…",
     "link": ""
-   },
-   {
-    "role": "Amazon ×6 — Mobile Security Engineer AppSec (10509690), Application Security Engineer AppSec ASSET (10504744),",
-    "req": "5 reqs (amazon.jobs)",
-    "parked": "2026-10-10",
-    "deadline": "",
-    "deadline_passed": false,
-    "blocker": "Amazon IdPrism sign-in wall: NO Secure Vault login exists for amazon.jobs (credential_fill capture_required); the universal job-portal credential is not offered on this…",
-    "link": "https://www.amazon.jobs/en/jobs/10524818/security-engineer-security-for-employee-and-legal-systems-seals"
    }
   ],
   "quota": [
@@ -2141,6 +2175,15 @@
    }
   ],
   "closed": [
+   {
+    "role": "Mohawk Industries — Security Administrator",
+    "req": "1433910400 (SuccessFactors)",
+    "parked": "2026-10-24",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "ACCOUNT CREATED phase-321 (keyboard Terms breakthrough 18:21–18:24 ET; multiple successful sign-ins since confirm the account exists — resolves the pre-321 no-account…",
+    "link": ""
+   },
    {
     "role": "Mastery Schools — Business Systems Analyst",
     "req": "25983fc5-3cce-47dd-bc72-7b964f2b2960 (Lever)",
