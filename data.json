@@ -1,17 +1,17 @@
 {
- "generated_at_et": "2026-10-31 15:08 ET",
+ "generated_at_et": "2026-10-31 18:05 ET",
  "summary": {
   "total_submitted_ledger": 46,
   "today_submitted": 0,
   "human_gate": 170,
   "watch_reset": 2,
-  "pipeline_owned": 16,
-  "quota": 13,
+  "pipeline_owned": 21,
+  "quota": 14,
   "portal_limit": 1,
   "hold": 3,
   "resolved": 19,
   "closed": 16,
-  "registry_rows": 241
+  "registry_rows": 247
  },
  "daily": [
   {
@@ -1623,6 +1623,51 @@
   ],
   "pipeline_owned": [
    {
+    "role": "Avertium — CyberSecurity Analyst",
+    "req": "Lever 166fd7e3-98d4-4538-b47c-42deb19995e8",
+    "parked": "2026-10-31",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Pre-submission Gmail confirmation check blocked in-browser: saved Gmail password rejected at accounts.google.com (\"Wrong password\") while connector Gmail keeps working —…",
+    "link": "https://jobs.lever.co/avertium/166fd7e3-98d4-4538-b47c-42deb19995e8/apply"
+   },
+   {
+    "role": "Motion — Cyber Operations Engineer (IR) - Global Industrial",
+    "req": "genpt Workday R26_0000028926",
+    "parked": "2026-10-31",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Saved Workday login for genpt.wd1.myworkdayjobs.com rejected (\"wrong email or locked\"); autonomous reset requested for [email] but NO genpt reset mail ever arrived in…",
+    "link": "https://jobs.genpt.com/job/birmingham/cyber-operations-engineer-ir-global-industrial/505/99988941552"
+   },
+   {
+    "role": "Carnival — Senior Specialist, Cybersecurity Governance",
+    "req": "Oracle HCM 14243",
+    "parked": "2026-10-31",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Oracle HCM \"Confirm your identity\" code wall at section 4: fresh code mails in work Gmail (17:57 ET id 1a193f821bf985f9; 18:01 ET id 1a193fb335e76894) after resend, but…",
+    "link": ""
+   },
+   {
+    "role": "Blue Cross & Blue Shield of Mississippi — Cybersecurity Specialist",
+    "req": "Workday JR100381",
+    "parked": "2026-10-31",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Saved Workday login rejected; reset mail arrived 17:36 ET ([email], 2-hour expiry → ~19:36 ET); coordinator passed its protected reference to applier C, but the browser…",
+    "link": ""
+   },
+   {
+    "role": "GE Vernova — Cyber UX Controls Engineer",
+    "req": "Workday R5054905",
+    "parked": "2026-10-31",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Saved Workday login for gevernova.wd5.myworkdayjobs.com rejected; Forgot Password requested but NO reset mail arrived in work Gmail as of 18:10 ET (Motion pattern:…",
+    "link": ""
+   },
+   {
     "role": "Kastle Systems — Network Support Engineer",
     "req": "5340 (iCIMS)",
     "parked": "2026-10-30",
@@ -1775,6 +1820,15 @@
     "deadline": "",
     "deadline_passed": false,
     "blocker": "Google Careers 30-day quota FULL — 4 in-window submissions vs cap 3 (phase-305 settled math), retry-after ~2026-11-08. No resume tailored (quota intake check pre-empted…",
+    "link": ""
+   },
+   {
+    "role": "Google — Software Engineer III, AI, AI and Infrastructure",
+    "req": "n/a (Google Careers)",
+    "parked": "2026-10-31",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "2026-10-31 phase-466",
     "link": ""
    },
    {
