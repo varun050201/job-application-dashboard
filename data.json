@@ -1,8 +1,8 @@
 {
- "generated_at_et": "2026-10-30 23:36 ET",
+ "generated_at_et": "2026-10-31 00:17 ET",
  "summary": {
   "total_submitted_ledger": 46,
-  "today_submitted": 9,
+  "today_submitted": 0,
   "human_gate": 170,
   "watch_reset": 2,
   "pipeline_owned": 16,
@@ -87,71 +87,7 @@
    "count": 9
   }
  ],
- "today": [
-  {
-   "company": "Mozilla",
-   "role": "Senior Security GRC Engineer",
-   "req": "R3197",
-   "date": "2026-10-30",
-   "email_confirmed": true
-  },
-  {
-   "company": "Tesla",
-   "role": "Software Security Engineer, Energy Products Software",
-   "req": "288127",
-   "date": "2026-10-30",
-   "email_confirmed": true
-  },
-  {
-   "company": "Boingo",
-   "role": "Systems SRE Data Center Engineer",
-   "req": "8175105",
-   "date": "2026-10-30",
-   "email_confirmed": true
-  },
-  {
-   "company": "Baseten",
-   "role": "Security Engineer",
-   "req": "b85e4b1d-6531-46b5-bc8a-238f3761a50e",
-   "date": "2026-10-30",
-   "email_confirmed": false
-  },
-  {
-   "company": "iSeatz",
-   "role": "Security Engineer",
-   "req": "5449313008",
-   "date": "2026-10-30",
-   "email_confirmed": true
-  },
-  {
-   "company": "Ingram Content Group",
-   "role": "Business Systems Analyst",
-   "req": "n",
-   "date": "2026-10-30",
-   "email_confirmed": true
-  },
-  {
-   "company": "Legacy Community Health",
-   "role": "Network Engineer II",
-   "req": "n",
-   "date": "2026-10-30",
-   "email_confirmed": true
-  },
-  {
-   "company": "Insight Enterprises",
-   "role": "Network Engineer - Cisco Route/Switch/Wireless",
-   "req": "106352",
-   "date": "2026-10-30",
-   "email_confirmed": true
-  },
-  {
-   "company": "Black Mountain Dynamics",
-   "role": "IT Support Technician",
-   "req": "",
-   "date": "2026-10-30",
-   "email_confirmed": false
-  }
- ],
+ "today": [],
  "queue": {
   "human_gate": [
    {
