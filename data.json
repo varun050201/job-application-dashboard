@@ -1,17 +1,17 @@
 {
- "generated_at_et": "2026-10-31 12:54 ET",
+ "generated_at_et": "2026-10-31 13:55 ET",
  "summary": {
   "total_submitted_ledger": 46,
   "today_submitted": 0,
   "human_gate": 170,
   "watch_reset": 2,
   "pipeline_owned": 16,
-  "quota": 12,
+  "quota": 13,
   "portal_limit": 1,
   "hold": 3,
   "resolved": 19,
   "closed": 16,
-  "registry_rows": 240
+  "registry_rows": 241
  },
  "daily": [
   {
@@ -1768,6 +1768,15 @@
    }
   ],
   "quota": [
+   {
+    "role": "Google — Product Deployment Engineer, gTech Ads",
+    "req": "n/a (Google Careers)",
+    "parked": "2026-10-31",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Google Careers 30-day quota FULL — 4 in-window submissions vs cap 3 (phase-305 settled math), retry-after ~2026-11-08. No resume tailored (quota intake check pre-empted…",
+    "link": ""
+   },
    {
     "role": "Google — Senior Software Engineer, Infrastructure, Google Cloud Global Networking",
     "req": "n/a (Google Careers)",
