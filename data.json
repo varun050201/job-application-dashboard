@@ -1,9 +1,9 @@
 {
- "generated_at_et": "2026-10-31 19:45 ET",
+ "generated_at_et": "2026-10-31 20:04 ET",
  "summary": {
   "total_submitted_ledger": 46,
   "today_submitted": 0,
-  "human_gate": 170,
+  "human_gate": 171,
   "watch_reset": 2,
   "pipeline_owned": 21,
   "quota": 14,
@@ -11,7 +11,7 @@
   "hold": 3,
   "resolved": 19,
   "closed": 16,
-  "registry_rows": 247
+  "registry_rows": 248
  },
  "daily": [
   {
@@ -152,6 +152,15 @@
     "deadline_passed": false,
     "blocker": "Saved vault login for myworkdayjobs.com REJECTED (\"wrong email or locked\"); autonomous forgot-password reset FAILED (\"Failed to initiate password reset, please contact…",
     "link": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Security-Operations-Analyst_JREQ204391"
+   },
+   {
+    "role": "Avertium — CyberSecurity Analyst",
+    "req": "166fd7e3-98d4-4538-b47c-42deb19995e8 (Lever)",
+    "parked": "2026-10-31",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "2026-10-31 phase-468 addendum 2",
+    "link": ""
    },
    {
     "role": "MM Packaging US — IT Administrator",
