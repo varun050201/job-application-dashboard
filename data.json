@@ -1,17 +1,17 @@
 {
- "generated_at_et": "2026-11-02 08:03 ET",
+ "generated_at_et": "2026-11-02 09:39 ET",
  "summary": {
   "total_submitted_ledger": 46,
   "today_submitted": 0,
   "human_gate": 171,
   "watch_reset": 2,
   "pipeline_owned": 18,
-  "quota": 14,
+  "quota": 15,
   "portal_limit": 1,
   "hold": 3,
   "resolved": 22,
   "closed": 16,
-  "registry_rows": 248
+  "registry_rows": 249
  },
  "daily": [
   {
@@ -1795,6 +1795,15 @@
    }
   ],
   "quota": [
+   {
+    "role": "Google — Software Engineer III, Infrastructure, Google Cloud Global Networking",
+    "req": "80928836794884806 (Google Careers)",
+    "parked": "2026-11-02",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Google Careers 30-day quota: account at cap (4 in-window confirmations Oct 9, Oct 12, Oct 22 12:46, Oct 22 14:59 vs cap 3, settled phase-305) — new Google submissions…",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/80928836794884806-software-engineer-iii-infrastructure-google-cloud-global-networking"
+   },
    {
     "role": "Google — Product Deployment Engineer, gTech Ads",
     "req": "n/a (Google Careers)",
