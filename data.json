@@ -1,9 +1,9 @@
 {
- "generated_at_et": "2026-11-02 10:27 ET",
+ "generated_at_et": "2026-11-02 11:10 ET",
  "summary": {
   "total_submitted_ledger": 46,
   "today_submitted": 0,
-  "human_gate": 172,
+  "human_gate": 173,
   "watch_reset": 2,
   "pipeline_owned": 18,
   "quota": 15,
@@ -11,7 +11,7 @@
   "hold": 3,
   "resolved": 22,
   "closed": 16,
-  "registry_rows": 250
+  "registry_rows": 251
  },
  "daily": [
   {
@@ -152,6 +152,15 @@
     "deadline_passed": false,
     "blocker": "Saved vault login REJECTED verbatim (\"You may have entered the wrong email address or password or your account might be locked\"); autonomous reset BLOCKED — Forgot…",
     "link": "https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Security-Sr-Engineer_MFS-231906"
+   },
+   {
+    "role": "Logicalis — Elite Network Engineer",
+    "req": "JR05617 (Workday logicalis.wd3)",
+    "parked": "2026-11-02",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Saved Workday login for logicalis.wd3.myworkdayjobs.com REJECTED (\"Your email address is incorrect\"); autonomous reset BLOCKED — Forgot Password returned \"Failed to…",
+    "link": "https://logicalis.wd3.myworkdayjobs.com/en-US/LogicalisCareers/job/US-Virtual-Location/Elite-Network-Engineer_JR05617-1"
    },
    {
     "role": "Avertium — CyberSecurity Analyst",
