@@ -1,9 +1,9 @@
 {
- "generated_at_et": "2026-11-02 13:24 ET",
+ "generated_at_et": "2026-11-02 15:04 ET",
  "summary": {
   "total_submitted_ledger": 46,
   "today_submitted": 0,
-  "human_gate": 176,
+  "human_gate": 179,
   "watch_reset": 2,
   "pipeline_owned": 18,
   "quota": 15,
@@ -11,7 +11,7 @@
   "hold": 3,
   "resolved": 22,
   "closed": 16,
-  "registry_rows": 254
+  "registry_rows": 257
  },
  "daily": [
   {
@@ -188,6 +188,33 @@
     "deadline_passed": false,
     "blocker": "Verified + tailored (1pg%, firewall 0, 20 core keywords); applier parked at sign-in — saved UKG login rejected, reset email NEVER arrived after initial request + one…",
     "link": "https://recruiting2.ultipro.com/MID1025MIDF/JobBoard/de6dc764-d7e7-4ebc-99c5-bb453e31e24b/OpportunityDetail?opportunityId=262d9f94-fe90-42f9-8070-4603836fd7c7"
+   },
+   {
+    "role": "Dartmouth College — Network Engineer II",
+    "req": "1129750 (searchjobs.dartmouth.edu)",
+    "parked": "2026-11-02",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Verified + tailored (1pg%, firewall 0, CV-facts PASS, 22 keywords); applier parked at sign-in — NEEDS-PASSWORD-CAPTURE: no saved login signs in to dartmouth.edu,…",
+    "link": "https://searchjobs.dartmouth.edu/login"
+   },
+   {
+    "role": "Ahold Delhaize — Network Engineer II",
+    "req": "561503 (AppVault)",
+    "parked": "2026-11-02",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Verified + tailored (1pg%, firewall 0, CV-facts PASS, 51 keywords); applier parked at sign-in — NEEDS-PASSWORD-CAPTURE: no saved login signs in to appvault.com,…",
+    "link": "https://aholddelhaizeapply.appvault.com/external/login?jobId=561503&company=Ahold%2BDelhaize%2BUSA%2BServices%2C%2BLLC"
+   },
+   {
+    "role": "NTT DATA — Networking Service Delivery Field Support Engineer (L2)",
+    "req": "26-02597 (JobDiva, Chicago)",
+    "parked": "2026-11-02",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Verified (Chicago posting) + tailored (1pg%, firewall 0, CV-facts PASS, 15 keywords; SDI distribution honestly cut); applier parked at the portal gate — JobDiva…",
+    "link": "https://www1.jobdiva.com/portal/?a=4ejdnw6472ao8pjx7up3pe2x6uaqqw080elc66jdh6a4s9vz3qs7hd8hjrqzioil&jr_id=6ae4147beab1f967309793dc#/jobs/33307510"
    },
    {
     "role": "Avertium — CyberSecurity Analyst",
