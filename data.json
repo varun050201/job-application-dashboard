@@ -1,5 +1,5 @@
 {
- "generated_at_et": "2026-11-01 23:48 ET",
+ "generated_at_et": "2026-11-02 00:51 ET",
  "summary": {
   "total_submitted_ledger": 46,
   "today_submitted": 0,
@@ -90,15 +90,6 @@
  "today": [],
  "queue": {
   "human_gate": [
-   {
-    "role": "Bank of America — Technology Business Systems Analyst - ERP",
-    "req": "1223 (iCIMS careers-boafit)",
-    "parked": "2026-10-18",
-    "deadline": "2026-11-01",
-    "deadline_passed": false,
-    "blocker": "iCIMS \"Enter Your Information\" gate: hCaptcha drag-puzzle (\"Drag the correct animal into its matching outline\") after email+consent entry; single authorized solver…",
-    "link": "https://careers.boafit.com/jobs/1223"
-   },
    {
     "role": "North Carolina Department of Environmental Quality — Business Systems Analyst I",
     "req": "JR-126867 (Workday)",
@@ -1628,6 +1619,15 @@
     "deadline_passed": true,
     "blocker": "NEEDS-PASSWORD-CAPTURE: no saved login for careers.dc.gov; posting closes 2026-10-23. AUDIT-ADDED 2026-10-22 (ledger reconcile miss)",
     "link": ""
+   },
+   {
+    "role": "Bank of America — Technology Business Systems Analyst - ERP",
+    "req": "1223 (iCIMS careers-boafit)",
+    "parked": "2026-10-18",
+    "deadline": "2026-11-01",
+    "deadline_passed": true,
+    "blocker": "iCIMS \"Enter Your Information\" gate: hCaptcha drag-puzzle (\"Drag the correct animal into its matching outline\") after email+consent entry; single authorized solver…",
+    "link": "https://careers.boafit.com/jobs/1223"
    }
   ],
   "pipeline_owned": [
