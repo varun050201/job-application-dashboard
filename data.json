@@ -1,9 +1,9 @@
 {
- "generated_at_et": "2026-11-02 09:39 ET",
+ "generated_at_et": "2026-11-02 10:27 ET",
  "summary": {
   "total_submitted_ledger": 46,
   "today_submitted": 0,
-  "human_gate": 171,
+  "human_gate": 172,
   "watch_reset": 2,
   "pipeline_owned": 18,
   "quota": 15,
@@ -11,7 +11,7 @@
   "hold": 3,
   "resolved": 22,
   "closed": 16,
-  "registry_rows": 249
+  "registry_rows": 250
  },
  "daily": [
   {
@@ -143,6 +143,15 @@
     "deadline_passed": false,
     "blocker": "Saved vault login for myworkdayjobs.com REJECTED (\"wrong email or locked\"); autonomous forgot-password reset FAILED (\"Failed to initiate password reset, please contact…",
     "link": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Security-Operations-Analyst_JREQ204391"
+   },
+   {
+    "role": "MFS — Security Sr. Engineer",
+    "req": "MFS-231906 (Workday mfs.wd1.myworkdayjobs.com)",
+    "parked": "2026-11-02",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Saved vault login REJECTED verbatim (\"You may have entered the wrong email address or password or your account might be locked\"); autonomous reset BLOCKED — Forgot…",
+    "link": "https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Security-Sr-Engineer_MFS-231906"
    },
    {
     "role": "Avertium — CyberSecurity Analyst",
