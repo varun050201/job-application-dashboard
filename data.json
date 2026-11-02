@@ -1,9 +1,9 @@
 {
- "generated_at_et": "2026-11-02 11:10 ET",
+ "generated_at_et": "2026-11-02 13:24 ET",
  "summary": {
   "total_submitted_ledger": 46,
   "today_submitted": 0,
-  "human_gate": 173,
+  "human_gate": 176,
   "watch_reset": 2,
   "pipeline_owned": 18,
   "quota": 15,
@@ -11,7 +11,7 @@
   "hold": 3,
   "resolved": 22,
   "closed": 16,
-  "registry_rows": 251
+  "registry_rows": 254
  },
  "daily": [
   {
@@ -161,6 +161,33 @@
     "deadline_passed": false,
     "blocker": "Saved Workday login for logicalis.wd3.myworkdayjobs.com REJECTED (\"Your email address is incorrect\"); autonomous reset BLOCKED — Forgot Password returned \"Failed to…",
     "link": "https://logicalis.wd3.myworkdayjobs.com/en-US/LogicalisCareers/job/US-Virtual-Location/Elite-Network-Engineer_JR05617-1"
+   },
+   {
+    "role": "Palm Beach State — Network Analyst II",
+    "req": "R0014150 (Workday palmbeachstate.wd1)",
+    "parked": "2026-11-02",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Verified + tailored (1pg%, firewall 0, 10 core); applier parked step 4 on required \"Why are you interested in working at Palm Beach State College?\" — no stored answer in…",
+    "link": "https://palmbeachstate.wd1.myworkdayjobs.com/en-US/external/job/Network-Analyst-II_R0014150-1"
+   },
+   {
+    "role": "Smithfield — IT Business Analyst - Supply Planning",
+    "req": "R-2026-12850 (Workday smithfieldfoods.wd1)",
+    "parked": "2026-11-02",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Verified + tailored (1pg%, firewall 0, 25 keywords, posting pay $60,000-$87,500); applier parked step 1 — saved vault login rejected, autonomous reset arrived as a LINK…",
+    "link": "https://smithfieldfoods.wd1.myworkdayjobs.com/en-US/Careers/jobs/details/IT-Business-Analyst---Supply-Planning_R-2026-12850"
+   },
+   {
+    "role": "MidFirst — CT Business Analyst - Telecom",
+    "req": "CTBUS005402 (UKG signin-us.ultipro.com)",
+    "parked": "2026-11-02",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Verified + tailored (1pg%, firewall 0, 20 core keywords); applier parked at sign-in — saved UKG login rejected, reset email NEVER arrived after initial request + one…",
+    "link": "https://recruiting2.ultipro.com/MID1025MIDF/JobBoard/de6dc764-d7e7-4ebc-99c5-bb453e31e24b/OpportunityDetail?opportunityId=262d9f94-fe90-42f9-8070-4603836fd7c7"
    },
    {
     "role": "Avertium — CyberSecurity Analyst",
