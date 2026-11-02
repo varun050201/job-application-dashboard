@@ -1,15 +1,15 @@
 {
- "generated_at_et": "2026-11-02 01:54 ET",
+ "generated_at_et": "2026-11-02 02:53 ET",
  "summary": {
   "total_submitted_ledger": 46,
   "today_submitted": 0,
   "human_gate": 171,
   "watch_reset": 2,
-  "pipeline_owned": 19,
+  "pipeline_owned": 18,
   "quota": 14,
   "portal_limit": 1,
   "hold": 3,
-  "resolved": 21,
+  "resolved": 22,
   "closed": 16,
   "registry_rows": 248
  },
@@ -1641,15 +1641,6 @@
     "link": "https://jobs.lever.co/avertium/166fd7e3-98d4-4538-b47c-42deb19995e8/apply"
    },
    {
-    "role": "Motion — Cyber Operations Engineer (IR) - Global Industrial",
-    "req": "genpt Workday R26_0000028926",
-    "parked": "2026-10-31",
-    "deadline": "",
-    "deadline_passed": false,
-    "blocker": "Saved Workday login for genpt.wd1.myworkdayjobs.com rejected (\"wrong email or locked\"); autonomous reset requested for [email] but NO genpt reset mail ever arrived in…",
-    "link": "https://jobs.genpt.com/job/birmingham/cyber-operations-engineer-ir-global-industrial/505/99988941552"
-   },
-   {
     "role": "GE Vernova — Cyber UX Controls Engineer",
     "req": "Workday R5054905",
     "parked": "2026-10-31",
@@ -1992,6 +1983,15 @@
    }
   ],
   "resolved": [
+   {
+    "role": "Motion — Cyber Operations Engineer (IR) - Global Industrial",
+    "req": "genpt Workday R26_0000028926",
+    "parked": "2026-10-31",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Saved Workday login for genpt.wd1.myworkdayjobs.com rejected (\"wrong email or locked\"); autonomous reset requested for [email] but NO genpt reset mail ever arrived in…",
+    "link": "https://jobs.genpt.com/job/birmingham/cyber-operations-engineer-ir-global-industrial/505/99988941552"
+   },
    {
     "role": "Carnival — Senior Specialist, Cybersecurity Governance",
     "req": "Oracle HCM 14243",
