@@ -1,9 +1,9 @@
 {
- "generated_at_et": "2026-11-02 15:04 ET",
+ "generated_at_et": "2026-11-02 16:32 ET",
  "summary": {
   "total_submitted_ledger": 46,
   "today_submitted": 0,
-  "human_gate": 179,
+  "human_gate": 182,
   "watch_reset": 2,
   "pipeline_owned": 18,
   "quota": 15,
@@ -11,7 +11,7 @@
   "hold": 3,
   "resolved": 22,
   "closed": 16,
-  "registry_rows": 257
+  "registry_rows": 260
  },
  "daily": [
   {
@@ -215,6 +215,33 @@
     "deadline_passed": false,
     "blocker": "Verified (Chicago posting) + tailored (1pg%, firewall 0, CV-facts PASS, 15 keywords; SDI distribution honestly cut); applier parked at the portal gate — JobDiva…",
     "link": "https://www1.jobdiva.com/portal/?a=4ejdnw6472ao8pjx7up3pe2x6uaqqw080elc66jdh6a4s9vz3qs7hd8hjrqzioil&jr_id=6ae4147beab1f967309793dc#/jobs/33307510"
+   },
+   {
+    "role": "AltaMed — IT Network Junior Administrator",
+    "req": "JR11034 (Workday altamed.wd1)",
+    "parked": "2026-11-02",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Saved Workday login for altamed.wd1.myworkdayjobs.com REJECTED (\"You may have entered the wrong email address or password or your account might be locked\"); autonomous…",
+    "link": "https://altamed.wd1.myworkdayjobs.com/en-US/Careers/details/IT-Network-Junior-Administrator_JR11034"
+   },
+   {
+    "role": "Rochester Regional Health — Network Engineer - Senior",
+    "req": "REQ_245161 (Workday rrhs.wd5)",
+    "parked": "2026-11-02",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Saved Workday login for rrhs.wd5.myworkdayjobs.com REJECTED (\"You may have entered wrong email or password or account might be locked\"); autonomous reset BLOCKED —…",
+    "link": "https://careers.rochesterregional.org/career-opportunities/req_245161/network-engineer-senior/"
+   },
+   {
+    "role": "Nexstar Media Group — Engineer, IT Network",
+    "req": "REQ-43564 (Workday nexstar.wd5)",
+    "parked": "2026-11-02",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Saved Workday login for nexstar.wd5.myworkdayjobs.com REJECTED (\"You may have entered wrong email or password or account might be locked\"); autonomous reset BLOCKED —…",
+    "link": "https://nexstar.wd5.myworkdayjobs.com/en-US/nexstar/job/Engineer--IT-Network_REQ-43564"
    },
    {
     "role": "Avertium — CyberSecurity Analyst",
