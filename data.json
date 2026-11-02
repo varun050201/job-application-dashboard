@@ -1,15 +1,15 @@
 {
- "generated_at_et": "2026-11-01 20:01 ET",
+ "generated_at_et": "2026-11-01 20:54 ET",
  "summary": {
   "total_submitted_ledger": 46,
   "today_submitted": 0,
   "human_gate": 171,
   "watch_reset": 2,
-  "pipeline_owned": 21,
+  "pipeline_owned": 19,
   "quota": 14,
   "portal_limit": 1,
   "hold": 3,
-  "resolved": 19,
+  "resolved": 21,
   "closed": 16,
   "registry_rows": 248
  },
@@ -1650,24 +1650,6 @@
     "link": "https://jobs.genpt.com/job/birmingham/cyber-operations-engineer-ir-global-industrial/505/99988941552"
    },
    {
-    "role": "Carnival — Senior Specialist, Cybersecurity Governance",
-    "req": "Oracle HCM 14243",
-    "parked": "2026-10-31",
-    "deadline": "",
-    "deadline_passed": false,
-    "blocker": "Oracle HCM \"Confirm your identity\" code wall at section 4: fresh code mails in work Gmail (17:57 ET id 1a193f821bf985f9; 18:01 ET id 1a193fb335e76894) after resend, but…",
-    "link": ""
-   },
-   {
-    "role": "Blue Cross & Blue Shield of Mississippi — Cybersecurity Specialist",
-    "req": "Workday JR100381",
-    "parked": "2026-10-31",
-    "deadline": "",
-    "deadline_passed": false,
-    "blocker": "Saved Workday login rejected; reset mail arrived 17:36 ET ([email], 2-hour expiry → ~19:36 ET); coordinator passed its protected reference to applier C, but the browser…",
-    "link": ""
-   },
-   {
     "role": "GE Vernova — Cyber UX Controls Engineer",
     "req": "Workday R5054905",
     "parked": "2026-10-31",
@@ -2010,6 +1992,24 @@
    }
   ],
   "resolved": [
+   {
+    "role": "Carnival — Senior Specialist, Cybersecurity Governance",
+    "req": "Oracle HCM 14243",
+    "parked": "2026-10-31",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Oracle HCM \"Confirm your identity\" code wall at section 4: fresh code mails in work Gmail (17:57 ET id 1a193f821bf985f9; 18:01 ET id 1a193fb335e76894) after resend, but…",
+    "link": ""
+   },
+   {
+    "role": "Blue Cross & Blue Shield of Mississippi — Cybersecurity Specialist",
+    "req": "Workday JR100381",
+    "parked": "2026-10-31",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Saved Workday login rejected; reset mail arrived 17:36 ET ([email], 2-hour expiry → ~19:36 ET); coordinator passed its protected reference to applier C, but the browser…",
+    "link": ""
+   },
    {
     "role": "Synopsys — Network Engineering, Sr. Associate",
     "req": "19522 (Avature)",
