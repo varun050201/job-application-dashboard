@@ -1,9 +1,9 @@
 {
- "generated_at_et": "2026-11-03 13:30 ET",
+ "generated_at_et": "2026-11-03 17:55 ET",
  "summary": {
-  "total_submitted_ledger": 46,
-  "today_submitted": 0,
-  "human_gate": 184,
+  "total_submitted_ledger": 47,
+  "today_submitted": 1,
+  "human_gate": 188,
   "watch_reset": 2,
   "pipeline_owned": 18,
   "quota": 17,
@@ -11,7 +11,7 @@
   "hold": 3,
   "resolved": 22,
   "closed": 16,
-  "registry_rows": 264
+  "registry_rows": 268
  },
  "daily": [
   {
@@ -85,9 +85,21 @@
   {
    "date": "2026-10-30",
    "count": 9
+  },
+  {
+   "date": "2026-11-03",
+   "count": 1
   }
  ],
- "today": [],
+ "today": [
+  {
+   "company": "(carried from phase-532 STAGED; closeout single-write line immediately above this section, verified in both ledger.md and applied_master_list.md): Micron Technology",
+   "role": "Cyber Security Operations Center Analyst / AI-Automation Engineer",
+   "req": "JR116338",
+   "date": "2026-11-03",
+   "email_confirmed": false
+  }
+ ],
  "queue": {
   "human_gate": [
    {
@@ -161,6 +173,42 @@
     "deadline_passed": false,
     "blocker": "Required EEO demographic-data consent checkbox — first-person data-processing consent the pipeline cannot give (\"By checking this box, I consent to Robinhood collecting,…",
     "link": "https://job-boards.greenhouse.io/robinhood/jobs/7460167"
+   },
+   {
+    "role": "City of Pharr — Support Analyst",
+    "req": "n/a (ApplicantPro jobs/4264762)",
+    "parked": "2026-11-03",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "ApplicantPro 6-digit email-code wall: 15:07 ET + 15:19 ET resend codes both expired before share approval on detached run; form never opened, resume not uploaded,…",
+    "link": "https://pharrtx.applicantpro.com/jobs/4264762"
+   },
+   {
+    "role": "Google — Data Center Site Program Manager",
+    "req": "n/a (Google Careers listing render, no job ID exposed)",
+    "parked": "2026-11-03",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Google Careers 30-day quota FULL until ~2026-11-08 (4 in-window vs cap 3, phase-305 math); VERIFIED-PENDING-QUOTA-CHECK on listing render only (Richmond, VA variant, 2…",
+    "link": ""
+   },
+   {
+    "role": "Google — Technical Program Manager II, Capacity and Constraints Management, Google Data Center",
+    "req": "n/a (Google Careers listing render, no job ID exposed)",
+    "parked": "2026-11-03",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Google Careers 30-day quota FULL until ~2026-11-08 (4 in-window vs cap 3, phase-305 math); VERIFIED-PENDING-QUOTA-CHECK on listing render only (Atlanta, GA / Austin, TX…",
+    "link": ""
+   },
+   {
+    "role": "Google — Technical Program Manager, Edge Capacity",
+    "req": "n/a (Google Careers listing render, no job ID exposed)",
+    "parked": "2026-11-03",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Google Careers 30-day quota FULL until ~2026-11-08 (4 in-window vs cap 3, phase-305 math); VERIFIED-PENDING-QUOTA-CHECK on listing render only (Addison, TX / Atlanta, GA…",
+    "link": ""
    },
    {
     "role": "MFS — Security Sr. Engineer",
