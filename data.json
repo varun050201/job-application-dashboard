@@ -1,5 +1,5 @@
 {
- "generated_at_et": "2026-11-02 16:32 ET",
+ "generated_at_et": "2026-11-02 20:05 ET",
  "summary": {
   "total_submitted_ledger": 46,
   "today_submitted": 0,
@@ -231,7 +231,7 @@
     "parked": "2026-11-02",
     "deadline": "",
     "deadline_passed": false,
-    "blocker": "Saved Workday login for rrhs.wd5.myworkdayjobs.com REJECTED (\"You may have entered wrong email or password or account might be locked\"); autonomous reset BLOCKED —…",
+    "blocker": "Saved Workday login for rrhs.wd5.myworkdayjobs.com REJECTED (\"You may have entered wrong email or password or account might be locked\"); autonomous reset dialog said…",
     "link": "https://careers.rochesterregional.org/career-opportunities/req_245161/network-engineer-senior/"
    },
    {
