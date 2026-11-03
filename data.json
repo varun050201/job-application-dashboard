@@ -1,9 +1,9 @@
 {
- "generated_at_et": "2026-11-03 09:16 ET",
+ "generated_at_et": "2026-11-03 10:32 ET",
  "summary": {
   "total_submitted_ledger": 46,
   "today_submitted": 0,
-  "human_gate": 182,
+  "human_gate": 183,
   "watch_reset": 2,
   "pipeline_owned": 18,
   "quota": 15,
@@ -11,7 +11,7 @@
   "hold": 3,
   "resolved": 22,
   "closed": 16,
-  "registry_rows": 260
+  "registry_rows": 261
  },
  "daily": [
   {
@@ -143,6 +143,15 @@
     "deadline_passed": false,
     "blocker": "Saved vault login for myworkdayjobs.com REJECTED (\"wrong email or locked\"); autonomous forgot-password reset FAILED (\"Failed to initiate password reset, please contact…",
     "link": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Security-Operations-Analyst_JREQ204391"
+   },
+   {
+    "role": "Robinhood — Offensive Security Engineer",
+    "req": "7460167 (Greenhouse)",
+    "parked": "2026-11-03",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Required EEO demographic-data consent checkbox — first-person data-processing consent the pipeline cannot give (\"By checking this box, I consent to Robinhood collecting,…",
+    "link": "https://job-boards.greenhouse.io/robinhood/jobs/7460167"
    },
    {
     "role": "MFS — Security Sr. Engineer",
