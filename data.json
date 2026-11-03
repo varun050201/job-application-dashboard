@@ -1,17 +1,17 @@
 {
- "generated_at_et": "2026-11-03 11:07 ET",
+ "generated_at_et": "2026-11-03 12:07 ET",
  "summary": {
   "total_submitted_ledger": 46,
   "today_submitted": 0,
   "human_gate": 183,
   "watch_reset": 2,
   "pipeline_owned": 18,
-  "quota": 15,
+  "quota": 17,
   "portal_limit": 1,
   "hold": 3,
   "resolved": 22,
   "closed": 16,
-  "registry_rows": 261
+  "registry_rows": 263
  },
  "daily": [
   {
@@ -1903,6 +1903,24 @@
    }
   ],
   "quota": [
+   {
+    "role": "Google — Program Manager II, Network Infrastructure, Google Cloud",
+    "req": "n/a (Google Careers)",
+    "parked": "2026-11-03",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Google Careers 30-day quota FULL until ~2026-11-08 (registry quota math: 4 in-window vs cap 3). Gates PASS on official listing (Reston, VA; \"2 years of experience in…",
+    "link": ""
+   },
+   {
+    "role": "Google — Technical Program Manager II, Network Infrastructure, Google Cloud",
+    "req": "n/a (Google Careers)",
+    "parked": "2026-11-03",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Google Careers 30-day quota FULL until ~2026-11-08 (registry quota math: 4 in-window vs cap 3). Gates PASS on official listing (Thornton, CO; Addison, TX; \"2 years of…",
+    "link": ""
+   },
    {
     "role": "Google — Software Engineer III, Infrastructure, Google Cloud Global Networking",
     "req": "80928836794884806 (Google Careers)",
