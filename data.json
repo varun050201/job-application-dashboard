@@ -1,9 +1,9 @@
 {
- "generated_at_et": "2026-11-03 12:07 ET",
+ "generated_at_et": "2026-11-03 13:30 ET",
  "summary": {
   "total_submitted_ledger": 46,
   "today_submitted": 0,
-  "human_gate": 183,
+  "human_gate": 184,
   "watch_reset": 2,
   "pipeline_owned": 18,
   "quota": 17,
@@ -11,7 +11,7 @@
   "hold": 3,
   "resolved": 22,
   "closed": 16,
-  "registry_rows": 263
+  "registry_rows": 264
  },
  "daily": [
   {
@@ -125,6 +125,15 @@
     "deadline_passed": false,
     "blocker": "NEEDS-PASSWORD-CAPTURE: no saved Secure Vault login for peopleadmin.com; detached run cannot create the UNC PeopleAdmin account (login specialist: no entry channel in a…",
     "link": "https://unc.peopleadmin.com/postings/327847"
+   },
+   {
+    "role": "Cisco — Senior Software Engineer in Test (Network Security, Performance)",
+    "req": "2011993 (Workday cisco.wd5)",
+    "parked": "2026-11-03",
+    "deadline": "2026-11-29",
+    "deadline_passed": false,
+    "blocker": "Saved vault login REJECTED twice on cisco.wd5.myworkdayjobs.com (\"wrong email address or password or account might be locked\"); autonomous reset: portal showed \"Failed…",
+    "link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Senior-Software-Engineer-in-Test--Network-Security--Performance---Hybrid--RTP--NC_2011993"
    },
    {
     "role": "Pax8 — Support Operations Engineer I",
