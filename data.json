@@ -1,9 +1,9 @@
 {
- "generated_at_et": "2026-11-04 13:50 ET",
+ "generated_at_et": "2026-11-04 15:23 ET",
  "summary": {
   "total_submitted_ledger": 47,
   "today_submitted": 0,
-  "human_gate": 189,
+  "human_gate": 192,
   "watch_reset": 2,
   "pipeline_owned": 18,
   "quota": 17,
@@ -11,7 +11,7 @@
   "hold": 3,
   "resolved": 23,
   "closed": 16,
-  "registry_rows": 270
+  "registry_rows": 273
  },
  "daily": [
   {
@@ -165,6 +165,33 @@
     "deadline_passed": false,
     "blocker": "2026-11-04 phase-547",
     "link": ""
+   },
+   {
+    "role": "Chainguard — Security Engineer",
+    "req": "4725374006 (Greenhouse)",
+    "parked": "2026-11-04",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Greenhouse email-verification gate: after pressing Submit once, \"A verification code was sent to [email] To submit your application, enter the 8-character code to…",
+    "link": "https://job-boards.greenhouse.io/chainguard/jobs/4725374006"
+   },
+   {
+    "role": "EY — STS Endpoint Security Engineer",
+    "req": "1746330 (URL search ID 1444844333)",
+    "parked": "2026-11-04",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "EY Careers sign-in wall: Apply Now → career5.successfactors.eu?company=EYHRISPRD1; login service reports no saved login signs in to successfactors.eu, no credential…",
+    "link": "https://career5.successfactors.eu/careers?company=EYHRISPRD1"
+   },
+   {
+    "role": "Amazon — Enterprise Network Support Specialist, eero CS",
+    "req": "10596159",
+    "parked": "2026-11-04",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "amazon.jobs sign-in wall: saved vault login rejected twice on IdPrism password page; Forgot Password stops at email-code gate (Send code to [email], not clicked).…",
+    "link": "https://amazon.jobs/en/jobs/10596159/enterprise-network-support-specialist-eero-cs"
    },
    {
     "role": "Robinhood — Offensive Security Engineer",
