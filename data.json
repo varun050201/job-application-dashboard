@@ -1,9 +1,9 @@
 {
- "generated_at_et": "2026-11-04 08:54 ET",
+ "generated_at_et": "2026-11-04 10:14 ET",
  "summary": {
   "total_submitted_ledger": 47,
   "today_submitted": 0,
-  "human_gate": 188,
+  "human_gate": 189,
   "watch_reset": 2,
   "pipeline_owned": 18,
   "quota": 17,
@@ -11,7 +11,7 @@
   "hold": 3,
   "resolved": 23,
   "closed": 16,
-  "registry_rows": 269
+  "registry_rows": 270
  },
  "daily": [
   {
@@ -156,6 +156,15 @@
     "deadline_passed": false,
     "blocker": "Saved vault login for myworkdayjobs.com REJECTED (\"wrong email or locked\"); autonomous forgot-password reset FAILED (\"Failed to initiate password reset, please contact…",
     "link": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Security-Operations-Analyst_JREQ204391"
+   },
+   {
+    "role": "Home Depot — Cybersecurity Senior Engineer",
+    "req": "AI Security",
+    "parked": "2026-11-04",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "2026-11-04 phase-547",
+    "link": ""
    },
    {
     "role": "Robinhood — Offensive Security Engineer",
