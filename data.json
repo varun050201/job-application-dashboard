@@ -1,5 +1,5 @@
 {
- "generated_at_et": "2026-11-04 06:47 ET",
+ "generated_at_et": "2026-11-04 08:54 ET",
  "summary": {
   "total_submitted_ledger": 47,
   "today_submitted": 0,
@@ -9,9 +9,9 @@
   "quota": 17,
   "portal_limit": 1,
   "hold": 3,
-  "resolved": 22,
+  "resolved": 23,
   "closed": 16,
-  "registry_rows": 268
+  "registry_rows": 269
  },
  "daily": [
   {
@@ -2167,6 +2167,15 @@
    }
   ],
   "resolved": [
+   {
+    "role": "JMARK — Network Engineer II (Onsite)",
+    "req": "n/a (Rippling job 0d06ad18-ae43-449d-b8cc-1899d0052ea1)",
+    "parked": "2026-11-04",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Cloudflare Turnstile verification failed repeatedly on the fully completed Rippling form (5 attempts across two rounds); resume parsed, no duplicate banner, no sign-in…",
+    "link": "https://ats.rippling.com/jmark-careers/jobs/0d06ad18-ae43-449d-b8cc-1899d0052ea1"
+   },
    {
     "role": "Motion — Cyber Operations Engineer (IR) - Global Industrial",
     "req": "genpt Workday R26_0000028926",
