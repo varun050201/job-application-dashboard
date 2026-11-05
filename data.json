@@ -1,17 +1,17 @@
 {
- "generated_at_et": "2026-11-05 04:53 ET",
+ "generated_at_et": "2026-11-05 09:05 ET",
  "summary": {
-  "total_submitted_ledger": 47,
-  "today_submitted": 0,
-  "human_gate": 195,
+  "total_submitted_ledger": 48,
+  "today_submitted": 1,
+  "human_gate": 198,
   "watch_reset": 2,
-  "pipeline_owned": 18,
+  "pipeline_owned": 21,
   "quota": 18,
   "portal_limit": 1,
   "hold": 3,
   "resolved": 24,
   "closed": 17,
-  "registry_rows": 279
+  "registry_rows": 285
  },
  "daily": [
   {
@@ -89,9 +89,21 @@
   {
    "date": "2026-11-03",
    "count": 1
+  },
+  {
+   "date": "2026-11-05",
+   "count": 1
   }
  ],
- "today": [],
+ "today": [
+  {
+   "company": "line for this run's submission sits directly above this section (closeout.py single-write, verified in ledger.md + applied_master_list.md): Five Nines Technology Group",
+   "role": "Support Desk Engineer",
+   "req": "",
+   "date": "2026-11-05",
+   "email_confirmed": false
+  }
+ ],
  "queue": {
   "human_gate": [
    {
@@ -156,6 +168,33 @@
     "deadline_passed": false,
     "blocker": "Saved vault login for myworkdayjobs.com REJECTED (\"wrong email or locked\"); autonomous forgot-password reset FAILED (\"Failed to initiate password reset, please contact…",
     "link": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Security-Operations-Analyst_JREQ204391"
+   },
+   {
+    "role": "CRG Solutions — Cisco Network Engineer (Temporary 3 months)",
+    "req": "n/a (techcrg.com/careers/49/)",
+    "parked": "2026-11-05",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Human gate — form step 3 of 3 asks required \"Are you ok working on site at Petaluma, CA [zip]?\" (Yes); no authorized answer in profile; Yes would invent a material…",
+    "link": "https://techcrg.com/careers/49/"
+   },
+   {
+    "role": "Charleston Southern University — Network Engineer",
+    "req": "139902 (Paycom)",
+    "parked": "2026-11-05",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Second hCaptcha on Paycom — first image-grid captcha cleared in the single permitted solver attempt; a SECOND, different hCaptcha (\"click on the TWO icons that are…",
+    "link": "https://www.paycomonline.net/v4/ats/web.php/portal/9B25CFBC4D1E53FBF3D00067C7C0E531/jobs/139902"
+   },
+   {
+    "role": "Oklahoma State University — Network Security Analyst",
+    "req": "FS8993 (PageUp, Job ID 495414)",
+    "parked": "2026-11-05",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Human gate — References step requires THREE professional references (each: first name, type, organization, title, phone, email); only Gopi Y is auto-authorized;…",
+    "link": "https://jobs.okstate.edu/jobs/network-security-analyst-fs8993-oklahoma-city-oklahoma-united-states"
    },
    {
     "role": "Home Depot — Cybersecurity Senior Engineer",
@@ -1859,6 +1898,33 @@
     "deadline_passed": false,
     "blocker": "Oracle HCM \"Confirm Your Identity\" 6-digit email-code wall — code sent to [email] 03:49 ET (Gmail 1a1aae60cbc4008f, subject only; code never read or relayed). Posting…",
     "link": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/14250/apply/email"
+   },
+   {
+    "role": "MCCNO — Network Engineer",
+    "req": "NETWO001521 (UKG/Ultipro)",
+    "parked": "2026-11-05",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Saved vault login for signin-us.ultipro.com REJECTED (\"Invalid email or password\"); autonomous reset initiated per rule 8b — reset email arrived 08:48 ET (Gmail…",
+    "link": "https://recruiting2.ultipro.com/NEW1051NOPF/JobBoard/8b2bed5a-bb88-48a9-be36-2487405c409d/OpportunityDetail?opportunityId=8e02604d-715c-4309-89c9-42eb7a28dd93"
+   },
+   {
+    "role": "Montclair State University — Network Engineer",
+    "req": "R1005121 (Workday montclair.wd1)",
+    "parked": "2026-11-05",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Saved vault login for montclair.wd1.myworkdayjobs.com REJECTED (\"You may have entered the wrong email address or password or your account might be locked\"); autonomous…",
+    "link": "https://montclair.wd1.myworkdayjobs.com/en-US/jobopportunities/job/Montclair%2C-NJ/Network-Engineer_R1005121/apply/autofillWithResume?jr_id=6aeb41aa765815f7d745e7c7"
+   },
+   {
+    "role": "Textron — Network Engineer",
+    "req": "346025 (Taleo textron.taleo.net)",
+    "parked": "2026-11-05",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Saved vault login for [email] REJECTED (\"The user name and password combination you entered does not correspond to a registered user\"); autonomous Forgot-Password reset…",
+    "link": "https://careers.textron.com/fort-worth-tx/network-engineer/3563E3E78BF342FB87AA0D4354A7635D/job/"
    },
    {
     "role": "Avertium — CyberSecurity Analyst",
