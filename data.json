@@ -1,5 +1,5 @@
 {
- "generated_at_et": "2026-11-05 03:54 ET",
+ "generated_at_et": "2026-11-05 04:53 ET",
  "summary": {
   "total_submitted_ledger": 47,
   "today_submitted": 0,
@@ -10,8 +10,8 @@
   "portal_limit": 1,
   "hold": 3,
   "resolved": 24,
-  "closed": 16,
-  "registry_rows": 278
+  "closed": 17,
+  "registry_rows": 279
  },
  "daily": [
   {
@@ -1852,6 +1852,15 @@
   ],
   "pipeline_owned": [
    {
+    "role": "Carnival — Specialist, Cybersecurity Governance",
+    "req": "14250 (Oracle HCM)",
+    "parked": "2026-11-05",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Oracle HCM \"Confirm Your Identity\" 6-digit email-code wall — code sent to [email] 03:49 ET (Gmail 1a1aae60cbc4008f, subject only; code never read or relayed). Posting…",
+    "link": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/14250/apply/email"
+   },
+   {
     "role": "Avertium — CyberSecurity Analyst",
     "req": "Lever 166fd7e3-98d4-4538-b47c-42deb19995e8",
     "parked": "2026-10-31",
@@ -1931,15 +1940,6 @@
     "deadline_passed": false,
     "blocker": "Amazon passport site error AFTER successful code verification: fresh IdPrism code entered + Verify clicked, then redirect to passport.amazon.jobs?id=PPV2_ERROR_CODE_21…",
     "link": "https://www.amazon.jobs/en/jobs/10588655/security-compliance-engineer-i-aws-security-assurance-services-llc"
-   },
-   {
-    "role": "HPE — Intermediate Network Systems Administrator",
-    "req": "1216526 (HPE Careers)",
-    "parked": "2026-10-26",
-    "deadline": "",
-    "deadline_passed": false,
-    "blocker": "Step 1 resume upload aborted: Upload Resume exposed no file-input reference; granted-file upload returned \"aborted\"; no résumé uploaded, no fields filled, nothing…",
-    "link": "https://careers.hpe.com/us/en/apply?jobSeqNo=HPE1US1216526EXTERNALENUS&step=1&stepname=personalInformation"
    },
    {
     "role": "Husco — Network Engineer",
@@ -2457,6 +2457,15 @@
    }
   ],
   "closed": [
+   {
+    "role": "HPE — Intermediate Network Systems Administrator",
+    "req": "1216526 (HPE Careers)",
+    "parked": "2026-10-26",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Step 1 resume upload aborted: Upload Resume exposed no file-input reference; granted-file upload returned \"aborted\"; no résumé uploaded, no fields filled, nothing…",
+    "link": "https://careers.hpe.com/us/en/apply?jobSeqNo=HPE1US1216526EXTERNALENUS&step=1&stepname=personalInformation"
+   },
    {
     "role": "Mohawk Industries — Security Administrator",
     "req": "1433910400 (SuccessFactors)",
