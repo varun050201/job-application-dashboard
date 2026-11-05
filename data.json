@@ -1,17 +1,17 @@
 {
- "generated_at_et": "2026-11-05 10:09 ET",
+ "generated_at_et": "2026-11-05 13:18 ET",
  "summary": {
   "total_submitted_ledger": 48,
   "today_submitted": 1,
-  "human_gate": 199,
+  "human_gate": 202,
   "watch_reset": 2,
-  "pipeline_owned": 21,
+  "pipeline_owned": 22,
   "quota": 18,
   "portal_limit": 1,
   "hold": 3,
   "resolved": 24,
   "closed": 17,
-  "registry_rows": 286
+  "registry_rows": 290
  },
  "daily": [
   {
@@ -161,6 +161,15 @@
     "link": ""
    },
    {
+    "role": "Genpact — Lead Network Administrator 4C",
+    "req": "JR10034692 (Workday genpact.wd108.myworkdayjobs.com)",
+    "parked": "2026-11-05",
+    "deadline": "2026-12-05",
+    "deadline_passed": false,
+    "blocker": "Saved login rejected (\"wrong email or account locked\"); two Forgot Password requests (12:32, 12:33 ET) produced NO reset mail (connector Gmail: zero Genpact messages) →…",
+    "link": "https://genpact.wd108.myworkdayjobs.com/External_Careers/job/3409-Genpact-LLC-New-York-WFH---Virtual-US/Lead-Network-Administrator-4C_JR10034692"
+   },
+   {
     "role": "Thomson Reuters — Security Operations Analyst",
     "req": "JREQ204391 (Workday)",
     "parked": "2026-10-14",
@@ -204,6 +213,24 @@
     "deadline_passed": false,
     "blocker": "Human gate — JD ends with passive-consent Applicant Arbitration Agreement: \"For US applicants, by submitting your application, you agree to the Applicant Arbitration…",
     "link": "https://jobs.ashbyhq.com/cognition/daf8accf-5799-4dba-a77d-66ace242fa88"
+   },
+   {
+    "role": "Pacific Clinics — IT Security & Infrastructure Engineer",
+    "req": "1806 (iCIMS)",
+    "parked": "2026-11-05",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "hCaptcha on iCIMS sign-in (\"Enter Your Information\") failed on the single permitted solver attempt (\"Please try again.\"); Next stays disabled, no password entered,…",
+    "link": "https://careers.pacificclinics.org/jobs/1806?lang=en-us"
+   },
+   {
+    "role": "WWT — Associate Engineer - Infrastructure & Integrations Support",
+    "req": "26-3453 (ADP)",
+    "parked": "2026-11-05",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "ADP email-passcode wall: no email+password path on this ADP board — after entering [email] and clicking Continue, ADP sends a one-time passcode (subject \"Passcode for…",
+    "link": "https://myjobs.adp.com/wwtexternalcareersite/auth"
    },
    {
     "role": "Home Depot — Cybersecurity Senior Engineer",
@@ -1934,6 +1961,15 @@
     "deadline_passed": false,
     "blocker": "Saved vault login for [email] REJECTED (\"The user name and password combination you entered does not correspond to a registered user\"); autonomous Forgot-Password reset…",
     "link": "https://careers.textron.com/fort-worth-tx/network-engineer/3563E3E78BF342FB87AA0D4354A7635D/job/"
+   },
+   {
+    "role": "Ensemble Health Partners — Engineer, Cybersecurity",
+    "req": "R050688 (Workday ensemblehp.wd5.myworkdayjobs.com)",
+    "parked": "2026-11-05",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Saved login rejected (\"wrong email or account locked\"); reset requested, TWO reset mails arrived from [email] (1:03:00 + 1:03:10 PM ET, \"Reset your password for your…",
+    "link": ""
    },
    {
     "role": "Avertium — CyberSecurity Analyst",
