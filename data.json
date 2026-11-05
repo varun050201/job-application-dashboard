@@ -1,9 +1,9 @@
 {
- "generated_at_et": "2026-11-05 13:18 ET",
+ "generated_at_et": "2026-11-05 16:13 ET",
  "summary": {
   "total_submitted_ledger": 48,
   "today_submitted": 1,
-  "human_gate": 202,
+  "human_gate": 203,
   "watch_reset": 2,
   "pipeline_owned": 22,
   "quota": 18,
@@ -11,7 +11,7 @@
   "hold": 3,
   "resolved": 24,
   "closed": 17,
-  "registry_rows": 290
+  "registry_rows": 291
  },
  "daily": [
   {
@@ -231,6 +231,15 @@
     "deadline_passed": false,
     "blocker": "ADP email-passcode wall: no email+password path on this ADP board — after entering [email] and clicking Continue, ADP sends a one-time passcode (subject \"Passcode for…",
     "link": "https://myjobs.adp.com/wwtexternalcareersite/auth"
+   },
+   {
+    "role": "Deloitte — Network Engineer, Network Management",
+    "req": "374169 (SuccessFactors; Global req 1375607655)",
+    "parked": "2026-11-05",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "NEEDS-PASSWORD-CAPTURE: Deloitte Global Talent Portal account creation blocked at the password step — Secure Vault holds no saved credential for sapsf.eu…",
+    "link": "https://career55.sapsf.eu/career?company=deloitte02P3&site=&lang=en_US&requestParams=&login_ns=register&jobPipeline=Direct&clientId=jobs2web&navBarLevel=MY%5fPROFILE&_s.crb=oNXIwa0akcNCelSjto2npAkWA6dF2MCeZFS8p5ZxImw%3d"
    },
    {
     "role": "Home Depot — Cybersecurity Senior Engineer",
