@@ -1,17 +1,17 @@
 {
- "generated_at_et": "2026-11-04 15:23 ET",
+ "generated_at_et": "2026-11-04 19:11 ET",
  "summary": {
   "total_submitted_ledger": 47,
   "today_submitted": 0,
-  "human_gate": 192,
+  "human_gate": 193,
   "watch_reset": 2,
   "pipeline_owned": 18,
-  "quota": 17,
+  "quota": 18,
   "portal_limit": 1,
   "hold": 3,
   "resolved": 23,
   "closed": 16,
-  "registry_rows": 273
+  "registry_rows": 275
  },
  "daily": [
   {
@@ -192,6 +192,15 @@
     "deadline_passed": false,
     "blocker": "amazon.jobs sign-in wall: saved vault login rejected twice on IdPrism password page; Forgot Password stops at email-code gate (Send code to [email], not clicked).…",
     "link": "https://amazon.jobs/en/jobs/10596159/enterprise-network-support-specialist-eero-cs"
+   },
+   {
+    "role": "Salesforce — Product Security Engineer, Infrastructure",
+    "req": "JR358978 (Workday)",
+    "parked": "2026-11-04",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Workday sign-in wall: saved vault login rejected (\"You may have entered wrong email or password or account might be locked.\"); creation route needs a new password the…",
+    "link": ""
    },
    {
     "role": "Robinhood — Offensive Security Engineer",
@@ -1988,6 +1997,15 @@
    }
   ],
   "quota": [
+   {
+    "role": "Google — AI Threat Defense Engineer I, Google Cloud Consulting, Professional Services",
+    "req": "111590144095462086 (Google Careers)",
+    "parked": "2026-11-04",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Google application cap full: recorded cap 3 per 30 days with 4 in-window confirmations (Oct 9, Oct 12, Oct 22 x2); new Google submission may be blocked until ~Nov 8.…",
+    "link": ""
+   },
    {
     "role": "Google — Program Manager II, Network Infrastructure, Google Cloud",
     "req": "n/a (Google Careers)",
