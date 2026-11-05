@@ -21,7 +21,12 @@ MONTHS = {m: i + 1 for i, m in enumerate(
     ["jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"])}
 
 EMAIL_RE = re.compile(r"[\w.+-]+@[\w-]+\.[\w.]+")
-PHONE_RE = re.compile(r"(\+?1[\s.-]?)?\(?\d{3}\)?[\s.-]?\d{3}[\s.-]?\d{4}")
+PHONE_RE = re.compile(r"(?<!\d)(\+?1[\s.-]?)?\(?\d{3}\)?[\s.-]?\d{3}[\s.-]?\d{4}(?!\d)")
+# Digit-boundary guards (2026-11-05 R&D intraday): without them the pattern
+# matched the first 10 digits of 12-19 digit req/URL IDs (ByteDance,
+# Meta, Google) and published them mangled as "[phone]094984986". The
+# guards only stop matches INSIDE a longer digit run; every real phone
+# format still masks (see hidden_files/rnd_20261105_sanitize_test.py).
 ADDR_RE = re.compile(r"\d{1,5}\s+[A-Z][\w ]*?\b(?:Rd|Road|St|Street|Ave|Avenue|Blvd|Ln|Dr|Drive)\b[^,;|]*", re.I)
 APT_RE = re.compile(r"\bApt\.?\s*\w+", re.I)
 ZIP_RE = re.compile(r"\b\d{5}(?:-\d{4})?\b")
