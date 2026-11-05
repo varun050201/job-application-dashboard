@@ -1,17 +1,17 @@
 {
- "generated_at_et": "2026-11-05 16:13 ET",
+ "generated_at_et": "2026-11-05 18:51 ET",
  "summary": {
   "total_submitted_ledger": 48,
   "today_submitted": 1,
-  "human_gate": 203,
+  "human_gate": 209,
   "watch_reset": 2,
-  "pipeline_owned": 22,
+  "pipeline_owned": 21,
   "quota": 18,
   "portal_limit": 1,
   "hold": 3,
   "resolved": 24,
   "closed": 17,
-  "registry_rows": 291
+  "registry_rows": 296
  },
  "daily": [
   {
@@ -233,6 +233,15 @@
     "link": "https://myjobs.adp.com/wwtexternalcareersite/auth"
    },
    {
+    "role": "Ensemble Health Partners — Engineer, Cybersecurity",
+    "req": "R050688 (Workday ensemblehp.wd5.myworkdayjobs.com)",
+    "parked": "2026-11-05",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "HIPAA WORKSTATION QUESTION (step 4 of 6, Q10 of 10, required): \"Your position with Ensemble might require you to work remotely. Do you have a designated workstation at…",
+    "link": "https://ensemblehp.wd5.myworkdayjobs.com/en-US/EnsembleHealthPartnersCareers/job/Cincinnati%2C-OH/Senior-Analyst--Cybersecurity_R050688/apply/autofillWithResume?q=R050688"
+   },
+   {
     "role": "Deloitte — Network Engineer, Network Management",
     "req": "374169 (SuccessFactors; Global req 1375607655)",
     "parked": "2026-11-05",
@@ -240,6 +249,51 @@
     "deadline_passed": false,
     "blocker": "NEEDS-PASSWORD-CAPTURE: Deloitte Global Talent Portal account creation blocked at the password step — Secure Vault holds no saved credential for sapsf.eu…",
     "link": "https://career55.sapsf.eu/career?company=deloitte02P3&site=&lang=en_US&requestParams=&login_ns=register&jobPipeline=Direct&clientId=jobs2web&navBarLevel=MY%5fPROFILE&_s.crb=oNXIwa0akcNCelSjto2npAkWA6dF2MCeZFS8p5ZxImw%3d"
+   },
+   {
+    "role": "UST — Data Center Technician",
+    "req": "66933 (RippleHire usource.ripplehire.com; UST ust.com)",
+    "parked": "2026-11-05",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "DUPLICATE-PROFILE gate: form completed + submitted (resume uploaded FIRST, UST_Data_Center_Technician_phase567.pdf), portal terminal response was #duplicate-check: \"We…",
+    "link": "https://www.ust.com/en/jobsearch#jobid=66933"
+   },
+   {
+    "role": "StackAdapt — Senior Information Security Analyst",
+    "req": "4294284009 (Greenhouse)",
+    "parked": "2026-11-05",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Form 100% filled, resume uploaded, one required screening question unanswered: \"Which statement best describes how you currently use AI tools in work?\" Options: (1) \"I'm…",
+    "link": "https://job-boards.greenhouse.io/stackadapt/jobs/4294284009"
+   },
+   {
+    "role": "Spotify — Security Engineer, Product Security",
+    "req": "1ee5dcb7-a5fe-465b-91da-d42ebab374c8 (Lever)",
+    "parked": "2026-11-05",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "hCaptcha on submit not cleared: the single permitted solver attempt solved the first puzzle (\"TWO icons different\") but the second (3x3 animal grid, \"travel like the…",
+    "link": "https://jobs.lever.co/spotify/1ee5dcb7-a5fe-465b-91da-d42ebab374c8/apply"
+   },
+   {
+    "role": "Saliense — Information Security Assessment Quality Control Analyst",
+    "req": "d1d176f1-f46b-41d6-858e-727ce0451999 (Rippling)",
+    "parked": "2026-11-05",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Cloudflare Turnstile solved once (\"Success\") then Rippling rejected with site-side toast \"Unable to apply for Information Security Assessment Quality Control Analyst.…",
+    "link": "https://ats.rippling.com/saliense/jobs/d1d176f1-f46b-41d6-858e-727ce0451999/apply"
+   },
+   {
+    "role": "Lifelong Medical Care — Junior Network Engineer",
+    "req": "6129 (Paycom)",
+    "parked": "2026-11-05",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Looping hCaptcha on Paycom: every \"Continue To Application\" click spawns a fresh hCaptcha even after the previous is solved and closed (3 solved ~6:15:18:26 PM, 4th open…",
+    "link": "https://www.paycomonline.net/v4/ats/web.php/portal/c977b14f6a6405c7b6f98039c6ac598f/jobs/140534"
    },
    {
     "role": "Home Depot — Cybersecurity Senior Engineer",
@@ -1970,15 +2024,6 @@
     "deadline_passed": false,
     "blocker": "Saved vault login for [email] REJECTED (\"The user name and password combination you entered does not correspond to a registered user\"); autonomous Forgot-Password reset…",
     "link": "https://careers.textron.com/fort-worth-tx/network-engineer/3563E3E78BF342FB87AA0D4354A7635D/job/"
-   },
-   {
-    "role": "Ensemble Health Partners — Engineer, Cybersecurity",
-    "req": "R050688 (Workday ensemblehp.wd5.myworkdayjobs.com)",
-    "parked": "2026-11-05",
-    "deadline": "",
-    "deadline_passed": false,
-    "blocker": "Saved login rejected (\"wrong email or account locked\"); reset requested, TWO reset mails arrived from [email] (1:03:00 + 1:03:10 PM ET, \"Reset your password for your…",
-    "link": ""
    },
    {
     "role": "Avertium — CyberSecurity Analyst",
