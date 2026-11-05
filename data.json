@@ -1,5 +1,5 @@
 {
- "generated_at_et": "2026-11-05 02:56 ET",
+ "generated_at_et": "2026-11-05 03:54 ET",
  "summary": {
   "total_submitted_ledger": 47,
   "today_submitted": 0,
@@ -1288,7 +1288,7 @@
     "parked": "2026-10-12",
     "deadline": "",
     "deadline_passed": false,
-    "blocker": "bytedance.com credential wall (SAME wall that parked sibling reqs [phone]094984986 + [phone]050727177 ~10:20 ET today): NO Secure Vault credential exists for…",
+    "blocker": "bytedance.com credential wall (SAME wall that parked sibling reqs 7369720875094984986 + 7367524832050727177 ~10:20 ET today): NO Secure Vault credential exists for…",
     "link": "https://jobs.bytedance.com/en/resume/7268795428178135353/apply"
    },
    {
