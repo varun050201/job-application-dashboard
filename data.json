@@ -1,9 +1,9 @@
 {
- "generated_at_et": "2026-11-05 09:05 ET",
+ "generated_at_et": "2026-11-05 10:09 ET",
  "summary": {
   "total_submitted_ledger": 48,
   "today_submitted": 1,
-  "human_gate": 198,
+  "human_gate": 199,
   "watch_reset": 2,
   "pipeline_owned": 21,
   "quota": 18,
@@ -11,7 +11,7 @@
   "hold": 3,
   "resolved": 24,
   "closed": 17,
-  "registry_rows": 285
+  "registry_rows": 286
  },
  "daily": [
   {
@@ -195,6 +195,15 @@
     "deadline_passed": false,
     "blocker": "Human gate — References step requires THREE professional references (each: first name, type, organization, title, phone, email); only Gopi Y is auto-authorized;…",
     "link": "https://jobs.okstate.edu/jobs/network-security-analyst-fs8993-oklahoma-city-oklahoma-united-states"
+   },
+   {
+    "role": "Cognition — IT Engineer",
+    "req": "daf8accf-5799-4dba-a77d-66ace242fa88 (Ashby)",
+    "parked": "2026-11-05",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Human gate — JD ends with passive-consent Applicant Arbitration Agreement: \"For US applicants, by submitting your application, you agree to the Applicant Arbitration…",
+    "link": "https://jobs.ashbyhq.com/cognition/daf8accf-5799-4dba-a77d-66ace242fa88"
    },
    {
     "role": "Home Depot — Cybersecurity Senior Engineer",
