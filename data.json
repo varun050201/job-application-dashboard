@@ -1,9 +1,9 @@
 {
- "generated_at_et": "2026-11-04 20:55 ET",
+ "generated_at_et": "2026-11-04 23:09 ET",
  "summary": {
   "total_submitted_ledger": 47,
   "today_submitted": 0,
-  "human_gate": 193,
+  "human_gate": 196,
   "watch_reset": 2,
   "pipeline_owned": 18,
   "quota": 18,
@@ -11,7 +11,7 @@
   "hold": 3,
   "resolved": 23,
   "closed": 16,
-  "registry_rows": 275
+  "registry_rows": 278
  },
  "daily": [
   {
@@ -201,6 +201,33 @@
     "deadline_passed": false,
     "blocker": "Workday sign-in wall: saved vault login rejected (\"You may have entered wrong email or password or account might be locked.\"); creation route needs a new password the…",
     "link": ""
+   },
+   {
+    "role": "Different — GTM Systems Engineer",
+    "req": "2c854835-3194-4e2c-9473-c189c69de22c (Rippling ATS)",
+    "parked": "2026-11-04",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Rippling ATS Cloudflare human-verification challenge — single solver attempt failed (widget reset unchecked, Apply disabled, no retry per captcha rule); resume uploaded…",
+    "link": "https://ats.rippling.com/differentai/jobs/2c854835-3194-4e2c-9473-c189c69de22c"
+   },
+   {
+    "role": "Southland Credit Union — IS Analyst",
+    "req": "2026-1655 (iCIMS)",
+    "parked": "2026-11-04",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "iCIMS sign-in hCaptcha (drag-letter) failed on the single permitted solver attempt (held drag timed out, Next stayed disabled, password step never reached); no retry per…",
+    "link": ""
+   },
+   {
+    "role": "IES Communications — Field Engineer - Data Center Services",
+    "req": "24838 (iCIMS)",
+    "parked": "2026-11-04",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "iCIMS saved vault login REJECTED (\"Wrong username or password.\"); Forgot Password hCaptcha failed on the single permitted solver attempt (\"Please try again\", new drag…",
+    "link": "https://joinus.ies-co.com/jobs/24838"
    },
    {
     "role": "Robinhood — Offensive Security Engineer",
