@@ -1,15 +1,15 @@
 {
- "generated_at_et": "2026-11-04 23:09 ET",
+ "generated_at_et": "2026-11-04 23:47 ET",
  "summary": {
   "total_submitted_ledger": 47,
   "today_submitted": 0,
-  "human_gate": 196,
+  "human_gate": 195,
   "watch_reset": 2,
   "pipeline_owned": 18,
   "quota": 18,
   "portal_limit": 1,
   "hold": 3,
-  "resolved": 23,
+  "resolved": 24,
   "closed": 16,
   "registry_rows": 278
  },
@@ -201,15 +201,6 @@
     "deadline_passed": false,
     "blocker": "Workday sign-in wall: saved vault login rejected (\"You may have entered wrong email or password or account might be locked.\"); creation route needs a new password the…",
     "link": ""
-   },
-   {
-    "role": "Different — GTM Systems Engineer",
-    "req": "2c854835-3194-4e2c-9473-c189c69de22c (Rippling ATS)",
-    "parked": "2026-11-04",
-    "deadline": "",
-    "deadline_passed": false,
-    "blocker": "Rippling ATS Cloudflare human-verification challenge — single solver attempt failed (widget reset unchecked, Apply disabled, no retry per captcha rule); resume uploaded…",
-    "link": "https://ats.rippling.com/differentai/jobs/2c854835-3194-4e2c-9473-c189c69de22c"
    },
    {
     "role": "Southland Credit Union — IS Analyst",
@@ -2256,6 +2247,15 @@
     "deadline_passed": false,
     "blocker": "Cloudflare Turnstile verification failed repeatedly on the fully completed Rippling form (5 attempts across two rounds); resume parsed, no duplicate banner, no sign-in…",
     "link": "https://ats.rippling.com/jmark-careers/jobs/0d06ad18-ae43-449d-b8cc-1899d0052ea1"
+   },
+   {
+    "role": "Different — GTM Systems Engineer",
+    "req": "2c854835-3194-4e2c-9473-c189c69de22c (Rippling ATS)",
+    "parked": "2026-11-04",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Rippling ATS Cloudflare human-verification challenge — single solver attempt failed (widget reset unchecked, Apply disabled, no retry per captcha rule); resume uploaded…",
+    "link": "https://ats.rippling.com/differentai/jobs/2c854835-3194-4e2c-9473-c189c69de22c"
    },
    {
     "role": "Motion — Cyber Operations Engineer (IR) - Global Industrial",
