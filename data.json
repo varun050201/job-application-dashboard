@@ -1,9 +1,9 @@
 {
- "generated_at_et": "2026-11-06 11:35 ET",
+ "generated_at_et": "2026-11-06 13:47 ET",
  "summary": {
   "total_submitted_ledger": 50,
   "today_submitted": 0,
-  "human_gate": 212,
+  "human_gate": 216,
   "watch_reset": 2,
   "pipeline_owned": 21,
   "quota": 18,
@@ -11,7 +11,7 @@
   "hold": 3,
   "resolved": 25,
   "closed": 17,
-  "registry_rows": 300
+  "registry_rows": 304
  },
  "daily": [
   {
@@ -209,6 +209,42 @@
     "deadline_passed": false,
     "blocker": "Tailored resume would NOT register on the portal — 14 upload attempts in every sequence; file tool reported \"attached\" each time but the portal never showed the file…",
     "link": "https://careers.conagrabrands.com/us/en/job/Req-040783/Information-Security-GRC-Analyst"
+   },
+   {
+    "role": "BearCom — Network Engineer, Enterprise Networking, Security & Unified Communications",
+    "req": "478035 (Paycom)",
+    "parked": "2026-11-06",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Saved vault login REJECTED (\"Error when signing into account\" after hCaptcha cleared); autonomous reset requested + one resend — Paycom reset email never arrived (inbox…",
+    "link": "https://www.paycomonline.net/v4/ats/web.php/portal/b4cab40ee7d47f9bf358c76c2702c5bb/jobs/478035"
+   },
+   {
+    "role": "Madison County Government — NETWORK TECHNICIAN",
+    "req": "384460 (Paycom)",
+    "parked": "2026-11-06",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Saved vault login REJECTED (\"Error when signing into account\" after hCaptcha cleared); autonomous reset requested ~1:12 PM ET + one resend ~1:14 PM ET — Paycom reset…",
+    "link": "https://www.paycomonline.net/v4/ats/web.php/portal/9F7361031ED2F879A7508D867776169C/jobs/384460"
+   },
+   {
+    "role": "Amazon — Network Development Engineer, Amazon Customer Service",
+    "req": "10596649 (amazon.jobs / IdPrism)",
+    "parked": "2026-11-06",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "403 Forbidden from the IdPrism authorize endpoint (atozpublic.api.cupid-na.idprism-auth.amazon.dev, relying_party passportv2-idprism-passthrough-prod) immediately after…",
+    "link": "https://www.amazon.jobs/en/jobs/10596649/network-development-engineer-amazon-customer-service"
+   },
+   {
+    "role": "TTEC — Information Security Engineer",
+    "req": "042TM / live-page 04FV5 (Taleo reqNo 2452190)",
+    "parked": "2026-11-06",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Saved vault login REJECTED (\"user name and password combination you entered does not correspond to a registered user\"); autonomous reset requested ~13:31 ET + one resend…",
+    "link": "https://ttecjobs.dejobs.org/14545D52A4A940199BA031894A447D1425"
    },
    {
     "role": "CRG Solutions — Cisco Network Engineer (Temporary 3 months)",
