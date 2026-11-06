@@ -1,19 +1,23 @@
 {
- "generated_at_et": "2026-11-05 18:51 ET",
+ "generated_at_et": "2026-11-06 11:35 ET",
  "summary": {
-  "total_submitted_ledger": 48,
-  "today_submitted": 1,
-  "human_gate": 209,
+  "total_submitted_ledger": 50,
+  "today_submitted": 0,
+  "human_gate": 212,
   "watch_reset": 2,
   "pipeline_owned": 21,
   "quota": 18,
   "portal_limit": 1,
   "hold": 3,
-  "resolved": 24,
+  "resolved": 25,
   "closed": 17,
-  "registry_rows": 296
+  "registry_rows": 300
  },
  "daily": [
+  {
+   "date": "2026-04-29",
+   "count": 1
+  },
   {
    "date": "2026-07-09",
    "count": 1
@@ -92,29 +96,12 @@
   },
   {
    "date": "2026-11-05",
-   "count": 1
+   "count": 2
   }
  ],
- "today": [
-  {
-   "company": "line for this run's submission sits directly above this section (closeout.py single-write, verified in ledger.md + applied_master_list.md): Five Nines Technology Group",
-   "role": "Support Desk Engineer",
-   "req": "",
-   "date": "2026-11-05",
-   "email_confirmed": false
-  }
- ],
+ "today": [],
  "queue": {
   "human_gate": [
-   {
-    "role": "North Carolina Department of Environmental Quality — Business Systems Analyst I",
-    "req": "JR-126867 (Workday)",
-    "parked": "2026-10-30",
-    "deadline": "2026-11-05",
-    "deadline_passed": false,
-    "blocker": "NEEDS-APPLICANT-ANSWERS: Workday \"Errors Found\" at step 4 of 7 — last 4 SSN digits, related-by-blood-or-marriage to any State employee, and Military Selective Service…",
-    "link": "https://nc.wd108.myworkdayjobs.com/en-US/NC_Careers/details/Business-Systems-Analyst-I_JR-126867"
-   },
    {
     "role": "Virginia DBHDS — Information Security Officer",
     "req": "5114255 (PageUp)",
@@ -179,6 +166,51 @@
     "link": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Security-Operations-Analyst_JREQ204391"
    },
    {
+    "role": "Microsoft — Cyber Security Analyst",
+    "req": "200063356 (Eightfold)",
+    "parked": "2026-11-06",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Sign-in blocked — Eightfold offers NO native email sign-in (SSO only); no saved login for microsoftonline.com; detached-run login service cannot enter the universal…",
+    "link": "https://microsoft.eightfold.ai/careers?query=Cyber+Security+Analyst&start=0&pid=1970393557045435&sort_by=relevance"
+   },
+   {
+    "role": "Upperline Health — SOC Analyst",
+    "req": "SOCAN003805 (UKG)",
+    "parked": "2026-11-06",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Sign-in blocked — no saved login for ukg.net (signin-us.ukg.net); detached-run login service cannot enter the universal credential; login agent retried, refused twice;…",
+    "link": "https://upperline.rec.pro.ukg.net/UPP1500ULHI/JobBoard/1d4a537c-ab61-4491-8a1b-781f6bd12501/OpportunityDetail?opportunityId=eebe6bce-9642-48fb-97f7-34c08862c292"
+   },
+   {
+    "role": "AmTrust Financial — Security Engineer I, Threat & Vulnerability Management",
+    "req": "2026-22926 (iCIMS)",
+    "parked": "2026-11-06",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Saved iCIMS password REJECTED (\"Wrong username or password\"); autonomous reset requested 09:46 ET Nov 6; reset email received in work Gmail (Gmail 1a1b1530fe47dff7,…",
+    "link": "https://careers-amtrustgroup.icims.com/jobs/2026-22926/security-engineer-i/job"
+   },
+   {
+    "role": "Tesla — Sr. Network Engineer, Automation, Datacenter Engineering",
+    "req": "288392",
+    "parked": "2026-11-06",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Required Step 2 consent question with no standing answer — \"I authorize Tesla to consider me for other job opportunities for the next 36 months within Tesla in addition…",
+    "link": "https://www.tesla.com/careers/search/job/sr-network-engineer-automation-datacenter-engineering-288392"
+   },
+   {
+    "role": "Conagra Brands — Information Security GRC Analyst",
+    "req": "Req-040783",
+    "parked": "2026-11-06",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Tailored resume would NOT register on the portal — 14 upload attempts in every sequence; file tool reported \"attached\" each time but the portal never showed the file…",
+    "link": "https://careers.conagrabrands.com/us/en/job/Req-040783/Information-Security-GRC-Analyst"
+   },
+   {
     "role": "CRG Solutions — Cisco Network Engineer (Temporary 3 months)",
     "req": "n/a (techcrg.com/careers/49/)",
     "parked": "2026-11-05",
@@ -204,15 +236,6 @@
     "deadline_passed": false,
     "blocker": "Human gate — References step requires THREE professional references (each: first name, type, organization, title, phone, email); only Gopi Y is auto-authorized;…",
     "link": "https://jobs.okstate.edu/jobs/network-security-analyst-fs8993-oklahoma-city-oklahoma-united-states"
-   },
-   {
-    "role": "Cognition — IT Engineer",
-    "req": "daf8accf-5799-4dba-a77d-66ace242fa88 (Ashby)",
-    "parked": "2026-11-05",
-    "deadline": "",
-    "deadline_passed": false,
-    "blocker": "Human gate — JD ends with passive-consent Applicant Arbitration Agreement: \"For US applicants, by submitting your application, you agree to the Applicant Arbitration…",
-    "link": "https://jobs.ashbyhq.com/cognition/daf8accf-5799-4dba-a77d-66ace242fa88"
    },
    {
     "role": "Pacific Clinics — IT Security & Infrastructure Engineer",
@@ -276,15 +299,6 @@
     "deadline_passed": false,
     "blocker": "hCaptcha on submit not cleared: the single permitted solver attempt solved the first puzzle (\"TWO icons different\") but the second (3x3 animal grid, \"travel like the…",
     "link": "https://jobs.lever.co/spotify/1ee5dcb7-a5fe-465b-91da-d42ebab374c8/apply"
-   },
-   {
-    "role": "Saliense — Information Security Assessment Quality Control Analyst",
-    "req": "d1d176f1-f46b-41d6-858e-727ce0451999 (Rippling)",
-    "parked": "2026-11-05",
-    "deadline": "",
-    "deadline_passed": false,
-    "blocker": "Cloudflare Turnstile solved once (\"Success\") then Rippling rejected with site-side toast \"Unable to apply for Information Security Assessment Quality Control Analyst.…",
-    "link": "https://ats.rippling.com/saliense/jobs/d1d176f1-f46b-41d6-858e-727ce0451999/apply"
    },
    {
     "role": "Lifelong Medical Care — Junior Network Engineer",
@@ -1986,6 +2000,15 @@
     "deadline_passed": true,
     "blocker": "iCIMS \"Enter Your Information\" gate: hCaptcha drag-puzzle (\"Drag the correct animal into its matching outline\") after email+consent entry; single authorized solver…",
     "link": "https://careers.boafit.com/jobs/1223"
+   },
+   {
+    "role": "North Carolina Department of Environmental Quality — Business Systems Analyst I",
+    "req": "JR-126867 (Workday)",
+    "parked": "2026-10-30",
+    "deadline": "2026-11-05",
+    "deadline_passed": true,
+    "blocker": "NEEDS-APPLICANT-ANSWERS: Workday \"Errors Found\" at step 4 of 7 — last 4 SSN digits, related-by-blood-or-marriage to any State employee, and Military Selective Service…",
+    "link": "https://nc.wd108.myworkdayjobs.com/en-US/NC_Careers/details/Business-Systems-Analyst-I_JR-126867"
    }
   ],
   "pipeline_owned": [
@@ -2404,6 +2427,15 @@
    }
   ],
   "resolved": [
+   {
+    "role": "Saliense — Information Security Assessment Quality Control Analyst",
+    "req": "d1d176f1-f46b-41d6-858e-727ce0451999 (Rippling)",
+    "parked": "2026-11-05",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Cloudflare Turnstile solved once (\"Success\") then Rippling rejected with site-side toast \"Unable to apply for Information Security Assessment Quality Control Analyst.…",
+    "link": "https://ats.rippling.com/saliense/jobs/d1d176f1-f46b-41d6-858e-727ce0451999/apply"
+   },
    {
     "role": "JMARK — Network Engineer II (Onsite)",
     "req": "n/a (Rippling job 0d06ad18-ae43-449d-b8cc-1899d0052ea1)",
