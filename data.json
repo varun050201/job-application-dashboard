@@ -1,9 +1,9 @@
 {
- "generated_at_et": "2026-11-06 13:47 ET",
+ "generated_at_et": "2026-11-06 16:55 ET",
  "summary": {
-  "total_submitted_ledger": 50,
-  "today_submitted": 0,
-  "human_gate": 216,
+  "total_submitted_ledger": 52,
+  "today_submitted": 1,
+  "human_gate": 217,
   "watch_reset": 2,
   "pipeline_owned": 21,
   "quota": 18,
@@ -11,7 +11,7 @@
   "hold": 3,
   "resolved": 25,
   "closed": 17,
-  "registry_rows": 304
+  "registry_rows": 305
  },
  "daily": [
   {
@@ -25,6 +25,10 @@
   {
    "date": "2026-07-18",
    "count": 2
+  },
+  {
+   "date": "2026-08-25",
+   "count": 1
   },
   {
    "date": "2026-09-20",
@@ -97,9 +101,21 @@
   {
    "date": "2026-11-05",
    "count": 2
+  },
+  {
+   "date": "2026-11-06",
+   "count": 1
   }
  ],
- "today": [],
+ "today": [
+  {
+   "company": "(backfill): Hewlett Packard Enterprise",
+   "role": "Intermediate Network Systems Administrator",
+   "req": "1216526",
+   "date": "2026-11-06",
+   "email_confirmed": false
+  }
+ ],
  "queue": {
   "human_gate": [
    {
@@ -1982,6 +1998,15 @@
     "deadline_passed": false,
     "blocker": "hCaptcha mirror-reflection challenge at the iCIMS email-login gate — 3 automated solve attempts failed (challenge closes without validating, Next stays disabled;…",
     "link": "https://careers-ice.icims.com/jobs/13826/job"
+   },
+   {
+    "role": "Apple — Traffic and Secure Services Network SRE Engineer",
+    "req": "200686351-3337",
+    "parked": "2026-10-05",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "AppleAccount sign-in wall — jobs.apple.com offers no guest apply; \"Submit Resume\" routes to Apple ID sign-in; creating an AppleAccount demands (1) a new password the…",
+    "link": "https://account.apple.com/account"
    },
    {
     "role": "Questeq — Network Administrator (On Site)",
