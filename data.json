@@ -1,17 +1,17 @@
 {
- "generated_at_et": "2026-11-06 16:55 ET",
+ "generated_at_et": "2026-11-07 11:15 ET",
  "summary": {
-  "total_submitted_ledger": 52,
-  "today_submitted": 1,
-  "human_gate": 217,
+  "total_submitted_ledger": 57,
+  "today_submitted": 0,
+  "human_gate": 221,
   "watch_reset": 2,
   "pipeline_owned": 21,
   "quota": 18,
   "portal_limit": 1,
   "hold": 3,
-  "resolved": 25,
+  "resolved": 27,
   "closed": 17,
-  "registry_rows": 305
+  "registry_rows": 311
  },
  "daily": [
   {
@@ -27,7 +27,19 @@
    "count": 2
   },
   {
+   "date": "2026-08-04",
+   "count": 1
+  },
+  {
+   "date": "2026-08-21",
+   "count": 1
+  },
+  {
    "date": "2026-08-25",
+   "count": 1
+  },
+  {
+   "date": "2026-08-31",
    "count": 1
   },
   {
@@ -104,18 +116,10 @@
   },
   {
    "date": "2026-11-06",
-   "count": 1
+   "count": 3
   }
  ],
- "today": [
-  {
-   "company": "(backfill): Hewlett Packard Enterprise",
-   "role": "Intermediate Network Systems Administrator",
-   "req": "1216526",
-   "date": "2026-11-06",
-   "email_confirmed": false
-  }
- ],
+ "today": [],
  "queue": {
   "human_gate": [
    {
@@ -126,6 +130,24 @@
     "deadline_passed": false,
     "blocker": "PageUp sign-in blocked on detached run: login service reports no saved login signs in to pageuppeople.com for [email], no credential entry route without chat; duplicate…",
     "link": "https://careers.pageuppeople.com/mob/1125/cw/en-us/job/5114255/information-security-officer"
+   },
+   {
+    "role": "Amazon — OSP Fiber Network Planner, Metro Fiber, Fiber Planning",
+    "req": "10598237 (amazon.jobs / IdPrism)",
+    "parked": "2026-11-06",
+    "deadline": "2026-11-10",
+    "deadline_passed": false,
+    "blocker": "403 Forbidden from the IdPrism authorize endpoint (atozpublic.api.cupid-na.idprism-auth.amazon.dev, relying_party passportv2-idprism-passthrough-prod) immediately after…",
+    "link": "https://www.amazon.jobs/en/jobs/10598237/osp-fiber-network-planner-metro-fiber-fiber-planning"
+   },
+   {
+    "role": "Cisco — Technical Systems Engineer II (Full-Time) - United States",
+    "req": "2026274 (Workday cisco.wd5)",
+    "parked": "2026-11-06",
+    "deadline": "2026-11-11",
+    "deadline_passed": false,
+    "blocker": "Retry upload SUCCEEDED (\"Successfully Uploaded!\", 46.1 KB) and steps 1–2 are complete; blocked step 3 of 6 \"My Experience\" — required \"School or University\" picker has…",
+    "link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Technical-Systems-Engineer-II--Full-Time----United-States_2026274"
    },
    {
     "role": "Southern Company — Cyber Threat Analyst",
@@ -263,6 +285,33 @@
     "link": "https://ttecjobs.dejobs.org/14545D52A4A940199BA031894A447D1425"
    },
    {
+    "role": "Cala Health — Security Engineer",
+    "req": "6251147004 (Greenhouse)",
+    "parked": "2026-11-06",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Greenhouse form REQUIRES at least one tick in \"Which of the following security tools and platforms do you have hands-on experience using?\" (Snyk; Burp Suite; Splunk &…",
+    "link": "https://job-boards.greenhouse.io/calahealth/jobs/6251147004"
+   },
+   {
+    "role": "AmTrust — Security Engineer II - Threat & Vulnerability Management",
+    "req": "2026-22927 (iCIMS)",
+    "parked": "2026-11-06",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "hCaptcha on the iCIMS login page — one permitted attempt failed, Verify returned \"Please try again. ⚠️\", challenge reset, Next still disabled. Resume NOT yet uploaded,…",
+    "link": "https://careers-amtrustgroup.icims.com/jobs/22927/security-engineer-ii/job"
+   },
+   {
+    "role": "Volvo Group — Cybersecurity Analyst Associate",
+    "req": "1347577855 (SAP SuccessFactors career55.sapsf.eu)",
+    "parked": "2026-11-06",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Portal redirected to sign-in (career55.sapsf.eu) — no saved vault login for sapsf.eu; universal job-portal credential not supplied to the login step in this detached…",
+    "link": "https://jobs.volvogroup.com/job/Cybersecurity-Analyst-Associate-NC-27409/1347577855/"
+   },
+   {
     "role": "CRG Solutions — Cisco Network Engineer (Temporary 3 months)",
     "req": "n/a (techcrg.com/careers/49/)",
     "parked": "2026-11-05",
@@ -360,15 +409,6 @@
     "deadline_passed": false,
     "blocker": "Looping hCaptcha on Paycom: every \"Continue To Application\" click spawns a fresh hCaptcha even after the previous is solved and closed (3 solved ~6:15:18:26 PM, 4th open…",
     "link": "https://www.paycomonline.net/v4/ats/web.php/portal/c977b14f6a6405c7b6f98039c6ac598f/jobs/140534"
-   },
-   {
-    "role": "Home Depot — Cybersecurity Senior Engineer",
-    "req": "AI Security",
-    "parked": "2026-11-04",
-    "deadline": "",
-    "deadline_passed": false,
-    "blocker": "2026-11-04 phase-547",
-    "link": ""
    },
    {
     "role": "Chainguard — Security Engineer",
@@ -2489,6 +2529,15 @@
   ],
   "resolved": [
    {
+    "role": "Summit Broadband — NOC Tier I Surveillance Technician",
+    "req": "4645669 (Paylocity)",
+    "parked": "2026-11-06",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Stopped mid-Step 1 of 5 at the run cutoff (~17:35 ET) — resume uploaded FIRST and parsed fully, Step 1 fields unfilled (SMS permission, address, availability, desired…",
+    "link": "https://recruiting.paylocity.com/Recruiting/Jobs/Apply/4645669"
+   },
+   {
     "role": "Saliense — Information Security Assessment Quality Control Analyst",
     "req": "d1d176f1-f46b-41d6-858e-727ce0451999 (Rippling)",
     "parked": "2026-11-05",
@@ -2505,6 +2554,15 @@
     "deadline_passed": false,
     "blocker": "Cloudflare Turnstile verification failed repeatedly on the fully completed Rippling form (5 attempts across two rounds); resume parsed, no duplicate banner, no sign-in…",
     "link": "https://ats.rippling.com/jmark-careers/jobs/0d06ad18-ae43-449d-b8cc-1899d0052ea1"
+   },
+   {
+    "role": "Home Depot — Cybersecurity Senior Engineer",
+    "req": "AI Security",
+    "parked": "2026-11-04",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "2026-11-04 phase-547",
+    "link": ""
    },
    {
     "role": "Different — GTM Systems Engineer",
