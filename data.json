@@ -1,9 +1,9 @@
 {
- "generated_at_et": "2026-11-07 11:15 ET",
+ "generated_at_et": "2026-11-07 13:19 ET",
  "summary": {
   "total_submitted_ledger": 57,
   "today_submitted": 0,
-  "human_gate": 221,
+  "human_gate": 228,
   "watch_reset": 2,
   "pipeline_owned": 21,
   "quota": 18,
@@ -11,7 +11,7 @@
   "hold": 3,
   "resolved": 27,
   "closed": 17,
-  "registry_rows": 311
+  "registry_rows": 318
  },
  "daily": [
   {
@@ -132,6 +132,15 @@
     "link": "https://careers.pageuppeople.com/mob/1125/cw/en-us/job/5114255/information-security-officer"
    },
    {
+    "role": "Amazon — Cloud Hardware Development Engineer, Storage",
+    "req": "10542521 (amazon.jobs)",
+    "parked": "2026-11-07",
+    "deadline": "2026-11-09",
+    "deadline_passed": false,
+    "blocker": "Saved vault password REJECTED on IdPrism (\"The login information you provided appears to be incorrect\"); autonomous reset code (12:03:03 ET, 3-min TTL) expired unused —…",
+    "link": "https://www.amazon.jobs/en/jobs/10542521/cloud-hardware-development-engineer-storage-aws-hardware-engineering-hardware-engineering-services"
+   },
+   {
     "role": "Amazon — OSP Fiber Network Planner, Metro Fiber, Fiber Planning",
     "req": "10598237 (amazon.jobs / IdPrism)",
     "parked": "2026-11-06",
@@ -202,6 +211,60 @@
     "deadline_passed": false,
     "blocker": "Saved vault login for myworkdayjobs.com REJECTED (\"wrong email or locked\"); autonomous forgot-password reset FAILED (\"Failed to initiate password reset, please contact…",
     "link": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Security-Operations-Analyst_JREQ204391"
+   },
+   {
+    "role": "Summit Line Construction — IT Helpdesk Analyst",
+    "req": "2026-19901 (Quanta iCIMS)",
+    "parked": "2026-11-07",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Fresh hCaptcha image-click challenge on login after session expired during ~38-min file-upload approval wait; the one permitted solver attempt was already used at first…",
+    "link": "https://careers2-quanta.icims.com/jobs/19901/it-helpdesk-analyst/job"
+   },
+   {
+    "role": "Hamilton Company — Cybersecurity Administrator",
+    "req": "3720 (iCIMS)",
+    "parked": "2026-11-07",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "iCIMS login hCaptcha — one permitted solver attempt used (both challenge pages completed) but the widget closed without verification; Next button remains disabled with…",
+    "link": "https://careers-hamiltoncompany.icims.com/jobs/3720/cybersecurity-administrator/job"
+   },
+   {
+    "role": "Hewlett Packard Enterprise — Senior Network System Engineer",
+    "req": "1213909 (HPE careers)",
+    "parked": "2026-11-07",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Liveness PASSED — live posting open, apply page shows \"You are applying for - Senior Network System Engineer (1213909)\", no filled text, no duplicate banner (NOT a dead…",
+    "link": "https://careers.hpe.com/us/en/apply?jobSeqNo=HPE1US1213909EXTERNALENUS&step=1&stepname=personalInformation"
+   },
+   {
+    "role": "ByteDance — Software Engineer (Seed Model - Infrastructures - SRE)",
+    "req": "7696613114863290677 / Job Code A204666 (jobs.bytedance.com)",
+    "parked": "2026-11-07",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Saved vault login for bytedance.com (captured 2026-10-15) REJECTED — \"Incorrect email or password\". Forgot-Password reset flow triggered a CAPTCHA (\"Select 2 objects…",
+    "link": "https://jobs.bytedance.com/en/login?redirect_path=%2Fresume%2F7696613114863290677%2Fapply"
+   },
+   {
+    "role": "Spotify — Security Engineer - Detection and Response",
+    "req": "cb29d857-395b-401d-9749-367e666ff870 (Lever)",
+    "parked": "2026-11-07",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Form completed, pre-submit Gmail check CLEAN (no prior Spotify application for this req). Submitting triggered an hCaptcha drag puzzle (\"Drag the correct item that fits…",
+    "link": "https://jobs.lever.co/spotify/cb29d857-395b-401d-9749-367e666ff870"
+   },
+   {
+    "role": "Leapfrog Services — IT Support Analyst",
+    "req": "4649348 (Paylocity)",
+    "parked": "2026-11-07",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Held at Step 3 of 4 (References) — Step 3 requires TWO references (Name, Email, Phone, Personal). Reference 1 filled: Gopi Y, [email], [phone], Professional (portal's…",
+    "link": "https://recruiting.paylocity.com/recruiting/jobs/Details/4649348/LeapFrog-Services-Inc"
    },
    {
     "role": "Microsoft — Cyber Security Analyst",
