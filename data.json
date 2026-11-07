@@ -1,9 +1,9 @@
 {
- "generated_at_et": "2026-11-07 13:19 ET",
+ "generated_at_et": "2026-11-07 16:22 ET",
  "summary": {
   "total_submitted_ledger": 57,
   "today_submitted": 0,
-  "human_gate": 228,
+  "human_gate": 230,
   "watch_reset": 2,
   "pipeline_owned": 21,
   "quota": 18,
@@ -11,7 +11,7 @@
   "hold": 3,
   "resolved": 27,
   "closed": 17,
-  "registry_rows": 318
+  "registry_rows": 320
  },
  "daily": [
   {
@@ -265,6 +265,24 @@
     "deadline_passed": false,
     "blocker": "Held at Step 3 of 4 (References) — Step 3 requires TWO references (Name, Email, Phone, Personal). Reference 1 filled: Gopi Y, [email], [phone], Professional (portal's…",
     "link": "https://recruiting.paylocity.com/recruiting/jobs/Details/4649348/LeapFrog-Services-Inc"
+   },
+   {
+    "role": "PostHog — Technical Support Engineer",
+    "req": "db808740-242e-4a40-ad43-d41f26c049d7 (Ashby)",
+    "parked": "2026-11-07",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Form requires answering at least 2 of 3 PostHog product-specific \"Technical Questions\" (Insights weekday breakdown; \"capture failed to load\" video-player integration…",
+    "link": "https://jobs.ashbyhq.com/PostHog/db808740-242e-4a40-ad43-d41f26c049d7/application"
+   },
+   {
+    "role": "iT1 — Desktop Support Technician II",
+    "req": "DE28BFB018 (Workable)",
+    "parked": "2026-11-07",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Cloudflare Turnstile checkbox did NOT clear on the single permitted solver attempt at Submit — checkbox still empty, Submit button stuck on \"Submitting…\". Form 100%…",
+    "link": "https://apply.workable.com/it1/j/DE28BFB018/apply/"
    },
    {
     "role": "Microsoft — Cyber Security Analyst",
