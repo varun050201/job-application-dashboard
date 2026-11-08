@@ -1,15 +1,15 @@
 {
- "generated_at_et": "2026-11-08 15:48 ET",
+ "generated_at_et": "2026-11-08 17:14 ET",
  "summary": {
   "total_submitted_ledger": 57,
   "today_submitted": 0,
   "human_gate": 231,
   "watch_reset": 2,
-  "pipeline_owned": 21,
+  "pipeline_owned": 20,
   "quota": 18,
   "portal_limit": 1,
   "hold": 3,
-  "resolved": 27,
+  "resolved": 28,
   "closed": 18,
   "registry_rows": 322
  },
@@ -2339,15 +2339,6 @@
     "link": ""
    },
    {
-    "role": "Legends Global — IT Network Specialist",
-    "req": "R100126239 (Workday)",
-    "parked": "2026-10-24",
-    "deadline": "",
-    "deadline_passed": false,
-    "blocker": "Saved asmglobal Workday login REJECTED at step 1 of 8 Create Account In — verbatim \"You may have entered the wrong email address or password or your account might be…",
-    "link": ""
-   },
-   {
     "role": "O'Reilly — Sr Information Security Analyst",
     "req": "R206896 (Workday)",
     "parked": "2026-10-24",
@@ -2715,6 +2706,15 @@
     "deadline": "",
     "deadline_passed": false,
     "blocker": "Rippling Cloudflare verification failed on single allowed solver attempt; page shows Verification expired, Apply disabled, resume and fields preserved",
+    "link": ""
+   },
+   {
+    "role": "Legends Global — IT Network Specialist",
+    "req": "R100126239 (Workday)",
+    "parked": "2026-10-24",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Saved asmglobal Workday login REJECTED at step 1 of 8 Create Account In — verbatim \"You may have entered the wrong email address or password or your account might be…",
     "link": ""
    },
    {
