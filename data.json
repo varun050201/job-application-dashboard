@@ -1,16 +1,16 @@
 {
- "generated_at_et": "2026-11-08 11:00 ET",
+ "generated_at_et": "2026-11-08 12:10 ET",
  "summary": {
   "total_submitted_ledger": 57,
   "today_submitted": 0,
-  "human_gate": 232,
+  "human_gate": 231,
   "watch_reset": 2,
   "pipeline_owned": 21,
   "quota": 18,
   "portal_limit": 1,
   "hold": 3,
   "resolved": 27,
-  "closed": 17,
+  "closed": 18,
   "registry_rows": 322
  },
  "daily": [
@@ -247,15 +247,6 @@
     "deadline_passed": false,
     "blocker": "iCIMS login hCaptcha — one permitted solver attempt used (both challenge pages completed) but the widget closed without verification; Next button remains disabled with…",
     "link": "https://careers-hamiltoncompany.icims.com/jobs/3720/cybersecurity-administrator/job"
-   },
-   {
-    "role": "Hewlett Packard Enterprise — Senior Network System Engineer",
-    "req": "1213909 (HPE careers)",
-    "parked": "2026-11-07",
-    "deadline": "",
-    "deadline_passed": false,
-    "blocker": "Liveness PASSED — live posting open, apply page shows \"You are applying for - Senior Network System Engineer (1213909)\", no filled text, no duplicate banner (NOT a dead…",
-    "link": "https://careers.hpe.com/us/en/apply?jobSeqNo=HPE1US1213909EXTERNALENUS&step=1&stepname=personalInformation"
    },
    {
     "role": "ByteDance — Software Engineer (Seed Model - Infrastructures - SRE)",
@@ -2872,6 +2863,15 @@
    }
   ],
   "closed": [
+   {
+    "role": "Hewlett Packard Enterprise — Senior Network System Engineer",
+    "req": "1213909 (HPE careers)",
+    "parked": "2026-11-07",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Liveness PASSED — live posting open, apply page shows \"You are applying for - Senior Network System Engineer (1213909)\", no filled text, no duplicate banner (NOT a dead…",
+    "link": "https://careers.hpe.com/us/en/apply?jobSeqNo=HPE1US1213909EXTERNALENUS&step=1&stepname=personalInformation"
+   },
    {
     "role": "HPE — Intermediate Network Systems Administrator",
     "req": "1216526 (HPE Careers)",
