@@ -1,9 +1,9 @@
 {
- "generated_at_et": "2026-11-07 20:48 ET",
+ "generated_at_et": "2026-11-08 11:00 ET",
  "summary": {
   "total_submitted_ledger": 57,
   "today_submitted": 0,
-  "human_gate": 230,
+  "human_gate": 232,
   "watch_reset": 2,
   "pipeline_owned": 21,
   "quota": 18,
@@ -11,7 +11,7 @@
   "hold": 3,
   "resolved": 27,
   "closed": 17,
-  "registry_rows": 320
+  "registry_rows": 322
  },
  "daily": [
   {
@@ -211,6 +211,24 @@
     "deadline_passed": false,
     "blocker": "Saved vault login for myworkdayjobs.com REJECTED (\"wrong email or locked\"); autonomous forgot-password reset FAILED (\"Failed to initiate password reset, please contact…",
     "link": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Security-Operations-Analyst_JREQ204391"
+   },
+   {
+    "role": "Police and Fire Federal Credit Union (PFFCU) — Network Engineer",
+    "req": "9205257814945_9 (ADP Workforce Now; internal ADP Requisition",
+    "parked": "2026-11-08",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "ADP \"Get your verification code\" dialog — one-time passcode must be sent to [email] or [phone] and entered to proceed; code cannot be relayed on a detached run; applier…",
+    "link": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=8922cddb-cc8e-439e-bf0b-8387b50ce3d3&ccId=19000101_000001&jobId=9205257814945_9&lang=en_US&utm_source=freehire.me"
+   },
+   {
+    "role": "Intercontinental Exchange — Senior Analyst, Systems Operations",
+    "req": "2026-13341 (iCIMS careers-ice.icims.com)",
+    "parked": "2026-11-08",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "iCIMS hCaptcha email-gate — single permitted solver attempt expired on page 2 of 2 before Verify (page 1 accepted, 3 line-tips clicked; popup closed on its own before…",
+    "link": "https://careers-ice.icims.com/jobs/13341/senior-analyst%2c-systems-operations/job"
    },
    {
     "role": "Summit Line Construction — IT Helpdesk Analyst",
