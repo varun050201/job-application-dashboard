@@ -1,9 +1,9 @@
 {
- "generated_at_et": "2026-11-09 10:09 ET",
+ "generated_at_et": "2026-11-09 12:25 ET",
  "summary": {
   "total_submitted_ledger": 57,
   "today_submitted": 0,
-  "human_gate": 231,
+  "human_gate": 232,
   "watch_reset": 2,
   "pipeline_owned": 20,
   "quota": 18,
@@ -11,7 +11,7 @@
   "hold": 3,
   "resolved": 28,
   "closed": 18,
-  "registry_rows": 322
+  "registry_rows": 323
  },
  "daily": [
   {
@@ -211,6 +211,15 @@
     "deadline_passed": false,
     "blocker": "Saved vault login for myworkdayjobs.com REJECTED (\"wrong email or locked\"); autonomous forgot-password reset FAILED (\"Failed to initiate password reset, please contact…",
     "link": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Security-Operations-Analyst_JREQ204391"
+   },
+   {
+    "role": "Dynascale — NOC Technician II",
+    "req": "n/a (mailto apply)",
+    "parked": "2026-11-09",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "No ATS form — apply path is email-only to [email]; in-session Gmail sign-in rejected saved vault password ('Wrong password' — credential-health flag, only Varun's fresh…",
+    "link": "https://dynascale.com/careers"
    },
    {
     "role": "Police and Fire Federal Credit Union (PFFCU) — Network Engineer",
