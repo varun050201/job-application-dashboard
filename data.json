@@ -1,17 +1,17 @@
 {
- "generated_at_et": "2026-11-09 15:34 ET",
+ "generated_at_et": "2026-11-09 18:19 ET",
  "summary": {
   "total_submitted_ledger": 57,
   "today_submitted": 0,
-  "human_gate": 232,
+  "human_gate": 237,
   "watch_reset": 2,
   "pipeline_owned": 20,
-  "quota": 18,
+  "quota": 19,
   "portal_limit": 1,
   "hold": 3,
   "resolved": 28,
   "closed": 18,
-  "registry_rows": 323
+  "registry_rows": 329
  },
  "daily": [
   {
@@ -220,6 +220,51 @@
     "deadline_passed": false,
     "blocker": "No ATS form — apply path is email-only to [email]; in-session Gmail sign-in rejected saved vault password ('Wrong password' — credential-health flag, only Varun's fresh…",
     "link": "https://dynascale.com/careers"
+   },
+   {
+    "role": "Finnegan — IT Network Engineer",
+    "req": "Dayforce job 1680",
+    "parked": "2026-11-09",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Dayforce password reset reached security question \"What city did you grow up in?\" — answer not on file (profile searched, not guessed); saved vault login rejected (\"You…",
+    "link": ""
+   },
+   {
+    "role": "Duncan Aviation — Business Analyst - IT",
+    "req": "req 3518",
+    "parked": "2026-11-09",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "GR8 People portal requires at least 3 employment records to continue (\"Please enter at least 3 employment records in order to continue.\") — Varun has only 2 real…",
+    "link": ""
+   },
+   {
+    "role": "Microsoft — Cloud Network Engineer II",
+    "req": "req 1970393557070070 (apply.careers.microsoft.com, pid 19703",
+    "parked": "2026-11-09",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Microsoft Careers sign-in wall — no saved vault login for microsoft.com; portal offers Microsoft / LinkedIn / Google / Facebook sign-in or Create an account; no native…",
+    "link": "https://apply.careers.microsoft.com/careers/apply?pid=1970393557070070"
+   },
+   {
+    "role": "Seattle University — Senior Network Engineer",
+    "req": "req JR100673 (seattleu.wd108.myworkdayjobs.com, Workday)",
+    "parked": "2026-11-09",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Workday password-reset email never arrives — Forgot Password submitted 17:52 ET and resent once 18:10 ET for [email]; no reset email in the work Gmail as of ~18:15 ET…",
+    "link": ""
+   },
+   {
+    "role": "Edward Jones — Business Systems Analyst II",
+    "req": "req 120374BR (BrassRing sjobs.brassring.com, siteid 5374, jo",
+    "parked": "2026-11-09",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "BrassRing Reset Password page reached but the new password could not be set in a detached run — Secure Vault universal job-portal credential could not be retrieved via…",
+    "link": ""
    },
    {
     "role": "Police and Fire Federal Credit Union (PFFCU) — Network Engineer",
@@ -2394,6 +2439,15 @@
    }
   ],
   "quota": [
+   {
+    "role": "Google — Security Engineer",
+    "req": "n/a (Google Careers, exact variant unpinned)",
+    "parked": "2026-11-09",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Google Careers 30-day quota AT CAP (3 trailing 30d)",
+    "link": ""
+   },
    {
     "role": "Google — AI Threat Defense Engineer I, Google Cloud Consulting, Professional Services",
     "req": "111590144095462086 (Google Careers)",
