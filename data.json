@@ -1,17 +1,17 @@
 {
- "generated_at_et": "2026-11-09 18:19 ET",
+ "generated_at_et": "2026-11-10 13:36 ET",
  "summary": {
   "total_submitted_ledger": 57,
   "today_submitted": 0,
-  "human_gate": 237,
+  "human_gate": 244,
   "watch_reset": 2,
-  "pipeline_owned": 20,
+  "pipeline_owned": 19,
   "quota": 19,
   "portal_limit": 1,
   "hold": 3,
   "resolved": 28,
   "closed": 18,
-  "registry_rows": 329
+  "registry_rows": 335
  },
  "daily": [
   {
@@ -123,24 +123,6 @@
  "queue": {
   "human_gate": [
    {
-    "role": "Virginia DBHDS — Information Security Officer",
-    "req": "5114255 (PageUp)",
-    "parked": "2026-10-29",
-    "deadline": "2026-11-09",
-    "deadline_passed": false,
-    "blocker": "PageUp sign-in blocked on detached run: login service reports no saved login signs in to pageuppeople.com for [email], no credential entry route without chat; duplicate…",
-    "link": "https://careers.pageuppeople.com/mob/1125/cw/en-us/job/5114255/information-security-officer"
-   },
-   {
-    "role": "Amazon — Cloud Hardware Development Engineer, Storage",
-    "req": "10542521 (amazon.jobs)",
-    "parked": "2026-11-07",
-    "deadline": "2026-11-09",
-    "deadline_passed": false,
-    "blocker": "Saved vault password REJECTED on IdPrism (\"The login information you provided appears to be incorrect\"); autonomous reset code (12:03:03 ET, 3-min TTL) expired unused —…",
-    "link": "https://www.amazon.jobs/en/jobs/10542521/cloud-hardware-development-engineer-storage-aws-hardware-engineering-hardware-engineering-services"
-   },
-   {
     "role": "Amazon — OSP Fiber Network Planner, Metro Fiber, Fiber Planning",
     "req": "10598237 (amazon.jobs / IdPrism)",
     "parked": "2026-11-06",
@@ -211,6 +193,60 @@
     "deadline_passed": false,
     "blocker": "Saved vault login for myworkdayjobs.com REJECTED (\"wrong email or locked\"); autonomous forgot-password reset FAILED (\"Failed to initiate password reset, please contact…",
     "link": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Security-Operations-Analyst_JREQ204391"
+   },
+   {
+    "role": "Serverfarm — Data Center Technician (Covington GA ATL2)",
+    "req": "n/a (ATL2, Sep-17 park; req ID unrecorded — NOT efcdf7c3, wh",
+    "parked": "2026-09-17",
+    "deadline": "2027-09-17",
+    "deadline_passed": false,
+    "blocker": "hCaptcha drag-and-drop puzzle blocks the Submit button on jobs.lever.co; application fully completed (resume attached + parsed, profile filled, screening answered, $80k…",
+    "link": ""
+   },
+   {
+    "role": "Glenn O. Hawbaker, Inc. — Network Technician",
+    "req": "3668 (ApplicantStack gohinc.applicantstack.com)",
+    "parked": "2026-11-10",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Required (*) fields with genuinely unknown answers: SSN; driver's license State + denied history; three references with phone numbers (only supervisor names known); CVS…",
+    "link": "https://gohinc.applicantstack.com/x/apply/a205m5hl947k"
+   },
+   {
+    "role": "Thrive Market — Site Reliability Engineer",
+    "req": "4458409009 (Greenhouse job-boards.greenhouse.io)",
+    "parked": "2026-11-10",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Three required (*) essay questions need Varun's own answers — genuinely unknown and consequential; applier stopped rather than inventing past incidents, metrics, or…",
+    "link": "https://job-boards.greenhouse.io/thrivemarket/jobs/4458409009"
+   },
+   {
+    "role": "TP-Link Systems Inc. — Site Reliability Engineer",
+    "req": "R26_0000000086 (Workday tplink.wd503.myworkdayjobs.com, Irvi",
+    "parked": "2026-11-10",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "No account exists for [email] on the TP-Link Workday tenant. Saved Secure Vault login rejected on Sign In (\"You may have entered the wrong email address or password or…",
+    "link": ""
+   },
+   {
+    "role": "Barstow Community College — NETWORK SPECIALIST",
+    "req": "252600046 / EDJOIN 2293829 (schooljobs.com, deadline 2026-11",
+    "parked": "2026-11-10",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Application requires a list of references — references hard rule: ask Varun, only Gopi Y auto-usable (1 reference; a list is needed). Tailored resume built phase-586 (16…",
+    "link": "https://www.schooljobs.com/careers/barstowcc/jobs/5545604/network-specialist"
+   },
+   {
+    "role": "Texas A&M University System — Network Engineer II",
+    "req": "R-098560 (Workday tamus.wd1.myworkdayjobs.com, Tarleton Stat",
+    "parked": "2026-11-10",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Application requires at least 3 professional references — references hard rule: ask Varun, only Gopi Y auto-usable (1 of 3). Tailored resume built phase-586 (16…",
+    "link": ""
    },
    {
     "role": "Dynascale — NOC Technician II",
@@ -1021,6 +1057,15 @@
     "deadline_passed": false,
     "blocker": "No saved Frequentis login; Register page requires password creation + confirmation; detached-run login service cannot create a new-domain vault entry (no chat route) —…",
     "link": "https://jobs.frequentis.com/careers/JobDetail/FUSA-Junior-Systems-Engineer/3653"
+   },
+   {
+    "role": "O'Reilly — Sr Information Security Analyst",
+    "req": "R206896 (Workday)",
+    "parked": "2026-10-24",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Saved oreillyauto.wd1 Workday login REJECTED verbatim \"You may have entered the wrong email address or password or your account might be locked.\" Autonomous reset…",
+    "link": ""
    },
    {
     "role": "Dolby Laboratories — Information Security Engineer",
@@ -2254,6 +2299,24 @@
     "deadline_passed": true,
     "blocker": "NEEDS-APPLICANT-ANSWERS: Workday \"Errors Found\" at step 4 of 7 — last 4 SSN digits, related-by-blood-or-marriage to any State employee, and Military Selective Service…",
     "link": "https://nc.wd108.myworkdayjobs.com/en-US/NC_Careers/details/Business-Systems-Analyst-I_JR-126867"
+   },
+   {
+    "role": "Virginia DBHDS — Information Security Officer",
+    "req": "5114255 (PageUp)",
+    "parked": "2026-10-29",
+    "deadline": "2026-11-09",
+    "deadline_passed": true,
+    "blocker": "PageUp sign-in blocked on detached run: login service reports no saved login signs in to pageuppeople.com for [email], no credential entry route without chat; duplicate…",
+    "link": "https://careers.pageuppeople.com/mob/1125/cw/en-us/job/5114255/information-security-officer"
+   },
+   {
+    "role": "Amazon — Cloud Hardware Development Engineer, Storage",
+    "req": "10542521 (amazon.jobs)",
+    "parked": "2026-11-07",
+    "deadline": "2026-11-09",
+    "deadline_passed": true,
+    "blocker": "Saved vault password REJECTED on IdPrism (\"The login information you provided appears to be incorrect\"); autonomous reset code (12:03:03 ET, 3-min TTL) expired unused —…",
+    "link": "https://www.amazon.jobs/en/jobs/10542521/cloud-hardware-development-engineer-storage-aws-hardware-engineering-hardware-engineering-services"
    }
   ],
   "pipeline_owned": [
@@ -2390,15 +2453,6 @@
     "deadline": "",
     "deadline_passed": false,
     "blocker": "Confirm Your Identity verification blocked: 09:34 + 10:10 codes expired unused; fresh code from authorized ~10:24 resend could not be delivered to the dialog…",
-    "link": ""
-   },
-   {
-    "role": "O'Reilly — Sr Information Security Analyst",
-    "req": "R206896 (Workday)",
-    "parked": "2026-10-24",
-    "deadline": "",
-    "deadline_passed": false,
-    "blocker": "Saved oreillyauto.wd1 Workday login REJECTED verbatim \"You may have entered the wrong email address or password or your account might be locked.\" Autonomous reset…",
     "link": ""
    },
    {
