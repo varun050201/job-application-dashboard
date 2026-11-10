@@ -1,17 +1,17 @@
 {
- "generated_at_et": "2026-11-10 16:13 ET",
+ "generated_at_et": "2026-11-10 18:11 ET",
  "summary": {
   "total_submitted_ledger": 57,
   "today_submitted": 0,
-  "human_gate": 244,
+  "human_gate": 246,
   "watch_reset": 2,
   "pipeline_owned": 19,
-  "quota": 19,
+  "quota": 20,
   "portal_limit": 1,
   "hold": 3,
   "resolved": 28,
   "closed": 18,
-  "registry_rows": 335
+  "registry_rows": 338
  },
  "daily": [
   {
@@ -247,6 +247,24 @@
     "deadline_passed": false,
     "blocker": "Application requires at least 3 professional references — references hard rule: ask Varun, only Gopi Y auto-usable (1 of 3). Tailored resume built phase-586 (16…",
     "link": ""
+   },
+   {
+    "role": "Teradyne — DevOps Engineer (Integrated System Test, North Reading)",
+    "req": "1432791500 (SAP SuccessFactors career41.sapsf.com, North Rea",
+    "parked": "2026-11-10",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "NEEDS-PASSWORD-CAPTURE on sapsf.com: no saved login signs in to career41.sapsf.com for [email]; vault credential-fill did NOT supply the universal job-portal credential…",
+    "link": "https://career41.sapsf.com/careers?company=teradynein"
+   },
+   {
+    "role": "MyMichigan Health — Application Analyst I",
+    "req": "46246 (iCIMS careers-mymichigan.icims.com, Midland MI, Regul",
+    "parked": "2026-11-10",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "hCaptcha \"Click the TWO matching shapes\" (page 1 of 2) on the iCIMS login page; single permitted solver attempt used and FAILED — no Verify button, page 2 never…",
+    "link": "https://careers-mymichigan.icims.com/jobs/46246/job"
    },
    {
     "role": "Dynascale — NOC Technician II",
@@ -2493,6 +2511,15 @@
    }
   ],
   "quota": [
+   {
+    "role": "Google — Network Engineer",
+    "req": "101242036723557062 (Google Careers)",
+    "parked": "2026-11-10",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Google Careers 30-day quota FULL: trailing-30d confirmations Oct 12 + Oct 22 x2 = 3 vs cap 3; gates PASS on merits (Bachelor's + 3 yrs, no sponsorship text). Do NOT…",
+    "link": ""
+   },
    {
     "role": "Google — Security Engineer",
     "req": "n/a (Google Careers, exact variant unpinned)",
