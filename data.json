@@ -1,10 +1,10 @@
 {
- "generated_at_et": "2026-11-11 16:22 ET",
+ "generated_at_et": "2026-11-11 18:12 ET",
  "summary": {
-  "total_submitted_ledger": 920,
-  "today_submitted": 8,
+  "total_submitted_ledger": 921,
+  "today_submitted": 9,
   "backfill_count": 146,
-  "human_gate": 251,
+  "human_gate": 256,
   "watch_reset": 2,
   "pipeline_owned": 22,
   "quota": 20,
@@ -12,7 +12,7 @@
   "hold": 3,
   "resolved": 29,
   "closed": 18,
-  "registry_rows": 347
+  "registry_rows": 352
  },
  "daily": [
   {
@@ -457,7 +457,7 @@
   },
   {
    "date": "2026-11-11",
-   "count": 8
+   "count": 9
   }
  ],
  "today": [
@@ -473,7 +473,7 @@
    "role": "Senior Network Engineer I",
    "req": "JR 2026-8336",
    "date": "2026-11-11",
-   "email_confirmed": true
+   "email_confirmed": false
   },
   {
    "company": "Microsoft",
@@ -501,7 +501,7 @@
    "role": "Wireless Network Engineer - Enterprise Infrastructure",
    "req": "971086452342966",
    "date": "2026-11-11",
-   "email_confirmed": true
+   "email_confirmed": false
   },
   {
    "company": "Qube Research & Technologies",
@@ -516,11 +516,18 @@
    "req": "42291",
    "date": "2026-11-11",
    "email_confirmed": true
+  },
+  {
+   "company": "Astiva Health, Inc",
+   "role": "IT Network & Security Engineer",
+   "req": "4657266",
+   "date": "2026-11-11",
+   "email_confirmed": false
   }
  ],
  "linkedin": {
   "batch_date": "2026-11-11",
-  "staged_count": 9,
+  "staged_count": 12,
   "staged": [
    {
     "company": "Dexory",
@@ -582,6 +589,27 @@
     "company": "Ingles Markets, Inc.",
     "role": "Network Engineer",
     "job_id": "4489647527",
+    "apply_type": "—",
+    "date": "2026-11-11"
+   },
+   {
+    "company": "CBTS",
+    "role": "Information Technology Operations Engineer",
+    "job_id": "4489006546",
+    "apply_type": "—",
+    "date": "2026-11-11"
+   },
+   {
+    "company": "City of Cedar Park",
+    "role": "Network Administrator",
+    "job_id": "4489999559",
+    "apply_type": "—",
+    "date": "2026-11-11"
+   },
+   {
+    "company": "UW Advancement Careers",
+    "role": "Network Operations Engineer",
+    "job_id": "4489691018",
     "apply_type": "—",
     "date": "2026-11-11"
    }
@@ -705,6 +733,51 @@
     "deadline_passed": false,
     "blocker": "Three required answers not in any stored profile fact: (1) last 4 digits of SSN; (2) discharge history Yes; (3) CVS End Month — CVS is current (June 2024–present) and…",
     "link": ""
+   },
+   {
+    "role": "Galloway Company — OT Systems Administrator (Systems and Network Engineer)",
+    "req": "Req #137 / Dayforce job 1100",
+    "parked": "2026-11-11",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Saved Dayforce login rejected; Forgot Password run — 16:22 code expired before entry, fresh 16:31 code accepted; reset stopped at security question \"What city did you…",
+    "link": "https://jobs.dayforcehcm.com/en-US/galloway/CANDIDATEPORTAL/jobs/1100"
+   },
+   {
+    "role": "UDR — Analyst - IoT Security",
+    "req": "ANALY005843 (UltiPro)",
+    "parked": "2026-11-11",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Saved UltiPro login rejected (\"Invalid email or password\"); autonomous reset ran — reset email arrived 17:50 ET and the link opened to the \"Change your password\" page on…",
+    "link": "https://recruiting2.ultipro.com/UNI1027UDRT/JobBoard/6ccb8fd4-4950-43e4-9978-4bcc85c6f5e1/OpportunityDetail?opportunityId=2aa78934-cad1-4f1d-ae18-44ae545fce50"
+   },
+   {
+    "role": "Amazon — Security Engineer II, Customer Service Security",
+    "req": "10601544 (amazon.jobs)",
+    "parked": "2026-11-11",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "6 required job-specific screening questions genuinely unanswerable from the profile bundle (OOP programming 3+ yrs; scripting code review 2+ yrs; bachelor's STEM or 2+…",
+    "link": "https://www.amazon.jobs/en-US/applicant/jobs/10601544/apply"
+   },
+   {
+    "role": "UW Advancement Careers — Network Operations Engineer",
+    "req": "LinkedIn 4489691018 / UW REQ-0000137511 (Workday)",
+    "parked": "2026-11-11",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "UW Workday candidate sign-in at myworkdaysite.com — no saved vault login for that domain; universal job-portal credential not enterable in a detached session, so the…",
+    "link": "https://wd5.myworkdaysite.com/en-US/recruiting/uw/UWHires/job/Seattle%2C-WA/Network-Operations-Engineer_REQ-0000137511/apply/autofillWithResume?q=Network%20Operations%20Engineer"
+   },
+   {
+    "role": "City of Cedar Park — Network Administrator",
+    "req": "JR100059 (LinkedIn 4489999559, Workday)",
+    "parked": "2026-11-11",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Saved Workday login rejected (\"You may have entered the wrong email address or password or your account might be locked\"); Forgot Password requested 18:03 ET; universal…",
+    "link": "https://www.linkedin.com/jobs/view/4489999559/"
    },
    {
     "role": "Glenn O. Hawbaker, Inc. — Network Technician",
@@ -3736,7 +3809,7 @@
   "Ledger submission counts are the verified floor: some run reports claimed more on certain days than ever got ledger lines.",
   "The human-gate queue is ordered deadline-first, then newest parked first. A row's deadline is read from its registry text and may be approximate.",
   "No personal details are published here: no email addresses, phone numbers, street addresses, or resume file paths.",
-  "LinkedIn (Feed C) is live as a second apply channel since 2026-11-11 — Easy Apply and general Apply under the same gates. 9 roles staged from the latest batch, applies start one at a time.",
+  "LinkedIn (Feed C) is live as a second apply channel since 2026-11-11 — Easy Apply and general Apply under the same gates. 12 roles staged from the latest batch, applies start one at a time.",
   "Total counts live pipeline submissions under the strict counter (bold, bare, and backfill record lines with an explicit date). Another 146 older external confirmations are logged in the ledger under '- BACKFILL **SUBMITTED:' with their own confirmation dates and are counted separately, not in the total."
  ]
 }
