@@ -114,11 +114,19 @@ def main():
     subs = []
     with open(LEDGER, encoding="utf-8", errors="replace") as f:
         for line in f:
-            if not line.startswith("- SUBMITTED"):
+            if line.startswith("- SUBMITTED"):
+                body = line[len("- SUBMITTED:"):].strip()
+            elif line.startswith("SUBMITTED:"):
+                # closeout.py format (no dash prefix) — same verified
+                # submissions, missed by the dash-only check until 2026-11-11
+                body = line[len("SUBMITTED:"):].strip()
+            else:
                 continue
-            body = line[len("- SUBMITTED:"):].strip()
             company = body.split("—")[0].strip()
             mreq = re.search(r"req ([A-Za-z0-9_.\-]+)", body)
+            if not mreq:
+                # closeout format: "(10540973, 2026-11-11) phase-N"
+                mreq = re.search(r"\((\d[\w.\-]*),\s*20\d{2}-", body)
             # email confirmation only when the line cites an actual Gmail
             # confirmation message (ID + thank-you/received wording), not a
             # mere Gmail duplicate check or a portal confirmation note.
