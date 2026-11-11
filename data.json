@@ -1,10 +1,10 @@
 {
- "generated_at_et": "2026-11-11 11:44 ET",
+ "generated_at_et": "2026-11-11 12:42 ET",
  "summary": {
-  "total_submitted_ledger": 913,
-  "today_submitted": 4,
+  "total_submitted_ledger": 915,
+  "today_submitted": 6,
   "backfill_count": 144,
-  "human_gate": 246,
+  "human_gate": 248,
   "watch_reset": 2,
   "pipeline_owned": 20,
   "quota": 20,
@@ -12,7 +12,7 @@
   "hold": 3,
   "resolved": 28,
   "closed": 18,
-  "registry_rows": 339
+  "registry_rows": 341
  },
  "daily": [
   {
@@ -453,7 +453,7 @@
   },
   {
    "date": "2026-11-11",
-   "count": 4
+   "count": 6
   }
  ],
  "today": [
@@ -484,6 +484,20 @@
    "req": "10540973",
    "date": "2026-11-11",
    "email_confirmed": true
+  },
+  {
+   "company": "Filed",
+   "role": "Tax Software Support Specialist",
+   "req": "8575396",
+   "date": "2026-11-11",
+   "email_confirmed": false
+  },
+  {
+   "company": "Meta",
+   "role": "Wireless Network Engineer - Enterprise Infrastructure",
+   "req": "971086452342966",
+   "date": "2026-11-11",
+   "email_confirmed": false
   }
  ],
  "linkedin": {
@@ -585,6 +599,15 @@
     "link": "https://unc.peopleadmin.com/postings/327847"
    },
    {
+    "role": "Lumen — Sr Network Test Engineer",
+    "req": "Req 344393 (Eightfold)",
+    "parked": "2026-11-11",
+    "deadline": "2026-11-16",
+    "deadline_passed": false,
+    "blocker": "Eightfold 2FA setup wall: account already exists for [email] (vault has NO lumen.com login); email-code sign-in accepted 12:26 ET, then mandatory \"Set up 2-factor…",
+    "link": "https://careers.lumen.com/careers/apply?pid=1133916758622"
+   },
+   {
     "role": "Cisco — Senior Software Engineer in Test (Network Security, Performance)",
     "req": "2011993 (Workday cisco.wd5)",
     "parked": "2026-11-03",
@@ -628,6 +651,15 @@
     "deadline_passed": false,
     "blocker": "hCaptcha drag-and-drop puzzle blocks the Submit button on jobs.lever.co; application fully completed (resume attached + parsed, profile filled, screening answered, $80k…",
     "link": ""
+   },
+   {
+    "role": "Children's Hospital of The King's Daughters — IS Network Engineer",
+    "req": "LinkedIn 4488607939 (symplr HealthcareSource JobId 32622)",
+    "parked": "2026-11-11",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Forgot Password security question \"What is your pet's name?\" — answer known only to Varun (memory-searched, not in profile; never guessed). Account already exists for…",
+    "link": "https://pm.healthcaresource.com/CS/kingsdaughters/#/forgotPassword"
    },
    {
     "role": "Glenn O. Hawbaker, Inc. — Network Technician",
