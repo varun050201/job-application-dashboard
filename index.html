@@ -57,6 +57,12 @@
   <h2>Submitted today</h2>
   <table id="todaytable"><thead><tr><th>Company</th><th>Role</th><th>Req</th><th>Email confirmation</th></tr></thead><tbody></tbody></table>
 
+  <div id="liwrap">
+  <h2>LinkedIn — staged for apply</h2>
+  <p class="note" id="lilabel"></p>
+  <table id="litable"><thead><tr><th>Company</th><th>Role</th><th>Job ID</th><th>Apply type</th></tr></thead><tbody></tbody></table>
+  </div>
+
   <h2>Stopped at a human gate — needs your hands</h2>
   <p class="note">Ordered deadline-first, then newest parked first. Use search to find a company or role.</p>
   <input type="search" id="q" placeholder="Search the queue… (company, role, req)">
@@ -70,11 +76,12 @@
 </main>
 <script>
 fetch('data.json').then(r => r.json()).then(d => {
-  document.getElementById('updated').textContent = 'Last updated: ' + d.generated_at_et + ' · Refreshes daily.';
+  document.getElementById('updated').textContent = 'Last updated: ' + d.generated_at_et + ' · Refreshes with every sweep.';
   const s = d.summary;
   const cards = [
     ['Total submitted (ledger)', s.total_submitted_ledger, 'ok'],
     ['Submitted today', s.today_submitted, 'ok'],
+    ['External / backfilled', s.backfill_count || 0, ''],
     ['Needs your hands', s.human_gate, 'hot'],
     ['Reset-watch', s.watch_reset, ''],
     ['Pipeline retries', s.pipeline_owned, ''],
@@ -87,7 +94,7 @@ fetch('data.json').then(r => r.json()).then(d => {
     '<div class="card ' + c[2] + '"><b>' + c[1] + '</b><span>' + c[0] + '</span></div>').join('');
 
   const max = Math.max(1, ...d.daily.map(x => x.count));
-  const today = new Date().toISOString().slice(0, 10);
+  const today = new Date().toLocaleDateString('en-CA', {timeZone: 'America/New_York'});
   document.getElementById('bars').innerHTML = d.daily.map(x => {
     const h = Math.round(x.count / max * 130) + 6;
     const cls = x.date === today ? 'bar today' : 'bar';
@@ -101,6 +108,14 @@ fetch('data.json').then(r => r.json()).then(d => {
     '<tr><td>' + x.company + '</td><td>' + x.role + '</td><td>' + (x.req || '—') + '</td><td>' +
     (x.email_confirmed ? '<span class="pill yes">Email received</span>' : '<span class="pill no">Portal only, no email yet</span>') + '</td></tr>').join('')
     : '<tr><td colspan="4">Nothing submitted today yet.</td></tr>';
+
+  if (d.linkedin && d.linkedin.staged.length) {
+    document.getElementById('lilabel').textContent = 'Feed C went live ' + d.linkedin.batch_date + ' — Easy Apply and general Apply under the same gates. Applies start one role at a time.';
+    document.getElementById('litable').querySelector('tbody').innerHTML = d.linkedin.staged.map(x =>
+      '<tr><td>' + x.company + '</td><td>' + x.role + '</td><td>' + (x.job_id || '—') + '</td><td>' + x.apply_type + '</td></tr>').join('');
+  } else {
+    document.getElementById('liwrap').style.display = 'none';
+  }
 
   const q = d.queue.human_gate;
   const qb = document.getElementById('queuetable').querySelector('tbody');
@@ -123,7 +138,7 @@ fetch('data.json').then(r => r.json()).then(d => {
   }
   document.getElementById('other').innerHTML =
     mini('Pipeline-owned retries (automatic)', d.queue.pipeline_owned) +
-    mini('Quota-blocked (retry ~Nov 8)', d.queue.quota) +
+    mini('Quota-blocked (retry date in row)', d.queue.quota) +
     mini('Reset-watch (pipeline watches inbox)', d.queue.watch_reset) +
     mini('Portal limit (do not re-stage)', d.queue.portal_limit) +
     mini('On hold by your order', d.queue.hold) +

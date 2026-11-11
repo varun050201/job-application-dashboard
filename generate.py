@@ -111,34 +111,124 @@ def classify(status):
 
 def main():
     # ---- ledger: submissions ----
-    subs = []
     with open(LEDGER, encoding="utf-8", errors="replace") as f:
-        for line in f:
-            if line.startswith("- SUBMITTED"):
-                body = line[len("- SUBMITTED:"):].strip()
-            elif line.startswith("SUBMITTED:"):
-                # closeout.py format (no dash prefix) — same verified
-                # submissions, missed by the dash-only check until 2026-11-11
-                body = line[len("SUBMITTED:"):].strip()
-            else:
+        ledger_lines = f.readlines()
+    # Strict live shapes (count_submitted.py LIVE_PATTERNS, the R&D-blessed
+    # counter): bold bullet "- **SUBMITTED: ...", bare "SUBMITTED: ...", and
+    # "SUBMITTED (backfill): ...". The dash-prefixed "(external...)"
+    # backfill variants are the same dated record shape, so they count
+    # too. Pointer notes ("(carried from ...)") are NOT records — the real
+    # line sits directly above them. Run-summary lines ("SUBMITTED this
+    # run: 0 ...") never match: no colon right after SUBMITTED.
+    # Legacy "- BACKFILL **SUBMITTED:" lines (144) carry a confirmation
+    # date, not a log date, so they are counted separately, never folded
+    # into daily counts.
+    backfill_old_re = re.compile(
+        r"^- BACKFILL(?:\s*\([^)]*\))?:?\s*(?:- )?\*\*SUBMITTED: ")
+    backfill_old = sum(1 for line in ledger_lines
+                       if backfill_old_re.search(line))
+    subs = []
+    sub_by_lineno = {}
+    for lineno, line in enumerate(ledger_lines, start=1):
+        s = line.strip()
+        if s.startswith("- "):
+            s = s[2:].strip()
+        if s.startswith("**"):
+            s = s[2:].strip()
+        if s.startswith("SUBMITTED**"):
+            s = "SUBMITTED" + s[len("SUBMITTED**"):]
+        m = re.match(r"SUBMITTED(?: \(([^)]*)\))?: (.*)$", s)
+        if not m:
+            continue
+        qualifier = m.group(1) or ""
+        if "carried from" in qualifier:
+            continue
+        body = m.group(2).strip()
+        if "—" not in body:
+            continue
+        # Date the strict way: inside the first parens when present
+        # (bare/backfill forms), else the first date in the body.
+        mdate = re.search(r"\((?:[^)]*?,\s*)?(\d{4}-\d{2}-\d{2})\)", body)
+        date = mdate.group(1) if mdate else parse_date(body)
+        if not date:
+            continue
+        company = body.split("—")[0].strip()
+        mreq = re.search(r"req ([A-Za-z0-9_.\-]+)", body)
+        if not mreq:
+            # closeout format: "(10540973, 2026-11-11) phase-N" — also
+            # Breezy ids ("e45daf9a48ba") and "JR 2026-8336" forms, which
+            # the old digit-first fallback missed until 2026-11-11
+            mreq = re.search(r"\(([^,)]+?),\s*20\d{2}-", body)
+        # email confirmation only when the line cites an actual Gmail
+        # confirmation message (ID + thank-you/received wording), not a
+        # mere Gmail duplicate check or a portal confirmation note.
+        email_conf = bool(re.search(r"Gmail 1a[0-9a-f]{6,}", body)) and \
+            ("Thank you" in body or "received your" in body or "we have received" in body)
+        rec = {
+            "company": company,
+            "role": body.split("—")[1].split("(")[0].strip() if "—" in body else "",
+            "req": mreq.group(1).strip() if mreq else "",
+            "date": date,
+            "email_confirmed": email_conf,
+            "lineno": lineno,
+        }
+        subs.append(rec)
+        sub_by_lineno[lineno] = rec
+    # Email-confirmation evidence that lands on a LATER ledger line than the
+    # SUBMITTED line itself — both are ledger-internal evidence, no inbox
+    # access at generate time:
+    # (a) a NOTE line "confirmation email ARRIVED ... (ledger L<n>)" names
+    #     the submitted line by number (DigitalOcean, Microsoft, Amazon);
+    # (b) an inbox-triage line "corroborat* SUBMITTED" names the company
+    #     and cites a Gmail confirmation ID, dated the same day as the
+    #     submission (Ashburn, Lambda, Jane Street, dentsu).
+    for line in ledger_lines:
+        m = re.search(r"confirmation email ARRIVED.*\(ledger L(\d+)\)", line)
+        if m and int(m.group(1)) in sub_by_lineno:
+            sub_by_lineno[int(m.group(1))]["email_confirmed"] = True
+        if "corroborat" in line and "SUBMITTED" in line and \
+                re.search(r"Gmail 1a[0-9a-f]{6,}", line):
+            ldate = parse_date(line)
+            if not ldate:
                 continue
-            company = body.split("—")[0].strip()
-            mreq = re.search(r"req ([A-Za-z0-9_.\-]+)", body)
-            if not mreq:
-                # closeout format: "(10540973, 2026-11-11) phase-N"
-                mreq = re.search(r"\((\d[\w.\-]*),\s*20\d{2}-", body)
-            # email confirmation only when the line cites an actual Gmail
-            # confirmation message (ID + thank-you/received wording), not a
-            # mere Gmail duplicate check or a portal confirmation note.
-            email_conf = bool(re.search(r"Gmail 1a[0-9a-f]{6,}", body)) and \
-                ("Thank you" in body or "received your" in body or "we have received" in body)
-            subs.append({
-                "company": company,
-                "role": body.split("—")[1].split("(")[0].strip() if "—" in body else "",
-                "req": mreq.group(1) if mreq else "",
-                "date": parse_date(body),
-                "email_confirmed": email_conf,
-            })
+            for sub in subs:
+                if sub["date"] == ldate and sub["company"] and sub["company"] in line:
+                    sub["email_confirmed"] = True
+
+    # ---- ledger: LinkedIn (Feed C) staged roles ----
+    # Live as a second apply channel since 2026-11-11 (dry run passed that
+    # morning). Only the latest verify batch is shown, minus any pair
+    # already submitted — older STAGED lines are history, not the queue.
+    submitted_pairs = {(s["company"].lower(), s["role"].lower()) for s in subs}
+    li_rows = []
+    for line in ledger_lines:
+        s = line.strip()
+        if s.startswith("- "):
+            s = s[2:].strip()
+        if not s.startswith("STAGED:"):
+            continue
+        body = s[len("STAGED:"):].strip()
+        if "Feed C" not in body and "source: linkedin" not in body.lower():
+            continue
+        company = body.split("—")[0].strip()
+        role = body.split("—")[1].split("(")[0].strip() if "—" in body else ""
+        if (company.lower(), role.lower()) in submitted_pairs:
+            continue
+        mjob = re.search(r"\(LinkedIn (\d+)\)", body) or \
+            re.search(r"linkedin\.com/jobs/view/(\d+)", body)
+        mats = re.search(r"ats:\s*([^|]+)", body)
+        ats = mats.group(1).strip() if mats else ""
+        apply_type = "Easy Apply" if "easy-apply" in ats else ("General Apply" if ats else "—")
+        li_rows.append({
+            "company": company,
+            "role": role,
+            "job_id": mjob.group(1) if mjob else "",
+            "apply_type": apply_type,
+            "date": parse_date(body),
+        })
+    li_batch = max((r["date"] for r in li_rows if r["date"]), default="")
+    li_staged = [r for r in li_rows if r["date"] == li_batch] if li_batch else []
+
     daily = Counter(s["date"] for s in subs if s["date"])
     daily_list = [{"date": d, "count": daily[d]} for d in sorted(daily)]
 
@@ -149,7 +239,7 @@ def main():
     today_rows = []
     for s in subs:
         if s["date"] == today:
-            row = dict(s)
+            row = {k: v for k, v in s.items() if k != "lineno"}
             row["email_confirmed"] = s["company"] in email_yes_today or s["email_confirmed"]
             today_rows.append(row)
 
@@ -219,11 +309,29 @@ def main():
     for k in queue:
         queue[k] = qsort(queue[k])
 
+    notes = [
+        "Counts come from the pipeline ledger (submissions) and the park registry (parked roles).",
+        "Ledger submission counts are the verified floor: some run reports claimed more on certain days than ever got ledger lines.",
+        "The human-gate queue is ordered deadline-first, then newest parked first. A row's deadline is read from its registry text and may be approximate.",
+        "No personal details are published here: no email addresses, phone numbers, street addresses, or resume file paths.",
+    ]
+    if li_staged:
+        notes.append(
+            f"LinkedIn (Feed C) is live as a second apply channel since {li_batch} — "
+            f"Easy Apply and general Apply under the same gates. "
+            f"{len(li_staged)} roles staged from the latest batch, applies start one at a time.")
+    notes.append(
+        "Total counts live pipeline submissions under the strict counter "
+        "(bold, bare, and backfill record lines with an explicit date). "
+        f"Another {backfill_old} older external confirmations are logged "
+        "in the ledger under '- BACKFILL **SUBMITTED:' with their own "
+        "confirmation dates and are counted separately, not in the total.")
     data = {
         "generated_at_et": datetime.now(ET).strftime("%Y-%m-%d %H:%M ET"),
         "summary": {
             "total_submitted_ledger": len(subs),
             "today_submitted": len(today_rows),
+            "backfill_count": backfill_old,
             "human_gate": buckets["human_gate"],
             "watch_reset": buckets["watch_reset"],
             "pipeline_owned": buckets["pipeline_owned"],
@@ -236,13 +344,13 @@ def main():
         },
         "daily": daily_list,
         "today": today_rows,
+        "linkedin": {
+            "batch_date": li_batch,
+            "staged_count": len(li_staged),
+            "staged": li_staged,
+        },
         "queue": queue,
-        "notes": [
-            "Counts come from the pipeline ledger (submissions) and the park registry (parked roles).",
-            "Ledger submission counts are the verified floor: some run reports claimed more on certain days than ever got ledger lines.",
-            "The human-gate queue is ordered deadline-first, then newest parked first. A row's deadline is read from its registry text and may be approximate.",
-            "No personal details are published here: no email addresses, phone numbers, street addresses, or resume file paths.",
-        ],
+        "notes": notes,
     }
     with open(OUT, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=1, ensure_ascii=False)
