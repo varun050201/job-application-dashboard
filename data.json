@@ -1,17 +1,17 @@
 {
- "generated_at_et": "2026-11-10 18:11 ET",
+ "generated_at_et": "2026-11-11 10:37 ET",
  "summary": {
   "total_submitted_ledger": 57,
   "today_submitted": 0,
   "human_gate": 246,
   "watch_reset": 2,
-  "pipeline_owned": 19,
+  "pipeline_owned": 20,
   "quota": 20,
   "portal_limit": 1,
   "hold": 3,
   "resolved": 28,
   "closed": 18,
-  "registry_rows": 338
+  "registry_rows": 339
  },
  "daily": [
   {
@@ -122,15 +122,6 @@
  "today": [],
  "queue": {
   "human_gate": [
-   {
-    "role": "Amazon — OSP Fiber Network Planner, Metro Fiber, Fiber Planning",
-    "req": "10598237 (amazon.jobs / IdPrism)",
-    "parked": "2026-11-06",
-    "deadline": "2026-11-10",
-    "deadline_passed": false,
-    "blocker": "403 Forbidden from the IdPrism authorize endpoint (atozpublic.api.cupid-na.idprism-auth.amazon.dev, relying_party passportv2-idprism-passthrough-prod) immediately after…",
-    "link": "https://www.amazon.jobs/en/jobs/10598237/osp-fiber-network-planner-metro-fiber-fiber-planning"
-   },
    {
     "role": "Cisco — Technical Systems Engineer II (Full-Time) - United States",
     "req": "2026274 (Workday cisco.wd5)",
@@ -2335,9 +2326,27 @@
     "deadline_passed": true,
     "blocker": "Saved vault password REJECTED on IdPrism (\"The login information you provided appears to be incorrect\"); autonomous reset code (12:03:03 ET, 3-min TTL) expired unused —…",
     "link": "https://www.amazon.jobs/en/jobs/10542521/cloud-hardware-development-engineer-storage-aws-hardware-engineering-hardware-engineering-services"
+   },
+   {
+    "role": "Amazon — OSP Fiber Network Planner, Metro Fiber, Fiber Planning",
+    "req": "10598237 (amazon.jobs / IdPrism)",
+    "parked": "2026-11-06",
+    "deadline": "2026-11-10",
+    "deadline_passed": true,
+    "blocker": "403 Forbidden from the IdPrism authorize endpoint (atozpublic.api.cupid-na.idprism-auth.amazon.dev, relying_party passportv2-idprism-passthrough-prod) immediately after…",
+    "link": "https://www.amazon.jobs/en/jobs/10598237/osp-fiber-network-planner-metro-fiber-fiber-planning"
    }
   ],
   "pipeline_owned": [
+   {
+    "role": "World Travel, Inc. — System Network Administrator",
+    "req": "9201288705852_15 (ADP)",
+    "parked": "2026-11-11",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "ADP \"Let's verify it's you\" 6-digit code gate after identity + Continue. First code sent 09:53 ET (Gmail 1a1cb1934f57d53c) expired unused during the code-approval wait.…",
+    "link": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0ee0369a-b441-4a3d-85bc-da718a7f73e8&ccId=19000101_000001&jobId=9201288705852_15&lang=en_US"
+   },
    {
     "role": "Carnival — Specialist, Cybersecurity Governance",
     "req": "14250 (Oracle HCM)",
