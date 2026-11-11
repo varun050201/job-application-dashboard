@@ -1,18 +1,18 @@
 {
- "generated_at_et": "2026-11-11 18:17 ET",
+ "generated_at_et": "2026-11-11 18:22 ET",
  "summary": {
   "total_submitted_ledger": 921,
   "today_submitted": 9,
   "backfill_count": 146,
   "human_gate": 256,
   "watch_reset": 2,
-  "pipeline_owned": 22,
+  "pipeline_owned": 23,
   "quota": 20,
   "portal_limit": 1,
   "hold": 3,
   "resolved": 29,
   "closed": 18,
-  "registry_rows": 352
+  "registry_rows": 353
  },
  "daily": [
   {
@@ -2949,6 +2949,15 @@
     "deadline_passed": false,
     "blocker": "Saved vault login rejected (\"Wrong username or password\"); Forgot Password requested ~3:36 PM ET plus one resend ~3:55 PM ET, reset email never arrived in work Gmail…",
     "link": "https://careers-framatome.icims.com/jobs/3530/job"
+   },
+   {
+    "role": "Waste Management — Associate Analyst, Digital Security",
+    "req": "2355764 (Oracle HCM)",
+    "parked": "2026-11-11",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Oracle HCM \"Verify it's you\" 6-digit code — first code email arrived 17:50:54 ET but expired after 10 min before entry; \"Send New Code\" clicked once ~18:18 ET (portal…",
+    "link": "https://emcm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/WMCareers/jobs/preview/2355764/easy-apply/email?keyword=2355764&mode=location"
    },
    {
     "role": "Carnival — Specialist, Cybersecurity Governance",
