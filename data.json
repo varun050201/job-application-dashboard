@@ -1,10 +1,10 @@
 {
- "generated_at_et": "2026-11-11 18:22 ET",
+ "generated_at_et": "2026-11-12 13:00 ET",
  "summary": {
-  "total_submitted_ledger": 921,
-  "today_submitted": 9,
+  "total_submitted_ledger": 922,
+  "today_submitted": 1,
   "backfill_count": 146,
-  "human_gate": 256,
+  "human_gate": 263,
   "watch_reset": 2,
   "pipeline_owned": 23,
   "quota": 20,
@@ -12,7 +12,7 @@
   "hold": 3,
   "resolved": 29,
   "closed": 18,
-  "registry_rows": 353
+  "registry_rows": 360
  },
  "daily": [
   {
@@ -458,70 +458,18 @@
   {
    "date": "2026-11-11",
    "count": 9
+  },
+  {
+   "date": "2026-11-12",
+   "count": 1
   }
  ],
  "today": [
   {
-   "company": "PUNCH Cyber Analytics Group",
-   "role": "Network Analyst Tech",
-   "req": "e45daf9a48ba",
-   "date": "2026-11-11",
-   "email_confirmed": false
-  },
-  {
-   "company": "DigitalOcean",
-   "role": "Senior Network Engineer I",
-   "req": "JR 2026-8336",
-   "date": "2026-11-11",
-   "email_confirmed": false
-  },
-  {
-   "company": "Microsoft",
-   "role": "Senior Network Production Engineer, AI Supercomputing",
-   "req": "4432950009",
-   "date": "2026-11-11",
-   "email_confirmed": true
-  },
-  {
-   "company": "Amazon",
-   "role": "Network Development Engineer, GCNA-D, AWS Internet Edge",
-   "req": "10540973",
-   "date": "2026-11-11",
-   "email_confirmed": true
-  },
-  {
-   "company": "Filed",
-   "role": "Tax Software Support Specialist",
-   "req": "8575396",
-   "date": "2026-11-11",
-   "email_confirmed": false
-  },
-  {
-   "company": "Meta",
-   "role": "Wireless Network Engineer - Enterprise Infrastructure",
-   "req": "971086452342966",
-   "date": "2026-11-11",
-   "email_confirmed": false
-  },
-  {
-   "company": "Qube Research & Technologies",
-   "role": "Network Engineer",
-   "req": "8923209002",
-   "date": "2026-11-11",
-   "email_confirmed": false
-  },
-  {
-   "company": "Florida Blue",
-   "role": "Network Engineer",
-   "req": "42291",
-   "date": "2026-11-11",
-   "email_confirmed": true
-  },
-  {
-   "company": "Astiva Health, Inc",
-   "role": "IT Network & Security Engineer",
-   "req": "4657266",
-   "date": "2026-11-11",
+   "company": "Da/Pro Rubber, Inc.",
+   "role": "Network Administrator",
+   "req": "n/a",
+   "date": "2026-11-12",
    "email_confirmed": false
   }
  ],
@@ -618,15 +566,6 @@
  "queue": {
   "human_gate": [
    {
-    "role": "Cisco — Technical Systems Engineer II (Full-Time) - United States",
-    "req": "2026274 (Workday cisco.wd5)",
-    "parked": "2026-11-06",
-    "deadline": "2026-11-11",
-    "deadline_passed": false,
-    "blocker": "Retry upload SUCCEEDED (\"Successfully Uploaded!\", 46.1 KB) and steps 1–2 are complete; blocked step 3 of 6 \"My Experience\" — required \"School or University\" picker has…",
-    "link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Technical-Systems-Engineer-II--Full-Time----United-States_2026274"
-   },
-   {
     "role": "Southern Company — Cyber Threat Analyst",
     "req": "22487",
     "parked": "2026-10-29",
@@ -690,12 +629,75 @@
     "link": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Security-Operations-Analyst_JREQ204391"
    },
    {
+    "role": "UMass Amherst — Senior Systems Analyst",
+    "req": "Job 510224 (PageUp, published Nov 6 2026, closing Feb 6 2027",
+    "parked": "2026-11-12",
+    "deadline": "2027-02-06",
+    "deadline_passed": false,
+    "blocker": "Waiver of Right of Access to Letters of Recommendation — protected attestation requiring the applicant's own electronic signature waiving a legal right; pipeline cannot…",
+    "link": "https://careers.umass.edu/jobs/senior-systems-analyst-amherst-massachusetts-united-states-62e9e373-2f76-4a72-8772-e9af633fccdb"
+   },
+   {
     "role": "Serverfarm — Data Center Technician (Covington GA ATL2)",
     "req": "n/a (ATL2, Sep-17 park; req ID unrecorded — NOT efcdf7c3, wh",
     "parked": "2026-09-17",
     "deadline": "2027-09-17",
     "deadline_passed": false,
     "blocker": "hCaptcha drag-and-drop puzzle blocks the Submit button on jobs.lever.co; application fully completed (resume attached + parsed, profile filled, screening answered, $80k…",
+    "link": ""
+   },
+   {
+    "role": "Ontario County — Senior Network Analyst",
+    "req": "exam 21522010 (req n/a)",
+    "parked": "2026-11-12",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "No saved login for ontario-portal.mycivilservice.com; login agent checked vault twice — universal job-portal credential stored in vault but value not enterable in a…",
+    "link": "https://ontario-portal.mycivilservice.com/account/index"
+   },
+   {
+    "role": "Frequentis USA — Junior Systems Integration Engineer",
+    "req": "jobId 3648 (LinkedIn 4463503724)",
+    "parked": "2026-11-12",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "No saved vault login for jobs.frequentis.com; universal job-portal credential stored in vault (NOT missing) but value not enterable in a detached run — login agent…",
+    "link": "https://jobs.frequentis.com/careers/ApplicationMethods?jobId=3648"
+   },
+   {
+    "role": "Santee Cooper — Cloud Engineer",
+    "req": "JobPosting SAN,393 (LinkedIn 4489020425, Moncks Corner SC, $",
+    "parked": "2026-11-12",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "CAPTCHA on fresh-account registration — one solver attempt used (\"76XC6\") and rejected \"Invalid Captcha\"; not retried per one-attempt contract. Saved Infor login…",
+    "link": ""
+   },
+   {
+    "role": "Charles Schwab — Specialist, Systems Engineering",
+    "req": "req 2026-129867 (iCIMS job 129867, LinkedIn 4488251911, Phoe",
+    "parked": "2026-11-12",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "hCaptcha on iCIMS Privacy Notice and Sign-In page (\"Drag the matching item into the correct empty space\") — one solver attempt used (yellow llama drag) and the captcha…",
+    "link": "https://career-schwab.icims.com/jobs/129867/specialist---systems-engineering/login"
+   },
+   {
+    "role": "Silverton Casino LLC — IT Network Engineer",
+    "req": "req 180632 (Paycom)",
+    "parked": "2026-11-12",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Paycom account conflict: saved vault login rejected \"Error when signing into account\" (hCaptcha cleared twice via accessibility challenge); reset requested 11:58 ET,…",
+    "link": ""
+   },
+   {
+    "role": "CHRISTUS Health — IT Engineer II, Server Engineer",
+    "req": "req 342488 (LinkedIn 4488266105, San Antonio TX on-site)",
+    "parked": "2026-11-12",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Infor SSO password reset blocked at the \"What is your favorite color?\" security question — no saved answer exists in any pipeline record (profile bundle, pipeline spec,…",
     "link": ""
    },
    {
@@ -2920,6 +2922,15 @@
     "deadline_passed": true,
     "blocker": "403 Forbidden from the IdPrism authorize endpoint (atozpublic.api.cupid-na.idprism-auth.amazon.dev, relying_party passportv2-idprism-passthrough-prod) immediately after…",
     "link": "https://www.amazon.jobs/en/jobs/10598237/osp-fiber-network-planner-metro-fiber-fiber-planning"
+   },
+   {
+    "role": "Cisco — Technical Systems Engineer II (Full-Time) - United States",
+    "req": "2026274 (Workday cisco.wd5)",
+    "parked": "2026-11-06",
+    "deadline": "2026-11-11",
+    "deadline_passed": true,
+    "blocker": "Retry upload SUCCEEDED (\"Successfully Uploaded!\", 46.1 KB) and steps 1–2 are complete; blocked step 3 of 6 \"My Experience\" — required \"School or University\" picker has…",
+    "link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Technical-Systems-Engineer-II--Full-Time----United-States_2026274"
    }
   ],
   "pipeline_owned": [
