@@ -1,18 +1,18 @@
 {
- "generated_at_et": "2026-11-12 15:36 ET",
+ "generated_at_et": "2026-11-12 18:24 ET",
  "summary": {
-  "total_submitted_ledger": 933,
-  "today_submitted": 11,
+  "total_submitted_ledger": 938,
+  "today_submitted": 15,
   "backfill_count": 146,
-  "human_gate": 273,
+  "human_gate": 272,
   "watch_reset": 2,
   "pipeline_owned": 23,
   "quota": 20,
   "portal_limit": 1,
   "hold": 3,
-  "resolved": 29,
+  "resolved": 30,
   "closed": 18,
-  "registry_rows": 370
+  "registry_rows": 372
  },
  "daily": [
   {
@@ -105,7 +105,7 @@
   },
   {
    "date": "2026-07-18",
-   "count": 3
+   "count": 4
   },
   {
    "date": "2026-07-20",
@@ -461,7 +461,7 @@
   },
   {
    "date": "2026-11-12",
-   "count": 11
+   "count": 15
   }
  ],
  "today": [
@@ -541,6 +541,34 @@
    "req": "",
    "date": "2026-11-12",
    "email_confirmed": true
+  },
+  {
+   "company": "Starburst",
+   "role": "Customer Support Engineer",
+   "req": "5455394008",
+   "date": "2026-11-12",
+   "email_confirmed": false
+  },
+  {
+   "company": "PlayOn Sports",
+   "role": "Support Specialist",
+   "req": "4468816009",
+   "date": "2026-11-12",
+   "email_confirmed": true
+  },
+  {
+   "company": "TEGNA",
+   "role": "IT Specialist",
+   "req": "5290253007",
+   "date": "2026-11-12",
+   "email_confirmed": true
+  },
+  {
+   "company": "Verkada",
+   "role": "Technical Support Engineer - University Graduate 2027",
+   "req": "5121488007",
+   "date": "2026-11-12",
+   "email_confirmed": false
   }
  ],
  "linkedin": {
@@ -813,15 +841,6 @@
     "deadline": "",
     "deadline_passed": false,
     "blocker": "Email-verification OTP blocked: OTP 1 (13:14:49 ET) and OTP 2 (13:29:29 ET) both expired during the approval round trip (5-min validity); codes pass only as protected…",
-    "link": ""
-   },
-   {
-    "role": "Polk County BoCC — IT Infrastructure Engineer",
-    "req": "job 2692 (LinkedIn 4481161195, Bartow FL, $77,334.40)",
-    "parked": "2026-11-12",
-    "deadline": "",
-    "deadline_passed": false,
-    "blocker": "Identity-verification code race: FIVE codes sent (12:41, 12:49, 13:23, 13:38, 14:27 ET) all expired before entry — code fetch + approval round trip (~10–20 min) exceeds…",
     "link": ""
    },
    {
@@ -3546,6 +3565,15 @@
   ],
   "resolved": [
    {
+    "role": "Polk County BoCC — IT Infrastructure Engineer",
+    "req": "job 2692 (LinkedIn 4481161195, Bartow FL, $77,334.40)",
+    "parked": "2026-11-12",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Identity-verification code race: FIVE codes sent (12:41, 12:49, 13:23, 13:38, 14:27 ET) all expired before entry — code fetch + approval round trip (~10–20 min) exceeds…",
+    "link": ""
+   },
+   {
     "role": "Florida Blue — Network Engineer",
     "req": "Oracle 42291",
     "parked": "2026-11-11",
@@ -3972,6 +4000,24 @@
    }
   ],
   "superseded": [
+   {
+    "role": "GM — Senior Software Systems Engineer, Autonomous Systems Validation Confidence",
+    "req": "JR-202619622",
+    "parked": "2026-11-12",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "2026-11-12 phase-596",
+    "link": "https://search-careers.gm.com/en/jobs/jr-202619622/senior-software-systems-engineer-autonomous-systems-validation-confidence/"
+   },
+   {
+    "role": "Centric Fiber Op Co, LLC — NOC Analyst",
+    "req": "Workable vC1HHKdD4gLh2rUG5Jbo8Z",
+    "parked": "2026-11-12",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "2026-11-12 phase-596",
+    "link": "https://jobs.workable.com/view/vC1HHKdD4gLh2rUG5Jbo8Z/noc-analyst-in-the-woodlands-at-centric-fiber-op-co"
+   },
    {
     "role": "Legends Global — IT Technician",
     "req": "R100126098 (Workday)",
