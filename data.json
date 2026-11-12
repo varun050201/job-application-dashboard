@@ -1,10 +1,10 @@
 {
- "generated_at_et": "2026-11-12 13:00 ET",
+ "generated_at_et": "2026-11-12 15:36 ET",
  "summary": {
-  "total_submitted_ledger": 922,
-  "today_submitted": 1,
+  "total_submitted_ledger": 933,
+  "today_submitted": 11,
   "backfill_count": 146,
-  "human_gate": 263,
+  "human_gate": 273,
   "watch_reset": 2,
   "pipeline_owned": 23,
   "quota": 20,
@@ -12,7 +12,7 @@
   "hold": 3,
   "resolved": 29,
   "closed": 18,
-  "registry_rows": 360
+  "registry_rows": 370
  },
  "daily": [
   {
@@ -129,7 +129,7 @@
   },
   {
    "date": "2026-07-28",
-   "count": 2
+   "count": 3
   },
   {
    "date": "2026-07-30",
@@ -461,7 +461,7 @@
   },
   {
    "date": "2026-11-12",
-   "count": 1
+   "count": 11
   }
  ],
  "today": [
@@ -471,6 +471,76 @@
    "req": "n/a",
    "date": "2026-11-12",
    "email_confirmed": false
+  },
+  {
+   "company": "Michigan Farm Bureau Family of Companies",
+   "role": "Associate Systems Engineer",
+   "req": "",
+   "date": "2026-11-12",
+   "email_confirmed": false
+  },
+  {
+   "company": "Axon",
+   "role": "Networking Technical Support Representative",
+   "req": "6601209003",
+   "date": "2026-11-12",
+   "email_confirmed": true
+  },
+  {
+   "company": "Cirrascale Cloud Services",
+   "role": "Network Operations Technician III",
+   "req": "n",
+   "date": "2026-11-12",
+   "email_confirmed": true
+  },
+  {
+   "company": "Cyber Advisors",
+   "role": "NOC Analyst",
+   "req": "",
+   "date": "2026-11-12",
+   "email_confirmed": false
+  },
+  {
+   "company": "Verra Mobility",
+   "role": "Operations Technician",
+   "req": "4725890006",
+   "date": "2026-11-12",
+   "email_confirmed": false
+  },
+  {
+   "company": "Flexential",
+   "role": "Incident Response Analyst I",
+   "req": "4438489009",
+   "date": "2026-11-12",
+   "email_confirmed": false
+  },
+  {
+   "company": "CarShield",
+   "role": "Network Engineer",
+   "req": "4600012",
+   "date": "2026-11-12",
+   "email_confirmed": true
+  },
+  {
+   "company": "Scientific Games",
+   "role": "Data Center Tech II",
+   "req": "",
+   "date": "2026-11-12",
+   "email_confirmed": false
+  },
+  {
+   "company": "Office Ally",
+   "role": "Security Operations Analyst",
+   "req": "4450349009",
+   "date": "2026-11-12",
+   "email_confirmed": false
+  },
+  {
+   "company": "Polk County BoCC",
+   "role": "IT Infrastructure Engineer",
+   "req": "",
+   "date": "2026-11-12",
+   "email_confirmed": true
   }
  ],
  "linkedin": {
@@ -593,6 +663,15 @@
     "link": "https://careers.lumen.com/careers/apply?pid=1133916758622"
    },
    {
+    "role": "Peckham, Inc. — Network Infrastructure Engineer",
+    "req": "req R0009800 (LinkedIn 4489035989, Lansing MI, Hybrid, end d",
+    "parked": "2026-11-12",
+    "deadline": "2026-11-25",
+    "deadline_passed": false,
+    "blocker": "Workday account-verification link is human-tap only: fresh account created with universal credential; verification email arrived (Gmail 1a1d165354688168, 15:13:52 ET,…",
+    "link": ""
+   },
+   {
     "role": "Cisco — Senior Software Engineer in Test (Network Security, Performance)",
     "req": "2011993 (Workday cisco.wd5)",
     "parked": "2026-11-03",
@@ -698,6 +777,87 @@
     "deadline": "",
     "deadline_passed": false,
     "blocker": "Infor SSO password reset blocked at the \"What is your favorite color?\" security question — no saved answer exists in any pipeline record (profile bundle, pipeline spec,…",
+    "link": ""
+   },
+   {
+    "role": "NPK — Senior Network Engineer",
+    "req": "Job 293 (LinkedIn 4466569286, Carencro LA, Easy Apply)",
+    "parked": "2026-11-12",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Infor CloudIdentities password-reset email never arrived — saved vault login rejected; reset requested ~12:57 ET and resent ~13:16 ET, both confirmed on-screen; Gmail…",
+    "link": ""
+   },
+   {
+    "role": "Hanscom Federal Credit Union — Systems Engineer",
+    "req": "req SYSTE001732 (LinkedIn 4489996829, Littleton MA hybrid, $",
+    "parked": "2026-11-12",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "UKG password-reset email never arrived — saved vault login rejected (\"Invalid email or password\"); reset requested ~13:15 ET and resent ~13:26 ET, portal showed \"Check…",
+    "link": ""
+   },
+   {
+    "role": "Cirrascale Cloud Services — Network Operations Technician III",
+    "req": "(Rippling, Austin TX, $37–$42/hr)",
+    "parked": "2026-11-12",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Cloudflare \"Verify you are human\" at final Apply click; ONE solver attempt used per contract (checkbox clicked once, \"Verifying…\" then \"Verification failed\"); portal…",
+    "link": ""
+   },
+   {
+    "role": "Walmart — (USA) Systems and Infrastructure Engineer II",
+    "req": "req R-2689950 (Bentonville AR on-site, $70,000–$130,000/yr)",
+    "parked": "2026-11-12",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Email-verification OTP blocked: OTP 1 (13:14:49 ET) and OTP 2 (13:29:29 ET) both expired during the approval round trip (5-min validity); codes pass only as protected…",
+    "link": ""
+   },
+   {
+    "role": "Polk County BoCC — IT Infrastructure Engineer",
+    "req": "job 2692 (LinkedIn 4481161195, Bartow FL, $77,334.40)",
+    "parked": "2026-11-12",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Identity-verification code race: FIVE codes sent (12:41, 12:49, 13:23, 13:38, 14:27 ET) all expired before entry — code fetch + approval round trip (~10–20 min) exceeds…",
+    "link": ""
+   },
+   {
+    "role": "Emory University — Network Engineer (OIT)",
+    "req": "req 188244 (Atlanta GA, Regular Full-Time, $69,200)",
+    "parked": "2026-11-12",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Veteran self-ID form (Step 6, 1) requires a Signature checkbox (\"checking the checkbox above is equivalent to a handwritten signature\") — attestation signature, Varun's…",
+    "link": ""
+   },
+   {
+    "role": "ODW Logistics — Infrastructure Engineer II",
+    "req": "req INFRA003525 (LinkedIn 4469062472, Columbus OH, $81,750–$",
+    "parked": "2026-11-12",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "UKG sign-in wall: no saved Secure Vault login for ukg.net; detached-run login service cannot enter the universal job-portal credential, so neither sign-in nor account…",
+    "link": "https://odwpeoplehome.rec.pro.ukg.net/ODW1000ODWL/JobBoard/663ec729-18a8-42c7-86b4-444d7f68542a/OpportunityDetail?opportunityId=b910608c-0c2b-4671-b307-d48ca23e8b89&source=LinkedIn"
+   },
+   {
+    "role": "Ascend Technologies — Network Engineer",
+    "req": "ApplyToJob XJrYoQDcWa (Remote, $86,000 starting)",
+    "parked": "2026-11-12",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "reCAPTCHA expired during pre-submit pause + fresh re-verification timed out (2-min limit); one-attempt contract forbids further auto-retries",
+    "link": "https://teamascend.applytojob.com/apply/XJrYoQDcWa/Network-Engineer"
+   },
+   {
+    "role": "NCR — Data Center Senior Network Engineer",
+    "req": "req R0159249 (Atlanta GA)",
+    "parked": "2026-11-12",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Saved vault login REJECTED on ncr.wd1.myworkdayjobs.com; autonomous reset run ~15:31 ET — reset email arrived (TWO copies, latest Gmail 1a1d1755bcf0ba5e 15:31:31 ET) but…",
     "link": ""
    },
    {
