@@ -1,18 +1,18 @@
 {
- "generated_at_et": "2026-11-13 13:52 ET",
+ "generated_at_et": "2026-11-13 15:43 ET",
  "summary": {
   "total_submitted_ledger": 942,
   "today_submitted": 1,
   "backfill_count": 146,
   "human_gate": 275,
   "watch_reset": 2,
-  "pipeline_owned": 34,
+  "pipeline_owned": 37,
   "quota": 20,
   "portal_limit": 1,
   "hold": 3,
   "resolved": 31,
   "closed": 18,
-  "registry_rows": 385
+  "registry_rows": 388
  },
  "daily": [
   {
@@ -3144,6 +3144,33 @@
     "deadline_passed": false,
     "blocker": "Not started — same Gmail-recovery blocker (Applier B queue); re-confirm sponsorship on official Workday page before submitting",
     "link": "https://www.theladders.com/job/staff-software-engineer-data-center-test-automation-qualcomm-san-diego-ca_89487804"
+   },
+   {
+    "role": "Mindful Support Services — Network and Systems Engineer (Mountlake Terrace WA)",
+    "req": "Workable 977C1EB7D3",
+    "parked": "2026-11-13",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Cloudflare Turnstile \"Verify you are human\" failed on every solver attempt (two verify-then-fail cycles on the original browser, same \"Verification failed\" on a fresh…",
+    "link": "https://apply.workable.com/mindful-support-services/j/977C1EB7D3/apply/"
+   },
+   {
+    "role": "Smithfield Foods — Network and Telecommunications Engineer (Smithfield VA)",
+    "req": "Workday R-2026-12361",
+    "parked": "2026-11-13",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Saved vault login rejected by Workday; autonomous reset run, link opened; new-password fields can only be typed by Varun — reset link expires ~3:47 PM EST",
+    "link": "https://smithfieldfoods.wd1.myworkdayjobs.com/en-US/Careers/job/Smithfield%2C-VA/Network-and-Telecommunications-Engineer_R-2026-12361-1/apply/autofillWithResume?source=LinkedIn"
+   },
+   {
+    "role": "Service Credit Union — Network Engineer II (Portsmouth NH)",
+    "req": "Workday JR101316",
+    "parked": "2026-11-13",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Saved vault login rejected by Workday; autonomous reset run, link opened (account confirmed to exist); new-password fields can only be typed by Varun — reset link…",
+    "link": "https://servicecu.wd5.myworkdayjobs.com/en-US/SCU_External_Career_Site/job/Portsmouth3003/Network-Engineer-II---Portsmouth-NH_JR101316/apply/autofillWithResume?source=LinkedIn"
    },
    {
     "role": "World Travel, Inc. — System Network Administrator",
