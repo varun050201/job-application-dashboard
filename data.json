@@ -1,18 +1,18 @@
 {
- "generated_at_et": "2026-11-12 18:24 ET",
+ "generated_at_et": "2026-11-13 13:46 ET",
  "summary": {
-  "total_submitted_ledger": 938,
-  "today_submitted": 15,
+  "total_submitted_ledger": 939,
+  "today_submitted": 0,
   "backfill_count": 146,
-  "human_gate": 272,
+  "human_gate": 275,
   "watch_reset": 2,
-  "pipeline_owned": 23,
+  "pipeline_owned": 34,
   "quota": 20,
   "portal_limit": 1,
   "hold": 3,
-  "resolved": 30,
+  "resolved": 31,
   "closed": 18,
-  "registry_rows": 372
+  "registry_rows": 385
  },
  "daily": [
   {
@@ -461,116 +461,10 @@
   },
   {
    "date": "2026-11-12",
-   "count": 15
+   "count": 16
   }
  ],
- "today": [
-  {
-   "company": "Da/Pro Rubber, Inc.",
-   "role": "Network Administrator",
-   "req": "n/a",
-   "date": "2026-11-12",
-   "email_confirmed": false
-  },
-  {
-   "company": "Michigan Farm Bureau Family of Companies",
-   "role": "Associate Systems Engineer",
-   "req": "",
-   "date": "2026-11-12",
-   "email_confirmed": false
-  },
-  {
-   "company": "Axon",
-   "role": "Networking Technical Support Representative",
-   "req": "6601209003",
-   "date": "2026-11-12",
-   "email_confirmed": true
-  },
-  {
-   "company": "Cirrascale Cloud Services",
-   "role": "Network Operations Technician III",
-   "req": "n",
-   "date": "2026-11-12",
-   "email_confirmed": true
-  },
-  {
-   "company": "Cyber Advisors",
-   "role": "NOC Analyst",
-   "req": "",
-   "date": "2026-11-12",
-   "email_confirmed": false
-  },
-  {
-   "company": "Verra Mobility",
-   "role": "Operations Technician",
-   "req": "4725890006",
-   "date": "2026-11-12",
-   "email_confirmed": false
-  },
-  {
-   "company": "Flexential",
-   "role": "Incident Response Analyst I",
-   "req": "4438489009",
-   "date": "2026-11-12",
-   "email_confirmed": false
-  },
-  {
-   "company": "CarShield",
-   "role": "Network Engineer",
-   "req": "4600012",
-   "date": "2026-11-12",
-   "email_confirmed": true
-  },
-  {
-   "company": "Scientific Games",
-   "role": "Data Center Tech II",
-   "req": "",
-   "date": "2026-11-12",
-   "email_confirmed": false
-  },
-  {
-   "company": "Office Ally",
-   "role": "Security Operations Analyst",
-   "req": "4450349009",
-   "date": "2026-11-12",
-   "email_confirmed": false
-  },
-  {
-   "company": "Polk County BoCC",
-   "role": "IT Infrastructure Engineer",
-   "req": "",
-   "date": "2026-11-12",
-   "email_confirmed": true
-  },
-  {
-   "company": "Starburst",
-   "role": "Customer Support Engineer",
-   "req": "5455394008",
-   "date": "2026-11-12",
-   "email_confirmed": false
-  },
-  {
-   "company": "PlayOn Sports",
-   "role": "Support Specialist",
-   "req": "4468816009",
-   "date": "2026-11-12",
-   "email_confirmed": true
-  },
-  {
-   "company": "TEGNA",
-   "role": "IT Specialist",
-   "req": "5290253007",
-   "date": "2026-11-12",
-   "email_confirmed": true
-  },
-  {
-   "company": "Verkada",
-   "role": "Technical Support Engineer - University Graduate 2027",
-   "req": "5121488007",
-   "date": "2026-11-12",
-   "email_confirmed": false
-  }
- ],
+ "today": [],
  "linkedin": {
   "batch_date": "2026-11-11",
   "staged_count": 12,
@@ -664,24 +558,6 @@
  "queue": {
   "human_gate": [
    {
-    "role": "Southern Company — Cyber Threat Analyst",
-    "req": "22487",
-    "parked": "2026-10-29",
-    "deadline": "2026-11-12",
-    "deadline_passed": false,
-    "blocker": "IDENTITY CODE BLOCKED: Oracle HCM 'Confirm Your Identity' 6-digit code emailed 14:04 ET 2026-10-29 (Southern Company Talent Acquisition, 'Please confirm your identity',…",
-    "link": ""
-   },
-   {
-    "role": "University of North Carolina at Chapel Hill — Information Security Analyst for Research",
-    "req": "NF0010149 (PeopleAdmin)",
-    "parked": "2026-10-30",
-    "deadline": "2026-11-12",
-    "deadline_passed": false,
-    "blocker": "NEEDS-PASSWORD-CAPTURE: no saved Secure Vault login for peopleadmin.com; detached run cannot create the UNC PeopleAdmin account (login specialist: no entry channel in a…",
-    "link": "https://unc.peopleadmin.com/postings/327847"
-   },
-   {
     "role": "Lumen — Sr Network Test Engineer",
     "req": "Req 344393 (Eightfold)",
     "parked": "2026-11-11",
@@ -751,6 +627,24 @@
     "deadline": "2027-09-17",
     "deadline_passed": false,
     "blocker": "hCaptcha drag-and-drop puzzle blocks the Submit button on jobs.lever.co; application fully completed (resume attached + parsed, profile filled, screening answered, $80k…",
+    "link": ""
+   },
+   {
+    "role": "Epic — Infrastructure Engineer (Verona WI)",
+    "req": "Avature folder 23505",
+    "parked": "2026-11-13",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Avature account creation requires Password + Re-type Password; no saved login for avature.net; universal job-portal credential could not be retrieved in-session",
+    "link": "https://epic.avature.net/Careers/Register?folderId=23505"
+   },
+   {
+    "role": "Sprouts — IT Security Engineer II",
+    "req": "req 378338",
+    "parked": "2026-11-13",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "iCIMS account-creation wall — park exists in ledger L3650 but had NO row in park_registry.md (registry gap found by phase-598 verify B)",
     "link": ""
    },
    {
@@ -878,6 +772,15 @@
     "deadline_passed": false,
     "blocker": "Saved vault login REJECTED on ncr.wd1.myworkdayjobs.com; autonomous reset run ~15:31 ET — reset email arrived (TWO copies, latest Gmail 1a1d1755bcf0ba5e 15:31:31 ET) but…",
     "link": ""
+   },
+   {
+    "role": "Centric Fiber Op Co, LLC — NOC Analyst",
+    "req": "Workable vC1HHKdD4gLh2rUG5Jbo8Z",
+    "parked": "2026-11-12",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Cloudflare Turnstile BLOCKED submission (phase-595, 2026-11-12 ~18:20 + ~18:39 ET): two submit attempts; Turnstile checkbox clicked and reset to fresh unchecked each…",
+    "link": "https://jobs.workable.com/view/vC1HHKdD4gLh2rUG5Jbo8Z/noc-analyst-in-the-woodlands-at-centric-fiber-op-co"
    },
    {
     "role": "Children's Hospital of The King's Daughters — IS Network Engineer",
@@ -3110,9 +3013,126 @@
     "deadline_passed": true,
     "blocker": "Retry upload SUCCEEDED (\"Successfully Uploaded!\", 46.1 KB) and steps 1–2 are complete; blocked step 3 of 6 \"My Experience\" — required \"School or University\" picker has…",
     "link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Technical-Systems-Engineer-II--Full-Time----United-States_2026274"
+   },
+   {
+    "role": "Southern Company — Cyber Threat Analyst",
+    "req": "22487",
+    "parked": "2026-10-29",
+    "deadline": "2026-11-12",
+    "deadline_passed": true,
+    "blocker": "IDENTITY CODE BLOCKED: Oracle HCM 'Confirm Your Identity' 6-digit code emailed 14:04 ET 2026-10-29 (Southern Company Talent Acquisition, 'Please confirm your identity',…",
+    "link": ""
+   },
+   {
+    "role": "University of North Carolina at Chapel Hill — Information Security Analyst for Research",
+    "req": "NF0010149 (PeopleAdmin)",
+    "parked": "2026-10-30",
+    "deadline": "2026-11-12",
+    "deadline_passed": true,
+    "blocker": "NEEDS-PASSWORD-CAPTURE: no saved Secure Vault login for peopleadmin.com; detached run cannot create the UNC PeopleAdmin account (login specialist: no entry channel in a…",
+    "link": "https://unc.peopleadmin.com/postings/327847"
    }
   ],
   "pipeline_owned": [
+   {
+    "role": "Clark County School District — Network Technician III",
+    "req": "2600055O (Taleo)",
+    "parked": "2026-11-13",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Saved vault login for ccsd.taleo.net REJECTED; Forgot Password submitted TWICE (original + one re-request), both confirmed \"Email sent!\"; NO reset email arrived in work…",
+    "link": "https://ccsd.taleo.net/careersection/3/jobdetail.ftl?job=455148"
+   },
+   {
+    "role": "Clark County School District — Network Technician I",
+    "req": "2600055L (Taleo)",
+    "parked": "2026-11-13",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Saved vault login for ccsd.taleo.net REJECTED; Forgot Password submitted TWICE (original + one re-request), both confirmed \"Email sent!\"; NO reset email arrived in work…",
+    "link": "https://ccsd.taleo.net/careersection/3/jobdetail.ftl?job=455113"
+   },
+   {
+    "role": "TCS — L3 Infrastructure Engineer (Liberty NC, Toyota plant)",
+    "req": "iBegin 434487J",
+    "parked": "2026-11-13",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "iBegin registration CAPTCHA — solver used exactly once (entered \"vSncNe\"), rejected; new CAPTCHA issued (\"UnUY1V\" at the time); no further solver attempts permitted",
+    "link": ""
+   },
+   {
+    "role": "Amazon — Software Development Engineer, EC2 Network Provisioning",
+    "req": "10455471",
+    "parked": "2026-11-13",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Draft COMPLETE at Review & submit (correct phase-597 resume attached); submission blocked on the fresh Gmail confirmation check — saved vault Google-account password…",
+    "link": ""
+   },
+   {
+    "role": "Amazon — Optical Network Development Engineer, DCNE",
+    "req": "10455278",
+    "parked": "2026-11-13",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Draft COMPLETE at Review & submit (correct resume attached); same Gmail-recovery blocker as 10455471",
+    "link": ""
+   },
+   {
+    "role": "Google — Hardware Systems Test Engineer, Networking",
+    "req": "107682898529657542",
+    "parked": "2026-11-13",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Not started — same Gmail-recovery blocker (Applier A queue; Google quota re-check still owed at apply time: 2 in-window submissions, 1 slot left under 3-per-30-days)",
+    "link": ""
+   },
+   {
+    "role": "Kalshi — Site Reliability Engineer",
+    "req": "Greenhouse 6567367003",
+    "parked": "2026-11-13",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Not started — same Gmail-recovery blocker (Applier A queue)",
+    "link": ""
+   },
+   {
+    "role": "Cirrascale — NOC Manager",
+    "req": "Rippling 37a473aa",
+    "parked": "2026-11-13",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Not started — same Gmail-recovery blocker (Applier A queue). NOT the submitted Network Operations Technician III (different role, ledger L16720).",
+    "link": ""
+   },
+   {
+    "role": "Church of the Highlands — Network Administrator",
+    "req": "Breezy 290219ea70bd",
+    "parked": "2026-11-13",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Not started — same Gmail-recovery blocker (Applier B queue; CCSD Taleo reset email also unread)",
+    "link": ""
+   },
+   {
+    "role": "Jump Trading — Network Engineer \\",
+    "req": "Wireless",
+    "parked": "2026-11-13",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "2026-11-13",
+    "link": ""
+   },
+   {
+    "role": "Qualcomm — Staff Software Engineer, Data Center Test Automation",
+    "req": "Workday (req ID not on mirror — capture from live posting; m",
+    "parked": "2026-11-13",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Not started — same Gmail-recovery blocker (Applier B queue); re-confirm sponsorship on official Workday page before submitting",
+    "link": "https://www.theladders.com/job/staff-software-engineer-data-center-test-automation-qualcomm-san-diego-ca_89487804"
+   },
    {
     "role": "World Travel, Inc. — System Network Administrator",
     "req": "9201288705852_15 (ADP)",
@@ -3574,6 +3594,15 @@
     "link": ""
    },
    {
+    "role": "GM — Senior Software Systems Engineer, Autonomous Systems Validation Confidence",
+    "req": "JR-202619622",
+    "parked": "2026-11-12",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "SUPERSEDED ~18:15 ET (ledger CORRECTION): Varun approved the file-upload card (allow_always); window alive, résumé uploaded, form 100% filled at pre-submit pause;…",
+    "link": "https://search-careers.gm.com/en/jobs/jr-202619622/senior-software-systems-engineer-autonomous-systems-validation-confidence/"
+   },
+   {
     "role": "Florida Blue — Network Engineer",
     "req": "Oracle 42291",
     "parked": "2026-11-11",
@@ -4000,24 +4029,6 @@
    }
   ],
   "superseded": [
-   {
-    "role": "GM — Senior Software Systems Engineer, Autonomous Systems Validation Confidence",
-    "req": "JR-202619622",
-    "parked": "2026-11-12",
-    "deadline": "",
-    "deadline_passed": false,
-    "blocker": "2026-11-12 phase-596",
-    "link": "https://search-careers.gm.com/en/jobs/jr-202619622/senior-software-systems-engineer-autonomous-systems-validation-confidence/"
-   },
-   {
-    "role": "Centric Fiber Op Co, LLC — NOC Analyst",
-    "req": "Workable vC1HHKdD4gLh2rUG5Jbo8Z",
-    "parked": "2026-11-12",
-    "deadline": "",
-    "deadline_passed": false,
-    "blocker": "2026-11-12 phase-596",
-    "link": "https://jobs.workable.com/view/vC1HHKdD4gLh2rUG5Jbo8Z/noc-analyst-in-the-woodlands-at-centric-fiber-op-co"
-   },
    {
     "role": "Legends Global — IT Technician",
     "req": "R100126098 (Workday)",
