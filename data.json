@@ -1,8 +1,8 @@
 {
- "generated_at_et": "2026-11-13 13:46 ET",
+ "generated_at_et": "2026-11-13 13:52 ET",
  "summary": {
-  "total_submitted_ledger": 939,
-  "today_submitted": 0,
+  "total_submitted_ledger": 942,
+  "today_submitted": 1,
   "backfill_count": 146,
   "human_gate": 275,
   "watch_reset": 2,
@@ -241,7 +241,7 @@
   },
   {
    "date": "2026-09-15",
-   "count": 3
+   "count": 4
   },
   {
    "date": "2026-09-16",
@@ -297,7 +297,7 @@
   },
   {
    "date": "2026-10-01",
-   "count": 23
+   "count": 24
   },
   {
    "date": "2026-10-02",
@@ -462,9 +462,21 @@
   {
    "date": "2026-11-12",
    "count": 16
+  },
+  {
+   "date": "2026-11-13",
+   "count": 1
   }
  ],
- "today": [],
+ "today": [
+  {
+   "company": "Integris",
+   "role": "Systems Administrator",
+   "req": "e7c4fa79-74f4-2e41-df1c-19cc9a782453",
+   "date": "2026-11-13",
+   "email_confirmed": false
+  }
+ ],
  "linkedin": {
   "batch_date": "2026-11-11",
   "staged_count": 12,
