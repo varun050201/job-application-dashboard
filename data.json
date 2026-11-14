@@ -1,18 +1,18 @@
 {
- "generated_at_et": "2026-11-13 15:43 ET",
+ "generated_at_et": "2026-11-14 16:56 ET",
  "summary": {
-  "total_submitted_ledger": 942,
-  "today_submitted": 1,
+  "total_submitted_ledger": 968,
+  "today_submitted": 16,
   "backfill_count": 146,
-  "human_gate": 275,
+  "human_gate": 299,
   "watch_reset": 2,
-  "pipeline_owned": 37,
+  "pipeline_owned": 41,
   "quota": 20,
   "portal_limit": 1,
   "hold": 3,
-  "resolved": 31,
-  "closed": 18,
-  "registry_rows": 388
+  "resolved": 33,
+  "closed": 19,
+  "registry_rows": 419
  },
  "daily": [
   {
@@ -89,7 +89,7 @@
   },
   {
    "date": "2026-07-08",
-   "count": 2
+   "count": 3
   },
   {
    "date": "2026-07-09",
@@ -153,7 +153,7 @@
   },
   {
    "date": "2026-08-06",
-   "count": 1
+   "count": 2
   },
   {
    "date": "2026-08-11",
@@ -269,7 +269,7 @@
   },
   {
    "date": "2026-09-23",
-   "count": 14
+   "count": 15
   },
   {
    "date": "2026-09-24",
@@ -357,7 +357,7 @@
   },
   {
    "date": "2026-10-16",
-   "count": 16
+   "count": 17
   },
   {
    "date": "2026-10-17",
@@ -393,7 +393,7 @@
   },
   {
    "date": "2026-10-26",
-   "count": 9
+   "count": 10
   },
   {
    "date": "2026-10-27",
@@ -405,7 +405,7 @@
   },
   {
    "date": "2026-10-29",
-   "count": 5
+   "count": 6
   },
   {
    "date": "2026-10-30",
@@ -465,15 +465,124 @@
   },
   {
    "date": "2026-11-13",
-   "count": 1
+   "count": 5
+  },
+  {
+   "date": "2026-11-14",
+   "count": 16
   }
  ],
  "today": [
   {
-   "company": "Integris",
-   "role": "Systems Administrator",
-   "req": "e7c4fa79-74f4-2e41-df1c-19cc9a782453",
-   "date": "2026-11-13",
+   "company": "Marketech International USA",
+   "role": "IT Engineer - Mandarin/English",
+   "req": "4506736009",
+   "date": "2026-11-14",
+   "email_confirmed": true
+  },
+  {
+   "company": "SONIFI Solutions",
+   "role": "Network Engineer I",
+   "req": "1071",
+   "date": "2026-11-14",
+   "email_confirmed": false
+  },
+  {
+   "company": "FirstEnergy",
+   "role": "Systems Engineer II",
+   "req": "105893",
+   "date": "2026-11-14",
+   "email_confirmed": true
+  },
+  {
+   "company": "CodeRabbit",
+   "role": "Technical Support Engineer",
+   "req": "48bf8d90-a721-444c-b86a-849056eca22e",
+   "date": "2026-11-14",
+   "email_confirmed": true
+  },
+  {
+   "company": "Tourneau|Bucherer",
+   "role": "IT Systems Engineer",
+   "req": "fk0zc44",
+   "date": "2026-11-14",
+   "email_confirmed": false
+  },
+  {
+   "company": "hims & hers",
+   "role": "IT Operations Engineer",
+   "req": "4490778175",
+   "date": "2026-11-14",
+   "email_confirmed": true
+  },
+  {
+   "company": "Northwestern Mutual",
+   "role": "Systems Engineer",
+   "req": "JR-46070",
+   "date": "2026-11-14",
+   "email_confirmed": true
+  },
+  {
+   "company": "YipitData",
+   "role": "Product Security Engineer",
+   "req": "8135138",
+   "date": "2026-11-14",
+   "email_confirmed": true
+  },
+  {
+   "company": "Factory",
+   "role": "Technical Support Engineer - US",
+   "req": "fa8c6db5-7dbf-4366-aa64-88a6608895cd",
+   "date": "2026-11-14",
+   "email_confirmed": false
+  },
+  {
+   "company": "Founders Federal Credit Union",
+   "role": "Network Engineer | 2026-11-14 ~16:07 ET",
+   "req": "",
+   "date": "2026-11-14",
+   "email_confirmed": true
+  },
+  {
+   "company": "Oracle",
+   "role": "Senior Network Engineer - DR25",
+   "req": "350444",
+   "date": "2026-11-14",
+   "email_confirmed": true
+  },
+  {
+   "company": "Beacon Industries",
+   "role": "Network Engineer",
+   "req": "4490776631",
+   "date": "2026-11-14",
+   "email_confirmed": false
+  },
+  {
+   "company": "Founders Federal Credit Union",
+   "role": "Network Engineer",
+   "req": "corrected",
+   "date": "2026-11-14",
+   "email_confirmed": false
+  },
+  {
+   "company": "CityVet",
+   "role": "IT Infrastructure Specialist",
+   "req": "4507104009",
+   "date": "2026-11-14",
+   "email_confirmed": true
+  },
+  {
+   "company": "WeTheHobby",
+   "role": "Network Administrator",
+   "req": "5721be49-d87d-4144-90f2-d34898529399",
+   "date": "2026-11-14",
+   "email_confirmed": true
+  },
+  {
+   "company": "Dairy Farmers of America",
+   "role": "Network Administrator I",
+   "req": "5001237866106",
+   "date": "2026-11-14",
    "email_confirmed": false
   }
  ],
@@ -606,6 +715,15 @@
     "link": ""
    },
    {
+    "role": "Montana DPHHS — IT Systems Support 2 (Missoula MT + 7 locations)",
+    "req": "Taleo req 26142852 (mtstatejobs.taleo.net; apply via stateca",
+    "parked": "2026-11-13",
+    "deadline": "2026-12-04",
+    "deadline_passed": false,
+    "blocker": "PARKED at Step 2 of 10 (General Questions) — NOT SUBMITTED. Mandatory Step 2 question \"Are you legally authorized to work in the United States without employer…",
+    "link": ""
+   },
+   {
     "role": "Genpact — Lead Network Administrator 4C",
     "req": "JR10034692 (Workday genpact.wd108.myworkdayjobs.com)",
     "parked": "2026-11-05",
@@ -642,6 +760,150 @@
     "link": ""
    },
    {
+    "role": "Police and Fire Federal Credit Union (PFFCU) — Jr Network Engineer",
+    "req": "9205258380018_71 (ADP WorkforceNow; Bensalem PA onsite)",
+    "parked": "2026-11-14",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "ADP \"Get your verification code\" dialog — one-time passcode must be sent to [email] or [phone] and entered to proceed; code steps are Varun's only (never entered on a…",
+    "link": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=8922cddb-cc8e-439e-bf0b-8387b50ce3d3&ccId=19000101_000001&jobId=9205258380018_71&lang=en_US"
+   },
+   {
+    "role": "Priority Commerce — Site Reliability Engineer",
+    "req": "LinkedIn 4489582835",
+    "parked": "2026-11-14",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "LinkedIn Easy Apply locks contact email to the LinkedIn account address [email] — non-editable dropdown, verified three ways (form fill \"not_editable\", typed entry…",
+    "link": ""
+   },
+   {
+    "role": "NIKSUN — Infrastructure Engineer",
+    "req": "LinkedIn 4489832232",
+    "parked": "2026-11-14",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Same LinkedIn Easy Apply email lock as Priority Commerce (same LinkedIn account, same component) — application email cannot be set to [email] Never launched (10:45 ET…",
+    "link": ""
+   },
+   {
+    "role": "Glenmark Pharmaceuticals — Senior IT Associate",
+    "req": "LinkedIn 4489572630",
+    "parked": "2026-11-14",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "LinkedIn Easy Apply locks contact email to the LinkedIn account address [email] — dropdown with that as its only option, cannot be typed over; cannot set [email]…",
+    "link": ""
+   },
+   {
+    "role": "Stefanini — Network Engineer II",
+    "req": "LinkedIn 4482752318",
+    "parked": "2026-11-14",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Same LinkedIn Easy Apply email lock as Glenmark (same LinkedIn account, same component) — application email cannot be set to [email] Never launched (10:45 ET fence…",
+    "link": ""
+   },
+   {
+    "role": "Google — Technical Program Manager II, Data Analytics, Cloud Network",
+    "req": "req n/a",
+    "parked": "2026-11-14",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Google Careers 30-day quota — dashboard read is 2-Step-blocked on detached runs; tailoring forbidden until a free slot is confirmed. Mirror-sourced: 2 yrs program…",
+    "link": ""
+   },
+   {
+    "role": "Amazon — Data Center Operations Technician (DCOT)",
+    "req": "3193879",
+    "parked": "2026-11-14",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Live amazon.jobs posting confirmed Malaysia-based: header \"Job ID: 3193879",
+    "link": "https://www.amazon.jobs/en/jobs/3193879/data-center-operations-technician-data-center-operations"
+   },
+   {
+    "role": "Hudl — Systems Analyst (Lincoln NE)",
+    "req": "Greenhouse 8189302",
+    "parked": "2026-11-14",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "PARKED — required screening question cannot be answered from profile — NOT SUBMITTED. \"In regard to work location, which of the following applies to you?\" Options: \"I am…",
+    "link": "https://job-boards.greenhouse.io/hudl/jobs/8189302"
+   },
+   {
+    "role": "Ashby — Senior Security Platform Engineer - Secure Delivery",
+    "req": "Ashby 9225e1fa-66aa-45d2-bf92-2ac653744434",
+    "parked": "2026-11-14",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "PARKED — 5 required screening questions demand specific hands-on CI + secure-delivery experience NOT in profile bundle v1.0 — must not invent — NOT SUBMITTED. (1) \"Have…",
+    "link": "https://jobs.ashbyhq.com/ashby/9225e1fa-66aa-45d2-bf92-2ac653744434/application"
+   },
+   {
+    "role": "Lakeview (Bayview) — Site Reliability Engineer (Agoura Hills CA, Remote)",
+    "req": "iCIMS req 9102",
+    "parked": "2026-11-14",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "PARKED — hCaptcha re-appeared — NOT SUBMITTED. Retry (browser-task:3bfee285, 12:53 ET) hit hCaptcha \"Drag the letter to the place where it fits\"; Next button disabled…",
+    "link": "https://careers.bayview.com/bam/jobs/9102?lang=en-us"
+   },
+   {
+    "role": "Frequentis USA — Mid-level Systems Engineer",
+    "req": "jobId 3654 (LinkedIn 4464588825)",
+    "parked": "2026-11-14",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "NEEDS-PASSWORD-CAPTURE: no saved vault login for jobs.frequentis.com; universal job-portal credential stored in vault but not enterable by the login agent in this…",
+    "link": "https://jobs.frequentis.com/careers/Register?jobId=3654"
+   },
+   {
+    "role": "Rochester Electronics — Network Administrator I (Newburyport MA, onsite)",
+    "req": "LinkedIn 4488993722 (SaaSHR ApplyToJob=638033404)",
+    "parked": "2026-11-14",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "NEEDS-PASSWORD-CAPTURE: no saved Secure Vault login for saashr.com (secure7.saashr.com); detached browser task could not enter the universal job-portal credential…",
+    "link": "https://secure7.saashr.com/ta/6204056.careers?ApplyToJob=638033404"
+   },
+   {
+    "role": "Morris Hospital — Network Administrator (Morris IL, FT Days Mon-Fri 7am-3:30PM, $40.58–$60.87)",
+    "req": "LinkedIn 4489317714 (symplr HealthcareSource Job ID 6892)",
+    "parked": "2026-11-14",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "NEEDS-PASSWORD-CAPTURE: no saved Secure Vault login for healthcaresource.com (pm.healthcaresource.com); detached browser task could not enter the universal job-portal…",
+    "link": "https://pm.healthcaresource.com/CS/morrishospital/#/signin?url=...BeginApplication%3FJobId%3D6892"
+   },
+   {
+    "role": "LifeSouth Community Blood Centers — Network Administrator (Gainesville FL)",
+    "req": "Paylocity job 4659875 (LinkedIn 4491069213)",
+    "parked": "2026-11-14",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Step 3 of 5 (References) requires THREE references; only TWO exist on record. References 1–2 filled: Gopi Y ([email], [phone], Professional, 5 yrs) + Viswani K ([email],…",
+    "link": ""
+   },
+   {
+    "role": "HiredBuddy — Network Engineer (Remote, Contract)",
+    "req": "LinkedIn 4489858313",
+    "parked": "2026-11-14",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "NO company-portal application path exists: LinkedIn posting shows ONLY \"Easy Apply\" (no \"Apply on company website\" link); HiredBuddy portal https: lists 12 roles, NONE…",
+    "link": "https://hiredbuddy.com/opportunities"
+   },
+   {
+    "role": "TikTok USDS — Site Reliability Engineer, Network and Traffic - USDS (San Jose)",
+    "req": "careers.tiktokusds.com Job ID A208208 (LinkedIn 4491098366)",
+    "parked": "2026-11-14",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Image CAPTCHA on account creation: \"Select 2 objects that are the same shape\" (purple sphere + yellow sphere). Per one-attempt contract, image CAPTCHA = park…",
+    "link": ""
+   },
+   {
     "role": "Epic — Infrastructure Engineer (Verona WI)",
     "req": "Avature folder 23505",
     "parked": "2026-11-13",
@@ -657,6 +919,69 @@
     "deadline": "",
     "deadline_passed": false,
     "blocker": "iCIMS account-creation wall — park exists in ledger L3650 but had NO row in park_registry.md (registry gap found by phase-598 verify B)",
+    "link": ""
+   },
+   {
+    "role": "Circet — Data Center Tech (Night Shift) (Plano TX)",
+    "req": "req 4421 (iCIMS job 2026-4421)",
+    "parked": "2026-11-13",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "hCaptcha image-grid on iCIMS sign-in (\"Enter Your Information\" — \"Pick all objects that melt at room temperature\", 3x3 grid); single permitted solver attempt used (round…",
+    "link": "https://circetusa-kgpco.icims.com/jobs/4421/data-center-tech-%28night-shift%29/job"
+   },
+   {
+    "role": "Infosight — SNOC Analyst (Miami Lakes FL)",
+    "req": "n/a (no req ID on careers.php card)",
+    "parked": "2026-11-13",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "No application path exists on the official careers page — card shows Full-time / Cybersecurity with no expandable JD, no apply button, no resume-upload field; only…",
+    "link": "https://infosightinc.com/contact-us.php"
+   },
+   {
+    "role": "Campus USA Credit Union — IT Infrastructure Engineer (Jonesville FL)",
+    "req": "ViziRecruiter 425523 / Paycom job 354734",
+    "parked": "2026-11-13",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Paycom chain-piece CAPTCHA (\"Put the missing piece in the correct place to complete the chain\") on \"Continue To Application\" — single permitted solver attempt failed…",
+    "link": "https://www.paycomonline.net/v4/ats/web.php/portal/6C95C93DF4AFB94909232233D6458AF5/jobs/354734"
+   },
+   {
+    "role": "Renovo Automation — DevOps Engineer (Hybrid, Minneapolis MN)",
+    "req": "Workable E9A36F1643 (Accurant)",
+    "parked": "2026-11-13",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Cloudflare Turnstile \"Verify you are human\" on Workable Submit — 4 failed attempts total (3 verify-then-reset cycles on the original browser incl. \"Verification failed\"…",
+    "link": "https://apply.workable.com/accurant/j/E9A36F1643/apply/"
+   },
+   {
+    "role": "Bumble Bee Foods — Cybersecurity Analyst (San Diego CA)",
+    "req": "Paylocity req 4466688",
+    "parked": "2026-11-13",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "PARKED at Step 3 of 5 (References) — NOT SUBMITTED. Steps 1–2 passed validation; tailored resume Bumble_Bee_Foods_Cybersecurity_Analyst_phase599.pdf uploaded FIRST and…",
+    "link": "https://www.paylocity.com"
+   },
+   {
+    "role": "Lexington Health — Business Apps Analyst I (West Columbia SC)",
+    "req": "SuccessFactors job 1449977300 (career4.successfactors.com, c",
+    "parked": "2026-11-13",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "PARKED at the REQUIRED SSN field (e239) — NOT SUBMITTED. Everything else complete: NEW account created for [email] (saved vault login rejected \"Invalid email address or…",
+    "link": ""
+   },
+   {
+    "role": "Financial Resources FCU — Network Engineer (Branchburg NJ, onsite)",
+    "req": "ADP WorkforceNow jobId 9201640646769_7, Req 1584",
+    "parked": "2026-11-13",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "PARKED at the ADP email verification-code step — NOT SUBMITTED, no application started. No saved ADP login existed for [email] (portal treated the email as a new…",
     "link": ""
    },
    {
@@ -3047,6 +3372,42 @@
   ],
   "pipeline_owned": [
    {
+    "role": "Metronet — Enterprise Network Engineer",
+    "req": "Req ENTER010313 (Ultipro a468bd78)",
+    "parked": "2026-11-14",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Saved vault login for signin-us.ultipro.com REJECTED (\"Invalid email or password\"); autonomous reset requested ~17:27 UTC and re-requested once ~17:44 UTC; NO reset…",
+    "link": "https://recruiting2.ultipro.com/qse1000qser/JobBoard/c1201fe2-744c-4aa5-87a8-98b01e706578/OpportunityDetail?opportunityId=a468bd78-cc54-49a5-b127-35df37f1f9a0"
+   },
+   {
+    "role": "GE Vernova — Systems Engineer",
+    "req": "R5052945 (Workday gevernova.wd5.myworkdayjobs.com)",
+    "parked": "2026-11-14",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Saved vault login REJECTED by Workday ~12:28 PM ET (\"You may have entered the wrong email address or password or your account might be locked\"); autonomous reset…",
+    "link": "https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Greenville/Systems-Engineer_R5052945-2/apply"
+   },
+   {
+    "role": "GE Vernova — Field Systems Engineer",
+    "req": "R5052177 (Workday gevernova.wd5.myworkdayjobs.com)",
+    "parked": "2026-11-14",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Same shared-tenant failure as R5052945: saved vault login rejected; reset requested ~12:29 PM ET + resend ~12:46 PM ET; NO reset email arrived (inbox + spam through…",
+    "link": ""
+   },
+   {
+    "role": "D.R. Horton — Network Engineer II (Arlington TX)",
+    "req": "LinkedIn 4491012098 (Taleo job 2605841, reqNo 271219)",
+    "parked": "2026-11-14",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Taleo password-reset email NEVER ARRIVES after two requests: saved Secure Vault login rejected (\"The user name and password combination you entered does not correspond…",
+    "link": ""
+   },
+   {
     "role": "Clark County School District — Network Technician III",
     "req": "2600055O (Taleo)",
     "parked": "2026-11-13",
@@ -3624,6 +3985,24 @@
   ],
   "resolved": [
    {
+    "role": "Wills Group — Infrastructure Manager",
+    "req": "LinkedIn 4482703134",
+    "parked": "2026-11-14",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Same LinkedIn Easy Apply email lock as Glenmark (same LinkedIn account, same component) — application email cannot be set to [email] Never launched (10:45 ET fence…",
+    "link": ""
+   },
+   {
+    "role": "Nexcess — IT Compliance Analyst (Remote US)",
+    "req": "Rippling job 0ce3ade3-fb74-4b66-87f6-cfc72586d075",
+    "parked": "2026-11-13",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Cloudflare Turnstile on Rippling Apply — 3 failed attempts total (\"Verifying...\" then \"Verification failed\" + banner \"Unable to apply for IT Compliance Analyst. Please…",
+    "link": "https://ats.rippling.com/nexcess/jobs/0ce3ade3-fb74-4b66-87f6-cfc72586d075/apply"
+   },
+   {
     "role": "Polk County BoCC — IT Infrastructure Engineer",
     "req": "job 2692 (LinkedIn 4481161195, Bartow FL, $77,334.40)",
     "parked": "2026-11-12",
@@ -3904,6 +4283,15 @@
    }
   ],
   "closed": [
+   {
+    "role": "WeTheHobby — Network Administrator (Rochester NY, $63,000–$70,000)",
+    "req": "Rippling 5721be49-d87d-4144-90f2-d34898529399",
+    "parked": "2026-11-14",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "OVERTURNED — SUBMITTED after all: Cloudflare checkbox FAILED on the one permitted attempt (\"Verification failed\") and Apply stuck on \"Loading...\", so the applier…",
+    "link": ""
+   },
    {
     "role": "Hewlett Packard Enterprise — Senior Network System Engineer",
     "req": "1213909 (HPE careers)",
