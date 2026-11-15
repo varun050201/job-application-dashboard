@@ -1,10 +1,10 @@
 {
- "generated_at_et": "2026-11-14 16:56 ET",
+ "generated_at_et": "2026-11-15 12:07 ET",
  "summary": {
-  "total_submitted_ledger": 968,
-  "today_submitted": 16,
+  "total_submitted_ledger": 975,
+  "today_submitted": 1,
   "backfill_count": 146,
-  "human_gate": 299,
+  "human_gate": 302,
   "watch_reset": 2,
   "pipeline_owned": 41,
   "quota": 20,
@@ -12,7 +12,7 @@
   "hold": 3,
   "resolved": 33,
   "closed": 19,
-  "registry_rows": 419
+  "registry_rows": 422
  },
  "daily": [
   {
@@ -109,7 +109,7 @@
   },
   {
    "date": "2026-07-20",
-   "count": 2
+   "count": 3
   },
   {
    "date": "2026-07-22",
@@ -245,7 +245,7 @@
   },
   {
    "date": "2026-09-16",
-   "count": 4
+   "count": 5
   },
   {
    "date": "2026-09-18",
@@ -349,7 +349,7 @@
   },
   {
    "date": "2026-10-14",
-   "count": 22
+   "count": 23
   },
   {
    "date": "2026-10-15",
@@ -469,121 +469,20 @@
   },
   {
    "date": "2026-11-14",
-   "count": 16
+   "count": 19
+  },
+  {
+   "date": "2026-11-15",
+   "count": 1
   }
  ],
  "today": [
   {
-   "company": "Marketech International USA",
-   "role": "IT Engineer - Mandarin/English",
-   "req": "4506736009",
-   "date": "2026-11-14",
+   "company": "Man Group",
+   "role": "Senior Networks Engineer",
+   "req": "5029000101",
+   "date": "2026-11-15",
    "email_confirmed": true
-  },
-  {
-   "company": "SONIFI Solutions",
-   "role": "Network Engineer I",
-   "req": "1071",
-   "date": "2026-11-14",
-   "email_confirmed": false
-  },
-  {
-   "company": "FirstEnergy",
-   "role": "Systems Engineer II",
-   "req": "105893",
-   "date": "2026-11-14",
-   "email_confirmed": true
-  },
-  {
-   "company": "CodeRabbit",
-   "role": "Technical Support Engineer",
-   "req": "48bf8d90-a721-444c-b86a-849056eca22e",
-   "date": "2026-11-14",
-   "email_confirmed": true
-  },
-  {
-   "company": "Tourneau|Bucherer",
-   "role": "IT Systems Engineer",
-   "req": "fk0zc44",
-   "date": "2026-11-14",
-   "email_confirmed": false
-  },
-  {
-   "company": "hims & hers",
-   "role": "IT Operations Engineer",
-   "req": "4490778175",
-   "date": "2026-11-14",
-   "email_confirmed": true
-  },
-  {
-   "company": "Northwestern Mutual",
-   "role": "Systems Engineer",
-   "req": "JR-46070",
-   "date": "2026-11-14",
-   "email_confirmed": true
-  },
-  {
-   "company": "YipitData",
-   "role": "Product Security Engineer",
-   "req": "8135138",
-   "date": "2026-11-14",
-   "email_confirmed": true
-  },
-  {
-   "company": "Factory",
-   "role": "Technical Support Engineer - US",
-   "req": "fa8c6db5-7dbf-4366-aa64-88a6608895cd",
-   "date": "2026-11-14",
-   "email_confirmed": false
-  },
-  {
-   "company": "Founders Federal Credit Union",
-   "role": "Network Engineer | 2026-11-14 ~16:07 ET",
-   "req": "",
-   "date": "2026-11-14",
-   "email_confirmed": true
-  },
-  {
-   "company": "Oracle",
-   "role": "Senior Network Engineer - DR25",
-   "req": "350444",
-   "date": "2026-11-14",
-   "email_confirmed": true
-  },
-  {
-   "company": "Beacon Industries",
-   "role": "Network Engineer",
-   "req": "4490776631",
-   "date": "2026-11-14",
-   "email_confirmed": false
-  },
-  {
-   "company": "Founders Federal Credit Union",
-   "role": "Network Engineer",
-   "req": "corrected",
-   "date": "2026-11-14",
-   "email_confirmed": false
-  },
-  {
-   "company": "CityVet",
-   "role": "IT Infrastructure Specialist",
-   "req": "4507104009",
-   "date": "2026-11-14",
-   "email_confirmed": true
-  },
-  {
-   "company": "WeTheHobby",
-   "role": "Network Administrator",
-   "req": "5721be49-d87d-4144-90f2-d34898529399",
-   "date": "2026-11-14",
-   "email_confirmed": true
-  },
-  {
-   "company": "Dairy Farmers of America",
-   "role": "Network Administrator I",
-   "req": "5001237866106",
-   "date": "2026-11-14",
-   "email_confirmed": false
   }
  ],
  "linkedin": {
@@ -758,6 +657,33 @@
     "deadline_passed": false,
     "blocker": "hCaptcha drag-and-drop puzzle blocks the Submit button on jobs.lever.co; application fully completed (resume attached + parsed, profile filled, screening answered, $80k…",
     "link": ""
+   },
+   {
+    "role": "TSMC — IT Infrastructure Operations Technician (Phoenix AZ)",
+    "req": "1366092266",
+    "parked": "2026-11-15",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "No saved Secure Vault login signs in to tsmc.com; detached-run login service refused credential entry, so universal-credential account creation could not be completed.…",
+    "link": "https://careers.tsmc.com/en_US/careers/Register"
+   },
+   {
+    "role": "Guthrie — Sr Engineer, Network - IT Infrastructure - Full Time (Sayre PA, on-site)",
+    "req": "LinkedIn 4418259639",
+    "parked": "2026-11-15",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Easy Apply locks contact email to [email] (LinkedIn account email), field not editable — cannot use work email [email]; + vault Google password stale (in-session Gmail…",
+    "link": "https://www.linkedin.com/jobs/view/4418259639/"
+   },
+   {
+    "role": "AWS — Network Development Engineer II, AWS Internet Edge (GCNA-D) (Seattle WA, $136,000–$184,000)",
+    "req": "amazon.jobs Job ID 10425369 (LinkedIn 4455931420)",
+    "parked": "2026-11-15",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Work Eligibility requires exact EAD expiry date (Year-Month-Day); only \"Aug 2028\" on file — exact day missing from standing answers (asked Varun 2026-11-13, no answer).…",
+    "link": "https://account.amazon.jobs/en-US/applicant/jobs/10425369/apply"
    },
    {
     "role": "Police and Fire Federal Credit Union (PFFCU) — Jr Network Engineer",
