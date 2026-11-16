@@ -1,8 +1,8 @@
 {
- "generated_at_et": "2026-11-15 19:00 ET",
+ "generated_at_et": "2026-11-16 10:51 ET",
  "summary": {
   "total_submitted_ledger": 982,
-  "today_submitted": 6,
+  "today_submitted": 0,
   "backfill_count": 146,
   "human_gate": 307,
   "watch_reset": 2,
@@ -476,50 +476,7 @@
    "count": 6
   }
  ],
- "today": [
-  {
-   "company": "Man Group",
-   "role": "Senior Networks Engineer",
-   "req": "5029000101",
-   "date": "2026-11-15",
-   "email_confirmed": true
-  },
-  {
-   "company": "Oracle",
-   "role": "Senior Network Developer",
-   "req": "342852",
-   "date": "2026-11-15",
-   "email_confirmed": true
-  },
-  {
-   "company": "Graid Technology Inc.",
-   "role": "NVMe / PCIe Storage Support Engineer",
-   "req": "4467111399",
-   "date": "2026-11-15",
-   "email_confirmed": false
-  },
-  {
-   "company": "NPR",
-   "role": "Cloud Systems Engineer",
-   "req": "855",
-   "date": "2026-11-15",
-   "email_confirmed": true
-  },
-  {
-   "company": "DENSO",
-   "role": "Systems Engineer 2",
-   "req": "24809",
-   "date": "2026-11-15",
-   "email_confirmed": true
-  },
-  {
-   "company": "Helient Technologies, LLC",
-   "role": "Managed Services, Systems Analyst",
-   "req": "n/a",
-   "date": "2026-11-15",
-   "email_confirmed": false
-  }
- ],
+ "today": [],
  "linkedin": {
   "batch_date": "2026-11-11",
   "staged_count": 12,
