@@ -1,8 +1,8 @@
 {
- "generated_at_et": "2026-11-16 16:17 ET",
+ "generated_at_et": "2026-11-16 16:32 ET",
  "summary": {
-  "total_submitted_ledger": 1000,
-  "today_submitted": 13,
+  "total_submitted_ledger": 1001,
+  "today_submitted": 14,
   "backfill_count": 146,
   "human_gate": 307,
   "watch_reset": 2,
@@ -477,7 +477,7 @@
   },
   {
    "date": "2026-11-16",
-   "count": 13
+   "count": 14
   }
  ],
  "today": [
@@ -571,6 +571,13 @@
    "req": "26042234",
    "date": "2026-11-16",
    "email_confirmed": false
+  },
+  {
+   "company": "Virginia Department of Environmental Quality",
+   "role": "Business Systems Analyst",
+   "req": "P0687 / job 10448",
+   "date": "2026-11-16",
+   "email_confirmed": true
   }
  ],
  "linkedin": {
