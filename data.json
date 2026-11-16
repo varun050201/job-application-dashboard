@@ -1,8 +1,8 @@
 {
- "generated_at_et": "2026-11-16 13:07 ET",
+ "generated_at_et": "2026-11-16 16:17 ET",
  "summary": {
-  "total_submitted_ledger": 990,
-  "today_submitted": 4,
+  "total_submitted_ledger": 1000,
+  "today_submitted": 13,
   "backfill_count": 146,
   "human_gate": 307,
   "watch_reset": 2,
@@ -377,7 +377,7 @@
   },
   {
    "date": "2026-10-21",
-   "count": 3
+   "count": 4
   },
   {
    "date": "2026-10-22",
@@ -477,7 +477,7 @@
   },
   {
    "date": "2026-11-16",
-   "count": 4
+   "count": 13
   }
  ],
  "today": [
@@ -508,6 +508,69 @@
    "req": "from",
    "date": "2026-11-16",
    "email_confirmed": true
+  },
+  {
+   "company": "Board of Water and Light",
+   "role": "IT Network Administrator IV",
+   "req": "JR100562-1",
+   "date": "2026-11-16",
+   "email_confirmed": false
+  },
+  {
+   "company": "Scout Motors",
+   "role": "Cybersecurity Operations Analyst",
+   "req": "5292657007",
+   "date": "2026-11-16",
+   "email_confirmed": true
+  },
+  {
+   "company": "Douglas County",
+   "role": "Business Systems Intelligence Administrator",
+   "req": "3377",
+   "date": "2026-11-16",
+   "email_confirmed": false
+  },
+  {
+   "company": "Austin Fire Systems",
+   "role": "System and Network Administrator",
+   "req": "4489778504",
+   "date": "2026-11-16",
+   "email_confirmed": true
+  },
+  {
+   "company": "Black Duck",
+   "role": "Server Engineer",
+   "req": "5407799008",
+   "date": "2026-11-16",
+   "email_confirmed": false
+  },
+  {
+   "company": "Austin Fire Systems",
+   "role": "System and Network Administrator",
+   "req": "LinkedIn 4489778504",
+   "date": "2026-11-16",
+   "email_confirmed": true
+  },
+  {
+   "company": "Virginia Department of Environmental Quality",
+   "role": "Business Systems Analyst",
+   "req": "P0687",
+   "date": "2026-11-16",
+   "email_confirmed": false
+  },
+  {
+   "company": "SBA Communications",
+   "role": "Security & Compliance Analyst II",
+   "req": "JR102735",
+   "date": "2026-11-16",
+   "email_confirmed": false
+  },
+  {
+   "company": "Bank of America",
+   "role": "Cloud Security Operations Analyst",
+   "req": "26042234",
+   "date": "2026-11-16",
+   "email_confirmed": false
   }
  ],
  "linkedin": {
