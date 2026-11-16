@@ -1,18 +1,18 @@
 {
- "generated_at_et": "2026-11-15 12:07 ET",
+ "generated_at_et": "2026-11-15 19:00 ET",
  "summary": {
-  "total_submitted_ledger": 975,
-  "today_submitted": 1,
+  "total_submitted_ledger": 982,
+  "today_submitted": 6,
   "backfill_count": 146,
-  "human_gate": 302,
+  "human_gate": 307,
   "watch_reset": 2,
-  "pipeline_owned": 41,
+  "pipeline_owned": 42,
   "quota": 20,
   "portal_limit": 1,
   "hold": 3,
   "resolved": 33,
   "closed": 19,
-  "registry_rows": 422
+  "registry_rows": 428
  },
  "daily": [
   {
@@ -129,7 +129,7 @@
   },
   {
    "date": "2026-07-28",
-   "count": 3
+   "count": 4
   },
   {
    "date": "2026-07-30",
@@ -185,7 +185,7 @@
   },
   {
    "date": "2026-08-27",
-   "count": 1
+   "count": 2
   },
   {
    "date": "2026-08-28",
@@ -473,7 +473,7 @@
   },
   {
    "date": "2026-11-15",
-   "count": 1
+   "count": 6
   }
  ],
  "today": [
@@ -483,6 +483,41 @@
    "req": "5029000101",
    "date": "2026-11-15",
    "email_confirmed": true
+  },
+  {
+   "company": "Oracle",
+   "role": "Senior Network Developer",
+   "req": "342852",
+   "date": "2026-11-15",
+   "email_confirmed": true
+  },
+  {
+   "company": "Graid Technology Inc.",
+   "role": "NVMe / PCIe Storage Support Engineer",
+   "req": "4467111399",
+   "date": "2026-11-15",
+   "email_confirmed": false
+  },
+  {
+   "company": "NPR",
+   "role": "Cloud Systems Engineer",
+   "req": "855",
+   "date": "2026-11-15",
+   "email_confirmed": true
+  },
+  {
+   "company": "DENSO",
+   "role": "Systems Engineer 2",
+   "req": "24809",
+   "date": "2026-11-15",
+   "email_confirmed": true
+  },
+  {
+   "company": "Helient Technologies, LLC",
+   "role": "Managed Services, Systems Analyst",
+   "req": "n/a",
+   "date": "2026-11-15",
+   "email_confirmed": false
   }
  ],
  "linkedin": {
@@ -684,6 +719,51 @@
     "deadline_passed": false,
     "blocker": "Work Eligibility requires exact EAD expiry date (Year-Month-Day); only \"Aug 2028\" on file — exact day missing from standing answers (asked Varun 2026-11-13, no answer).…",
     "link": "https://account.amazon.jobs/en-US/applicant/jobs/10425369/apply"
+   },
+   {
+    "role": "Dobson Fiber — NOC Engineer II (Oklahoma City OK, on-site, FT)",
+    "req": "LinkedIn 4489399542",
+    "parked": "2026-11-15",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "BLOCKED — Cloudflare Turnstile on Lensa (aggregator redirect) — NOT SUBMITTED. Apply chain: LinkedIn → DivulgaVagas (\"Job listings provided by BIG Jobsite\") → Lensa job…",
+    "link": "https://lensa.com/cgw/988dc582b02445be80cbec6dca610afaincc1?jpsi=jobfront_0"
+   },
+   {
+    "role": "Transaction Network Services (TNS) — Senior Network Architect (req R2711, Sheffield, Workday tnsi.wd1.myworkda",
+    "req": "R2711 (Workday)",
+    "parked": "2026-11-15",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "LINK-DEAD-END — Workday password-reset link unnavigable — NOT SUBMITTED. Saved vault login REJECTED (\"You may have entered the wrong email address or password or your…",
+    "link": "https://tnsi.wd1.myworkdayjobs.com/Search/job/GBR---Sheffield/Senior-Network-Architect_R2711"
+   },
+   {
+    "role": "Intercontinental Exchange — Engineer, Systems Engineering (Atlanta, req 2026-[zip], iCIMS careers-ice.icims.co",
+    "req": "2026-13482 (iCIMS)",
+    "parked": "2026-11-15",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "LINK-DEAD-END — iCIMS password-reset link unnavigable — NOT SUBMITTED. Saved vault password REJECTED (\"Wrong username or password\"); reset requested on login.icims.com…",
+    "link": "https://careers-ice.icims.com/jobs/13482/engineer%2c-systems-engineering/job?in_iframe=1"
+   },
+   {
+    "role": "Engineered Seal Products — Network Administrator (Cedar Rapids IA, on-site, FT)",
+    "req": "LinkedIn 4489702347",
+    "parked": "2026-11-15",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "BLOCKED — Cloudflare Turnstile on Lensa (aggregator redirect) — NOT SUBMITTED. Apply chain: LinkedIn → DivulgaVagas → Lensa job search → Lensa click-gateway…",
+    "link": "https://lensa.com/cgw/54a251ae1a624bfebc7c4a951e5506c6incc1?jpsi=jobcase_4"
+   },
+   {
+    "role": "Intercontinental Exchange — Administrator, Systems Engineering",
+    "req": "2026-12330 (iCIMS)",
+    "parked": "2026-11-15",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Saved vault password REJECTED on login.icims.com (\"Wrong username or password\", single attempt, no retry) — same wall as sibling req 2026-[zip] today (~16:31 ET); reset…",
+    "link": "https://careers-ice.icims.com/jobs/12330/administrator%2c-systems-engineering/job?in_iframe=1"
    },
    {
     "role": "Police and Fire Federal Credit Union (PFFCU) — Jr Network Engineer",
@@ -3297,6 +3377,15 @@
    }
   ],
   "pipeline_owned": [
+   {
+    "role": "Scientific Games — Systems Engineer (Grove City OH, req R505153, Workday sglottery.wd5.myworkdayjobs.com)",
+    "req": "R505153 (Workday)",
+    "parked": "2026-11-15",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Workday password-reset email NEVER ARRIVES after resend — NOT SUBMITTED. Saved vault login REJECTED (\"You may have entered the wrong email address or password or your…",
+    "link": "https://sglottery.wd5.myworkdayjobs.com/ScientificGamesExternalCareers/job/USA-OH-Grove-City-3741-Grove-City-Road/Systems-Engineer_R505153"
+   },
    {
     "role": "Metronet — Enterprise Network Engineer",
     "req": "Req ENTER010313 (Ultipro a468bd78)",
