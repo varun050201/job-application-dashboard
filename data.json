@@ -1,8 +1,8 @@
 {
- "generated_at_et": "2026-11-16 16:32 ET",
+ "generated_at_et": "2026-11-16 17:52 ET",
  "summary": {
-  "total_submitted_ledger": 1001,
-  "today_submitted": 14,
+  "total_submitted_ledger": 1007,
+  "today_submitted": 18,
   "backfill_count": 146,
   "human_gate": 307,
   "watch_reset": 2,
@@ -65,7 +65,7 @@
   },
   {
    "date": "2026-06-11",
-   "count": 1
+   "count": 2
   },
   {
    "date": "2026-06-16",
@@ -94,6 +94,10 @@
   {
    "date": "2026-07-09",
    "count": 3
+  },
+  {
+   "date": "2026-07-10",
+   "count": 1
   },
   {
    "date": "2026-07-13",
@@ -477,7 +481,7 @@
   },
   {
    "date": "2026-11-16",
-   "count": 14
+   "count": 18
   }
  ],
  "today": [
@@ -542,7 +546,7 @@
    "role": "Server Engineer",
    "req": "5407799008",
    "date": "2026-11-16",
-   "email_confirmed": false
+   "email_confirmed": true
   },
   {
    "company": "Austin Fire Systems",
@@ -578,6 +582,34 @@
    "req": "P0687 / job 10448",
    "date": "2026-11-16",
    "email_confirmed": true
+  },
+  {
+   "company": "Alo Yoga",
+   "role": "Network Engineer",
+   "req": "R-101318",
+   "date": "2026-11-16",
+   "email_confirmed": false
+  },
+  {
+   "company": "D. E. Shaw",
+   "role": "AI and DevOps Engineer – Human Capital",
+   "req": "6173",
+   "date": "2026-11-16",
+   "email_confirmed": false
+  },
+  {
+   "company": "Brivo",
+   "role": "Technical Support Agent",
+   "req": "618220",
+   "date": "2026-11-16",
+   "email_confirmed": false
+  },
+  {
+   "company": "Cisco",
+   "role": "Technical Consulting Engineer",
+   "req": "2026274",
+   "date": "2026-11-16",
+   "email_confirmed": false
   }
  ],
  "linkedin": {
