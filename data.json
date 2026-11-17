@@ -1,10 +1,10 @@
 {
- "generated_at_et": "2026-11-17 11:07 ET",
+ "generated_at_et": "2026-11-17 13:51 ET",
  "summary": {
-  "total_submitted_ledger": 1007,
-  "today_submitted": 0,
+  "total_submitted_ledger": 1011,
+  "today_submitted": 4,
   "backfill_count": 146,
-  "human_gate": 307,
+  "human_gate": 311,
   "watch_reset": 2,
   "pipeline_owned": 42,
   "quota": 20,
@@ -12,7 +12,7 @@
   "hold": 3,
   "resolved": 33,
   "closed": 19,
-  "registry_rows": 428
+  "registry_rows": 432
  },
  "daily": [
   {
@@ -482,9 +482,42 @@
   {
    "date": "2026-11-16",
    "count": 18
+  },
+  {
+   "date": "2026-11-17",
+   "count": 4
   }
  ],
- "today": [],
+ "today": [
+  {
+   "company": "Flox",
+   "role": "Security Engineer",
+   "req": "37ec9578-4fab-432f-88f1-c130ffe13ac8",
+   "date": "2026-11-17",
+   "email_confirmed": false
+  },
+  {
+   "company": "Orderful",
+   "role": "Product Support Engineer",
+   "req": "86aeee8c-0402-405c-ae19-a66b17984738",
+   "date": "2026-11-17",
+   "email_confirmed": false
+  },
+  {
+   "company": "Qualia",
+   "role": "Information Security Engineer",
+   "req": "8385804",
+   "date": "2026-11-17",
+   "email_confirmed": true
+  },
+  {
+   "company": "Relay",
+   "role": "Solutions Engineer",
+   "req": "417",
+   "date": "2026-11-17",
+   "email_confirmed": true
+  }
+ ],
  "linkedin": {
   "batch_date": "2026-11-11",
   "staged_count": 12,
@@ -648,6 +681,42 @@
     "deadline_passed": false,
     "blocker": "hCaptcha drag-and-drop puzzle blocks the Submit button on jobs.lever.co; application fully completed (resume attached + parsed, profile filled, screening answered, $80k…",
     "link": ""
+   },
+   {
+    "role": "Deleteme — Solutions Engineer, Cyber Security",
+    "req": "0292382f-f09d-41ee-8ad8-dc35ed18d458",
+    "parked": "2026-11-17",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "bot wall — entire jobs.lever.co returns plain text \"Your request was blocked.\" (no captcha; reload + fresh-browser route + 60s wait failed)",
+    "link": "https://jobs.lever.co/deleteme/0292382f-f09d-41ee-8ad8-dc35ed18d458"
+   },
+   {
+    "role": "Netrio — Cybersecurity Consultant",
+    "req": "5d8497f2-0a1e-49c6-8ccc-19419fdae32a",
+    "parked": "2026-11-17",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Cloudflare Turnstile verification failed on single permitted solver attempt (\"Verification failed\"; toast \"Unable to apply for Cybersecurity Consultant. Please try again…",
+    "link": ""
+   },
+   {
+    "role": "Nightwing — Cybersecurity Analyst",
+    "req": "JR102256 (Workday nwis.wd12.myworkdayjobs.com)",
+    "parked": "2026-11-17",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Saved vault login REJECTED (\"You may have entered the wrong email address or password or your account might be locked.\"); Workday password-reset requested ~12:16 ET,…",
+    "link": "https://nwis.wd12.myworkdayjobs.com/en-US/NW/job/Sterling%2C-VA/Cybersecurity-Analyst_JR102256/apply/autofillWithResume"
+   },
+   {
+    "role": "Sage — Customer Support Analyst",
+    "req": "VN44238 (sagehr.my.salesforce-sites.com)",
+    "parked": "2026-11-17",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Email-code sign-in wall: portal is email-code only, no password sign-in; Log in clicked twice (12:17 ET + resend 12:28 ET), no authentication-code email arrived in ~40…",
+    "link": "https://sagehr.my.salesforce-sites.com/careers/fRecruit__ApplyRegister"
    },
    {
     "role": "TSMC — IT Infrastructure Operations Technician (Phoenix AZ)",
