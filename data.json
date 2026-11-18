@@ -1,18 +1,18 @@
 {
- "generated_at_et": "2026-11-17 16:26 ET",
+ "generated_at_et": "2026-11-18 10:52 ET",
  "summary": {
-  "total_submitted_ledger": 1011,
+  "total_submitted_ledger": 1019,
   "today_submitted": 4,
   "backfill_count": 147,
-  "human_gate": 311,
+  "human_gate": 322,
   "watch_reset": 2,
   "pipeline_owned": 42,
   "quota": 20,
   "portal_limit": 1,
   "hold": 3,
   "resolved": 33,
-  "closed": 19,
-  "registry_rows": 432
+  "closed": 20,
+  "registry_rows": 444
  },
  "daily": [
   {
@@ -116,6 +116,10 @@
    "count": 3
   },
   {
+   "date": "2026-07-21",
+   "count": 1
+  },
+  {
    "date": "2026-07-22",
    "count": 1
   },
@@ -165,6 +169,10 @@
   },
   {
    "date": "2026-08-12",
+   "count": 1
+  },
+  {
+   "date": "2026-08-13",
    "count": 1
   },
   {
@@ -485,37 +493,41 @@
   },
   {
    "date": "2026-11-17",
+   "count": 6
+  },
+  {
+   "date": "2026-11-18",
    "count": 4
   }
  ],
  "today": [
   {
-   "company": "Flox",
-   "role": "Security Engineer",
-   "req": "37ec9578-4fab-432f-88f1-c130ffe13ac8",
-   "date": "2026-11-17",
+   "company": "Virtu Financial",
+   "role": "Hardware Platform Engineer",
+   "req": "8469926002",
+   "date": "2026-11-18",
    "email_confirmed": false
   },
   {
-   "company": "Orderful",
-   "role": "Product Support Engineer",
-   "req": "86aeee8c-0402-405c-ae19-a66b17984738",
-   "date": "2026-11-17",
+   "company": "atoms",
+   "role": "Senior Network Engineer",
+   "req": "8948155002",
+   "date": "2026-11-18",
    "email_confirmed": false
   },
   {
-   "company": "Qualia",
-   "role": "Information Security Engineer",
-   "req": "8385804",
-   "date": "2026-11-17",
-   "email_confirmed": true
+   "company": "Total Deployment Solutions",
+   "role": "Data Center Operator Technician",
+   "req": "5296284007",
+   "date": "2026-11-18",
+   "email_confirmed": false
   },
   {
-   "company": "Relay",
-   "role": "Solutions Engineer",
-   "req": "417",
-   "date": "2026-11-17",
-   "email_confirmed": true
+   "company": "Total Deployment Solutions",
+   "role": "Data Center Deployment Technician I",
+   "req": "5012550007",
+   "date": "2026-11-18",
+   "email_confirmed": false
   }
  ],
  "linkedin": {
@@ -683,6 +695,42 @@
     "link": ""
    },
    {
+    "role": "Community Health Connections — Network Administrator",
+    "req": "NETWO003203 (Ultipro)",
+    "parked": "2026-11-18",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "UKG password-reset email never arrived after resend + re-submit (~10:18 AM ET, Nov 18) — saved vault login REJECTED on signin-us.ultipro.com (\"Invalid email or…",
+    "link": "https://recruiting.ultipro.com/com1073chci/JobBoard/626318f7-814b-4248-b980-6fc9b336ae2e/OpportunityDetail?opportunityId=8f026423-4d63-448a-98da-76a513297d34"
+   },
+   {
+    "role": "Keesler Federal Credit Union — Network Engineer Biloxi 5336",
+    "req": "ONSIT004622 (UKG)",
+    "parked": "2026-11-18",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "UKG password-reset email never arrived after two requests (~10:12 and ~10:17 AM ET, Nov 18) — saved vault login REJECTED on signin-us.ultipro.com (\"Invalid email or…",
+    "link": "https://recruiting2.ultipro.com/KEE1000KFCU/JobBoard/30091111-70d0-4a3f-9e5f-153e09cc9faa/OpportunityDetail?opportunityId=61b77a14-6b6e-4d04-9d29-98ceb22cdf6b"
+   },
+   {
+    "role": "CEENTA — Cybersecurity Analyst",
+    "req": "48387 (Paycom)",
+    "parked": "2026-11-18",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "CAPTCHA GATE — hCaptcha on Paycom blocked the application at \"Continue To Application\" (10:11–10:27 AM ET). One-attempt contract honored: solver attempted 4 puzzle…",
+    "link": ""
+   },
+   {
+    "role": "AMD — MTS Network Engineer",
+    "req": "94456 (iCIMS)",
+    "parked": "2026-11-18",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "CAPTCHA GATE — hCaptcha on the AMD iCIMS login page (careers-amd.icims.com[zip]) blocked the application (10:08–10:29 AM ET). One-attempt contract honored, no retries…",
+    "link": ""
+   },
+   {
     "role": "Deleteme — Solutions Engineer, Cyber Security",
     "req": "0292382f-f09d-41ee-8ad8-dc35ed18d458",
     "parked": "2026-11-17",
@@ -717,6 +765,78 @@
     "deadline_passed": false,
     "blocker": "Email-code sign-in wall: portal is email-code only, no password sign-in; Log in clicked twice (12:17 ET + resend 12:28 ET), no authentication-code email arrived in ~40…",
     "link": "https://sagehr.my.salesforce-sites.com/careers/fRecruit__ApplyRegister"
+   },
+   {
+    "role": "BusPatrol — IT Ops Automation Engineer",
+    "req": "e5264fb2-c237-4a06-bcba-fd5aeaa31569 (Ashby)",
+    "parked": "2026-11-17",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Gmail password sign-in REJECTED in-browser (\"Wrong password\") — saved vault Google password stale or password-sign-in-blocked; applier could not reach inbox for the…",
+    "link": "https://jobs.ashbyhq.com/buspatrol/e5264fb2-c237-4a06-bcba-fd5aeaa31569"
+   },
+   {
+    "role": "Options Technology — Systems Engineer",
+    "req": "bbe387d9-61de-4412-ae4d-8ee6fc80a6eb (Ashby)",
+    "parked": "2026-11-17",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Gmail password sign-in REJECTED in-browser (\"Wrong password\"); required fresh Gmail check undone; no field filled, no submission. Live gates re-confirmed (open, FT, New…",
+    "link": "https://jobs.ashbyhq.com/options-it/bbe387d9-61de-4412-ae4d-8ee6fc80a6eb/application"
+   },
+   {
+    "role": "DLR Group — Smart Building Analyst",
+    "req": "5464779008 (Greenhouse)",
+    "parked": "2026-11-17",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Gmail password sign-in REJECTED in-browser (\"Wrong password\"); required fresh Gmail check undone; no field filled, no submission. Live gates re-confirmed (open, \"New\"…",
+    "link": "https://job-boards.greenhouse.io/dlrgroup/jobs/5464779008"
+   },
+   {
+    "role": "Custom Computer Specialists — Systems Engineer, Network Design",
+    "req": "4405666009 (Greenhouse, Hauppauge NY)",
+    "parked": "2026-11-17",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Gmail sign-in stopped at Google DEVICE-APPROVAL (user-only): password rejected 1st entry, ACCEPTED 2nd entry; passkey unusable in cloud browser; recovery phone accepted;…",
+    "link": "https://job-boards.greenhouse.io/customcomputerspecialists/jobs/4405666009"
+   },
+   {
+    "role": "Jeppesen (ForeFlight) — Jr. Security Engineer - Cloud Security",
+    "req": "JRSEC002061 (UKG)",
+    "parked": "2026-11-17",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Gmail sign-in FAILED in-browser: saved password rejected TWICE; recovery exhausted (passkey unusable in cloud browser; phone confirmed; device step tap \"Yes\" then \"51\"…",
+    "link": "https://recruiting2.ultipro.com/FOR1029FREF/JobBoard/64ac66bb-52b9-46df-9a34-49db2308f2fe/OpportunityDetail?opportunityId=51957edc-9f08-4269-82cc-4340eb9b49f8"
+   },
+   {
+    "role": "Licking Memorial Health Systems — Network Administrator",
+    "req": "NETWO009600 (Ultipro)",
+    "parked": "2026-11-17",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Gmail sign-in BLOCKED: saved password rejected; \"Forgot password?\" recovery offered passkey (user-only), last-password (only the rejected one exists), phone confirmation…",
+    "link": ""
+   },
+   {
+    "role": "Metronet — Enterprise Network Engineer, Indianapolis IN",
+    "req": "ENTER010445 (Ultipro)",
+    "parked": "2026-11-17",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Gmail sign-in BLOCKED: saved password rejected; recovery path passkey (unusable in cloud browser) → phone confirmation → device prompt tap \"Yes\" then \"2\" on Lenovo…",
+    "link": ""
+   },
+   {
+    "role": "CoreWeave — Senior Systems Engineer",
+    "req": "4700154006 (Greenhouse)",
+    "parked": "2026-11-17",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Gmail sign-in FAILED: saved password rejected; \"Forgot password?\" recovery exhausted (passkey unusable in cloud browser; last-password = rejected one; tablet security…",
+    "link": ""
    },
    {
     "role": "TSMC — IT Infrastructure Operations Technician (Phoenix AZ)",
@@ -915,15 +1035,6 @@
     "deadline_passed": false,
     "blocker": "Step 3 of 5 (References) requires THREE references; only TWO exist on record. References 1–2 filled: Gopi Y ([email], [phone], Professional, 5 yrs) + Viswani K ([email],…",
     "link": ""
-   },
-   {
-    "role": "HiredBuddy — Network Engineer (Remote, Contract)",
-    "req": "LinkedIn 4489858313",
-    "parked": "2026-11-14",
-    "deadline": "",
-    "deadline_passed": false,
-    "blocker": "NO company-portal application path exists: LinkedIn posting shows ONLY \"Easy Apply\" (no \"Apply on company website\" link); HiredBuddy portal https: lists 12 roles, NONE…",
-    "link": "https://hiredbuddy.com/opportunities"
    },
    {
     "role": "TikTok USDS — Site Reliability Engineer, Network and Traffic - USDS (San Jose)",
@@ -4340,6 +4451,15 @@
     "deadline_passed": false,
     "blocker": "OVERTURNED — SUBMITTED after all: Cloudflare checkbox FAILED on the one permitted attempt (\"Verification failed\") and Apply stuck on \"Loading...\", so the applier…",
     "link": ""
+   },
+   {
+    "role": "HiredBuddy — Network Engineer (Remote, Contract)",
+    "req": "LinkedIn 4489858313",
+    "parked": "2026-11-14",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "NO company-portal application path exists: LinkedIn posting shows ONLY \"Easy Apply\" (no \"Apply on company website\" link); HiredBuddy portal https: lists 12 roles, NONE…",
+    "link": "https://hiredbuddy.com/opportunities"
    },
    {
     "role": "Hewlett Packard Enterprise — Senior Network System Engineer",
