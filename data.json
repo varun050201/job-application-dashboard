@@ -1,18 +1,18 @@
 {
- "generated_at_et": "2026-11-18 10:52 ET",
+ "generated_at_et": "2026-11-18 17:01 ET",
  "summary": {
-  "total_submitted_ledger": 1019,
-  "today_submitted": 4,
+  "total_submitted_ledger": 1023,
+  "today_submitted": 6,
   "backfill_count": 147,
-  "human_gate": 322,
+  "human_gate": 346,
   "watch_reset": 2,
-  "pipeline_owned": 42,
+  "pipeline_owned": 43,
   "quota": 20,
   "portal_limit": 1,
   "hold": 3,
   "resolved": 33,
   "closed": 20,
-  "registry_rows": 444
+  "registry_rows": 469
  },
  "daily": [
   {
@@ -153,7 +153,7 @@
   },
   {
    "date": "2026-08-04",
-   "count": 1
+   "count": 2
   },
   {
    "date": "2026-08-05",
@@ -489,7 +489,7 @@
   },
   {
    "date": "2026-11-16",
-   "count": 18
+   "count": 19
   },
   {
    "date": "2026-11-17",
@@ -497,7 +497,7 @@
   },
   {
    "date": "2026-11-18",
-   "count": 4
+   "count": 6
   }
  ],
  "today": [
@@ -506,117 +506,166 @@
    "role": "Hardware Platform Engineer",
    "req": "8469926002",
    "date": "2026-11-18",
-   "email_confirmed": false
+   "email_confirmed": true
   },
   {
    "company": "atoms",
    "role": "Senior Network Engineer",
    "req": "8948155002",
    "date": "2026-11-18",
-   "email_confirmed": false
+   "email_confirmed": true
   },
   {
    "company": "Total Deployment Solutions",
    "role": "Data Center Operator Technician",
    "req": "5296284007",
    "date": "2026-11-18",
-   "email_confirmed": false
+   "email_confirmed": true
   },
   {
    "company": "Total Deployment Solutions",
    "role": "Data Center Deployment Technician I",
    "req": "5012550007",
    "date": "2026-11-18",
+   "email_confirmed": true
+  },
+  {
+   "company": "Sauron Systems",
+   "role": "Network Engineer",
+   "req": "R34",
+   "date": "2026-11-18",
+   "email_confirmed": false
+  },
+  {
+   "company": "Twilio",
+   "role": "Software Engineer - Platform Engineering",
+   "req": "8385593",
+   "date": "2026-11-18",
    "email_confirmed": false
   }
  ],
  "linkedin": {
-  "batch_date": "2026-11-11",
-  "staged_count": 12,
+  "batch_date": "2026-11-18",
+  "staged_count": 17,
   "staged": [
    {
-    "company": "Dexory",
-    "role": "Connectivity Engineer",
-    "job_id": "4489600327",
-    "apply_type": "Easy Apply",
-    "date": "2026-11-11"
-   },
-   {
-    "company": "Florida Blue",
-    "role": "Network Engineer, Jacksonville FL",
-    "job_id": "4489948256",
+    "company": "Darktrace",
+    "role": "Cyber Infrastructure Engineer",
+    "job_id": "4491454716",
     "apply_type": "—",
-    "date": "2026-11-11"
+    "date": "2026-11-18"
    },
    {
-    "company": "Tata Consultancy Services",
+    "company": "EXL",
     "role": "Network Engineer",
-    "job_id": "4471970218",
+    "job_id": "4491414874",
     "apply_type": "—",
-    "date": "2026-11-11"
+    "date": "2026-11-18"
    },
    {
-    "company": "Fluidstack",
-    "role": "Network Engineer, Deployment",
-    "job_id": "4329402215",
+    "company": "Comcast",
+    "role": "Engineer 2, Network Engineering",
+    "job_id": "",
     "apply_type": "—",
-    "date": "2026-11-11"
+    "date": "2026-11-18"
    },
    {
-    "company": "Forvis Mazars US",
-    "role": "Network Engineer, Greensboro NC",
-    "job_id": "4487854521",
+    "company": "Agate Software",
+    "role": "Senior Systems Administrator - Hybrid in Okemos, MI [SSA-2026-10]",
+    "job_id": "4477022339",
     "apply_type": "—",
-    "date": "2026-11-11"
+    "date": "2026-11-18"
    },
    {
-    "company": "ProFed Credit Union",
-    "role": "Network Administrator",
-    "job_id": "4489689799",
+    "company": "Samsung SDS America",
+    "role": "Jr. Server Engineer",
+    "job_id": "4491729688",
     "apply_type": "—",
-    "date": "2026-11-11"
+    "date": "2026-11-18"
    },
    {
-    "company": "Google",
-    "role": "Network Engineer, GEN Network Engineering",
-    "job_id": "4480706158",
+    "company": "GEM Technologies",
+    "role": "Senior Systems & Infrastructure Engineer",
+    "job_id": "4491745278",
     "apply_type": "—",
-    "date": "2026-11-11"
+    "date": "2026-11-18"
    },
    {
-    "company": "Children's Hospital of The King's Daughters",
-    "role": "IS Network Engineer",
-    "job_id": "4488607939",
+    "company": "Quanta Manufacturing Fremont",
+    "role": "Senior System Administrator",
+    "job_id": "4491422212",
     "apply_type": "—",
-    "date": "2026-11-11"
+    "date": "2026-11-18"
    },
    {
-    "company": "Ingles Markets, Inc.",
-    "role": "Network Engineer",
-    "job_id": "4489647527",
+    "company": "CIeNET Technologies",
+    "role": "AI Infra System Engineer",
+    "job_id": "4491735661",
     "apply_type": "—",
-    "date": "2026-11-11"
+    "date": "2026-11-18"
    },
    {
-    "company": "CBTS",
-    "role": "Information Technology Operations Engineer",
-    "job_id": "4489006546",
+    "company": "Quanta Manufacturing Fremont",
+    "role": "System Administrator",
+    "job_id": "4491412567",
     "apply_type": "—",
-    "date": "2026-11-11"
+    "date": "2026-11-18"
    },
    {
-    "company": "City of Cedar Park",
-    "role": "Network Administrator",
-    "job_id": "4489999559",
+    "company": "KIOXIA America, Inc.",
+    "role": "Data Center Engineer - 2285",
+    "job_id": "4491423647",
     "apply_type": "—",
-    "date": "2026-11-11"
+    "date": "2026-11-18"
    },
    {
-    "company": "UW Advancement Careers",
-    "role": "Network Operations Engineer",
-    "job_id": "4489691018",
+    "company": "Croda",
+    "role": "Site IT Engineer",
+    "job_id": "4474415401",
     "apply_type": "—",
-    "date": "2026-11-11"
+    "date": "2026-11-18"
+   },
+   {
+    "company": "Propelus",
+    "role": "IT Engineer II",
+    "job_id": "4491764099",
+    "apply_type": "—",
+    "date": "2026-11-18"
+   },
+   {
+    "company": "OMS National Insurance (OMSNIC)",
+    "role": "Network and Cloud Administrator",
+    "job_id": "4491791075",
+    "apply_type": "—",
+    "date": "2026-11-18"
+   },
+   {
+    "company": "Rigel Pharmaceuticals Inc.",
+    "role": "IT Systems & Cloud Administrator",
+    "job_id": "4475118554",
+    "apply_type": "—",
+    "date": "2026-11-18"
+   },
+   {
+    "company": "P.F. Chang's",
+    "role": "Infrastructure & Systems Engineer",
+    "job_id": "4480410037",
+    "apply_type": "—",
+    "date": "2026-11-18"
+   },
+   {
+    "company": "Etched",
+    "role": "Infrastructure Engineer, Factory Acceleration",
+    "job_id": "4484422491",
+    "apply_type": "—",
+    "date": "2026-11-18"
+   },
+   {
+    "company": "Oracle",
+    "role": "Senior Network Services Engineer",
+    "job_id": "4490819542",
+    "apply_type": "—",
+    "date": "2026-11-18"
    }
   ]
  },
@@ -729,6 +778,222 @@
     "deadline_passed": false,
     "blocker": "CAPTCHA GATE — hCaptcha on the AMD iCIMS login page (careers-amd.icims.com[zip]) blocked the application (10:08–10:29 AM ET). One-attempt contract honored, no retries…",
     "link": ""
+   },
+   {
+    "role": "EXL — Network Engineer",
+    "req": "4491414874",
+    "parked": "2026-11-18",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "LinkedIn Easy Apply step-1 email field is a LOCKED dropdown whose only option is the LinkedIn account email [email]; work email [email] cannot be entered — application…",
+    "link": "https://www.linkedin.com/jobs/view/4491414874/"
+   },
+   {
+    "role": "Darktrace — Cyber Infrastructure Engineer",
+    "req": "4491454716",
+    "parked": "2026-11-18",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "LinkedIn Easy Apply step-1 email field is a LOCKED dropdown whose only option is the LinkedIn account email [email]; work email [email] cannot be entered — application…",
+    "link": "https://www.linkedin.com/jobs/view/4491454716/"
+   },
+   {
+    "role": "Comcast — Engineer 2, Network Engineering",
+    "req": "R447233",
+    "parked": "2026-11-18",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "NEEDS-PASSWORD-CAPTURE: saved Workday login rejected; autonomous reset reached the Reset Password page but Workday requires a ≥16-char new password and the credential…",
+    "link": "https://jobs.comcast.com/job/plano/engineer-2-network-engineering/45483/103395394064"
+   },
+   {
+    "role": "Uniti Group — Network Analyst NOC",
+    "req": "8036",
+    "parked": "2026-11-18",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Dayforce security question — saved login rejected; emailed reset code entered successfully; reset then asked \"What city did you grow up in?\" — answer not in any stored…",
+    "link": "https://dfid.dayforcehcm.com/globalidentity/account/forgotpassword"
+   },
+   {
+    "role": "TENEX — Senior Security Analyst",
+    "req": "f19e9f37-097f-4ceb-877f-eac90eaf63dd",
+    "parked": "2026-11-18",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Final required screening question unanswered — relocation metro choice (San Jose Bay; Kansas City MO Park KS; Greater Tampa FL; Scottsdale AZ; or \"I am unable to…",
+    "link": "https://jobs.ashbyhq.com/tenex/f19e9f37-097f-4ceb-877f-eac90eaf63dd/application"
+   },
+   {
+    "role": "Agate Software — Senior Systems Administrator - Hybrid in Okemos, MI [SSA-2026-10]",
+    "req": "4477022339",
+    "parked": "2026-11-18",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "LinkedIn Easy Apply step-1 email field is a LOCKED dropdown whose only option is the LinkedIn account email [email]; work email [email] cannot be entered, so the…",
+    "link": "https://www.linkedin.com/jobs/view/4477022339/"
+   },
+   {
+    "role": "Samsung SDS America — Jr. Server Engineer",
+    "req": "4491729688",
+    "parked": "2026-11-18",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "LinkedIn Easy Apply step-1 email field is a LOCKED dropdown whose only option is the LinkedIn account email [email]; work email [email] cannot be entered, so the…",
+    "link": "https://www.linkedin.com/jobs/view/4491729688/"
+   },
+   {
+    "role": "GEM Technologies — Senior Systems & Infrastructure Engineer",
+    "req": "4491745278",
+    "parked": "2026-11-18",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "LinkedIn Easy Apply step-1 email field is a LOCKED dropdown whose only option is the LinkedIn account email [email]; work email [email] cannot be entered, so the…",
+    "link": "https://www.linkedin.com/jobs/view/4491745278/"
+   },
+   {
+    "role": "Quanta Manufacturing Fremont — Senior System Administrator",
+    "req": "4491422212",
+    "parked": "2026-11-18",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "LinkedIn Easy Apply step-1 email field is a LOCKED dropdown whose only option is the LinkedIn account email [email]; work email [email] cannot be entered, so the…",
+    "link": "https://www.linkedin.com/jobs/view/4491422212/"
+   },
+   {
+    "role": "CIeNET Technologies — AI Infra System Engineer",
+    "req": "4491735661",
+    "parked": "2026-11-18",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "LinkedIn Easy Apply step-1 email field is a LOCKED dropdown whose only option is the LinkedIn account email [email]; work email [email] cannot be entered, so the…",
+    "link": "https://www.linkedin.com/jobs/view/4491735661/"
+   },
+   {
+    "role": "Quanta Manufacturing Fremont — System Administrator (Second Shift)",
+    "req": "4491412567",
+    "parked": "2026-11-18",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "LinkedIn Easy Apply step-1 email field is a LOCKED dropdown whose only option is the LinkedIn account email [email]; work email [email] cannot be entered, so the…",
+    "link": "https://www.linkedin.com/jobs/view/4491412567/"
+   },
+   {
+    "role": "KIOXIA America, Inc. — Data Center Engineer - 2285",
+    "req": "4491423647",
+    "parked": "2026-11-18",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "LinkedIn Easy Apply step-1 email field is a LOCKED dropdown whose only option is the LinkedIn account email [email]; work email [email] cannot be entered, so the…",
+    "link": "https://www.linkedin.com/jobs/view/4491423647/"
+   },
+   {
+    "role": "Croda — Site IT Engineer",
+    "req": "4474415401",
+    "parked": "2026-11-18",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "LinkedIn Easy Apply step-1 email field is a LOCKED dropdown whose only option is the LinkedIn account email [email]; work email [email] cannot be entered, so the…",
+    "link": "https://www.linkedin.com/jobs/view/4474415401/"
+   },
+   {
+    "role": "Propelus — IT Engineer II",
+    "req": "4491764099",
+    "parked": "2026-11-18",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "LinkedIn Easy Apply step-1 email field is a LOCKED dropdown whose only option is the LinkedIn account email [email]; work email [email] cannot be entered, so the…",
+    "link": "https://www.linkedin.com/jobs/view/4491764099/"
+   },
+   {
+    "role": "OMS National Insurance (OMSNIC) — Network and Cloud Administrator",
+    "req": "4491791075",
+    "parked": "2026-11-18",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "LinkedIn Easy Apply step-1 email field is a LOCKED dropdown whose only option is the LinkedIn account email [email]; work email [email] cannot be entered, so the…",
+    "link": "https://www.linkedin.com/jobs/view/4491791075/"
+   },
+   {
+    "role": "Rigel Pharmaceuticals Inc. — IT Systems & Cloud Administrator",
+    "req": "4475118554",
+    "parked": "2026-11-18",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "LinkedIn Easy Apply step-1 email field is a LOCKED dropdown whose only option is the LinkedIn account email [email]; work email [email] cannot be entered, so the…",
+    "link": "https://www.linkedin.com/jobs/view/4475118554/"
+   },
+   {
+    "role": "P.F. Chang's — Infrastructure & Systems Engineer",
+    "req": "4480410037",
+    "parked": "2026-11-18",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "LinkedIn Easy Apply step-1 email field is a LOCKED dropdown whose only option is the LinkedIn account email [email]; work email [email] cannot be entered, so the…",
+    "link": "https://www.linkedin.com/jobs/view/4480410037/"
+   },
+   {
+    "role": "Etched — Infrastructure Engineer, Factory Acceleration",
+    "req": "4484422491",
+    "parked": "2026-11-18",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "LinkedIn Easy Apply step-1 email field is a LOCKED dropdown whose only option is the LinkedIn account email [email]; work email [email] cannot be entered, so the…",
+    "link": "https://www.linkedin.com/jobs/view/4484422491/"
+   },
+   {
+    "role": "Aveanna Healthcare — Security Analyst (IR)",
+    "req": "219279",
+    "parked": "2026-11-18",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "hCaptcha on the iCIMS login not cleared on the single permitted solver attempt (page 1 done, page 2 never submitted — modal disappeared, no Verify result); résumé never…",
+    "link": "https://jobs.aveanna.com/job/168858/security-analyst-ir-it-us-ga-atlanta/"
+   },
+   {
+    "role": "Independent Bank — Information Technology - Network Engineer",
+    "req": "Req #97",
+    "parked": "2026-11-18",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Dayforce: saved Vault login rejected (\"You used an incorrect email address or password\"); reset code entered 3:58:16 PM ET; reset stopped at security question \"What city…",
+    "link": "https://jobs.dayforcehcm.com/en-US/ibcp/candidateportal/jobs/633"
+   },
+   {
+    "role": "Genpact — Network Engineer",
+    "req": "4490810444",
+    "parked": "2026-11-18",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "LinkedIn Easy Apply step-1 email field is a LOCKED dropdown whose only option is the LinkedIn account email [email]; work email [email] cannot be entered, so the…",
+    "link": "https://www.linkedin.com/jobs/view/4490810444/"
+   },
+   {
+    "role": "Bmore Technology — Systems Administrator",
+    "req": "4486048447",
+    "parked": "2026-11-18",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "LinkedIn Easy Apply step-1 email field is a LOCKED dropdown whose only option is the LinkedIn account email [email]; work email [email] cannot be entered, so the…",
+    "link": "https://www.linkedin.com/jobs/view/4486048447/"
+   },
+   {
+    "role": "Innovatix Technology Partners — Senior Infoblox NIOS & Genesys Engineer",
+    "req": "4492080980",
+    "parked": "2026-11-18",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "LinkedIn Easy Apply step-1 email field is a LOCKED dropdown whose only option is the LinkedIn account email [email]; work email [email] cannot be entered, so the…",
+    "link": "https://www.linkedin.com/jobs/view/4492080980/"
+   },
+   {
+    "role": "Maestro Technologies, Inc. — Network Engineer",
+    "req": "4492081852",
+    "parked": "2026-11-18",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "LinkedIn Easy Apply step-1 email field is a LOCKED dropdown whose only option is the LinkedIn account email [email]; work email [email] cannot be entered, so the…",
+    "link": "https://www.linkedin.com/jobs/view/4492081852/"
    },
    {
     "role": "Deleteme — Solutions Engineer, Cyber Security",
@@ -3523,6 +3788,15 @@
   ],
   "pipeline_owned": [
    {
+    "role": "Amazon — Security Engineer II, Investigative Engineering",
+    "req": "10607189",
+    "parked": "2026-11-18",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "IdPrism sign-in: saved Vault password accepted twice, but both 6-digit email verification codes expired before entry under the 3-minute TTL (sent 3:48:20 PM and 4:03:57…",
+    "link": "https://www.amazon.jobs/en/jobs/10607189/security-engineer-ii-investigative-engineering"
+   },
+   {
     "role": "Scientific Games — Systems Engineer (Grove City OH, req R505153, Workday sglottery.wd5.myworkdayjobs.com)",
     "req": "R505153 (Workday)",
     "parked": "2026-11-15",
@@ -4642,7 +4916,7 @@
   "Ledger submission counts are the verified floor: some run reports claimed more on certain days than ever got ledger lines.",
   "The human-gate queue is ordered deadline-first, then newest parked first. A row's deadline is read from its registry text and may be approximate.",
   "No personal details are published here: no email addresses, phone numbers, street addresses, or resume file paths.",
-  "LinkedIn (Feed C) is live as a second apply channel since 2026-11-11 — Easy Apply and general Apply under the same gates. 12 roles staged from the latest batch, applies start one at a time.",
+  "LinkedIn (Feed C) is live as a second apply channel since 2026-11-18 — Easy Apply and general Apply under the same gates. 17 roles staged from the latest batch, applies start one at a time.",
   "Total counts live pipeline submissions under the strict counter (bold, bare, and backfill record lines with an explicit date). Another 147 older external confirmations are logged in the ledger under '- BACKFILL **SUBMITTED:' with their own confirmation dates and are counted separately, not in the total."
  ]
 }
