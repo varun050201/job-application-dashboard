@@ -1,18 +1,18 @@
 {
- "generated_at_et": "2026-11-18 17:01 ET",
+ "generated_at_et": "2026-11-19 11:09 ET",
  "summary": {
-  "total_submitted_ledger": 1023,
-  "today_submitted": 6,
+  "total_submitted_ledger": 1028,
+  "today_submitted": 2,
   "backfill_count": 147,
-  "human_gate": 346,
+  "human_gate": 353,
   "watch_reset": 2,
   "pipeline_owned": 43,
   "quota": 20,
   "portal_limit": 1,
   "hold": 3,
   "resolved": 33,
-  "closed": 20,
-  "registry_rows": 469
+  "closed": 21,
+  "registry_rows": 477
  },
  "daily": [
   {
@@ -85,6 +85,10 @@
   },
   {
    "date": "2026-06-26",
+   "count": 1
+  },
+  {
+   "date": "2026-07-03",
    "count": 1
   },
   {
@@ -385,7 +389,7 @@
   },
   {
    "date": "2026-10-20",
-   "count": 3
+   "count": 4
   },
   {
    "date": "2026-10-21",
@@ -497,56 +501,32 @@
   },
   {
    "date": "2026-11-18",
-   "count": 6
+   "count": 7
+  },
+  {
+   "date": "2026-11-19",
+   "count": 2
   }
  ],
  "today": [
   {
-   "company": "Virtu Financial",
-   "role": "Hardware Platform Engineer",
-   "req": "8469926002",
-   "date": "2026-11-18",
-   "email_confirmed": true
-  },
-  {
-   "company": "atoms",
-   "role": "Senior Network Engineer",
-   "req": "8948155002",
-   "date": "2026-11-18",
-   "email_confirmed": true
-  },
-  {
-   "company": "Total Deployment Solutions",
-   "role": "Data Center Operator Technician",
-   "req": "5296284007",
-   "date": "2026-11-18",
-   "email_confirmed": true
-  },
-  {
-   "company": "Total Deployment Solutions",
-   "role": "Data Center Deployment Technician I",
-   "req": "5012550007",
-   "date": "2026-11-18",
-   "email_confirmed": true
-  },
-  {
-   "company": "Sauron Systems",
-   "role": "Network Engineer",
-   "req": "R34",
-   "date": "2026-11-18",
+   "company": "Cloudflare",
+   "role": "Hardware Systems Engineer, Tooling",
+   "req": "8370313",
+   "date": "2026-11-19",
    "email_confirmed": false
   },
   {
-   "company": "Twilio",
-   "role": "Software Engineer - Platform Engineering",
-   "req": "8385593",
-   "date": "2026-11-18",
+   "company": "Wabtec",
+   "role": "Network Engineer",
+   "req": "3743990016954416",
+   "date": "2026-11-19",
    "email_confirmed": false
   }
  ],
  "linkedin": {
   "batch_date": "2026-11-18",
-  "staged_count": 17,
+  "staged_count": 16,
   "staged": [
    {
     "company": "Darktrace",
@@ -659,13 +639,6 @@
     "job_id": "4484422491",
     "apply_type": "—",
     "date": "2026-11-18"
-   },
-   {
-    "company": "Oracle",
-    "role": "Senior Network Services Engineer",
-    "job_id": "4490819542",
-    "apply_type": "—",
-    "date": "2026-11-18"
    }
   ]
  },
@@ -742,6 +715,42 @@
     "deadline_passed": false,
     "blocker": "hCaptcha drag-and-drop puzzle blocks the Submit button on jobs.lever.co; application fully completed (resume attached + parsed, profile filled, screening answered, $80k…",
     "link": ""
+   },
+   {
+    "role": "Atos — SECURITY ENGINEER",
+    "req": "549875",
+    "parked": "2026-11-19",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "SuccessFactors sign-in blocked: no saved Secure Vault login for successfactors.eu for [email]; login agent could not enter a credential on a detached run, no sign-in…",
+    "link": "https://career5.successfactors.eu/careers?company=Atos"
+   },
+   {
+    "role": "CME Group — Cyber Defense Response Analyst II",
+    "req": "34962",
+    "parked": "2026-11-19",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Workday account creation blocked: no CME account exists for [email]; universal credential REJECTED as too short — CME requires minimum 15 characters (alphabetic +…",
+    "link": "https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/New-York---300-Vesey-Street/Cyber-Defense-Response-Analyst-II_34962"
+   },
+   {
+    "role": "Centraprise — Network Engineer L2",
+    "req": "4491888745",
+    "parked": "2026-11-19",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "LinkedIn Easy Apply email lock: contact-email field is a locked dropdown offering only [email], so the work email [email] cannot be entered. VERIFIED on LinkedIn JD…",
+    "link": "https://www.linkedin.com/jobs/view/4491888745/"
+   },
+   {
+    "role": "Seminole Hard Rock — Cyber Network Engineer II",
+    "req": "R17451",
+    "parked": "2026-11-19",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Workday sign-in: saved vault login REJECTED (\"wrong email or account locked\"); reset emails DID arrive (3x, newest Gmail 1a1f4657e9411943 10:20 ET) but the reset-link…",
+    "link": "https://seminolehardrock.wd503.myworkdayjobs.com/en-US/seminolehardrockcareers/job/Support-Services-Headquarters-Building/Cyber-Network-Engineer-II_R17451"
    },
    {
     "role": "Community Health Connections — Network Administrator",
@@ -994,6 +1003,42 @@
     "deadline_passed": false,
     "blocker": "LinkedIn Easy Apply step-1 email field is a LOCKED dropdown whose only option is the LinkedIn account email [email]; work email [email] cannot be entered, so the…",
     "link": "https://www.linkedin.com/jobs/view/4492081852/"
+   },
+   {
+    "role": "Genios AI — Cybersecurity Engineer (US)",
+    "req": "15b0f81a-6f4c-4d17-aac6-a15150ef0062",
+    "parked": "2026-11-18",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Cloudflare Turnstile on the Rippling form — solver failed 4x across two browsers (\"Verification failed\" every time); form + résumé stayed registered, no portal…",
+    "link": "https://ats.rippling.com/genios-ai/jobs/15b0f81a-6f4c-4d17-aac6-a15150ef0062"
+   },
+   {
+    "role": "Foundant — Junior Security Engineer",
+    "req": "63f86619-9f10-4928-a9d0-1064f68f2946",
+    "parked": "2026-11-18",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Cloudflare Turnstile on the Rippling form — solver invoked exactly once per contract, \"Verification failed\"; form + résumé stayed intact, no portal confirmation.…",
+    "link": "https://ats.rippling.com/en-GB/foundant-careers/jobs/63f86619-9f10-4928-a9d0-1064f68f2946"
+   },
+   {
+    "role": "Amazon — Software Development Engineer II, Network State Manager (NSM)",
+    "req": "10607586",
+    "parked": "2026-11-18",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "IdPrism sign-in code step — two 6-digit codes expired 17:23 + 17:37 ET awaiting approval-card approval in a detached run (codes expire ~10 min); saved vault password…",
+    "link": "https://www.amazon.jobs/en/jobs/10607586/software-development-engineer-ii-network-state-manager-nsm"
+   },
+   {
+    "role": "UC Irvine — Business Systems Analyst (Business Analyst Security Administration)",
+    "req": "156851",
+    "parked": "2026-11-18",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "hCaptcha drag puzzle on iCIMS login; one solver attempt, outcome unverified (Next never enabled); reload lost session. Official posting verified live (jobs.uci.edu,…",
+    "link": ""
    },
    {
     "role": "Deleteme — Solutions Engineer, Cyber Security",
@@ -2857,15 +2902,6 @@
     "deadline_passed": false,
     "blocker": "hCaptcha drag-and-drop re-issued after the single permitted attempt (elephant→outline dragged, Verify clicked; new camel challenge presented) — one-attempt contract…",
     "link": "https://jobs.lever.co/firemon/55eed579-a00a-4d3c-a1ae-2e0ef9bd7063/apply"
-   },
-   {
-    "role": "Simplot — Security Analyst III",
-    "req": "1440244000 (SuccessFactors)",
-    "parked": "2026-10-15",
-    "deadline": "",
-    "deadline_passed": false,
-    "blocker": "SuccessFactors \"Career Site Password Reset\" email 18:55 ET ([email], Gmail 1a141c6fbd4adb40) verified authentic — reset link targets…",
-    "link": "https://careers.simplot.com/job/Boise-Security-Analyst-III-ID-83702-6924/1440244000/"
    },
    {
     "role": "Northwest Mississippi Community College — Systems Administrator- AI Systems",
@@ -4781,6 +4817,15 @@
     "link": "https://jobs.ashbyhq.com/openai/329fe50f-7701-4f07-982d-a4e10cbec236/application"
    },
    {
+    "role": "Simplot — Security Analyst III",
+    "req": "1440244000 (SuccessFactors)",
+    "parked": "2026-10-15",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "SuccessFactors \"Career Site Password Reset\" email 18:55 ET ([email], Gmail 1a141c6fbd4adb40) verified authentic — reset link targets…",
+    "link": "https://careers.simplot.com/job/Boise-Security-Analyst-III-ID-83702-6924/1440244000/"
+   },
+   {
     "role": "Behavioral Innovations — Business Systems Analyst I",
     "req": "17017 (iCIMS)",
     "parked": "2026-10-15",
@@ -4916,7 +4961,7 @@
   "Ledger submission counts are the verified floor: some run reports claimed more on certain days than ever got ledger lines.",
   "The human-gate queue is ordered deadline-first, then newest parked first. A row's deadline is read from its registry text and may be approximate.",
   "No personal details are published here: no email addresses, phone numbers, street addresses, or resume file paths.",
-  "LinkedIn (Feed C) is live as a second apply channel since 2026-11-18 — Easy Apply and general Apply under the same gates. 17 roles staged from the latest batch, applies start one at a time.",
+  "LinkedIn (Feed C) is live as a second apply channel since 2026-11-18 — Easy Apply and general Apply under the same gates. 16 roles staged from the latest batch, applies start one at a time.",
   "Total counts live pipeline submissions under the strict counter (bold, bare, and backfill record lines with an explicit date). Another 147 older external confirmations are logged in the ledger under '- BACKFILL **SUBMITTED:' with their own confirmation dates and are counted separately, not in the total."
  ]
 }
