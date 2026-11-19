@@ -1,18 +1,18 @@
 {
- "generated_at_et": "2026-11-19 11:09 ET",
+ "generated_at_et": "2026-11-19 13:35 ET",
  "summary": {
-  "total_submitted_ledger": 1028,
-  "today_submitted": 2,
+  "total_submitted_ledger": 1036,
+  "today_submitted": 6,
   "backfill_count": 147,
-  "human_gate": 353,
+  "human_gate": 359,
   "watch_reset": 2,
-  "pipeline_owned": 43,
+  "pipeline_owned": 44,
   "quota": 20,
   "portal_limit": 1,
   "hold": 3,
   "resolved": 33,
   "closed": 21,
-  "registry_rows": 477
+  "registry_rows": 484
  },
  "daily": [
   {
@@ -112,6 +112,10 @@
    "count": 1
   },
   {
+   "date": "2026-07-16",
+   "count": 1
+  },
+  {
    "date": "2026-07-18",
    "count": 4
   },
@@ -166,6 +170,14 @@
   {
    "date": "2026-08-06",
    "count": 2
+  },
+  {
+   "date": "2026-08-07",
+   "count": 1
+  },
+  {
+   "date": "2026-08-08",
+   "count": 1
   },
   {
    "date": "2026-08-11",
@@ -269,7 +281,7 @@
   },
   {
    "date": "2026-09-19",
-   "count": 1
+   "count": 2
   },
   {
    "date": "2026-09-20",
@@ -505,7 +517,7 @@
   },
   {
    "date": "2026-11-19",
-   "count": 2
+   "count": 6
   }
  ],
  "today": [
@@ -514,12 +526,40 @@
    "role": "Hardware Systems Engineer, Tooling",
    "req": "8370313",
    "date": "2026-11-19",
-   "email_confirmed": false
+   "email_confirmed": true
   },
   {
    "company": "Wabtec",
    "role": "Network Engineer",
    "req": "3743990016954416",
+   "date": "2026-11-19",
+   "email_confirmed": true
+  },
+  {
+   "company": "Daikin Applied",
+   "role": "SOC Analyst II",
+   "req": "R004731",
+   "date": "2026-11-19",
+   "email_confirmed": false
+  },
+  {
+   "company": "Hospital for Special Surgery",
+   "role": "Network Engineer",
+   "req": "JR2026-106661",
+   "date": "2026-11-19",
+   "email_confirmed": false
+  },
+  {
+   "company": "Nintex",
+   "role": "Senior Security Operations Engineer",
+   "req": "8337276 / requisition 101196",
+   "date": "2026-11-19",
+   "email_confirmed": true
+  },
+  {
+   "company": "AT&T",
+   "role": "Lead Optical Network Engineer – Coherent Transport & SDN",
+   "req": "R-127862",
    "date": "2026-11-19",
    "email_confirmed": false
   }
@@ -645,6 +685,15 @@
  "queue": {
   "human_gate": [
    {
+    "role": "TD Bank — Information Security Analyst II (US)",
+    "req": "R_1500756",
+    "parked": "2026-11-18",
+    "deadline": "2026-11-22",
+    "deadline_passed": false,
+    "blocker": "Workday account created for [email] with universal credential; sign-in blocked as unverified. Verification email Gmail 1a1f10ab4d439818 ([email], Nov 18 18:42 ET) — link…",
+    "link": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/details/Information-Security-Analyst-II--US-_R_1500756"
+   },
+   {
     "role": "Peckham, Inc. — Network Infrastructure Engineer",
     "req": "req R0009800 (LinkedIn 4489035989, Lansing MI, Hybrid, end d",
     "parked": "2026-11-12",
@@ -670,6 +719,24 @@
     "deadline_passed": false,
     "blocker": "Saved Workday login REJECTED ('You may have entered the wrong email address or password or your account might be locked') — account exists; autonomous forgot-password…",
     "link": ""
+   },
+   {
+    "role": "AT&T — Sr Specialist Member of Technical Staff – Network Automation & AI Software",
+    "req": "R-128880 (att.wd1)",
+    "parked": "2026-11-19",
+    "deadline": "2026-11-30",
+    "deadline_passed": false,
+    "blocker": "Workday sign-in: saved vault login REJECTED (same error as R-127862). Autonomous reset tried 3x — every attempt failed SERVER-SIDE: \"Failed to initiate password reset,…",
+    "link": "https://att.wd1.myworkdayjobs.com/en-US/ATTGeneral/job/USANJMiddletown--S-Laurel-Ave---Bldg-A200-S-Laurel-Ave-Bldg-A/Sr-Specialist-Member-of-Technical-Staff---Network-Automation---AI-Software_R-128880"
+   },
+   {
+    "role": "AT&T — Lead Optical Network Engineer – Coherent Transport & SDN",
+    "req": "R-127862 (att.wd1)",
+    "parked": "2026-11-19",
+    "deadline": "2026-12-01",
+    "deadline_passed": false,
+    "blocker": "Workday sign-in: saved vault login REJECTED (\"wrong email or account locked\"); autonomous reset opened for [email], \"Reset Password\" clicked 3x, dialog never changed —…",
+    "link": "https://att.wd1.myworkdayjobs.com/en-US/ATTGeneral/job/USANJMiddletown--S-Laurel-Ave---Bldg-A200-S-Laurel-Ave-Bldg-A/Lead-Optical-Network-Engineer---Coherent-Transport---SDN_R-127862"
    },
    {
     "role": "Montana DPHHS — IT Systems Support 2 (Missoula MT + 7 locations)",
@@ -751,6 +818,33 @@
     "deadline_passed": false,
     "blocker": "Workday sign-in: saved vault login REJECTED (\"wrong email or account locked\"); reset emails DID arrive (3x, newest Gmail 1a1f4657e9411943 10:20 ET) but the reset-link…",
     "link": "https://seminolehardrock.wd503.myworkdayjobs.com/en-US/seminolehardrockcareers/job/Support-Services-Headquarters-Building/Cyber-Network-Engineer-II_R17451"
+   },
+   {
+    "role": "Innovaccer — Security Engineer II",
+    "req": "Workable req 4666 / HIR-4666",
+    "parked": "2026-11-19",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Cloudflare Turnstile \"Verify you are human\" checkbox appeared AFTER clicking Submit; captcha solver invoked exactly once (single click, no clear — no check mark, no…",
+    "link": "https://apply.workable.com/innovaccer-analytics/j/D5A5B6DF59/apply/"
+   },
+   {
+    "role": "Costco Wholesale — Infrastructure Engineer, LTL Fulfillment Support and Operations",
+    "req": "10912 (LinkedIn 4492237240)",
+    "parked": "2026-11-19",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Taleo sign-in rejected (\"Email address and password you've specified do not match our records\"); one autonomous password reset requested; NO reset email arrived after…",
+    "link": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO\\&cws=41\\&rid=10912"
+   },
+   {
+    "role": "Palm Beach Atlantic University — Intermediate Systems Engineer",
+    "req": "4446659635 (Paycom job 328219)",
+    "parked": "2026-11-19",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Paycom sign-in rejected (\"Error when signing into account\"); one autonomous password reset requested ~1:23 PM ET; NO reset email arrived after two connector-Gmail checks…",
+    "link": ""
    },
    {
     "role": "Community Health Connections — Network Administrator",
@@ -3823,6 +3917,15 @@
    }
   ],
   "pipeline_owned": [
+   {
+    "role": "Aledade — Senior Security Engineer II - DSPM",
+    "req": "Lever 834bee14-249a-4b7b-a276-15c0ae57ff27",
+    "parked": "2026-11-19",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Lever bot-wall: entire Aledade tenant blocked — job page and jobs-list route both show only plain text \"Your request was blocked.\" (no reference number, branding,…",
+    "link": "https://jobs.lever.co/aledade/834bee14-249a-4b7b-a276-15c0ae57ff27"
+   },
    {
     "role": "Amazon — Security Engineer II, Investigative Engineering",
     "req": "10607189",
