@@ -1,8 +1,8 @@
 {
- "generated_at_et": "2026-11-19 13:35 ET",
+ "generated_at_et": "2026-11-19 13:41 ET",
  "summary": {
-  "total_submitted_ledger": 1036,
-  "today_submitted": 6,
+  "total_submitted_ledger": 1037,
+  "today_submitted": 7,
   "backfill_count": 147,
   "human_gate": 359,
   "watch_reset": 2,
@@ -10,9 +10,9 @@
   "quota": 20,
   "portal_limit": 1,
   "hold": 3,
-  "resolved": 33,
+  "resolved": 34,
   "closed": 21,
-  "registry_rows": 484
+  "registry_rows": 485
  },
  "daily": [
   {
@@ -517,7 +517,7 @@
   },
   {
    "date": "2026-11-19",
-   "count": 6
+   "count": 7
   }
  ],
  "today": [
@@ -560,6 +560,13 @@
    "company": "AT&T",
    "role": "Lead Optical Network Engineer – Coherent Transport & SDN",
    "req": "R-127862",
+   "date": "2026-11-19",
+   "email_confirmed": false
+  },
+  {
+   "company": "Galaxy",
+   "role": "Site Reliability Engineer",
+   "req": "LinkedIn 4484753300",
    "date": "2026-11-19",
    "email_confirmed": false
   }
@@ -730,15 +737,6 @@
     "link": "https://att.wd1.myworkdayjobs.com/en-US/ATTGeneral/job/USANJMiddletown--S-Laurel-Ave---Bldg-A200-S-Laurel-Ave-Bldg-A/Sr-Specialist-Member-of-Technical-Staff---Network-Automation---AI-Software_R-128880"
    },
    {
-    "role": "AT&T — Lead Optical Network Engineer – Coherent Transport & SDN",
-    "req": "R-127862 (att.wd1)",
-    "parked": "2026-11-19",
-    "deadline": "2026-12-01",
-    "deadline_passed": false,
-    "blocker": "Workday sign-in: saved vault login REJECTED (\"wrong email or account locked\"); autonomous reset opened for [email], \"Reset Password\" clicked 3x, dialog never changed —…",
-    "link": "https://att.wd1.myworkdayjobs.com/en-US/ATTGeneral/job/USANJMiddletown--S-Laurel-Ave---Bldg-A200-S-Laurel-Ave-Bldg-A/Lead-Optical-Network-Engineer---Coherent-Transport---SDN_R-127862"
-   },
-   {
     "role": "Montana DPHHS — IT Systems Support 2 (Missoula MT + 7 locations)",
     "req": "Taleo req 26142852 (mtstatejobs.taleo.net; apply via stateca",
     "parked": "2026-11-13",
@@ -845,6 +843,15 @@
     "deadline_passed": false,
     "blocker": "Paycom sign-in rejected (\"Error when signing into account\"); one autonomous password reset requested ~1:23 PM ET; NO reset email arrived after two connector-Gmail checks…",
     "link": ""
+   },
+   {
+    "role": "Teltonika — Pre-Sales Technical Support Engineer / Networking Solutions",
+    "req": "4492455415",
+    "parked": "2026-11-19",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Cloudflare Turnstile \"Verify you are human\" on Workable after Submit; one solver attempt failed (checkbox clicked twice, \"Verifying…\" then reset to unchecked both times,…",
+    "link": "https://jobs.workable.com/view/758eXHsiT6nQ3WFidewRiL/hybrid-pre-sales-technical-support-engineer-%7C-networking-solutions-in-dallas-at-teltonika"
    },
    {
     "role": "Community Health Connections — Network Administrator",
@@ -4557,6 +4564,15 @@
    }
   ],
   "resolved": [
+   {
+    "role": "AT&T — Lead Optical Network Engineer – Coherent Transport & SDN",
+    "req": "R-127862 (att.wd1)",
+    "parked": "2026-11-19",
+    "deadline": "2026-12-01",
+    "deadline_passed": false,
+    "blocker": "Workday sign-in: saved vault login REJECTED (\"wrong email or account locked\"); autonomous reset opened for [email], \"Reset Password\" clicked 3x, dialog never changed —…",
+    "link": "https://att.wd1.myworkdayjobs.com/en-US/ATTGeneral/job/USANJMiddletown--S-Laurel-Ave---Bldg-A200-S-Laurel-Ave-Bldg-A/Lead-Optical-Network-Engineer---Coherent-Transport---SDN_R-127862"
+   },
    {
     "role": "Wills Group — Infrastructure Manager",
     "req": "LinkedIn 4482703134",
