@@ -1,10 +1,10 @@
 {
- "generated_at_et": "2026-11-19 13:41 ET",
+ "generated_at_et": "2026-11-19 13:43 ET",
  "summary": {
   "total_submitted_ledger": 1037,
   "today_submitted": 7,
   "backfill_count": 147,
-  "human_gate": 359,
+  "human_gate": 360,
   "watch_reset": 2,
   "pipeline_owned": 44,
   "quota": 20,
@@ -12,7 +12,7 @@
   "hold": 3,
   "resolved": 34,
   "closed": 21,
-  "registry_rows": 485
+  "registry_rows": 486
  },
  "daily": [
   {
@@ -852,6 +852,15 @@
     "deadline_passed": false,
     "blocker": "Cloudflare Turnstile \"Verify you are human\" on Workable after Submit; one solver attempt failed (checkbox clicked twice, \"Verifying…\" then reset to unchecked both times,…",
     "link": "https://jobs.workable.com/view/758eXHsiT6nQ3WFidewRiL/hybrid-pre-sales-technical-support-engineer-%7C-networking-solutions-in-dallas-at-teltonika"
+   },
+   {
+    "role": "H-E-B — Network Engineer II",
+    "req": "4492463100 (H-E-B job 250170)",
+    "parked": "2026-11-19",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Second hCaptcha on the Jibe email step blocked sign-in; the one allowed solver attempt was already used on the first hCaptcha (\"Select animals that are in a dormant,…",
+    "link": "https://heb.jibeapply.com/auth/1/verify-login-type"
    },
    {
     "role": "Community Health Connections — Network Administrator",
