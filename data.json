@@ -1,8 +1,8 @@
 {
- "generated_at_et": "2026-11-19 13:43 ET",
+ "generated_at_et": "2026-11-19 17:19 ET",
  "summary": {
-  "total_submitted_ledger": 1037,
-  "today_submitted": 7,
+  "total_submitted_ledger": 1042,
+  "today_submitted": 12,
   "backfill_count": 147,
   "human_gate": 360,
   "watch_reset": 2,
@@ -10,9 +10,9 @@
   "quota": 20,
   "portal_limit": 1,
   "hold": 3,
-  "resolved": 34,
+  "resolved": 35,
   "closed": 21,
-  "registry_rows": 486
+  "registry_rows": 487
  },
  "daily": [
   {
@@ -517,7 +517,7 @@
   },
   {
    "date": "2026-11-19",
-   "count": 7
+   "count": 12
   }
  ],
  "today": [
@@ -569,6 +569,41 @@
    "req": "LinkedIn 4484753300",
    "date": "2026-11-19",
    "email_confirmed": false
+  },
+  {
+   "company": "International Code Council",
+   "role": "Systems Engineer",
+   "req": "LinkedIn 4476901772",
+   "date": "2026-11-19",
+   "email_confirmed": false
+  },
+  {
+   "company": "Thomson Reuters",
+   "role": "Cloud / DevOps Engineer II",
+   "req": "JREQ205427",
+   "date": "2026-11-19",
+   "email_confirmed": false
+  },
+  {
+   "company": "Highmark Health",
+   "role": "Technical Engineer - Cloud Engineer",
+   "req": "J284579",
+   "date": "2026-11-19",
+   "email_confirmed": false
+  },
+  {
+   "company": "AT&T",
+   "role": "Sr Specialist Member of Technical Staff - Network Automation & AI Software",
+   "req": "R-128880",
+   "date": "2026-11-19",
+   "email_confirmed": false
+  },
+  {
+   "company": "Amazon",
+   "role": "Configuration Analyst, Data Center Lifecycle Configuration",
+   "req": "10609193",
+   "date": "2026-11-19",
+   "email_confirmed": true
   }
  ],
  "linkedin": {
@@ -728,15 +763,6 @@
     "link": ""
    },
    {
-    "role": "AT&T — Sr Specialist Member of Technical Staff – Network Automation & AI Software",
-    "req": "R-128880 (att.wd1)",
-    "parked": "2026-11-19",
-    "deadline": "2026-11-30",
-    "deadline_passed": false,
-    "blocker": "Workday sign-in: saved vault login REJECTED (same error as R-127862). Autonomous reset tried 3x — every attempt failed SERVER-SIDE: \"Failed to initiate password reset,…",
-    "link": "https://att.wd1.myworkdayjobs.com/en-US/ATTGeneral/job/USANJMiddletown--S-Laurel-Ave---Bldg-A200-S-Laurel-Ave-Bldg-A/Sr-Specialist-Member-of-Technical-Staff---Network-Automation---AI-Software_R-128880"
-   },
-   {
     "role": "Montana DPHHS — IT Systems Support 2 (Missoula MT + 7 locations)",
     "req": "Taleo req 26142852 (mtstatejobs.taleo.net; apply via stateca",
     "parked": "2026-11-13",
@@ -861,6 +887,15 @@
     "deadline_passed": false,
     "blocker": "Second hCaptcha on the Jibe email step blocked sign-in; the one allowed solver attempt was already used on the first hCaptcha (\"Select animals that are in a dormant,…",
     "link": "https://heb.jibeapply.com/auth/1/verify-login-type"
+   },
+   {
+    "role": "Blue Cross and Blue Shield of Minnesota — Systems Engineer",
+    "req": "4491342212 (Workday R0006911)",
+    "parked": "2026-11-19",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Workday step 4 of 7 required AI-use attestation: \"please do not use AI assistants during your application and interview process... Please indicate 'Yes' if you have read…",
+    "link": "https://bcbsmn.wd5.myworkdayjobs.com/en-US/bluecrossmn/job/Eagan-MN/Systems-Engineer_R0006911-1/apply/autofillWithResume"
    },
    {
     "role": "Community Health Connections — Network Administrator",
@@ -4573,6 +4608,15 @@
    }
   ],
   "resolved": [
+   {
+    "role": "AT&T — Sr Specialist Member of Technical Staff – Network Automation & AI Software",
+    "req": "R-128880 (att.wd1)",
+    "parked": "2026-11-19",
+    "deadline": "2026-11-30",
+    "deadline_passed": false,
+    "blocker": "Workday sign-in: saved vault login REJECTED (same error as R-127862). Autonomous reset tried 3x — every attempt failed SERVER-SIDE: \"Failed to initiate password reset,…",
+    "link": "https://att.wd1.myworkdayjobs.com/en-US/ATTGeneral/job/USANJMiddletown--S-Laurel-Ave---Bldg-A200-S-Laurel-Ave-Bldg-A/Sr-Specialist-Member-of-Technical-Staff---Network-Automation---AI-Software_R-128880"
+   },
    {
     "role": "AT&T — Lead Optical Network Engineer – Coherent Transport & SDN",
     "req": "R-127862 (att.wd1)",
