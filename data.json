@@ -1,18 +1,18 @@
 {
- "generated_at_et": "2026-11-20 15:22 ET",
+ "generated_at_et": "2026-11-20 16:12 ET",
  "summary": {
-  "total_submitted_ledger": 1046,
-  "today_submitted": 1,
+  "total_submitted_ledger": 1053,
+  "today_submitted": 5,
   "backfill_count": 148,
-  "human_gate": 368,
+  "human_gate": 373,
   "watch_reset": 2,
-  "pipeline_owned": 46,
+  "pipeline_owned": 47,
   "quota": 20,
   "portal_limit": 1,
   "hold": 3,
   "resolved": 35,
   "closed": 21,
-  "registry_rows": 497
+  "registry_rows": 503
  },
  "daily": [
   {
@@ -133,7 +133,7 @@
   },
   {
    "date": "2026-07-23",
-   "count": 1
+   "count": 2
   },
   {
    "date": "2026-07-24",
@@ -181,7 +181,7 @@
   },
   {
    "date": "2026-08-11",
-   "count": 1
+   "count": 2
   },
   {
    "date": "2026-08-12",
@@ -209,7 +209,7 @@
   },
   {
    "date": "2026-08-25",
-   "count": 3
+   "count": 4
   },
   {
    "date": "2026-08-27",
@@ -521,7 +521,7 @@
   },
   {
    "date": "2026-11-20",
-   "count": 1
+   "count": 5
   }
  ],
  "today": [
@@ -529,6 +529,34 @@
    "company": "Dyna Robotics",
    "role": "Senior Network and Systems Engineer",
    "req": "be2f88d7-bcdf-4b24-9a53-92a93e38e744",
+   "date": "2026-11-20",
+   "email_confirmed": true
+  },
+  {
+   "company": "Mittera",
+   "role": "IT Support Specialist",
+   "req": "4680963",
+   "date": "2026-11-20",
+   "email_confirmed": false
+  },
+  {
+   "company": "Cloudflare",
+   "role": "Senior Network Engineer",
+   "req": "7992903",
+   "date": "2026-11-20",
+   "email_confirmed": true
+  },
+  {
+   "company": "Intercom",
+   "role": "Technical Support Engineer",
+   "req": "7122157",
+   "date": "2026-11-20",
+   "email_confirmed": false
+  },
+  {
+   "company": "SOSi",
+   "role": "Help Desk Representative",
+   "req": "3743990013868576",
    "date": "2026-11-20",
    "email_confirmed": true
   }
@@ -805,6 +833,51 @@
     "deadline_passed": false,
     "blocker": "LinkedIn Easy Apply contact-email lock — only [email] offered; work email [email] cannot be entered (option_not_found); stopped at Contact info 1, resume not uploaded",
     "link": "https://www.linkedin.com/jobs/view/4491917961"
+   },
+   {
+    "role": "Methodist Hospitals — Application Analyst IT - Level I",
+    "req": "14109",
+    "parked": "2026-11-20",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "hCaptcha drag puzzle (\"Drag the letter to the place where it fits\" — drag blue letter \"C\") on iCIMS login page; single solver attempt failed (overlay closed mid-drag,…",
+    "link": "https://careers-methodisthospitals.icims.com/jobs/14109/application-analyst-it---level-i/job"
+   },
+   {
+    "role": "Infor — Senior AWS Network Engineer",
+    "req": "477cff97-5066-448b-b381-cf936ca742d1",
+    "parked": "2026-11-20",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Internal-candidates-only posting; submit returns \"Email must be from an allowed internal email domain (e.g., infor.com).\" Form filled; reCAPTCHA cleared once. No…",
+    "link": "https://careers.infor.com/en/postings/477cff97-5066-448b-b381-cf936ca742d1"
+   },
+   {
+    "role": "Nellson — Network Administrator",
+    "req": "9201806666120_55 (Requisition ID 1627)",
+    "parked": "2026-11-20",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Two required Questions Varun-only: weekend availability + concrete start date (date field rejects \".\" placeholder; profile gives only \"2 weeks after offer letter\"). 12…",
+    "link": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0a8e5f29-a3df-4a0a-b812-806e41269b56&ccId=19000101_000001&jobId=9201806666120_55&lang=en_US"
+   },
+   {
+    "role": "FusionTek — Remote Technical Support Engineer II",
+    "req": "DE7780E709",
+    "parked": "2026-11-20",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Cloudflare Turnstile on submit — one solver attempt failed (\"Verification failed\"); no second attempt per rules. Form intact at 3:31 PM ET, Submit enabled",
+    "link": "https://apply.workable.com/fusiontek/j/DE7780E709/apply/"
+   },
+   {
+    "role": "Pathway — Machine Learning DevOps - Cloud and Compute Cluster",
+    "req": "9DA0807811",
+    "parked": "2026-11-20",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Two required questions Varun-only: Python programming years + bachelor's degree (institution + university website link; bachelor's not stated in profile — only Rivier…",
+    "link": "https://apply.workable.com/pathwaycom/j/9DA0807811/apply/"
    },
    {
     "role": "Atos — SECURITY ENGINEER",
@@ -3975,6 +4048,15 @@
     "deadline_passed": false,
     "blocker": "Saved vault login rejected (\"Invalid email address or password\"); Forgot Password 12:40 ET; reset mail arrived 12:40:06 ET but link is redacted protected reference, no…",
     "link": "https://kiewitcareers.kiewit.com/job/Omaha-Network-Administrator-1-Kiewit-Technology-Group-NE-68046/1452296200/"
+   },
+   {
+    "role": "Avertium — CyberSecurity Engineer \\",
+    "req": "Microsoft",
+    "parked": "2026-11-20",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "2026-11-20 phase-626",
+    "link": "https://jobs.lever.co/avertium/239fa674-6b92-49cb-8536-78eafa25474a"
    },
    {
     "role": "Aledade — Senior Security Engineer II - DSPM",
