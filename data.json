@@ -1,18 +1,18 @@
 {
- "generated_at_et": "2026-11-20 10:45 ET",
+ "generated_at_et": "2026-11-20 15:22 ET",
  "summary": {
-  "total_submitted_ledger": 1045,
-  "today_submitted": 0,
-  "backfill_count": 147,
-  "human_gate": 361,
+  "total_submitted_ledger": 1046,
+  "today_submitted": 1,
+  "backfill_count": 148,
+  "human_gate": 368,
   "watch_reset": 2,
-  "pipeline_owned": 45,
+  "pipeline_owned": 46,
   "quota": 20,
   "portal_limit": 1,
   "hold": 3,
   "resolved": 35,
   "closed": 21,
-  "registry_rows": 489
+  "registry_rows": 497
  },
  "daily": [
   {
@@ -518,9 +518,21 @@
   {
    "date": "2026-11-19",
    "count": 15
+  },
+  {
+   "date": "2026-11-20",
+   "count": 1
   }
  ],
- "today": [],
+ "today": [
+  {
+   "company": "Dyna Robotics",
+   "role": "Senior Network and Systems Engineer",
+   "req": "be2f88d7-bcdf-4b24-9a53-92a93e38e744",
+   "date": "2026-11-20",
+   "email_confirmed": true
+  }
+ ],
  "linkedin": {
   "batch_date": "2026-11-18",
   "staged_count": 16,
@@ -730,6 +742,69 @@
     "deadline_passed": false,
     "blocker": "Cloudflare \"Verify you are human\" on Rippling after Submit; one solver attempt failed (\"Verification failed\", toast \"Unable to apply for IT Support Specialist. Please…",
     "link": "https://ats.rippling.com/seah-superalloy-technologies/jobs/d656b3b4-103e-4b0a-9f78-a46a2737bc2e/apply"
+   },
+   {
+    "role": "California Lottery — Senior Network Engineer",
+    "req": "JC-538964",
+    "parked": "2026-11-20",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "CalCareers + STD 678 + 2-page SOQ required (SOQ needs Varun's narrative — not built); IT Specialist II exam eligibility — Varun has none yet; hybrid telework requires CA…",
+    "link": ""
+   },
+   {
+    "role": "Amazon — Security Engineer I, Stores Security - Healthcare Security",
+    "req": "10609577",
+    "parked": "2026-11-20",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Required field \"date your current EAD expires\" — exact date unknown; only \"August 2028\" on record (asked 2026-11-13, still unanswered; also parks Amazon req 10425369,…",
+    "link": "https://www.amazon.jobs/en/jobs/10609577/security-engineer-i-stores-security-healthcare-security"
+   },
+   {
+    "role": "Emory University — Network Analyst (OIT)",
+    "req": "197880",
+    "parked": "2026-11-20",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "hCaptcha on iCIMS login page (\"Find the vehicle with the same number of wheels as the example\", 3x3 grid) blocked sign-in; password step never reached; no captcha retry…",
+    "link": "https://staff-emory.icims.com/jobs/197880/network-analyst-tech-%28oit%29/job"
+   },
+   {
+    "role": "EY — Senior Consultant - AI Security Engineer (Cyber - AI Engineer - Senior - Consulting)",
+    "req": "1437170533",
+    "parked": "2026-11-20",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "EY SuccessFactors (career5.successfactors.eu): no saved login for the tenant; no credential enterable in detached run; account creation blocked (needs password that must…",
+    "link": "https://careers.ey.com/ey/job/New-York-Cyber-AI-Engineer-Senior-Consulting-NY-10001-8604/1437170533/"
+   },
+   {
+    "role": "Esperanza Health Center — Systems Administrator & Network Engineer",
+    "req": "1776",
+    "parked": "2026-11-20",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Two required items Varun-only: (1) faith-alignment essay vs Esperanza's Christian mission — no statement of Varun's faith on record; (2) spiritual reference name — none…",
+    "link": "https://esperanzahealth.com/opportunities/careers/"
+   },
+   {
+    "role": "Beacon Holdings — Senior Security Engineer, Enterprise Security",
+    "req": "eac7fbed-bf49-4b55-80b3-4796decf1417",
+    "parked": "2026-11-20",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "REQUIRED free-text question unanswered: telemetry pipeline across endpoint + custom detections — no such example on record; closest truthful work (SNMP network…",
+    "link": "https://jobs.ashbyhq.com/beaconholdings/eac7fbed-bf49-4b55-80b3-4796decf1417"
+   },
+   {
+    "role": "Synechron — Infrastructure Engineer",
+    "req": "LinkedIn 4491917961",
+    "parked": "2026-11-20",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "LinkedIn Easy Apply contact-email lock — only [email] offered; work email [email] cannot be entered (option_not_found); stopped at Contact info 1, resume not uploaded",
+    "link": "https://www.linkedin.com/jobs/view/4491917961"
    },
    {
     "role": "Atos — SECURITY ENGINEER",
@@ -3893,6 +3968,15 @@
   ],
   "pipeline_owned": [
    {
+    "role": "Kiewit — Network Administrator 1 - Kiewit Technology Group",
+    "req": "183284",
+    "parked": "2026-11-20",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Saved vault login rejected (\"Invalid email address or password\"); Forgot Password 12:40 ET; reset mail arrived 12:40:06 ET but link is redacted protected reference, no…",
+    "link": "https://kiewitcareers.kiewit.com/job/Omaha-Network-Administrator-1-Kiewit-Technology-Group-NE-68046/1452296200/"
+   },
+   {
     "role": "Aledade — Senior Security Engineer II - DSPM",
     "req": "Lever 834bee14-249a-4b7b-a276-15c0ae57ff27",
     "parked": "2026-11-19",
@@ -5067,6 +5151,6 @@
   "The human-gate queue is ordered deadline-first, then newest parked first. A row's deadline is read from its registry text and may be approximate.",
   "No personal details are published here: no email addresses, phone numbers, street addresses, or resume file paths.",
   "LinkedIn (Feed C) is live as a second apply channel since 2026-11-18 — Easy Apply and general Apply under the same gates. 16 roles staged from the latest batch, applies start one at a time.",
-  "Total counts live pipeline submissions under the strict counter (bold, bare, and backfill record lines with an explicit date). Another 147 older external confirmations are logged in the ledger under '- BACKFILL **SUBMITTED:' with their own confirmation dates and are counted separately, not in the total."
+  "Total counts live pipeline submissions under the strict counter (bold, bare, and backfill record lines with an explicit date). Another 148 older external confirmations are logged in the ledger under '- BACKFILL **SUBMITTED:' with their own confirmation dates and are counted separately, not in the total."
  ]
 }
