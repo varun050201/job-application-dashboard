@@ -1,18 +1,18 @@
 {
- "generated_at_et": "2026-11-20 16:12 ET",
+ "generated_at_et": "2026-11-20 18:47 ET",
  "summary": {
   "total_submitted_ledger": 1053,
   "today_submitted": 5,
   "backfill_count": 148,
-  "human_gate": 373,
+  "human_gate": 375,
   "watch_reset": 2,
-  "pipeline_owned": 47,
+  "pipeline_owned": 48,
   "quota": 20,
   "portal_limit": 1,
   "hold": 3,
   "resolved": 35,
   "closed": 21,
-  "registry_rows": 503
+  "registry_rows": 506
  },
  "daily": [
   {
@@ -878,6 +878,24 @@
     "deadline_passed": false,
     "blocker": "Two required questions Varun-only: Python programming years + bachelor's degree (institution + university website link; bachelor's not stated in profile — only Rivier…",
     "link": "https://apply.workable.com/pathwaycom/j/9DA0807811/apply/"
+   },
+   {
+    "role": "University of Oklahoma — Security Analyst",
+    "req": "494495",
+    "parked": "2026-11-20",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "PageUp requires all 3 references; Reference 3 blank — no third reference on record (only Gopi Y + Viswani K authorized; Shashank never a reference). Draft saved,…",
+    "link": "https://careers.pageuppeople.com/1219/cw/en-us/job/494495/security-analyst"
+   },
+   {
+    "role": "TASI Measurement — Network Administrator",
+    "req": "c133797b-9fb0-411c-8434-748a9d5fa9eb",
+    "parked": "2026-11-20",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "UKG sign-in wall (signin-us.ukg.net, tenant tas1500tasi); no saved login for ukg.net, no account exists; universal credential not fillable in detached run",
+    "link": "https://tasimeasurement.rec.pro.ukg.net/tas1500tasi/JobBoard/2fb92a77-0aea-4e34-864b-11b2e6f60345/OpportunityDetail?opportunityId=c133797b-9fb0-411c-8434-748a9d5fa9eb"
    },
    {
     "role": "Atos — SECURITY ENGINEER",
@@ -4057,6 +4075,15 @@
     "deadline_passed": false,
     "blocker": "2026-11-20 phase-626",
     "link": "https://jobs.lever.co/avertium/239fa674-6b92-49cb-8536-78eafa25474a"
+   },
+   {
+    "role": "Wintrust — Security Operations Engineer",
+    "req": "262152",
+    "parked": "2026-11-20",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Saved Workday login for wintrust.wd1.myworkdayjobs.com rejected (\"You may have entered the wrong email address or password or your account might be locked\"); reset…",
+    "link": "https://wintrust.wd1.myworkdayjobs.com/en-US/Search/job/Rosemont-IL/Security-Operations-Engineer_262152"
    },
    {
     "role": "Aledade — Senior Security Engineer II - DSPM",
