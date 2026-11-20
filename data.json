@@ -1,18 +1,18 @@
 {
- "generated_at_et": "2026-11-19 17:19 ET",
+ "generated_at_et": "2026-11-19 20:15 ET",
  "summary": {
-  "total_submitted_ledger": 1042,
-  "today_submitted": 12,
+  "total_submitted_ledger": 1043,
+  "today_submitted": 13,
   "backfill_count": 147,
   "human_gate": 360,
   "watch_reset": 2,
-  "pipeline_owned": 44,
+  "pipeline_owned": 45,
   "quota": 20,
   "portal_limit": 1,
   "hold": 3,
   "resolved": 35,
   "closed": 21,
-  "registry_rows": 487
+  "registry_rows": 488
  },
  "daily": [
   {
@@ -517,7 +517,7 @@
   },
   {
    "date": "2026-11-19",
-   "count": 12
+   "count": 13
   }
  ],
  "today": [
@@ -604,6 +604,13 @@
    "req": "10609193",
    "date": "2026-11-19",
    "email_confirmed": true
+  },
+  {
+   "company": "City of New York",
+   "role": "Network Administrator",
+   "req": "3743990016959551",
+   "date": "2026-11-19",
+   "email_confirmed": false
   }
  ],
  "linkedin": {
@@ -3976,6 +3983,15 @@
     "deadline_passed": false,
     "blocker": "Lever bot-wall: entire Aledade tenant blocked — job page and jobs-list route both show only plain text \"Your request was blocked.\" (no reference number, branding,…",
     "link": "https://jobs.lever.co/aledade/834bee14-249a-4b7b-a276-15c0ae57ff27"
+   },
+   {
+    "role": "NVIDIA — Applied Systems Engineering Rotation Engineer - New College Graduate 2026",
+    "req": "JR2024713 (nvidia.wd5)",
+    "parked": "2026-11-19",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Workday sign-in: saved vault login REJECTED (\"wrong email address or password or account might be locked\"). Autonomous reset submitted OK — 3 reset emails from NVIDIA HR…",
+    "link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Systems-Engineering-Rotation-Engineer---New-College-Graduate-2026_JR2024713"
    },
    {
     "role": "Amazon — Security Engineer II, Investigative Engineering",
