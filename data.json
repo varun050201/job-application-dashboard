@@ -1,8 +1,8 @@
 {
- "generated_at_et": "2026-11-21 18:18 ET",
+ "generated_at_et": "2026-11-21 18:19 ET",
  "summary": {
-  "total_submitted_ledger": 1066,
-  "today_submitted": 7,
+  "total_submitted_ledger": 1067,
+  "today_submitted": 8,
   "backfill_count": 148,
   "human_gate": 389,
   "watch_reset": 2,
@@ -533,7 +533,7 @@
   },
   {
    "date": "2026-11-21",
-   "count": 7
+   "count": 8
   }
  ],
  "today": [
@@ -583,6 +583,13 @@
    "company": "ShipERP",
    "role": "IT Support Specialist",
    "req": "1069",
+   "date": "2026-11-21",
+   "email_confirmed": true
+  },
+  {
+   "company": "STN Incorporated",
+   "role": "Data Center SOC Analyst L2",
+   "req": "",
    "date": "2026-11-21",
    "email_confirmed": true
   }
