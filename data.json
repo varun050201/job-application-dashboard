@@ -1,10 +1,10 @@
 {
- "generated_at_et": "2026-11-20 18:47 ET",
+ "generated_at_et": "2026-11-21 10:29 ET",
  "summary": {
   "total_submitted_ledger": 1053,
-  "today_submitted": 5,
+  "today_submitted": 0,
   "backfill_count": 148,
-  "human_gate": 375,
+  "human_gate": 378,
   "watch_reset": 2,
   "pipeline_owned": 48,
   "quota": 20,
@@ -12,7 +12,7 @@
   "hold": 3,
   "resolved": 35,
   "closed": 21,
-  "registry_rows": 506
+  "registry_rows": 509
  },
  "daily": [
   {
@@ -524,43 +524,7 @@
    "count": 5
   }
  ],
- "today": [
-  {
-   "company": "Dyna Robotics",
-   "role": "Senior Network and Systems Engineer",
-   "req": "be2f88d7-bcdf-4b24-9a53-92a93e38e744",
-   "date": "2026-11-20",
-   "email_confirmed": true
-  },
-  {
-   "company": "Mittera",
-   "role": "IT Support Specialist",
-   "req": "4680963",
-   "date": "2026-11-20",
-   "email_confirmed": false
-  },
-  {
-   "company": "Cloudflare",
-   "role": "Senior Network Engineer",
-   "req": "7992903",
-   "date": "2026-11-20",
-   "email_confirmed": true
-  },
-  {
-   "company": "Intercom",
-   "role": "Technical Support Engineer",
-   "req": "7122157",
-   "date": "2026-11-20",
-   "email_confirmed": false
-  },
-  {
-   "company": "SOSi",
-   "role": "Help Desk Representative",
-   "req": "3743990013868576",
-   "date": "2026-11-20",
-   "email_confirmed": true
-  }
- ],
+ "today": [],
  "linkedin": {
   "batch_date": "2026-11-18",
   "staged_count": 16,
@@ -761,6 +725,33 @@
     "deadline_passed": false,
     "blocker": "hCaptcha drag-and-drop puzzle blocks the Submit button on jobs.lever.co; application fully completed (resume attached + parsed, profile filled, screening answered, $80k…",
     "link": ""
+   },
+   {
+    "role": "SunSource — Network Administrator",
+    "req": "2f48fb20-acd4-42d7-aa93-07b7e0b0b798 (Lever)",
+    "parked": "2026-11-21",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Lever job page returns only \"Your request was blocked.\" (non-interactive bot block, no reference number); persists after reload, 30-sec wait, fresh browser, and retry…",
+    "link": "https://jobs.lever.co/sunsrce/2f48fb20-acd4-42d7-aa93-07b7e0b0b798"
+   },
+   {
+    "role": "Lathrop GPM — Infrastructure & Security Engineer",
+    "req": "4677590 (Paylocity)",
+    "parked": "2026-11-21",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Paylocity Step 2 of 3 References requires 3 professional references with valid phone numbers (\".\" rejected: \"Must be a valid phone number\"); only 2 exist on record —…",
+    "link": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4677590"
+   },
+   {
+    "role": "Lumen — FIELD TECHNICIAN II - PUB SEC",
+    "req": "343305 (SuccessFactors)",
+    "parked": "2026-11-21",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "SuccessFactors saved login rejected (\"Invalid email address or password\"); reset submitted ~09:19 ET, reset email arrived 09:19:26 ET (\"Lumen Career Site - Password…",
+    "link": "https://career4.successfactors.com/career?company=CTLPRD&career_job_req_id=343305&career_ns=job_listing"
    },
    {
     "role": "SeAH Superalloy Technologies — IT Support Specialist",
