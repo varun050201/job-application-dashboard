@@ -1,18 +1,18 @@
 {
- "generated_at_et": "2026-11-21 10:29 ET",
+ "generated_at_et": "2026-11-21 17:42 ET",
  "summary": {
-  "total_submitted_ledger": 1053,
-  "today_submitted": 0,
+  "total_submitted_ledger": 1066,
+  "today_submitted": 7,
   "backfill_count": 148,
-  "human_gate": 378,
+  "human_gate": 389,
   "watch_reset": 2,
-  "pipeline_owned": 48,
+  "pipeline_owned": 50,
   "quota": 20,
   "portal_limit": 1,
   "hold": 3,
   "resolved": 35,
   "closed": 21,
-  "registry_rows": 509
+  "registry_rows": 522
  },
  "daily": [
   {
@@ -61,6 +61,10 @@
   },
   {
    "date": "2026-06-03",
+   "count": 1
+  },
+  {
+   "date": "2026-06-06",
    "count": 1
   },
   {
@@ -205,7 +209,7 @@
   },
   {
    "date": "2026-08-21",
-   "count": 4
+   "count": 5
   },
   {
    "date": "2026-08-25",
@@ -274,6 +278,10 @@
   {
    "date": "2026-09-16",
    "count": 5
+  },
+  {
+   "date": "2026-09-17",
+   "count": 1
   },
   {
    "date": "2026-09-18",
@@ -409,7 +417,7 @@
   },
   {
    "date": "2026-10-22",
-   "count": 24
+   "count": 25
   },
   {
    "date": "2026-10-23",
@@ -417,7 +425,7 @@
   },
   {
    "date": "2026-10-24",
-   "count": 33
+   "count": 35
   },
   {
    "date": "2026-10-26",
@@ -522,9 +530,63 @@
   {
    "date": "2026-11-20",
    "count": 5
+  },
+  {
+   "date": "2026-11-21",
+   "count": 7
   }
  ],
- "today": [],
+ "today": [
+  {
+   "company": "Forgen",
+   "role": "IT Field Engineer",
+   "req": "5203717007",
+   "date": "2026-11-21",
+   "email_confirmed": false
+  },
+  {
+   "company": "Amazon",
+   "role": "Technical Infrastructure Program Manager, Corporate Network Engineering",
+   "req": "10610910",
+   "date": "2026-11-21",
+   "email_confirmed": true
+  },
+  {
+   "company": "Braze",
+   "role": "Lead System Administrator",
+   "req": "8406161",
+   "date": "2026-11-21",
+   "email_confirmed": false
+  },
+  {
+   "company": "HealtheConnections",
+   "role": "Information Security and Risk Analyst",
+   "req": "5462332008",
+   "date": "2026-11-21",
+   "email_confirmed": false
+  },
+  {
+   "company": "Home Depot",
+   "role": "Systems Engineer",
+   "req": "Req199346",
+   "date": "2026-11-21",
+   "email_confirmed": false
+  },
+  {
+   "company": "Gibson Dunn",
+   "role": "Platform Engineering Specialist",
+   "req": "4515683009",
+   "date": "2026-11-21",
+   "email_confirmed": true
+  },
+  {
+   "company": "ShipERP",
+   "role": "IT Support Specialist",
+   "req": "1069",
+   "date": "2026-11-21",
+   "email_confirmed": true
+  }
+ ],
  "linkedin": {
   "batch_date": "2026-11-18",
   "staged_count": 16,
@@ -664,6 +726,15 @@
     "link": ""
    },
    {
+    "role": "Merit Health — Network Tech",
+    "req": "171059 (Oracle Recruiting Cloud / CHS)",
+    "parked": "2026-11-21",
+    "deadline": "2026-11-25",
+    "deadline_passed": false,
+    "blocker": "Oracle identity verification — same structural sender mismatch (code emailed by chs.net, sign-in page on fa-evxo-saasfaprod1.fa.ocs.oraclecloud.com); login service…",
+    "link": ""
+   },
+   {
     "role": "Cisco — Senior Software Engineer in Test (Network Security, Performance)",
     "req": "2011993 (Workday cisco.wd5)",
     "parked": "2026-11-03",
@@ -709,6 +780,15 @@
     "link": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Security-Operations-Analyst_JREQ204391"
    },
    {
+    "role": "BD — Technical Support Specialist 3",
+    "req": "R-557558 (Workday via Himalayas)",
+    "parked": "2026-11-21",
+    "deadline": "2027-01-19",
+    "deadline_passed": false,
+    "blocker": "Official BD careers posting for R-557558 not locatable — jobs.bd.com search does not index the req number (0 results); Himalayas Apply hop requires a Himalayas sign-in,…",
+    "link": ""
+   },
+   {
     "role": "UMass Amherst — Senior Systems Analyst",
     "req": "Job 510224 (PageUp, published Nov 6 2026, closing Feb 6 2027",
     "parked": "2026-11-12",
@@ -752,6 +832,87 @@
     "deadline_passed": false,
     "blocker": "SuccessFactors saved login rejected (\"Invalid email address or password\"); reset submitted ~09:19 ET, reset email arrived 09:19:26 ET (\"Lumen Career Site - Password…",
     "link": "https://career4.successfactors.com/career?company=CTLPRD&career_job_req_id=343305&career_ns=job_listing"
+   },
+   {
+    "role": "Synergy Bank — Information Technology Director",
+    "req": "166073 (Paycom)",
+    "parked": "2026-11-21",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Paycom saved login rejected (\"Error when signing into account\", after a passed hCaptcha); autonomous reset submitted (\"Email Sent\" dialog) but NO reset email in the work…",
+    "link": "https://www.paycomonline.net/v4/ats/web.php/portal/FC6DB87C7A527D4FA8A330EBCED87CBE/jobs/166073"
+   },
+   {
+    "role": "Allbridge — Service Desk Engineer II",
+    "req": "1393 (ADP)",
+    "parked": "2026-11-21",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "ADP email verification code cannot be entered — login service returned code_not_found twice for allbridge.com on the protected references; code digits are never shared…",
+    "link": "https://himalayas.app/companies/allbridge/jobs/service-desk-engineer-ii-the-woodlands-tx-or-remote?utm_source=api"
+   },
+   {
+    "role": "NexusTek — Cloud System Administrator (Shift A - Day)",
+    "req": "1716 (ADP WorkforceNow)",
+    "parked": "2026-11-21",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Q11 Culture Index Survey — only option is \"Complete - I'm all set!\" at https:[zip]; no record Varun completed it; selecting it would be false, taking the assessment for…",
+    "link": "https://surveys.cultureindex.com/s/UFfhWqnV5S/71403;"
+   },
+   {
+    "role": "Ascension — Senior Network WAN Engineer",
+    "req": "2026-452072 (Oracle Recruiting Cloud)",
+    "parked": "2026-11-21",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Oracle identity verification — login service rejected every code reference (\"This code isn't available for oraclecloud.com\"); structural sender mismatch (code emailed by…",
+    "link": ""
+   },
+   {
+    "role": "L3Harris — Senior Associate, Network Planning Engineer (Melbourne, FL)",
+    "req": "47141 (Oracle HCM, career-hcm20.ns2cloud.com)",
+    "parked": "2026-11-21",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "No saved login for ns2cloud.com; Secure Vault could not supply the universal credential in this detached run (credential service: no one can enter one now, no chat to…",
+    "link": ""
+   },
+   {
+    "role": "Microsoft — Security Operations Engineer II, Detection and Response",
+    "req": "200066848 (Microsoft Careers)",
+    "parked": "2026-11-21",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "No saved login for microsoft.com / login.microsoftonline.com in detached run; sign-in modal offers Microsoft an account; no form filled, nothing submitted",
+    "link": "https://apply.careers.microsoft.com/careers/apply?pid=1970393557070765&domain=microsoft.com"
+   },
+   {
+    "role": "R+L Carriers — Network Engineer",
+    "req": "47577 (Oracle HCM, erhk.fa.us2.oraclecloud.com)",
+    "parked": "2026-11-21",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Oracle HCM identity-verification code never arrived in work Gmail after two sends (~17:11 ET + 17:15 ET resend); inbox checked 5 ways incl. spam 17:12–17:19 ET; no code…",
+    "link": "https://erhk.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/47577"
+   },
+   {
+    "role": "L3Harris — Specialist, Network Planning Engineering",
+    "req": "46108 (jobs.l3harris.com / Oracle HCM career-hcm20.ns2cloud.",
+    "parked": "2026-11-21",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "No saved login for ns2cloud.com; vault could not supply the universal credential in this detached run; same wall parked sibling [zip] at 15:50 ET today — ONE capture…",
+    "link": ""
+   },
+   {
+    "role": "L3Harris — Specialist, Network Planning Engineering",
+    "req": "48279 (SuccessFactors / ns2cloud.com)",
+    "parked": "2026-11-21",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "No saved login for career-hcm20.ns2cloud.com; login service blocked — no credential could be entered in this detached run; no sign-in attempt made, no duplicate banner…",
+    "link": "https://careers.l3harris.com/en/job/melbourne/specialist-network-planning-engineering-melbourne-fl/4832/103582983840"
    },
    {
     "role": "SeAH Superalloy Technologies — IT Support Specialist",
@@ -4049,6 +4210,24 @@
    }
   ],
   "pipeline_owned": [
+   {
+    "role": "Empire State Realty Trust — Network Engineer",
+    "req": "4f82d289 (Lever)",
+    "parked": "2026-11-21",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Lever job page returns only \"Your request was blocked.\" (non-interactive bot block, no reference number); persists after reloads, bot-challenge recovery twice, company…",
+    "link": "https://jobs.lever.co/esrtreit/4f82d289-32cf-4310-846e-05df9d2d22f4"
+   },
+   {
+    "role": "Exowatt — Senior Infrastructure Software Engineer",
+    "req": "c73df83c-943e-4864-a0a9-aac823d9d72b (Lever)",
+    "parked": "2026-11-21",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Lever job page returns only \"Your request was blocked.\" (non-interactive bot block, no reference number); persists after reloads, bot-challenge recovery (reloaded twice,…",
+    "link": "https://jobs.lever.co/exowatt/c73df83c-943e-4864-a0a9-aac823d9d72b"
+   },
    {
     "role": "Kiewit — Network Administrator 1 - Kiewit Technology Group",
     "req": "183284",
