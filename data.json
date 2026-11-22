@@ -1,18 +1,18 @@
 {
- "generated_at_et": "2026-11-22 16:17 ET",
+ "generated_at_et": "2026-11-22 17:33 ET",
  "summary": {
-  "total_submitted_ledger": 1077,
-  "today_submitted": 1,
+  "total_submitted_ledger": 1078,
+  "today_submitted": 2,
   "backfill_count": 149,
-  "human_gate": 391,
+  "human_gate": 392,
   "watch_reset": 2,
-  "pipeline_owned": 50,
+  "pipeline_owned": 54,
   "quota": 20,
   "portal_limit": 1,
   "hold": 3,
   "resolved": 35,
   "closed": 23,
-  "registry_rows": 526
+  "registry_rows": 531
  },
  "daily": [
   {
@@ -537,7 +537,7 @@
   },
   {
    "date": "2026-11-22",
-   "count": 1
+   "count": 2
   }
  ],
  "today": [
@@ -547,6 +547,13 @@
    "req": "Network-Engineer-84",
    "date": "2026-11-22",
    "email_confirmed": false
+  },
+  {
+   "company": "Strata Decision Technology",
+   "role": "Senior Security Engineer",
+   "req": "7814680003",
+   "date": "2026-11-22",
+   "email_confirmed": true
   }
  ],
  "linkedin": {
@@ -785,6 +792,15 @@
     "deadline_passed": false,
     "blocker": "Oracle HCM \"Confirm Your Identity\" email-code wall — login service returned \"This code isn't available for oraclecloud.com\" on the one permitted reference attempt…",
     "link": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/339198/apply/email"
+   },
+   {
+    "role": "Sinch — NOC Tech III",
+    "req": "1768",
+    "parked": "2026-11-22",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Oracle HCM identity code rejected as unavailable for oraclecloud.com (origin mismatch, S94 pattern) — protected code reference supplied once, login service rejected it;…",
+    "link": "https://iaings.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/SinchCareer/my-profile/sign-in"
    },
    {
     "role": "SunSource — Network Administrator",
@@ -4198,6 +4214,42 @@
     "deadline_passed": false,
     "blocker": "Workday saved login did not sign in (no verbatim rejection captured); Forgot Password submitted 3x ~15:09-15:10 ET; no reset email arrived in work Gmail as of ~15:27 ET…",
     "link": "https://bestcare.wd1.myworkdayjobs.com/en-US/bestcare/details/Information-Security-Engineer_JR116793"
+   },
+   {
+    "role": "Riverside Health System — Network Engineer",
+    "req": "2026-037980",
+    "parked": "2026-11-22",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Workday saved login rejected (\"You may have entered the wrong email address or password or your account might be locked\"); Forgot Password submitted several times,…",
+    "link": "https://rivhs.wd1.myworkdayjobs.com/en-US/Non-ProviderRHS/details/Network-Engineer--Onsite-Position-_2026-037980?q=Network%20Engineer"
+   },
+   {
+    "role": "Senesco Marine — IT Analyst and Helpdesk Technician",
+    "req": "ee3b4881ce05 (Breezy)",
+    "parked": "2026-11-22",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Resume-upload approval card unanswered in detached run — Breezy apply page open (https:), file-upload approval \"Upload this file using Browser to https:\" pending since…",
+    "link": "https://senesco-marine.breezy.hr/p/ee3b4881ce05-it-analyst-and-helpdesk-technician/apply"
+   },
+   {
+    "role": "SpiderRock Technology Solutions — Network Engineer II",
+    "req": "ffee32ce-c623-4576-ad37-a6ca1b502f1b (Deel)",
+    "parked": "2026-11-22",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Resume-upload approval card unanswered in detached run — Deel apply page open (https:), file-upload approval \"Upload this file using Browser to https:\" pending since…",
+    "link": "https://jobs.deel.com/spiderrock-technology-solutions-llc/job-details/ffee32ce-c623-4576-ad37-a6ca1b502f1b/application"
+   },
+   {
+    "role": "Town of Chapel Hill — IT Analyst I",
+    "req": "26/27-02083 (NEOGOV)",
+    "parked": "2026-11-22",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Cloudflare Turnstile \"Verify you are human\" on the GovernmentJobs sign-in page failed 5 times — 4 clicks in the original browser + 1 click on a fresh browser route;…",
+    "link": "https://www.governmentjobs.com/jobs/5543127-0/it-analyst-i"
    },
    {
     "role": "Empire State Realty Trust — Network Engineer",
