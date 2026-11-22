@@ -1,18 +1,18 @@
 {
- "generated_at_et": "2026-11-22 10:14 ET",
+ "generated_at_et": "2026-11-22 16:11 ET",
  "summary": {
-  "total_submitted_ledger": 1076,
-  "today_submitted": 0,
+  "total_submitted_ledger": 1077,
+  "today_submitted": 1,
   "backfill_count": 149,
-  "human_gate": 390,
+  "human_gate": 391,
   "watch_reset": 2,
   "pipeline_owned": 50,
   "quota": 20,
   "portal_limit": 1,
   "hold": 3,
   "resolved": 35,
-  "closed": 21,
-  "registry_rows": 523
+  "closed": 23,
+  "registry_rows": 526
  },
  "daily": [
   {
@@ -534,9 +534,21 @@
   {
    "date": "2026-11-21",
    "count": 17
+  },
+  {
+   "date": "2026-11-22",
+   "count": 1
   }
  ],
- "today": [],
+ "today": [
+  {
+   "company": "City of Bixby",
+   "role": "Network Engineer",
+   "req": "Network-Engineer-84",
+   "date": "2026-11-22",
+   "email_confirmed": false
+  }
+ ],
  "linkedin": {
   "batch_date": "2026-11-18",
   "staged_count": 16,
@@ -764,6 +776,15 @@
     "deadline_passed": false,
     "blocker": "hCaptcha drag-and-drop puzzle blocks the Submit button on jobs.lever.co; application fully completed (resume attached + parsed, profile filled, screening answered, $80k…",
     "link": ""
+   },
+   {
+    "role": "Oracle — Principal Network Developer (Austin, TX + Nashville, TN)",
+    "req": "339198 (Oracle HCM, eeho.fa.us2.oraclecloud.com)",
+    "parked": "2026-11-22",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Oracle HCM \"Confirm Your Identity\" email-code wall — login service returned \"This code isn't available for oraclecloud.com\" on the one permitted reference attempt…",
+    "link": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/339198/apply/email"
    },
    {
     "role": "SunSource — Network Administrator",
@@ -2625,7 +2646,7 @@
     "parked": "2026-10-31",
     "deadline": "",
     "deadline_passed": false,
-    "blocker": "2026-10-31 phase-468 addendum 2",
+    "blocker": "hCaptcha drag-puzzle single-attempt failure on Submit (Verify never clicked, modal closed on its own, slot unidentifiable); form intact unsubmitted, resume attached;…",
     "link": ""
    },
    {
@@ -4170,6 +4191,15 @@
   ],
   "pipeline_owned": [
    {
+    "role": "Nebraska Methodist Health System — Information Security Engineer",
+    "req": "JR116793",
+    "parked": "2026-11-22",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Workday saved login did not sign in (no verbatim rejection captured); Forgot Password submitted 3x ~15:09-15:10 ET; no reset email arrived in work Gmail as of ~15:27 ET…",
+    "link": "https://bestcare.wd1.myworkdayjobs.com/en-US/bestcare/details/Information-Security-Engineer_JR116793"
+   },
+   {
     "role": "Empire State Realty Trust — Network Engineer",
     "req": "4f82d289 (Lever)",
     "parked": "2026-11-21",
@@ -4483,15 +4513,6 @@
     "deadline_passed": false,
     "blocker": "Saved vault login for [email] REJECTED (\"The user name and password combination you entered does not correspond to a registered user\"); autonomous Forgot-Password reset…",
     "link": "https://careers.textron.com/fort-worth-tx/network-engineer/3563E3E78BF342FB87AA0D4354A7635D/job/"
-   },
-   {
-    "role": "Avertium — CyberSecurity Analyst",
-    "req": "Lever 166fd7e3-98d4-4538-b47c-42deb19995e8",
-    "parked": "2026-10-31",
-    "deadline": "",
-    "deadline_passed": false,
-    "blocker": "Pre-submission Gmail confirmation check blocked in-browser: saved Gmail password rejected at accounts.google.com (\"Wrong password\") while connector Gmail keeps working —…",
-    "link": "https://jobs.lever.co/avertium/166fd7e3-98d4-4538-b47c-42deb19995e8/apply"
    },
    {
     "role": "GE Vernova — Cyber UX Controls Engineer",
@@ -5181,6 +5202,15 @@
   ],
   "closed": [
    {
+    "role": "City of Bixby — Network Engineer",
+    "req": "Network-Engineer-84 (LinkedIn 4493503031)",
+    "parked": "2026-11-22",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Email-application route — no portal: Superworq Apply link is a CPC redirector to unrelated jobs; City posting takes resume + cover letter + references ONLY by email to…",
+    "link": "https://www.bixbyok.gov/Jobs.aspx?UniqueId=102&From=All&CommunityJobs=False&JobID=Network-Engineer-84"
+   },
+   {
     "role": "WeTheHobby — Network Administrator (Rochester NY, $63,000–$70,000)",
     "req": "Rippling 5721be49-d87d-4144-90f2-d34898529399",
     "parked": "2026-11-14",
@@ -5206,6 +5236,15 @@
     "deadline_passed": false,
     "blocker": "Liveness PASSED — live posting open, apply page shows \"You are applying for - Senior Network System Engineer (1213909)\", no filled text, no duplicate banner (NOT a dead…",
     "link": "https://careers.hpe.com/us/en/apply?jobSeqNo=HPE1US1213909EXTERNALENUS&step=1&stepname=personalInformation"
+   },
+   {
+    "role": "Avertium — CyberSecurity Analyst",
+    "req": "Lever 166fd7e3-98d4-4538-b47c-42deb19995e8",
+    "parked": "2026-10-31",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Pre-submission Gmail confirmation check blocked in-browser: saved Gmail password rejected at accounts.google.com (\"Wrong password\") while connector Gmail keeps working —…",
+    "link": "https://jobs.lever.co/avertium/166fd7e3-98d4-4538-b47c-42deb19995e8/apply"
    },
    {
     "role": "HPE — Intermediate Network Systems Administrator",
