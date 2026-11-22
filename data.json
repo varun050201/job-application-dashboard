@@ -1,10 +1,10 @@
 {
- "generated_at_et": "2026-11-21 20:15 ET",
+ "generated_at_et": "2026-11-22 10:14 ET",
  "summary": {
-  "total_submitted_ledger": 1072,
-  "today_submitted": 13,
+  "total_submitted_ledger": 1076,
+  "today_submitted": 0,
   "backfill_count": 149,
-  "human_gate": 392,
+  "human_gate": 390,
   "watch_reset": 2,
   "pipeline_owned": 50,
   "quota": 20,
@@ -12,7 +12,7 @@
   "hold": 3,
   "resolved": 35,
   "closed": 21,
-  "registry_rows": 525
+  "registry_rows": 523
  },
  "daily": [
   {
@@ -533,102 +533,10 @@
   },
   {
    "date": "2026-11-21",
-   "count": 13
+   "count": 17
   }
  ],
- "today": [
-  {
-   "company": "Forgen",
-   "role": "IT Field Engineer",
-   "req": "5203717007",
-   "date": "2026-11-21",
-   "email_confirmed": false
-  },
-  {
-   "company": "Amazon",
-   "role": "Technical Infrastructure Program Manager, Corporate Network Engineering",
-   "req": "10610910",
-   "date": "2026-11-21",
-   "email_confirmed": true
-  },
-  {
-   "company": "Braze",
-   "role": "Lead System Administrator",
-   "req": "8406161",
-   "date": "2026-11-21",
-   "email_confirmed": false
-  },
-  {
-   "company": "HealtheConnections",
-   "role": "Information Security and Risk Analyst",
-   "req": "5462332008",
-   "date": "2026-11-21",
-   "email_confirmed": false
-  },
-  {
-   "company": "Home Depot",
-   "role": "Systems Engineer",
-   "req": "Req199346",
-   "date": "2026-11-21",
-   "email_confirmed": false
-  },
-  {
-   "company": "Gibson Dunn",
-   "role": "Platform Engineering Specialist",
-   "req": "4515683009",
-   "date": "2026-11-21",
-   "email_confirmed": true
-  },
-  {
-   "company": "ShipERP",
-   "role": "IT Support Specialist",
-   "req": "1069",
-   "date": "2026-11-21",
-   "email_confirmed": true
-  },
-  {
-   "company": "STN Incorporated",
-   "role": "Data Center SOC Analyst L2",
-   "req": "",
-   "date": "2026-11-21",
-   "email_confirmed": true
-  },
-  {
-   "company": "TENEX",
-   "role": "Forward Deployed Security Engineer",
-   "req": "",
-   "date": "2026-11-21",
-   "email_confirmed": true
-  },
-  {
-   "company": "Bridgepoint Works",
-   "role": "Technical Support Representative",
-   "req": "n",
-   "date": "2026-11-21",
-   "email_confirmed": false
-  },
-  {
-   "company": "XTIUM",
-   "role": "Support Specialist, Enterprise Service Desk",
-   "req": "",
-   "date": "2026-11-21",
-   "email_confirmed": false
-  },
-  {
-   "company": "SimpliGov",
-   "role": "Technical Support Specialist**",
-   "req": "",
-   "date": "2026-11-21",
-   "email_confirmed": true
-  },
-  {
-   "company": "Invicta Software",
-   "role": "Desktop Support Specialist**",
-   "req": "",
-   "date": "2026-11-21",
-   "email_confirmed": false
-  }
- ],
+ "today": [],
  "linkedin": {
   "batch_date": "2026-11-18",
   "staged_count": 16,
@@ -3459,15 +3367,6 @@
     "link": "https://phh.tbe.taleo.net/phh04/ats/careers/v2/applyRequisition?org=BSHHOME&cws=43&rid=10249"
    },
    {
-    "role": "Carisk Partners — Data & Systems Support Analyst",
-    "req": "356acd38-73c7-43fd-8597-9d0d33fa33ff (Rippling)",
-    "parked": "2026-10-14",
-    "deadline": "",
-    "deadline_passed": false,
-    "blocker": "Cloudflare Turnstile \"Verify you are human\" checkbox on the Rippling ATS page above the Apply button — Apply click dispatched, widget appeared instead of submitting.…",
-    "link": "https://ats.rippling.com/cariskpartners/jobs/356acd38-73c7-43fd-8597-9d0d33fa33ff"
-   },
-   {
     "role": "DPR Construction — Microsoft Power Platform Administrator",
     "req": "JR-17446 (Eightfold; careers.dpr.com)",
     "parked": "2026-10-14",
@@ -4213,15 +4112,6 @@
     "deadline_passed": true,
     "blocker": "NEEDS-APPLICANT-ANSWERS: Workday \"Errors Found\" at step 4 of 7 — last 4 SSN digits, related-by-blood-or-marriage to any State employee, and Military Selective Service…",
     "link": "https://nc.wd108.myworkdayjobs.com/en-US/NC_Careers/details/Business-Systems-Analyst-I_JR-126867"
-   },
-   {
-    "role": "Virginia DBHDS — Information Security Officer",
-    "req": "5114255 (PageUp)",
-    "parked": "2026-10-29",
-    "deadline": "2026-11-09",
-    "deadline_passed": true,
-    "blocker": "PageUp sign-in blocked on detached run: login service reports no saved login signs in to pageuppeople.com for [email], no credential entry route without chat; duplicate…",
-    "link": "https://careers.pageuppeople.com/mob/1125/cw/en-us/job/5114255/information-security-officer"
    },
    {
     "role": "Amazon — Cloud Hardware Development Engineer, Storage",
