@@ -1,18 +1,18 @@
 {
- "generated_at_et": "2026-11-22 17:33 ET",
+ "generated_at_et": "2026-11-23 11:28 ET",
  "summary": {
-  "total_submitted_ledger": 1078,
-  "today_submitted": 2,
+  "total_submitted_ledger": 1085,
+  "today_submitted": 5,
   "backfill_count": 149,
-  "human_gate": 392,
+  "human_gate": 396,
   "watch_reset": 2,
-  "pipeline_owned": 54,
+  "pipeline_owned": 53,
   "quota": 20,
   "portal_limit": 1,
   "hold": 3,
-  "resolved": 35,
+  "resolved": 36,
   "closed": 23,
-  "registry_rows": 531
+  "registry_rows": 535
  },
  "daily": [
   {
@@ -225,7 +225,7 @@
   },
   {
    "date": "2026-08-29",
-   "count": 2
+   "count": 3
   },
   {
    "date": "2026-08-31",
@@ -537,23 +537,48 @@
   },
   {
    "date": "2026-11-22",
-   "count": 2
+   "count": 3
+  },
+  {
+   "date": "2026-11-23",
+   "count": 5
   }
  ],
  "today": [
   {
-   "company": "City of Bixby",
-   "role": "Network Engineer",
-   "req": "Network-Engineer-84",
-   "date": "2026-11-22",
+   "company": "Kong",
+   "role": "Senior SRE, Managed Gateways",
+   "req": "68655cc7-790e-4f8c-882f-5b00f04d1bab",
+   "date": "2026-11-23",
    "email_confirmed": false
   },
   {
-   "company": "Strata Decision Technology",
-   "role": "Senior Security Engineer",
-   "req": "7814680003",
-   "date": "2026-11-22",
-   "email_confirmed": true
+   "company": "Sensia",
+   "role": "Global IT Operations Manager, Sensia",
+   "req": "743999838066147",
+   "date": "2026-11-23",
+   "email_confirmed": false
+  },
+  {
+   "company": "Pie Insurance",
+   "role": "Senior Software Engineer - Infrastructure",
+   "req": "6220010004",
+   "date": "2026-11-23",
+   "email_confirmed": false
+  },
+  {
+   "company": "Claroty",
+   "role": "OT Cybersecurity Architect",
+   "req": "P-1384494",
+   "date": "2026-11-23",
+   "email_confirmed": false
+  },
+  {
+   "company": "SLR Consulting",
+   "role": "Infrastructure Engineer",
+   "req": "JR102305",
+   "date": "2026-11-23",
+   "email_confirmed": false
   }
  ],
  "linkedin": {
@@ -677,15 +702,6 @@
  "queue": {
   "human_gate": [
    {
-    "role": "TD Bank — Information Security Analyst II (US)",
-    "req": "R_1500756",
-    "parked": "2026-11-18",
-    "deadline": "2026-11-22",
-    "deadline_passed": false,
-    "blocker": "Workday account created for [email] with universal credential; sign-in blocked as unverified. Verification email Gmail 1a1f10ab4d439818 ([email], Nov 18 18:42 ET) — link…",
-    "link": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/details/Information-Security-Analyst-II--US-_R_1500756"
-   },
-   {
     "role": "Peckham, Inc. — Network Infrastructure Engineer",
     "req": "req R0009800 (LinkedIn 4489035989, Lansing MI, Hybrid, end d",
     "parked": "2026-11-12",
@@ -782,6 +798,42 @@
     "deadline": "2027-09-17",
     "deadline_passed": false,
     "blocker": "hCaptcha drag-and-drop puzzle blocks the Submit button on jobs.lever.co; application fully completed (resume attached + parsed, profile filled, screening answered, $80k…",
+    "link": ""
+   },
+   {
+    "role": "T-Mobile USA, Inc. — Solutions Engineer, Wireless",
+    "req": "REQ376562",
+    "parked": "2026-11-23",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Workday saved login rejected; Forgot Password submitted ~10:45 AM ET, reset email sent but unreadable — Gmail connector rate-limited (terminal)",
+    "link": ""
+   },
+   {
+    "role": "AWS — Data Center Controls Engineer, Deployment",
+    "req": "3184286",
+    "parked": "2026-11-23",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "IdPrism verification code never arrived after one resend (saved vault password ACCEPTED — 2026-10-23 friction gone; code sent 10:48 AM ET, 3-min TTL, dead on arrival;…",
+    "link": "https://www.amazon.jobs/en/jobs/3184286/data-center-controls-engineer-deployment"
+   },
+   {
+    "role": "Lubrizol — Systems Engineer",
+    "req": "1431766100",
+    "parked": "2026-11-23",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Account created 11:12 AM ET but activation link arrives redacted — no tool can open it (LINK-DEAD-END); saved login rejected; reset mail never arrived (no account on…",
+    "link": ""
+   },
+   {
+    "role": "Strivacity — Senior Platform Engineer",
+    "req": "5155432007",
+    "parked": "2026-11-23",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Greenhouse verification-code reference not usable — four fresh handles all returned not_found; code never reached the form (code-sharing approval never completed); form…",
     "link": ""
    },
    {
@@ -4203,6 +4255,15 @@
     "deadline_passed": true,
     "blocker": "Eightfold 2FA setup wall: account already exists for [email] (vault has NO lumen.com login); email-code sign-in accepted 12:26 ET, then mandatory \"Set up 2-factor…",
     "link": "https://careers.lumen.com/careers/apply?pid=1133916758622"
+   },
+   {
+    "role": "TD Bank — Information Security Analyst II (US)",
+    "req": "R_1500756",
+    "parked": "2026-11-18",
+    "deadline": "2026-11-22",
+    "deadline_passed": true,
+    "blocker": "Workday account created for [email] with universal credential; sign-in blocked as unverified. Verification email Gmail 1a1f10ab4d439818 ([email], Nov 18 18:42 ET) — link…",
+    "link": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/details/Information-Security-Analyst-II--US-_R_1500756"
    }
   ],
   "pipeline_owned": [
@@ -4223,15 +4284,6 @@
     "deadline_passed": false,
     "blocker": "Workday saved login rejected (\"You may have entered the wrong email address or password or your account might be locked\"); Forgot Password submitted several times,…",
     "link": "https://rivhs.wd1.myworkdayjobs.com/en-US/Non-ProviderRHS/details/Network-Engineer--Onsite-Position-_2026-037980?q=Network%20Engineer"
-   },
-   {
-    "role": "Senesco Marine — IT Analyst and Helpdesk Technician",
-    "req": "ee3b4881ce05 (Breezy)",
-    "parked": "2026-11-22",
-    "deadline": "",
-    "deadline_passed": false,
-    "blocker": "Resume-upload approval card unanswered in detached run — Breezy apply page open (https:), file-upload approval \"Upload this file using Browser to https:\" pending since…",
-    "link": "https://senesco-marine.breezy.hr/p/ee3b4881ce05-it-analyst-and-helpdesk-technician/apply"
    },
    {
     "role": "SpiderRock Technology Solutions — Network Engineer II",
@@ -4953,6 +5005,15 @@
     "deadline_passed": false,
     "blocker": "Workday sign-in: saved vault login REJECTED (\"wrong email or account locked\"); autonomous reset opened for [email], \"Reset Password\" clicked 3x, dialog never changed —…",
     "link": "https://att.wd1.myworkdayjobs.com/en-US/ATTGeneral/job/USANJMiddletown--S-Laurel-Ave---Bldg-A200-S-Laurel-Ave-Bldg-A/Lead-Optical-Network-Engineer---Coherent-Transport---SDN_R-127862"
+   },
+   {
+    "role": "Senesco Marine — IT Analyst and Helpdesk Technician",
+    "req": "ee3b4881ce05 (Breezy)",
+    "parked": "2026-11-22",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Resume-upload approval card unanswered in detached run — Breezy apply page open (https:), file-upload approval \"Upload this file using Browser to https:\" pending since…",
+    "link": "https://senesco-marine.breezy.hr/p/ee3b4881ce05-it-analyst-and-helpdesk-technician/apply"
    },
    {
     "role": "Wills Group — Infrastructure Manager",
