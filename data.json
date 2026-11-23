@@ -1,18 +1,18 @@
 {
- "generated_at_et": "2026-11-23 11:28 ET",
+ "generated_at_et": "2026-11-23 14:02 ET",
  "summary": {
-  "total_submitted_ledger": 1085,
-  "today_submitted": 5,
+  "total_submitted_ledger": 1093,
+  "today_submitted": 13,
   "backfill_count": 149,
-  "human_gate": 396,
+  "human_gate": 395,
   "watch_reset": 2,
-  "pipeline_owned": 53,
+  "pipeline_owned": 65,
   "quota": 20,
   "portal_limit": 1,
   "hold": 3,
   "resolved": 36,
   "closed": 23,
-  "registry_rows": 535
+  "registry_rows": 546
  },
  "daily": [
   {
@@ -541,7 +541,7 @@
   },
   {
    "date": "2026-11-23",
-   "count": 5
+   "count": 13
   }
  ],
  "today": [
@@ -577,6 +577,62 @@
    "company": "SLR Consulting",
    "role": "Infrastructure Engineer",
    "req": "JR102305",
+   "date": "2026-11-23",
+   "email_confirmed": false
+  },
+  {
+   "company": "Fluidstack",
+   "role": "IT Engineer, Data Center",
+   "req": "exactly",
+   "date": "2026-11-23",
+   "email_confirmed": false
+  },
+  {
+   "company": "Vultr",
+   "role": "Data Center Technician, Wise, VA",
+   "req": "8115a1f3-55d3-49a9-89cc-6f910cdfbc51",
+   "date": "2026-11-23",
+   "email_confirmed": false
+  },
+  {
+   "company": "Vultr",
+   "role": "Data Center Technician, Piscataway, NJ",
+   "req": "09ecce69-d7e4-444b-8926-270c762c3bfd",
+   "date": "2026-11-23",
+   "email_confirmed": false
+  },
+  {
+   "company": "xAI",
+   "role": "Data Center Operations Technician, Linux - Memphis",
+   "req": "5266491007",
+   "date": "2026-11-23",
+   "email_confirmed": false
+  },
+  {
+   "company": "Oddball",
+   "role": "Integration Engineer",
+   "req": "8213812003",
+   "date": "2026-11-23",
+   "email_confirmed": false
+  },
+  {
+   "company": "Overstory",
+   "role": "Staff Site Relability Engineer",
+   "req": "ccad2727-6c05-4c68-9675-bf9c4ef51852",
+   "date": "2026-11-23",
+   "email_confirmed": false
+  },
+  {
+   "company": "Nscale",
+   "role": "Network Front-End Engineer",
+   "req": "check",
+   "date": "2026-11-23",
+   "email_confirmed": false
+  },
+  {
+   "company": "Munson Healthcare",
+   "role": "Sr. Network Engineer",
+   "req": "2987",
    "date": "2026-11-23",
    "email_confirmed": false
   }
@@ -798,15 +854,6 @@
     "deadline": "2027-09-17",
     "deadline_passed": false,
     "blocker": "hCaptcha drag-and-drop puzzle blocks the Submit button on jobs.lever.co; application fully completed (resume attached + parsed, profile filled, screening answered, $80k…",
-    "link": ""
-   },
-   {
-    "role": "T-Mobile USA, Inc. — Solutions Engineer, Wireless",
-    "req": "REQ376562",
-    "parked": "2026-11-23",
-    "deadline": "",
-    "deadline_passed": false,
-    "blocker": "Workday saved login rejected; Forgot Password submitted ~10:45 AM ET, reset email sent but unreadable — Gmail connector rate-limited (terminal)",
     "link": ""
    },
    {
@@ -4267,6 +4314,114 @@
    }
   ],
   "pipeline_owned": [
+   {
+    "role": "T-Mobile USA, Inc. — Solutions Engineer, Wireless",
+    "req": "REQ376562",
+    "parked": "2026-11-23",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Workday saved login rejected; Forgot Password submitted ~10:45 AM ET, reset email sent but unreadable — Gmail connector rate-limited (terminal) NOTE phase-639…",
+    "link": ""
+   },
+   {
+    "role": "AWS — Network Development Engineer, AWS Network - Core",
+    "req": "10602631",
+    "parked": "2026-11-23",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "IdPrism code #1 arrived 12:15:53 ET (Gmail 1a2096837d10bbd5) expired before entry; ONE permitted resend used ~12:23 ET, fresh code arrived 12:23:29 ET (Gmail…",
+    "link": ""
+   },
+   {
+    "role": "Google — Technical Program Manager II",
+    "req": "101274004165141190",
+    "parked": "2026-11-23",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Saved Secure Vault Google password REJECTED (\"Wrong password\") — stale-vault signal, NOT retried; \"Forgot password?\" reset flow blocked: passkey challenge, phone ending…",
+    "link": ""
+   },
+   {
+    "role": "Lenbrook — Systems Engineer",
+    "req": "LinkedIn 4492601197 (Paycom)",
+    "parked": "2026-11-23",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Saved Paycom login REJECTED (\"Error when signing into account\"), never retried; hCaptcha on sign-in modal CLEARED by bot-challenge specialist (drag-letter rounds, then…",
+    "link": ""
+   },
+   {
+    "role": "Amazon — Network Dev Engineer III, Data Services (AMZ10403606)",
+    "req": "job 10608014",
+    "parked": "2026-11-23",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Saved vault password ACCEPTED ~12:31 ET; IdPrism code #1 arrived 12:31:59 ET (Gmail 1a20976f3fbd10f7) but fetch round-trip took ~16 min (past 3-min TTL); single…",
+    "link": ""
+   },
+   {
+    "role": "FCC Environmental — IT OT Network Analyst",
+    "req": "JR103137 (Workday wd12.myworkdaysite.com)",
+    "parked": "2026-11-23",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Reached Step 1 of 7 Create Account In; form present and empty; nothing filled; no CAPTCHA; no \"already registered\" message. Blocker: no saved login signs in to…",
+    "link": ""
+   },
+   {
+    "role": "Nebius — Data Center Technician, Minnesota",
+    "req": "4765032101 (Greenhouse)",
+    "parked": "2026-11-23",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Greenhouse form FULLY FILLED, tailored résumé attached, submission blocked by Cloudflare Turnstile: single permitted solver attempt used and failed (checkbox clicked…",
+    "link": ""
+   },
+   {
+    "role": "Amazon — Network Development Engineer, Operations Network Engineering (ONE)",
+    "req": "10604594",
+    "parked": "2026-11-23",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Saved vault password ACCEPTED; IdPrism code step: three codes landed 13:28:50–13:28:55 ET (three concurrent Amazon sign-ins, unattributable); ONE permitted resend used,…",
+    "link": "https://www.amazon.jobs/en/jobs/10604594/network-development-engineer-operations-network-engineering-one"
+   },
+   {
+    "role": "Amazon — Network Development Engineer, AWS Direct Connect",
+    "req": "10465173",
+    "parked": "2026-11-23",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Saved vault password ACCEPTED (transient \"unsuccessful login attempts\" cleared via Refresh); IdPrism code step: three codes 13:28:50–13:28:55 ET unattributable +…",
+    "link": "https://www.amazon.jobs/en/jobs/10465173/network-development-engineer-aws-direct-connect"
+   },
+   {
+    "role": "Amazon — Network Deployment Technician, GND-NASA-Deploy",
+    "req": "10585647",
+    "parked": "2026-11-23",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Saved vault password ACCEPTED (temporary IdPrism lockout cleared on one refresh); IdPrism code step: codes unattributable (three concurrent Amazon sign-ins) + 13:30:23…",
+    "link": ""
+   },
+   {
+    "role": "City of Friendswood — IT Senior Systems & Network Administrator",
+    "req": "ApplicantPro 4280957 (LinkedIn 4493373958)",
+    "parked": "2026-11-23",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Direct route verified via the City's official site (no Adzuna). Email-verification gate: first code 13:29:49 ET (Gmail 1a209abe561f08d8) treated as expired; Resend 13:38…",
+    "link": "https://cifriendswoodtx.applicantpro.com/jobs/4280957"
+   },
+   {
+    "role": "NuAxis — Corporate IT Systems Administrator",
+    "req": "rid=4299 (Taleo NUAXINNO)",
+    "parked": "2026-11-23",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Taleo saved login REJECTED (\"Email address and password do not match our records\"), never retried. Password reset requested TWICE (~13:31 and ~13:43 ET); reset email…",
+    "link": ""
+   },
    {
     "role": "Nebraska Methodist Health System — Information Security Engineer",
     "req": "JR116793",
