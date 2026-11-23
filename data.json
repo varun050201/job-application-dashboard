@@ -1,18 +1,18 @@
 {
- "generated_at_et": "2026-11-23 14:02 ET",
+ "generated_at_et": "2026-11-23 16:48 ET",
  "summary": {
   "total_submitted_ledger": 1093,
   "today_submitted": 13,
   "backfill_count": 149,
   "human_gate": 395,
   "watch_reset": 2,
-  "pipeline_owned": 65,
+  "pipeline_owned": 68,
   "quota": 20,
   "portal_limit": 1,
   "hold": 3,
   "resolved": 36,
   "closed": 23,
-  "registry_rows": 546
+  "registry_rows": 549
  },
  "daily": [
   {
@@ -4421,6 +4421,33 @@
     "deadline_passed": false,
     "blocker": "Taleo saved login REJECTED (\"Email address and password do not match our records\"), never retried. Password reset requested TWICE (~13:31 and ~13:43 ET); reset email…",
     "link": ""
+   },
+   {
+    "role": "Nebius — Senior Network Engineer",
+    "req": "4817202101 (Greenhouse)",
+    "parked": "2026-11-23",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Cloudflare Turnstile verification FAILED on the single allowed solver attempt (\"Verification failed\", ~16:28 ET); form fully filled + tailored résumé uploaded, NOT…",
+    "link": "https://careers.nebius.com/?gh_jid=4817202101"
+   },
+   {
+    "role": "Duke Health — IT Analyst - Cloud Engineer 2",
+    "req": "277485 (SuccessFactors career4.successfactors.com, dukeunive",
+    "parked": "2026-11-23",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Saved vault login REJECTED (\"Invalid email address or password\"); autonomous reset requested ~16:33 ET — reset mail ARRIVED 16:33:55 ET (Gmail 1a20a546eb792827) proving…",
+    "link": ""
+   },
+   {
+    "role": "ByteDance — Infrastructure Delivery Engineer Graduate (Server Delivery) - 2027 Start",
+    "req": "Job Code A05264 (joinbytedance.com)",
+    "parked": "2026-11-23",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Saved vault login REJECTED (\"Incorrect email or password\" — universal credential tried first per login order; vault-filled email typo corrected); rule-8b reset…",
+    "link": "https://joinbytedance.com/search/7669854602477684997"
    },
    {
     "role": "Nebraska Methodist Health System — Information Security Engineer",
