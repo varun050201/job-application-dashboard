@@ -1,18 +1,18 @@
 {
- "generated_at_et": "2026-11-23 17:42 ET",
+ "generated_at_et": "2026-11-24 12:07 ET",
  "summary": {
   "total_submitted_ledger": 1096,
-  "today_submitted": 16,
+  "today_submitted": 0,
   "backfill_count": 151,
   "human_gate": 395,
   "watch_reset": 2,
-  "pipeline_owned": 69,
-  "quota": 20,
+  "pipeline_owned": 70,
+  "quota": 19,
   "portal_limit": 1,
   "hold": 3,
   "resolved": 36,
-  "closed": 23,
-  "registry_rows": 550
+  "closed": 24,
+  "registry_rows": 551
  },
  "daily": [
   {
@@ -544,120 +544,7 @@
    "count": 16
   }
  ],
- "today": [
-  {
-   "company": "Kong",
-   "role": "Senior SRE, Managed Gateways",
-   "req": "68655cc7-790e-4f8c-882f-5b00f04d1bab",
-   "date": "2026-11-23",
-   "email_confirmed": false
-  },
-  {
-   "company": "Sensia",
-   "role": "Global IT Operations Manager, Sensia",
-   "req": "743999838066147",
-   "date": "2026-11-23",
-   "email_confirmed": false
-  },
-  {
-   "company": "Pie Insurance",
-   "role": "Senior Software Engineer - Infrastructure",
-   "req": "6220010004",
-   "date": "2026-11-23",
-   "email_confirmed": false
-  },
-  {
-   "company": "Claroty",
-   "role": "OT Cybersecurity Architect",
-   "req": "P-1384494",
-   "date": "2026-11-23",
-   "email_confirmed": false
-  },
-  {
-   "company": "SLR Consulting",
-   "role": "Infrastructure Engineer",
-   "req": "JR102305",
-   "date": "2026-11-23",
-   "email_confirmed": false
-  },
-  {
-   "company": "Fluidstack",
-   "role": "IT Engineer, Data Center",
-   "req": "exactly",
-   "date": "2026-11-23",
-   "email_confirmed": false
-  },
-  {
-   "company": "Vultr",
-   "role": "Data Center Technician, Wise, VA",
-   "req": "8115a1f3-55d3-49a9-89cc-6f910cdfbc51",
-   "date": "2026-11-23",
-   "email_confirmed": false
-  },
-  {
-   "company": "Vultr",
-   "role": "Data Center Technician, Piscataway, NJ",
-   "req": "09ecce69-d7e4-444b-8926-270c762c3bfd",
-   "date": "2026-11-23",
-   "email_confirmed": false
-  },
-  {
-   "company": "xAI",
-   "role": "Data Center Operations Technician, Linux - Memphis",
-   "req": "5266491007",
-   "date": "2026-11-23",
-   "email_confirmed": false
-  },
-  {
-   "company": "Oddball",
-   "role": "Integration Engineer",
-   "req": "8213812003",
-   "date": "2026-11-23",
-   "email_confirmed": false
-  },
-  {
-   "company": "Overstory",
-   "role": "Staff Site Relability Engineer",
-   "req": "ccad2727-6c05-4c68-9675-bf9c4ef51852",
-   "date": "2026-11-23",
-   "email_confirmed": false
-  },
-  {
-   "company": "Nscale",
-   "role": "Network Front-End Engineer",
-   "req": "check",
-   "date": "2026-11-23",
-   "email_confirmed": false
-  },
-  {
-   "company": "Munson Healthcare",
-   "role": "Sr. Network Engineer",
-   "req": "2987",
-   "date": "2026-11-23",
-   "email_confirmed": false
-  },
-  {
-   "company": "Arctiq",
-   "role": "NOC Specialist",
-   "req": "304",
-   "date": "2026-11-23",
-   "email_confirmed": false
-  },
-  {
-   "company": "Illinois Casualty",
-   "role": "Network Administrator",
-   "req": "1192",
-   "date": "2026-11-23",
-   "email_confirmed": false
-  },
-  {
-   "company": "Bank of America",
-   "role": "Infrastructure Engineer Lead - Network Automation",
-   "req": "26043448",
-   "date": "2026-11-23",
-   "email_confirmed": false
-  }
- ],
+ "today": [],
  "linkedin": {
   "batch_date": "2026-11-18",
   "staged_count": 16,
@@ -4336,6 +4223,15 @@
   ],
   "pipeline_owned": [
    {
+    "role": "Northern Virginia Electric Cooperative — Network Engineer I",
+    "req": "654799941 (SaaShr/UKG Ready)",
+    "parked": "2026-11-24",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "SaaShr \"Quick security check\" captcha: single permitted solver attempt used and failed (typed \"[zip]\", page did not advance; no retry per one-attempt contract). Guest…",
+    "link": "https://secure7.saashr.com/ta/6202394.careers?ShowJob=654799941"
+   },
+   {
     "role": "T-Mobile USA, Inc. — Solutions Engineer, Wireless",
     "req": "REQ376562",
     "parked": "2026-11-23",
@@ -4959,15 +4855,6 @@
   ],
   "quota": [
    {
-    "role": "Google — Network Engineer",
-    "req": "101242036723557062 (Google Careers)",
-    "parked": "2026-11-10",
-    "deadline": "",
-    "deadline_passed": false,
-    "blocker": "Google Careers 30-day quota FULL: trailing-30d confirmations Oct 12 + Oct 22 x2 = 3 vs cap 3; gates PASS on merits (Bachelor's + 3 yrs, no sponsorship text). Do NOT…",
-    "link": ""
-   },
-   {
     "role": "Google — Security Engineer",
     "req": "n/a (Google Careers, exact variant unpinned)",
     "parked": "2026-11-09",
@@ -5552,6 +5439,15 @@
     "deadline_passed": false,
     "blocker": "NO company-portal application path exists: LinkedIn posting shows ONLY \"Easy Apply\" (no \"Apply on company website\" link); HiredBuddy portal https: lists 12 roles, NONE…",
     "link": "https://hiredbuddy.com/opportunities"
+   },
+   {
+    "role": "Google — Network Engineer",
+    "req": "101242036723557062 (Google Careers)",
+    "parked": "2026-11-10",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Google Careers 30-day quota FULL: trailing-30d confirmations Oct 12 + Oct 22 x2 = 3 vs cap 3; gates PASS on merits (Bachelor's + 3 yrs, no sponsorship text). Do NOT…",
+    "link": ""
    },
    {
     "role": "Hewlett Packard Enterprise — Senior Network System Engineer",
