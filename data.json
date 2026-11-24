@@ -1,10 +1,10 @@
 {
- "generated_at_et": "2026-11-24 17:14 ET",
+ "generated_at_et": "2026-11-24 18:45 ET",
  "summary": {
-  "total_submitted_ledger": 1101,
-  "today_submitted": 5,
+  "total_submitted_ledger": 1102,
+  "today_submitted": 6,
   "backfill_count": 151,
-  "human_gate": 399,
+  "human_gate": 400,
   "watch_reset": 2,
   "pipeline_owned": 71,
   "quota": 19,
@@ -12,7 +12,7 @@
   "hold": 3,
   "resolved": 36,
   "closed": 24,
-  "registry_rows": 556
+  "registry_rows": 557
  },
  "daily": [
   {
@@ -545,7 +545,7 @@
   },
   {
    "date": "2026-11-24",
-   "count": 5
+   "count": 6
   }
  ],
  "today": [
@@ -581,6 +581,13 @@
    "company": "Skechers",
    "role": "Analyst II, Cloud Engineering**",
    "req": "",
+   "date": "2026-11-24",
+   "email_confirmed": true
+  },
+  {
+   "company": "Ainsworth Game Technology",
+   "role": "Network Administrator I",
+   "req": "9201052796263_7",
    "date": "2026-11-24",
    "email_confirmed": true
   }
@@ -838,6 +845,15 @@
     "deadline": "",
     "deadline_passed": false,
     "blocker": "STRUCTURAL origin mismatch on identity verification (otp_hunter S94 rule) — the protected code reference was REJECTED by the login service with \"This code isn't…",
+    "link": ""
+   },
+   {
+    "role": "Potawatomi Federal Solutions, LLC — Network Engineer",
+    "req": "4399 (Taleo phf.tbe.taleo.net)",
+    "parked": "2026-11-24",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Saved vault login rejected (\"Email address and password you've specified do not match our records\"); password-reset requested ~6:06 PM ET + ONE resend ~6:14 PM ET —…",
     "link": ""
    },
    {
