@@ -1,18 +1,18 @@
 {
- "generated_at_et": "2026-11-24 12:07 ET",
+ "generated_at_et": "2026-11-24 17:14 ET",
  "summary": {
-  "total_submitted_ledger": 1096,
-  "today_submitted": 0,
+  "total_submitted_ledger": 1101,
+  "today_submitted": 5,
   "backfill_count": 151,
-  "human_gate": 395,
+  "human_gate": 399,
   "watch_reset": 2,
-  "pipeline_owned": 70,
+  "pipeline_owned": 71,
   "quota": 19,
   "portal_limit": 1,
   "hold": 3,
   "resolved": 36,
   "closed": 24,
-  "registry_rows": 551
+  "registry_rows": 556
  },
  "daily": [
   {
@@ -542,9 +542,49 @@
   {
    "date": "2026-11-23",
    "count": 16
+  },
+  {
+   "date": "2026-11-24",
+   "count": 5
   }
  ],
- "today": [],
+ "today": [
+  {
+   "company": "Ascension",
+   "role": "Senior Network WAN Engineer",
+   "req": "",
+   "date": "2026-11-24",
+   "email_confirmed": false
+  },
+  {
+   "company": "Sedgwick",
+   "role": "Security Engineer III/DLP",
+   "req": "R80482",
+   "date": "2026-11-24",
+   "email_confirmed": false
+  },
+  {
+   "company": "Armacell",
+   "role": "Infrastructure Engineer",
+   "req": "R009842",
+   "date": "2026-11-24",
+   "email_confirmed": false
+  },
+  {
+   "company": "Maricopa County",
+   "role": "ITS Network Lead",
+   "req": "JR26942",
+   "date": "2026-11-24",
+   "email_confirmed": false
+  },
+  {
+   "company": "Skechers",
+   "role": "Analyst II, Cloud Engineering**",
+   "req": "",
+   "date": "2026-11-24",
+   "email_confirmed": true
+  }
+ ],
  "linkedin": {
   "batch_date": "2026-11-18",
   "staged_count": 16,
@@ -762,6 +802,42 @@
     "deadline": "2027-09-17",
     "deadline_passed": false,
     "blocker": "hCaptcha drag-and-drop puzzle blocks the Submit button on jobs.lever.co; application fully completed (resume attached + parsed, profile filled, screening answered, $80k…",
+    "link": ""
+   },
+   {
+    "role": "Casey's — Associate Network Engineer",
+    "req": "5001235604106 (#16399, ADP myJobs)",
+    "parked": "2026-11-24",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "ADP Step 2 \"Rehire Check\" requires PROTECTED fields: \"Last 4 digits of SSN\" + \"Birthday\" (day) — pipeline never fills SSN Step 1 Contact Information complete (signed in…",
+    "link": "https://myjobs.adp.com/caseysstoresupportcenter/cx/job-details?__tx_annotation=false&rb=LINKEDIN&reqId=5001235604106"
+   },
+   {
+    "role": "IGT — Network Engineer 2",
+    "req": "1376480057 (Requisition ID 19686, Reno NV)",
+    "parked": "2026-11-24",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "No saved login for successfactors.eu (IGT portal sign-in hosted at career2.successfactors.eu?company=igtanevadaP2); universal job-portal credential unreachable in…",
+    "link": "https://career2.successfactors.eu/careers?company=igtanevadaP2"
+   },
+   {
+    "role": "SoFi Tech Solutions — Network Operations Engineer — IT Infrastructure",
+    "req": "8201653003 (Greenhouse)",
+    "parked": "2026-11-24",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "ONE unanswered required question — \"AI Recording of Interviews\" consent (Yes): consent to SoFi using AI to record interview(s), audio+video, for the whole interview…",
+    "link": ""
+   },
+   {
+    "role": "Yum! Brands — Network Engineer III",
+    "req": "5718 (LinkedIn 4484392945, Oracle HCM)",
+    "parked": "2026-11-24",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "STRUCTURAL origin mismatch on identity verification (otp_hunter S94 rule) — the protected code reference was REJECTED by the login service with \"This code isn't…",
     "link": ""
    },
    {
@@ -4230,6 +4306,15 @@
     "deadline_passed": false,
     "blocker": "SaaShr \"Quick security check\" captcha: single permitted solver attempt used and failed (typed \"[zip]\", page did not advance; no retry per one-attempt contract). Guest…",
     "link": "https://secure7.saashr.com/ta/6202394.careers?ShowJob=654799941"
+   },
+   {
+    "role": "The Recreational Group — IT Specialist",
+    "req": "4977 (job ID 87486, Dalton GA)",
+    "parked": "2026-11-24",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "CAPTCHA at Paycom account creation — one permitted attempt used and failed. Saved Paycom login exists in vault but was REJECTED (\"Error when signing into account\") after…",
+    "link": "https://www.paycomonline.net/v4/ats/web.php/portal/50100864E879AFBAFFC445C7366CFFA1/jobs/87486#!apply-sign-in"
    },
    {
     "role": "T-Mobile USA, Inc. — Solutions Engineer, Wireless",
