@@ -1,18 +1,18 @@
 {
- "generated_at_et": "2026-11-25 12:07 ET",
+ "generated_at_et": "2026-11-25 18:30 ET",
  "summary": {
-  "total_submitted_ledger": 1108,
-  "today_submitted": 0,
+  "total_submitted_ledger": 1116,
+  "today_submitted": 8,
   "backfill_count": 151,
-  "human_gate": 413,
+  "human_gate": 414,
   "watch_reset": 2,
-  "pipeline_owned": 74,
+  "pipeline_owned": 75,
   "quota": 19,
   "portal_limit": 1,
   "hold": 3,
-  "resolved": 36,
-  "closed": 24,
-  "registry_rows": 573
+  "resolved": 37,
+  "closed": 26,
+  "registry_rows": 578
  },
  "daily": [
   {
@@ -546,9 +546,70 @@
   {
    "date": "2026-11-24",
    "count": 12
+  },
+  {
+   "date": "2026-11-25",
+   "count": 8
   }
  ],
- "today": [],
+ "today": [
+  {
+   "company": "Base Power",
+   "role": "Software Engineer, Infrastructure**",
+   "req": "10772e1c",
+   "date": "2026-11-25",
+   "email_confirmed": false
+  },
+  {
+   "company": "Flexential",
+   "role": "Data Center Technician II",
+   "req": "4520787009",
+   "date": "2026-11-25",
+   "email_confirmed": false
+  },
+  {
+   "company": "nCino",
+   "role": "Technical Data Support Engineer",
+   "req": "4514468009",
+   "date": "2026-11-25",
+   "email_confirmed": false
+  },
+  {
+   "company": "Five9",
+   "role": "Data Center Technician",
+   "req": "6223750004",
+   "date": "2026-11-25",
+   "email_confirmed": true
+  },
+  {
+   "company": "O'Reilly Auto Parts",
+   "role": "Network Engineer II",
+   "req": "R161981",
+   "date": "2026-11-25",
+   "email_confirmed": false
+  },
+  {
+   "company": "Cloudflare",
+   "role": "Network Engineer",
+   "req": "8407666",
+   "date": "2026-11-25",
+   "email_confirmed": false
+  },
+  {
+   "company": "TUSCOM",
+   "role": "Network Engineer",
+   "req": "n",
+   "date": "2026-11-25",
+   "email_confirmed": false
+  },
+  {
+   "company": "IREN",
+   "role": "Operations Engineer I, Network",
+   "req": "d5128fb3-0efb-4b60-940d-9bb3799942e8",
+   "date": "2026-11-25",
+   "email_confirmed": false
+  }
+ ],
  "linkedin": {
   "batch_date": "2026-11-18",
   "staged_count": 16,
@@ -812,6 +873,24 @@
     "deadline_passed": false,
     "blocker": "STAGED L20231, tailored résumé (all gates PASS); browser sign-in died Nov 24 waiting on an IdPrism verification code only Varun can supply (codes are protected — digits…",
     "link": "https://www.amazon.jobs/en/jobs/10612335/data-center-security-manager-dc-security-americas-southwest"
+   },
+   {
+    "role": "Publix Super Markets — Principal Network Engineer - Data Center Services (Alpharetta DC)",
+    "req": "39708BR (BrassRing)",
+    "parked": "2026-11-25",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "NEEDS-PASSWORD-CAPTURE for brassring.com — no saved login for brassring.com in the Secure Vault; universal job-portal credential unavailable in this detached run;…",
+    "link": "https://sjobs.brassring.com/TGNewUI/Search/Home/Home?partnerid=26173&siteid=5197#home"
+   },
+   {
+    "role": "Culligan International — Network Engineer",
+    "req": "NETWO008813 (UltiPro, tenant cul1000cull2)",
+    "parked": "2026-11-25",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Saved UltiPro login REJECTED (\"Invalid email or password\" ~5:12 PM ET); rule-8b reset requested ~5:12 PM ET + one resend ~5:15 PM ET — reset email NEVER arrived (Gmail…",
+    "link": ""
    },
    {
     "role": "Casey's — Associate Network Engineer",
@@ -3334,15 +3413,6 @@
     "link": ""
    },
    {
-    "role": "Electronic Arts — Anti-Cheat Operations Engineer I",
-    "req": "213134 (Phenom)",
-    "parked": "2026-10-17",
-    "deadline": "",
-    "deadline_passed": false,
-    "blocker": "Secure Vault sign-in service failed at tool level ('The operation did not complete, and it changed nothing' on 6 attempts; sign-in consent card shown with no one to…",
-    "link": "https://jobs.ea.com/es_ES/careers/ApplicationMethods?jobId=213134"
-   },
-   {
     "role": "West Virginia University — (Hybrid) Research Systems Analyst – WVU Cancer Institute Clinical Research Unit",
     "req": "n/a (Taleo job 30471)",
     "parked": "2026-10-17",
@@ -4389,30 +4459,30 @@
   ],
   "pipeline_owned": [
    {
-    "role": "Intelligence Security Laboratories — Infrastructure Engineer (Washington DC, Hybrid)",
-    "req": "28b30132 (Ashby)",
-    "parked": "2026-11-25",
-    "deadline": "",
-    "deadline_passed": false,
-    "blocker": "Fresh Gmail check blocked — connector rate-limited terminal ~10:00 ET; form fully filled, resume uploaded, tab left open",
-    "link": ""
-   },
-   {
-    "role": "Base Power — Software Engineer, Infrastructure (Austin TX, in-person)",
-    "req": "10772e1c (Ashby)",
-    "parked": "2026-11-25",
-    "deadline": "",
-    "deadline_passed": false,
-    "blocker": "Fresh Gmail check blocked — connector rate-limited terminal ~10:00 ET; form fully filled, resume uploaded, tab left open; LinkedIn-optional check owed at resumption",
-    "link": ""
-   },
-   {
     "role": "Waabi — Physical Infrastructure Engineer (On-premise) (San Francisco)",
     "req": "933f2e35 (Lever)",
     "parked": "2026-11-25",
     "deadline": "",
     "deadline_passed": false,
-    "blocker": "Fence reached mid-application — fresh Gmail check pending (applier waited on in-browser Gmail approval instead of asking coordinator); form fully filled, resume…",
+    "blocker": "hCaptcha on Lever application — one solver attempt exhausted in phase-648 (12:00 sweep); form fully filled, resume uploaded, tab t1 retained",
+    "link": ""
+   },
+   {
+    "role": "London Stock Exchange Group — Principal Network Engineer (St. Louis)",
+    "req": "R0123301 (Workday)",
+    "parked": "2026-11-25",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Saved Workday credential rejected; 4 reset emails arrived; reset link pending Varun's approval of code-sharing; tab t2 retained on Forgot Password page; posting live at…",
+    "link": ""
+   },
+   {
+    "role": "University of Utah Health — Health Plans System Analyst I or II (Murray UT)",
+    "req": "87752 (iCIMS)",
+    "parked": "2026-11-25",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "hCaptcha stuck — one solver attempt completed the challenge but Next stayed disabled 75s+, never advanced to password step; no resume uploaded, no form filled; tab t3…",
     "link": ""
    },
    {
@@ -5053,6 +5123,15 @@
     "deadline_passed": false,
     "blocker": "Phase-227 applier retry (~20:55–21:06 ET) FINAL: posting verified OPEN (req [zip], Cincinnati OH, working APPLY); Secure Vault lookup = NO saved login for icims.com;…",
     "link": ""
+   },
+   {
+    "role": "SageNet — Temporary Tier 2 NOC Associate (repost)",
+    "req": "TEMPO001744 (UKG)",
+    "parked": "2026-11-25",
+    "deadline": "2026-10-27",
+    "deadline_passed": true,
+    "blocker": "Saved UKG credential rejected ('Invalid email or password'); reset email arrived 13:35:06 EST; reset link pending Varun's approval of code-sharing; tab t1 retained on…",
+    "link": ""
    }
   ],
   "quota": [
@@ -5306,6 +5385,15 @@
     "deadline_passed": false,
     "blocker": "Workday sign-in: saved vault login REJECTED (\"wrong email or account locked\"); autonomous reset opened for [email], \"Reset Password\" clicked 3x, dialog never changed —…",
     "link": "https://att.wd1.myworkdayjobs.com/en-US/ATTGeneral/job/USANJMiddletown--S-Laurel-Ave---Bldg-A200-S-Laurel-Ave-Bldg-A/Lead-Optical-Network-Engineer---Coherent-Transport---SDN_R-127862"
+   },
+   {
+    "role": "Base Power — Software Engineer, Infrastructure (Austin TX, in-person)",
+    "req": "10772e1c (Ashby)",
+    "parked": "2026-11-25",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Fresh Gmail check blocked — connector rate-limited terminal ~10:00 ET; form fully filled, resume uploaded, tab left open; LinkedIn-optional check owed at resumption",
+    "link": ""
    },
    {
     "role": "Senesco Marine — IT Analyst and Helpdesk Technician",
@@ -5616,6 +5704,15 @@
   ],
   "closed": [
    {
+    "role": "Intelligence Security Laboratories — Infrastructure Engineer (Washington DC, Hybrid)",
+    "req": "28b30132 (Ashby)",
+    "parked": "2026-11-25",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Fresh Gmail check blocked — connector rate-limited terminal ~10:00 ET; form fully filled, resume uploaded, tab left open",
+    "link": ""
+   },
+   {
     "role": "City of Bixby — Network Engineer",
     "req": "Network-Engineer-84 (LinkedIn 4493503031)",
     "parked": "2026-11-22",
@@ -5686,6 +5783,15 @@
     "deadline_passed": false,
     "blocker": "ACCOUNT CREATED phase-321 (keyboard Terms breakthrough 18:21–18:24 ET; multiple successful sign-ins since confirm the account exists — resolves the pre-321 no-account…",
     "link": ""
+   },
+   {
+    "role": "Electronic Arts — Anti-Cheat Operations Engineer I",
+    "req": "213134 (Phenom)",
+    "parked": "2026-10-17",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Secure Vault sign-in service failed at tool level ('The operation did not complete, and it changed nothing' on 6 attempts; sign-in consent card shown with no one to…",
+    "link": "https://jobs.ea.com/es_ES/careers/ApplicationMethods?jobId=213134"
    },
    {
     "role": "Mastery Schools — Business Systems Analyst",
