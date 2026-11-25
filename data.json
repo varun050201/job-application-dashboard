@@ -1,10 +1,10 @@
 {
- "generated_at_et": "2026-11-25 11:33 ET",
+ "generated_at_et": "2026-11-25 12:07 ET",
  "summary": {
   "total_submitted_ledger": 1108,
   "today_submitted": 0,
   "backfill_count": 151,
-  "human_gate": 412,
+  "human_gate": 413,
   "watch_reset": 2,
   "pipeline_owned": 74,
   "quota": 19,
@@ -12,7 +12,7 @@
   "hold": 3,
   "resolved": 36,
   "closed": 24,
-  "registry_rows": 572
+  "registry_rows": 573
  },
  "daily": [
   {
@@ -803,6 +803,15 @@
     "deadline_passed": false,
     "blocker": "Email-code wall at \"Confirm Your Identity\" (ejis.fa.us6.oraclecloud.com) — code unretrievable (Gmail rate-limited terminal this attempt); nothing filled; apply-before…",
     "link": "https://careers.mountsinai.org/jobs/3044495"
+   },
+   {
+    "role": "Amazon Data Services — Data Center Security Manager, DC Security Americas Southwest",
+    "req": "10612335",
+    "parked": "2026-11-25",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "STAGED L20231, tailored résumé (all gates PASS); browser sign-in died Nov 24 waiting on an IdPrism verification code only Varun can supply (codes are protected — digits…",
+    "link": "https://www.amazon.jobs/en/jobs/10612335/data-center-security-manager-dc-security-americas-southwest"
    },
    {
     "role": "Casey's — Associate Network Engineer",
