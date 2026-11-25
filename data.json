@@ -1,18 +1,18 @@
 {
- "generated_at_et": "2026-11-24 20:33 ET",
+ "generated_at_et": "2026-11-25 11:33 ET",
  "summary": {
-  "total_submitted_ledger": 1102,
-  "today_submitted": 6,
+  "total_submitted_ledger": 1108,
+  "today_submitted": 0,
   "backfill_count": 151,
-  "human_gate": 408,
+  "human_gate": 412,
   "watch_reset": 2,
-  "pipeline_owned": 71,
+  "pipeline_owned": 74,
   "quota": 19,
   "portal_limit": 1,
   "hold": 3,
   "resolved": 36,
   "closed": 24,
-  "registry_rows": 565
+  "registry_rows": 572
  },
  "daily": [
   {
@@ -545,53 +545,10 @@
   },
   {
    "date": "2026-11-24",
-   "count": 6
+   "count": 12
   }
  ],
- "today": [
-  {
-   "company": "Ascension",
-   "role": "Senior Network WAN Engineer",
-   "req": "",
-   "date": "2026-11-24",
-   "email_confirmed": false
-  },
-  {
-   "company": "Sedgwick",
-   "role": "Security Engineer III/DLP",
-   "req": "R80482",
-   "date": "2026-11-24",
-   "email_confirmed": false
-  },
-  {
-   "company": "Armacell",
-   "role": "Infrastructure Engineer",
-   "req": "R009842",
-   "date": "2026-11-24",
-   "email_confirmed": false
-  },
-  {
-   "company": "Maricopa County",
-   "role": "ITS Network Lead",
-   "req": "JR26942",
-   "date": "2026-11-24",
-   "email_confirmed": false
-  },
-  {
-   "company": "Skechers",
-   "role": "Analyst II, Cloud Engineering**",
-   "req": "",
-   "date": "2026-11-24",
-   "email_confirmed": true
-  },
-  {
-   "company": "Ainsworth Game Technology",
-   "role": "Network Administrator I",
-   "req": "9201052796263_7",
-   "date": "2026-11-24",
-   "email_confirmed": true
-  }
- ],
+ "today": [],
  "linkedin": {
   "batch_date": "2026-11-18",
   "staged_count": 16,
@@ -810,6 +767,42 @@
     "deadline_passed": false,
     "blocker": "hCaptcha drag-and-drop puzzle blocks the Submit button on jobs.lever.co; application fully completed (resume attached + parsed, profile filled, screening answered, $80k…",
     "link": ""
+   },
+   {
+    "role": "Mount Sinai Health System — Network Engineer (DTP)",
+    "req": "59024-005 (Oracle Cloud)",
+    "parked": "2026-11-25",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Oracle Cloud sign-in — no saved oraclecloud.com login; identity OTP 18:45 ET Nov 24 expired in 10 min; portal holds a SAVED DRAFT only (\"Continue to apply\" email 18:40…",
+    "link": ""
+   },
+   {
+    "role": "Seton Hall University — Sr Network Engineer",
+    "req": "497530 (PageUp)",
+    "parked": "2026-11-25",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "PageUp sign-in — fresh code needed; one-time codes 12:23 + 12:38 ET Nov 24 both expired; APPLYING_PRE_SUBMIT L20147 never got past sign-in; Gmail 0 confirmations",
+    "link": ""
+   },
+   {
+    "role": "Southern Tire Mart — Network Administrator",
+    "req": "NETWO004713 (UKG Pro)",
+    "parked": "2026-11-25",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "UKG credential-entry unavailable in detached run — no ukg.net login; posting verified OPEN on live UKG Pro board; Gmail 0 messages (inbox + spam)",
+    "link": ""
+   },
+   {
+    "role": "Mount Sinai Health System — Applications Analyst II-MSH-[zip]-048 (Oceanside NY)",
+    "req": "3044495 (Oracle Candidate Experience)",
+    "parked": "2026-11-25",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Email-code wall at \"Confirm Your Identity\" (ejis.fa.us6.oraclecloud.com) — code unretrievable (Gmail rate-limited terminal this attempt); nothing filled; apply-before…",
+    "link": "https://careers.mountsinai.org/jobs/3044495"
    },
    {
     "role": "Casey's — Associate Network Engineer",
@@ -4386,6 +4379,33 @@
    }
   ],
   "pipeline_owned": [
+   {
+    "role": "Intelligence Security Laboratories — Infrastructure Engineer (Washington DC, Hybrid)",
+    "req": "28b30132 (Ashby)",
+    "parked": "2026-11-25",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Fresh Gmail check blocked — connector rate-limited terminal ~10:00 ET; form fully filled, resume uploaded, tab left open",
+    "link": ""
+   },
+   {
+    "role": "Base Power — Software Engineer, Infrastructure (Austin TX, in-person)",
+    "req": "10772e1c (Ashby)",
+    "parked": "2026-11-25",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Fresh Gmail check blocked — connector rate-limited terminal ~10:00 ET; form fully filled, resume uploaded, tab left open; LinkedIn-optional check owed at resumption",
+    "link": ""
+   },
+   {
+    "role": "Waabi — Physical Infrastructure Engineer (On-premise) (San Francisco)",
+    "req": "933f2e35 (Lever)",
+    "parked": "2026-11-25",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Fence reached mid-application — fresh Gmail check pending (applier waited on in-browser Gmail approval instead of asking coordinator); form fully filled, resume…",
+    "link": ""
+   },
    {
     "role": "Northern Virginia Electric Cooperative — Network Engineer I",
     "req": "654799941 (SaaShr/UKG Ready)",
