@@ -1,18 +1,18 @@
 {
- "generated_at_et": "2026-11-26 12:38 ET",
+ "generated_at_et": "2026-11-26 13:07 ET",
  "summary": {
-  "total_submitted_ledger": 1121,
-  "today_submitted": 3,
+  "total_submitted_ledger": 1123,
+  "today_submitted": 5,
   "backfill_count": 151,
   "human_gate": 414,
   "watch_reset": 2,
-  "pipeline_owned": 77,
+  "pipeline_owned": 79,
   "quota": 19,
   "portal_limit": 1,
   "hold": 3,
   "resolved": 37,
   "closed": 26,
-  "registry_rows": 580
+  "registry_rows": 582
  },
  "daily": [
   {
@@ -553,7 +553,7 @@
   },
   {
    "date": "2026-11-26",
-   "count": 3
+   "count": 5
   }
  ],
  "today": [
@@ -575,6 +575,20 @@
    "company": "XenTegra",
    "role": "Solutions Architect, Modern Security & Networking",
    "req": "5492346008",
+   "date": "2026-11-26",
+   "email_confirmed": false
+  },
+  {
+   "company": "FORT Robotics",
+   "role": "Systems Engineer III",
+   "req": "119",
+   "date": "2026-11-26",
+   "email_confirmed": false
+  },
+  {
+   "company": "Trace3",
+   "role": "Network Operations Center",
+   "req": "8417899",
    "date": "2026-11-26",
    "email_confirmed": false
   }
@@ -4444,6 +4458,24 @@
     "deadline_passed": false,
     "blocker": "IdPrism email-verification code rejected as DomainMismatch after one reference attempt (S94); code expired, no re-issue",
     "link": "https://www.amazon.jobs/en/jobs/10608245/data-center-engineering-operations-technician"
+   },
+   {
+    "role": "Supermicro — Data Center Engineer",
+    "req": "30608",
+    "parked": "2026-11-26",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Saved login rejected; reset link redacted in Gmail (LINK-DEAD-END, Gmail 1a218deac249d916, 12:19:35 ET)",
+    "link": ""
+   },
+   {
+    "role": "re:Cycle Reverse Logistics — Systems Support Engineer",
+    "req": "10614473",
+    "parked": "2026-11-26",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "IdPrism code expired before fill (3-min TTL; freshest 12:29:18 ET expired ~12:32 ET); Gmail check done by coordinator via connector, CLEAR",
+    "link": "https://www.amazon.jobs/en/jobs/10614473/systems-support-engineer-re-cycle-reverse-logistics"
    },
    {
     "role": "Waabi — Physical Infrastructure Engineer (On-premise) (San Francisco)",
