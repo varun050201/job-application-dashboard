@@ -1,18 +1,18 @@
 {
- "generated_at_et": "2026-11-25 21:00 ET",
+ "generated_at_et": "2026-11-26 12:38 ET",
  "summary": {
-  "total_submitted_ledger": 1118,
-  "today_submitted": 10,
+  "total_submitted_ledger": 1121,
+  "today_submitted": 3,
   "backfill_count": 151,
   "human_gate": 414,
   "watch_reset": 2,
-  "pipeline_owned": 75,
+  "pipeline_owned": 77,
   "quota": 19,
   "portal_limit": 1,
   "hold": 3,
   "resolved": 37,
   "closed": 26,
-  "registry_rows": 578
+  "registry_rows": 580
  },
  "daily": [
   {
@@ -550,77 +550,32 @@
   {
    "date": "2026-11-25",
    "count": 10
+  },
+  {
+   "date": "2026-11-26",
+   "count": 3
   }
  ],
  "today": [
   {
-   "company": "Base Power",
-   "role": "Software Engineer, Infrastructure**",
-   "req": "10772e1c",
-   "date": "2026-11-25",
+   "company": "Parallel Wireless",
+   "role": "Engineering Lead, Core Infrastructure",
+   "req": "b4dd2e4b-f850-4e90-8283-5bd425424600",
+   "date": "2026-11-26",
    "email_confirmed": false
   },
   {
-   "company": "Flexential",
-   "role": "Data Center Technician II",
-   "req": "4520787009",
-   "date": "2026-11-25",
+   "company": "Snowflake",
+   "role": "Technical Program Manager, Compute Infrastructure",
+   "req": "1817e4bb-be4a-45ac-8a9f-60b314f0962a",
+   "date": "2026-11-26",
    "email_confirmed": false
   },
   {
-   "company": "nCino",
-   "role": "Technical Data Support Engineer",
-   "req": "4514468009",
-   "date": "2026-11-25",
-   "email_confirmed": false
-  },
-  {
-   "company": "Five9",
-   "role": "Data Center Technician",
-   "req": "6223750004",
-   "date": "2026-11-25",
-   "email_confirmed": true
-  },
-  {
-   "company": "O'Reilly Auto Parts",
-   "role": "Network Engineer II",
-   "req": "R161981",
-   "date": "2026-11-25",
-   "email_confirmed": false
-  },
-  {
-   "company": "Cloudflare",
-   "role": "Network Engineer",
-   "req": "8407666",
-   "date": "2026-11-25",
-   "email_confirmed": false
-  },
-  {
-   "company": "TUSCOM",
-   "role": "Network Engineer",
-   "req": "n",
-   "date": "2026-11-25",
-   "email_confirmed": false
-  },
-  {
-   "company": "IREN",
-   "role": "Operations Engineer I, Network",
-   "req": "d5128fb3-0efb-4b60-940d-9bb3799942e8",
-   "date": "2026-11-25",
-   "email_confirmed": false
-  },
-  {
-   "company": "GCM Grosvenor",
-   "role": "Platform Operations & Automation Analyst Consultant",
-   "req": "8035872003",
-   "date": "2026-11-25",
-   "email_confirmed": false
-  },
-  {
-   "company": "squint",
-   "role": "Deployment Engineer",
-   "req": "a108a7a1-44d6-4b3f-bca3-b4561a82a4cf",
-   "date": "2026-11-25",
+   "company": "XenTegra",
+   "role": "Solutions Architect, Modern Security & Networking",
+   "req": "5492346008",
+   "date": "2026-11-26",
    "email_confirmed": false
   }
  ],
@@ -744,24 +699,6 @@
  },
  "queue": {
   "human_gate": [
-   {
-    "role": "Peckham, Inc. — Network Infrastructure Engineer",
-    "req": "req R0009800 (LinkedIn 4489035989, Lansing MI, Hybrid, end d",
-    "parked": "2026-11-12",
-    "deadline": "2026-11-25",
-    "deadline_passed": false,
-    "blocker": "Workday account-verification link is human-tap only: fresh account created with universal credential; verification email arrived (Gmail 1a1d165354688168, 15:13:52 ET,…",
-    "link": ""
-   },
-   {
-    "role": "Merit Health — Network Tech",
-    "req": "171059 (Oracle Recruiting Cloud / CHS)",
-    "parked": "2026-11-21",
-    "deadline": "2026-11-25",
-    "deadline_passed": false,
-    "blocker": "Oracle identity verification — same structural sender mismatch (code emailed by chs.net, sign-in page on fa-evxo-saasfaprod1.fa.ocs.oraclecloud.com); login service…",
-    "link": ""
-   },
    {
     "role": "Cisco — Senior Software Engineer in Test (Network Security, Performance)",
     "req": "2011993 (Workday cisco.wd5)",
@@ -4469,9 +4406,45 @@
     "deadline_passed": true,
     "blocker": "Workday account created for [email] with universal credential; sign-in blocked as unverified. Verification email Gmail 1a1f10ab4d439818 ([email], Nov 18 18:42 ET) — link…",
     "link": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/details/Information-Security-Analyst-II--US-_R_1500756"
+   },
+   {
+    "role": "Peckham, Inc. — Network Infrastructure Engineer",
+    "req": "req R0009800 (LinkedIn 4489035989, Lansing MI, Hybrid, end d",
+    "parked": "2026-11-12",
+    "deadline": "2026-11-25",
+    "deadline_passed": true,
+    "blocker": "Workday account-verification link is human-tap only: fresh account created with universal credential; verification email arrived (Gmail 1a1d165354688168, 15:13:52 ET,…",
+    "link": ""
+   },
+   {
+    "role": "Merit Health — Network Tech",
+    "req": "171059 (Oracle Recruiting Cloud / CHS)",
+    "parked": "2026-11-21",
+    "deadline": "2026-11-25",
+    "deadline_passed": true,
+    "blocker": "Oracle identity verification — same structural sender mismatch (code emailed by chs.net, sign-in page on fa-evxo-saasfaprod1.fa.ocs.oraclecloud.com); login service…",
+    "link": ""
    }
   ],
   "pipeline_owned": [
+   {
+    "role": "The Avon Company — Sr. Network Engineer",
+    "req": "79cc1d07 (UKG)",
+    "parked": "2026-11-26",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "UKG password-reset email never arrived after request + one resend (~10:09 + ~10:17 ET, inbox re-checked 10:20 ET and ~12:35 ET phase-653 — zero Avon reset mail; newest…",
+    "link": ""
+   },
+   {
+    "role": "Amazon Data Services — Data Center Engineering Operations Technician",
+    "req": "10608245",
+    "parked": "2026-11-26",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "IdPrism email-verification code rejected as DomainMismatch after one reference attempt (S94); code expired, no re-issue",
+    "link": "https://www.amazon.jobs/en/jobs/10608245/data-center-engineering-operations-technician"
+   },
    {
     "role": "Waabi — Physical Infrastructure Engineer (On-premise) (San Francisco)",
     "req": "933f2e35 (Lever)",
