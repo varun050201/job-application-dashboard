@@ -1,18 +1,18 @@
 {
- "generated_at_et": "2026-11-26 13:07 ET",
+ "generated_at_et": "2026-11-26 16:38 ET",
  "summary": {
-  "total_submitted_ledger": 1123,
-  "today_submitted": 5,
-  "backfill_count": 151,
+  "total_submitted_ledger": 1132,
+  "today_submitted": 14,
+  "backfill_count": 152,
   "human_gate": 414,
   "watch_reset": 2,
-  "pipeline_owned": 79,
+  "pipeline_owned": 86,
   "quota": 19,
   "portal_limit": 1,
   "hold": 3,
   "resolved": 37,
   "closed": 26,
-  "registry_rows": 582
+  "registry_rows": 589
  },
  "daily": [
   {
@@ -553,7 +553,7 @@
   },
   {
    "date": "2026-11-26",
-   "count": 5
+   "count": 14
   }
  ],
  "today": [
@@ -589,6 +589,69 @@
    "company": "Trace3",
    "role": "Network Operations Center",
    "req": "8417899",
+   "date": "2026-11-26",
+   "email_confirmed": false
+  },
+  {
+   "company": "CoreWeave",
+   "role": "Senior Security Engineer, Networking",
+   "req": "4718155006",
+   "date": "2026-11-26",
+   "email_confirmed": false
+  },
+  {
+   "company": "CrowdStrike",
+   "role": "Network Development Engineer, IT Cloud & Infrastructure",
+   "req": "R30809",
+   "date": "2026-11-26",
+   "email_confirmed": true
+  },
+  {
+   "company": "vCluster Labs",
+   "role": "Staff Network Engineer, AI Infrastructure",
+   "req": "53e83ef8",
+   "date": "2026-11-26",
+   "email_confirmed": false
+  },
+  {
+   "company": "Wurl, LLC",
+   "role": "Senior Platform Engineer",
+   "req": "4731768006",
+   "date": "2026-11-26",
+   "email_confirmed": false
+  },
+  {
+   "company": "EOS IT Solutions",
+   "role": "Network Technician",
+   "req": "8962841002",
+   "date": "2026-11-26",
+   "email_confirmed": false
+  },
+  {
+   "company": "Industrial Electric Manufacturing",
+   "role": "Service Desk Technician",
+   "req": "4519601009",
+   "date": "2026-11-26",
+   "email_confirmed": false
+  },
+  {
+   "company": "Shield Technology Partners (Liss Technologies)",
+   "role": "Client Services Help Desk",
+   "req": "Pinpoint",
+   "date": "2026-11-26",
+   "email_confirmed": false
+  },
+  {
+   "company": "Repligen",
+   "role": "Associate Network Engineer",
+   "req": "R-994",
+   "date": "2026-11-26",
+   "email_confirmed": false
+  },
+  {
+   "company": "vCluster Labs",
+   "role": "Demo Platform Engineer",
+   "req": "d150af34-b735-4ad0-8bc2-34af0267f4c7",
    "date": "2026-11-26",
    "email_confirmed": false
   }
@@ -4478,6 +4541,69 @@
     "link": "https://www.amazon.jobs/en/jobs/10614473/systems-support-engineer-re-cycle-reverse-logistics"
    },
    {
+    "role": "KPA — Technical Support Specialist (Remote, $22–$26 + 7.5% bonus)",
+    "req": "14d51a81 (Lever)",
+    "parked": "2026-11-26",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "hCaptcha on Lever after Submit click — one solver attempt exhausted (page 1 solved repeatedly, page 2 answers rejected, challenge resets ~2 min); form fully filled,…",
+    "link": "https://jobs.lever.co/kpaonline/14d51a81-0a8e-4bd7-93fe-bb5ee8c0394e/apply"
+   },
+   {
+    "role": "Transaction Network Services — NOC Support Engineer, Virginia (R3160)",
+    "req": "R3160 (Workday; LinkedIn 4493450337)",
+    "parked": "2026-11-26",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Workday reset link redacted in Gmail (LINK-DEAD-END, freshest 1:28:06 PM ET, live until ~3:28 PM ET); saved login rejected; in-session Gmail sign-in blocked by Google…",
+    "link": ""
+   },
+   {
+    "role": "Chainguard — Technical Support Engineer, AMER - East",
+    "req": "4728655006 (Greenhouse)",
+    "parked": "2026-11-26",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Greenhouse 8-char code wall after Submit (~1:29 PM ET); coordinator-supplied fresh code reference REJECTED as DomainMismatch (S94 one attempt used — STOP, no re-issue,…",
+    "link": ""
+   },
+   {
+    "role": "Netrio — Cybersecurity Analyst",
+    "req": "96f42e14-4d9e-4500-8aa5-bcc5681be337 (Rippling)",
+    "parked": "2026-11-26",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "In-session Gmail sign-in blocked (saved Google password rejected; Google CAPTCHA itself broken — error image, no characters); Cloudflare Turnstile on Rippling form —…",
+    "link": ""
+   },
+   {
+    "role": "Koniag Government Services — Network Engineer",
+    "req": "#1972 / job 16073 (Dayforce; LinkedIn 4486537252)",
+    "parked": "2026-11-26",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Dayforce sign-in failed — saved login rejected; account locked (lock lifted ~1:53 PM ET); ONE reset 1:32 PM ET; coordinator-supplied code reference rejected…",
+    "link": ""
+   },
+   {
+    "role": "Behavioral Health Services Inc — Network Administrator III",
+    "req": "143480 (Paycom)",
+    "parked": "2026-11-26",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Paycom sign-in rejected (\"Error when signing into account\"); reset + resend produced NO email (no account matches on this tenant); Create Account with universal…",
+    "link": ""
+   },
+   {
+    "role": "Raiz Federal Credit Union — Network Administrator I",
+    "req": "414508 (Paycom)",
+    "parked": "2026-11-26",
+    "deadline": "",
+    "deadline_passed": false,
+    "blocker": "Paycom sign-in rejected (\"Error when signing into account\"); reset + resend produced NO email (no account matches on this tenant); Create Account with universal…",
+    "link": ""
+   },
+   {
     "role": "Waabi — Physical Infrastructure Engineer (On-premise) (San Francisco)",
     "req": "933f2e35 (Lever)",
     "parked": "2026-11-25",
@@ -5976,6 +6102,6 @@
   "The human-gate queue is ordered deadline-first, then newest parked first. A row's deadline is read from its registry text and may be approximate.",
   "No personal details are published here: no email addresses, phone numbers, street addresses, or resume file paths.",
   "LinkedIn (Feed C) is live as a second apply channel since 2026-11-18 — Easy Apply and general Apply under the same gates. 16 roles staged from the latest batch, applies start one at a time.",
-  "Total counts live pipeline submissions under the strict counter (bold, bare, and backfill record lines with an explicit date). Another 151 older external confirmations are logged in the ledger under '- BACKFILL **SUBMITTED:' with their own confirmation dates and are counted separately, not in the total."
+  "Total counts live pipeline submissions under the strict counter (bold, bare, and backfill record lines with an explicit date). Another 152 older external confirmations are logged in the ledger under '- BACKFILL **SUBMITTED:' with their own confirmation dates and are counted separately, not in the total."
  ]
 }
