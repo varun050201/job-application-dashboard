@@ -1,8 +1,8 @@
 {
- "generated_at_et": "2026-11-25 18:30 ET",
+ "generated_at_et": "2026-11-25 21:00 ET",
  "summary": {
-  "total_submitted_ledger": 1116,
-  "today_submitted": 8,
+  "total_submitted_ledger": 1118,
+  "today_submitted": 10,
   "backfill_count": 151,
   "human_gate": 414,
   "watch_reset": 2,
@@ -549,7 +549,7 @@
   },
   {
    "date": "2026-11-25",
-   "count": 8
+   "count": 10
   }
  ],
  "today": [
@@ -606,6 +606,20 @@
    "company": "IREN",
    "role": "Operations Engineer I, Network",
    "req": "d5128fb3-0efb-4b60-940d-9bb3799942e8",
+   "date": "2026-11-25",
+   "email_confirmed": false
+  },
+  {
+   "company": "GCM Grosvenor",
+   "role": "Platform Operations & Automation Analyst Consultant",
+   "req": "8035872003",
+   "date": "2026-11-25",
+   "email_confirmed": false
+  },
+  {
+   "company": "squint",
+   "role": "Deployment Engineer",
+   "req": "a108a7a1-44d6-4b3f-bca3-b4561a82a4cf",
    "date": "2026-11-25",
    "email_confirmed": false
   }
